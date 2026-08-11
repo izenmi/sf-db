@@ -391,7 +391,14 @@
     "synopsis": "2020年。流れ星の出現を予報するWebサービスを運営する木村和海は、イランのロケット第2段が異常な軌道上昇を始めたことに気づく。それは地球規模のテロ計画の端緒だった。個人開発者やスタートアップの技術者たちが国家の思惑に立ち向かう、現代技術の延長線上で描かれた宇宙テクノスリラー。",
     "externalLinks": {},
     "sourceNote": "早川書房2014年刊。第35回日本SF大賞はWikipedia「日本SF大賞」の一覧、第46回星雲賞日本長編部門はWikipedia「星雲賞」の一覧で確認。刊行年はNDLサーチの書誌で確認。日本語版Wikipediaに単独記事は未確認。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2014,
+        "result": "第35回受賞"
+      }
+    ]
   },
   {
     "id": "childhoods-end",
@@ -988,6 +995,11 @@
     "synopsis": "東北の一寒村が突如「吉里吉里国」として日本からの独立を宣言した。政府は仰天して自衛隊を出動させ、国民の目はテレビに釘付けになる。木炭バスを改造した国会議事堂車が巡回し、独自の言語と通貨と医療が動きだす。言葉遊びを詰め込みながら国家とは何かを問う、大部の風刺長編。東北の言葉による独立宣言そのものが、この作品の最大の武器になっている。",
     "awardResults": [
       {
+        "awardId": "nihon-sf-taisho",
+        "year": 1981,
+        "result": "第2回受賞"
+      },
+      {
         "awardId": "seiun",
         "year": 1982,
         "result": "日本長編部門受賞"
@@ -1211,6 +1223,11 @@
     "volumeCount": 2,
     "synopsis": "螺旋を蒐集することに取り憑かれた男と、岩手の詩人。二人はそれぞれの問いを抱えて、宇宙の階梯を昇る旅に出る。曼荼羅めいた構造と螺旋のイメージを積み重ね、生命と宇宙の根源を問う長大な物語。著者みずから代表作と語る、宗教的な色彩の濃い長編SFである。詩と図像を本文に織り込んだ、造本そのものが凝った一冊としても知られる。",
     "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1989,
+        "result": "第10回受賞"
+      },
       {
         "awardId": "seiun",
         "year": 1990,
@@ -1787,6 +1804,11 @@
     "synopsis": "モンゴール軍の奇襲によって、中原の古い国パロは滅亡の淵に立たされた。国王夫妻は殺され、双子の王族リンダとレムスは辺境へ逃れる。そこで二人が出会ったのは、記憶を失い豹の頭を持つ謎の戦士グインだった。自分が何者かを知らないまま戦い続ける男を軸に、中原の諸国が興亡する長大な物語。1979年の『豹頭の仮面』から四半世紀以上書き継がれた、日本最長級の連作である。",
     "awardResults": [
       {
+        "awardId": "nihon-sf-taisho",
+        "year": 2009,
+        "result": "第30回受賞"
+      },
+      {
         "awardId": "seiun",
         "year": 2010,
         "result": "日本長編部門受賞"
@@ -1878,6 +1900,11 @@
     "status": "completed",
     "synopsis": "十九世紀末。ヴィクター・フランケンシュタインによる人造人間の創造から約百年が経ち、その技術は全欧に拡散していた。労働から軍事まで「屍者」を使役するのが当たり前になった世界で、英国諜報機関の見習いジョン・H・ワトソンは、フランケンシュタインの手記を追う任務を与えられる。伊藤計劃が遺した冒頭三十枚を円城塔が引き継いで完成させた、共作の長編である。",
     "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2012,
+        "result": "第33回受賞"
+      },
       {
         "awardId": "seiun",
         "year": 2013,
@@ -2102,6 +2129,11 @@
     "synopsis": "人類が五つの播種船で到達した壱岐星系に、正体不明の知性体ガイナスが現れる。前線の戦闘そのものよりも、艦隊を動かし続けるための補給と生産こそが勝敗を決める——本作が主題に据えるのは、その兵站である。奪還作戦の失敗の責を負って閑職に移された将官と、密かに進む新兵器開発。組織の論理から宇宙戦争を描いた長編シリーズ。",
     "awardResults": [
       {
+        "awardId": "nihon-sf-taisho",
+        "year": 2020,
+        "result": "第41回受賞"
+      },
+      {
         "awardId": "seiun",
         "year": 2021,
         "result": "日本長編部門受賞"
@@ -2187,6 +2219,11 @@
     "status": "completed",
     "synopsis": "不慮の事故で右足を失ったダンサーの護堂恒明は、AIが制御する義足を装着して舞台に戻ろうとする。同じ頃、認知症が進む父の介護もまた彼の生活を侵しはじめていた。踊るという行為を通して、身体と知性のどこまでが自分なのかを問い直す長編。人工知能を扱い続けてきた著者が、介護とダンスという具体を通じて人間性の輪郭に迫る。",
     "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2023,
+        "result": "第44回受賞"
+      },
       {
         "awardId": "seiun",
         "year": 2023,
@@ -3973,6 +4010,494 @@
     ],
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "taiyofu-koten",
+    "title": "太陽風交点",
+    "titleKana": "たいようふうこうてん",
+    "authorIds": [
+      "hori-akira"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "alien",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "滅びた異星文明の遺跡を調査している「私」のもとに、ヘルクレス110番星へ向かえという緊急指令が届く。その星では、死んだはずの恋人オリビアが待っているという。宇宙の広さと人間の記憶とを重ね合わせ、抒情とハードSFの精度を両立させた表題作をはじめとする連作集。第1回日本SF大賞に選ばれた記念すべき一冊である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1980,
+        "result": "第1回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/太陽風交点"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの当該記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "saigo-no-teki",
+    "title": "最後の敵",
+    "titleKana": "さいごのてき",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "evolution",
+      "esper",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "鬱屈を抱えた青年・与夫は、精神分析医の麻子と出会う。「あなたの戦うべき相手は、進化よ」——その言葉を境に、彼の見ていた現実が変貌しはじめる。人類の進化そのものを敵に据えるという大きな構想を、個人の内面から積み上げていく長編。旺盛な想像力で知られる著者の、初期を代表する一作である。個人の神経症と種の進化とを同じ地平で語ってしまう強引さが、この時期の著者の魅力である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1982,
+        "result": "第3回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "genshi-gari",
+    "title": "幻詩狩り",
+    "titleKana": "げんしがり",
+    "authorIds": [
+      "kawamata-chiaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "chuokoron-sha",
+    "themeIds": [
+      "language-sf",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "1948年、戦後のパリ。シュルレアリスムの巨星アンドレ・ブルトンが再会を約した、名もない若き天才がいた。彼が生み出す詩は麻薬にも似て、読んだ者を異界へ連れ去る途方もない力を備えていた。その詩が時を経て昭和末の日本に流れ着く。ひとつの詩篇が引き起こす災厄を追う、言葉をめぐるSFの傑作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1984,
+        "result": "第5回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/幻詩狩り"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shuto-shoshitsu",
+    "title": "首都消失",
+    "titleKana": "しゅとしょうしつ",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "disaster",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "ある朝、東京を中心とする半径三十キロの領域が、正体不明の巨大な雲に覆われて外界から完全に遮断された。政府も官庁もその内側にある。首都機能を失った日本で、残された人々は情報も指揮系統もないまま対応を迫られる。災厄そのものより、中枢を失った社会がどう動くかを描いた長編である。官僚機構や報道の描写に紙幅を割く手つきは、『日本沈没』から一貫している。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1985,
+        "result": "第6回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/首都消失"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "teito-monogatari",
+    "title": "帝都物語",
+    "titleKana": "ていとものがたり",
+    "authorIds": [
+      "aramata-hiroshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "denki-sf",
+      "parallel-world"
+    ],
+    "seriesName": "帝都物語",
+    "origin": "jp",
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "volumeCount": 12,
+    "synopsis": "関東最大の怨霊とされる平将門を呼び覚まし、帝都東京を破滅させようとする魔人・加藤保憲。彼の野望に対し、風水と都市計画、科学と呪術のあらゆる知恵が動員される。明治から昭和にかけての実在の人物を大量に配し、近代日本の都市史そのものを物語に変えてみせた、伝奇小説の記念碑的大長編である。加藤保憲という悪役の造形は、以後の日本の伝奇作品に長く影を落とした。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1987,
+        "result": "第8回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/帝都物語"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "misaki-ichiro-no-teiko",
+    "title": "岬一郎の抵抗",
+    "titleKana": "みさきいちろうのていこう",
+    "authorIds": [
+      "hanmura-ryo"
+    ],
+    "translatorIds": [],
+    "publisherId": "mainichi-shimbunsha",
+    "themeIds": [
+      "esper",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "岬一郎は東京の下町に住むごく平凡な会社員だった。だが彼の体内では、本人も気づかないうちに不思議な力が育ちつつあった。同じころ町内では犬や猫が次々に死ぬ異常事態が起きている。公害を疑う住民たちの動きと、超常の力を得てしまった男の変化とが重なり合っていく長編である。力を得た個人と、それを持て余す共同体の関係を、下町の生活感のなかで描き切っている。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1988,
+        "result": "第9回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ad-bird",
+    "title": "アド・バード",
+    "titleKana": "あどばーど",
+    "authorIds": [
+      "shiina-makoto"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "post-apocalypse",
+      "far-future",
+      "genetic-engineering"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "父を探して旅を続けるマサルと弟の菊丸は、マザーK市にたどり着く。そこは喋る鳥やヒゾムシ、ワナナキといった異形の生物が徘徊する未来都市だった。広告技術が暴走した果ての世界を、生物とも機械ともつかない造形で埋め尽くす。著者の作り上げた終末世界の集大成といえる長編である。広告と生物が見分けのつかなくなった風景そのものが、この小説の主役といえる。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1990,
+        "result": "第11回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "salamander-senmetsu",
+    "title": "サラマンダー殲滅",
+    "titleKana": "さらまんだーせんめつ",
+    "authorIds": [
+      "kajio-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-opera",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "夫と子を殺したテロ組織サラマンダーへの復讐を誓った神鷹静香は、仲間と協力者を集め、敵の本拠地へ向かおうとしていた。だが彼女自身の記憶は少しずつ失われつつある。復讐という単純な動機から出発しながら、記憶と自己の同一性という主題へ踏み込んでいく、著者の代表的な宇宙活劇である。復讐の物語として始まり、記憶を失っていく者の物語として着地する構成が読みどころ。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1991,
+        "result": "第12回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "asa-no-gaspard",
+    "title": "朝のガスパール",
+    "titleKana": "あさのがすぱーる",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-shimbunsha",
+    "themeIds": [
+      "satire-sf",
+      "virtual-reality",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "新聞連載小説として書かれながら、読者から寄せられた意見や批判をその日の紙面に取り込み、作中の物語ごと変形させていく。ゲームの世界、小説内小説、そして現実の読者投稿が三重四重に折り重なり、誰が物語を動かしているのかが分からなくなっていく。形式そのものを実験の場にした、著者ならではの長編。連載という形式でしか成立しない仕掛けを、あえて本にまとめた挑戦的な一作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1992,
+        "result": "第13回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/朝のガスパール"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "senso-wo-enjita-kamigami",
+    "title": "戦争を演じた神々たち",
+    "titleKana": "せんそうをえんじたかみがみたち",
+    "authorIds": [
+      "ohara-mariko"
+    ],
+    "translatorIds": [],
+    "publisherId": "aspect",
+    "themeIds": [
+      "far-future",
+      "evolution",
+      "genetic-engineering"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "破壊する創造者、堕落した王妃、不死の恐竜伯爵、男から女への進化、そして完全に閉じた神話学的生態系。生命をめぐるグロテスクで寓意に富んだイメージが次々に立ち上がっては連結していく。物語の筋よりもイメージの連鎖で読ませる、幻視者と呼ばれた著者らしい一冊である。筋を追うのではなく、変容し続けるイメージの連なりに身を委ねる読み方を要求してくる。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1994,
+        "result": "第15回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gamotei-jiken",
+    "title": "蒲生邸事件",
+    "titleKana": "がもうていじけん",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "mainichi-shimbunsha",
+    "themeIds": [
+      "time-travel",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "予備校の受験に失敗した孝史が泊まったホテルで火災が起きる。時間旅行の能力を持つ男に助けられた彼が目を覚ましたのは、二・二六事件のさなかの昭和十一年、陸軍大将・蒲生憲之の屋敷だった。歴史は変えられるのか、変えてよいのかという問いを、昭和史の一日を舞台に据えて描いた長編である。時間旅行という道具立てを、歴史に対する責任の問題へまっすぐ結びつけている。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1997,
+        "result": "第18回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/蒲生邸事件"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tigris-to-euphrates",
+    "title": "チグリスとユーフラテス",
+    "titleKana": "ちぐりすとゆーふらてす",
+    "authorIds": [
+      "arai-motoko"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "space-colony",
+      "far-future",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "地球から他星系への移民が行われるようになった遠い未来、九番目の移民惑星は「ナイン」と名づけられた。だが入植から数世代を経て、この星の人類は子どもが生まれなくなっていく。最後に生まれた少女ルナが、冷凍睡眠中の先人たちを一人ずつ起こして問いかけていく。滅びゆく共同体を女性たちの語りで描いた長編。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1999,
+        "result": "第20回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チグリスとユーフラテス"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの当該記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kamekun",
+    "title": "かめくん",
+    "titleKana": "かめくん",
+    "authorIds": [
+      "kitano-yusaku"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "robot",
+      "near-future",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "かめくんは、自分が本物のカメではないことを知っている。カメに似せて作られたレプリカメだからだ。リンゴが好きで、図書館が好きで、仕事も見つけた。木星ではどうやら戦争が起きているらしい。とぼけた日常の描写の隙間から、戦争と人工の生の輪郭がゆっくり滲み出てくる長編である。何も説明されないまま進む日常の手触りが、そのまま不気味さに転じていく。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2001,
+        "result": "第22回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/かめくん"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "arabia-no-yoru-no-shuzoku",
+    "title": "アラビアの夜の種族",
+    "titleKana": "あらびあのよるのしゅぞく",
+    "authorIds": [
+      "furukawa-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "denki-sf",
+      "sf-fantasy",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "聖遷暦一二一三年、偽りの平穏に包まれたカイロ。イスラムの地にナポレオン艦隊が迫るなか、これに対抗する唯一の術計として用意されたのが、読んだ者を破滅させるという極上の献上品「災厄の書」だった。物語のなかに物語を何重にも折り込み、翻訳という体裁まで纏った大長編である。語られる物語と語る行為そのものが、幾重にも入れ子になって進んでいく。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2002,
+        "result": "第23回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アラビアの夜の種族"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kugutsuko",
+    "title": "傀儡后",
+    "titleKana": "くぐつこう",
+    "authorIds": [
+      "makino-osamu"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "cyberpunk",
+      "near-future",
+      "genetic-engineering"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "二十年前の壊滅的な隕石落下によって、大阪は異形の街と化していた。落下地点から半径六キロは今も危険指定地域とされ、そこを中心に五感で世界と融合するドラッグが流通している。皮膚が意思を持ちはじめた人々と、身体の輪郭が溶けていく都市。生理的な嫌悪感を推進力にした、異形のサイバーパンク長編。身体感覚を執拗に描くことで、変容という主題を読者の側にまで及ぼしてくる。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2002,
+        "result": "第23回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "katadorareta-chikara",
+    "title": "象られた力",
+    "titleKana": "かたどられたちから",
+    "authorIds": [
+      "tobi-hirotaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "惑星〈百合洋〉が謎の消失を遂げてから一年。近傍の惑星〈シジック〉の図像学者クドウ円は、百合洋の言語体系に隠された「見えない図形」の解明を依頼される。だがそれは、世界の認識そのものを揺るがす仕事だった。表題作を含む四編を収めた作品集で、寡作な著者の初期を代表する一冊である。言語と図像が世界の成り立ちに直結するという着想が、四編すべてに通底している。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2005,
+        "result": "第26回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。表題作の初出は1988年だが、firstPublishedYearには受賞対象となった2004年の作品集の刊行年を採った(NDLサーチに1988年と2004年の両方の書誌がある)。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
 ]

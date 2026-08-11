@@ -1006,5 +1006,89 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "aramata-hiroshi",
+    "name": "荒俣宏",
+    "nameKana": "あらまたひろし",
+    "description": "博物学者・作家。『帝都物語』で伝奇小説の一大潮流を生んだ。",
+    "birthYear": 1947,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/荒俣宏"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shiina-makoto",
+    "name": "椎名誠",
+    "nameKana": "しいなまこと",
+    "description": "エッセイと小説の双方で知られる作家。SFでは終末世界を舞台にした「シーナ・ワールド」を築いた。",
+    "birthYear": 1944,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/椎名誠"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "miyabe-miyuki",
+    "name": "宮部みゆき",
+    "nameKana": "みやべみゆき",
+    "description": "ミステリから時代小説まで幅広く手がける作家。『蒲生邸事件』で日本SF大賞を受賞した。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宮部みゆき"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "arai-motoko",
+    "name": "新井素子",
+    "nameKana": "あらいもとこ",
+    "description": "十代でデビューし、話し言葉に近い文体で日本SFの読者層を広げた作家。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新井素子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kitano-yusaku",
+    "name": "北野勇作",
+    "nameKana": "きたのゆうさく",
+    "description": "『かめくん』などで知られる作家。とぼけた語り口で不穏な世界を描く。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/北野勇作"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "furukawa-hideo",
+    "name": "古川日出男",
+    "nameKana": "ふるかわひでお",
+    "description": "『アラビアの夜の種族』『ベルカ、吠えないのか?』などで知られる作家。声に出す文体で知られる。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/古川日出男"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "makino-osamu",
+    "name": "牧野修",
+    "nameKana": "まきのおさむ",
+    "description": "ホラーとSFの境界で書き続ける作家。『傀儡后』で日本SF大賞を受賞した。",
+    "birthYear": 1958,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/牧野修"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

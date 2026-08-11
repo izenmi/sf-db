@@ -189,5 +189,53 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mainichi-shimbunsha",
+    "name": "毎日新聞社",
+    "nameKana": "まいにちしんぶんしゃ",
+    "description": "新聞社系の出版部門。半村良『岬一郎の抵抗』宮部みゆき『蒲生邸事件』などを刊行した。",
+    "foundedYear": 1872,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/毎日新聞社"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shueisha",
+    "name": "集英社",
+    "nameKana": "しゅうえいしゃ",
+    "description": "集英社文庫などを擁する総合出版社。",
+    "foundedYear": 1926,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/集英社"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "aspect",
+    "name": "アスペクト",
+    "nameKana": "あすぺくと",
+    "description": "アスキー系の出版社。1990年代にSF・サブカルチャー書を手がけた。",
+    "foundedYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アスペクト"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "asahi-shimbunsha",
+    "name": "朝日新聞社",
+    "nameKana": "あさひしんぶんしゃ",
+    "description": "新聞社系の出版部門。",
+    "foundedYear": 1879,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/朝日新聞社"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
