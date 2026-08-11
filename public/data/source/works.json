@@ -14371,5 +14371,358 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tojiso",
+    "title": "冬至草",
+    "titleKana": "とうじそう",
+    "authorIds": [
+      "ishiguro-tatsuaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "evolution",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "北海道旭川の郷土図書館で、新種の植物〈冬至草〉の押し葉が見つかる。太平洋戦争期の在野研究者が遺した記録から、ウランを含む土壌に生え、人間の血液を養分とする異様な生態が明らかになっていく。科学という営為の光と影を追う表題作をはじめ、架空の動植物を媒介にして生命と科学の本質を描く作品を収める。論文や報告書の体裁を借りた語り口が、虚構に不気味な実在感を与えている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2006,
+        "result": "ベストSF2006 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "prism-no-hitomi",
+    "title": "プリズムの瞳",
+    "titleKana": "ぷりずむのひとみ",
+    "authorIds": [
+      "suga-hiroe"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "robot",
+      "short-stories",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "かつてはロボット研究の最先端として期待を集めた人型ロボット〈ピイ・シリーズ〉。いまではその役割を終え、絵を描くだけの無用の〈残存種〉と呼ばれて各地を放浪している。恋人との仲に悩む女性、周囲に溶け込めない中年男性、人生を踏み外した若者。彼らの前に現れたピイが、そっと何かを差し出していく連作短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "ベストSF2007 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tokisuna-no-o",
+    "title": "時砂の王",
+    "titleKana": "ときすなのおう",
+    "authorIds": [
+      "ogawa-issui"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "military-sf",
+      "alien"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "時間線を遡って人類の完全な殲滅を狙う謎の存在がいる。絶望的な撤退戦を重ねた末、指揮官のオーヴィルは最終防衛ラインである三世紀の倭国にたどり着いた。そこで彼が出会ったのは、卑弥呼と呼ばれる少女だった。過去へ退がりながら戦い続けるという構図のなかで、勝てないと分かっている戦いをなぜ続けるのかが問われていく。著者が初めて挑んだ時間SFである。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "ベストSF2007 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shinju-seisen",
+    "title": "神獣聖戦 Perfect Edition",
+    "titleKana": "しんじゅうせいせんぱーふぇくとえでぃしょん",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "esper",
+      "far-future",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "背面世界、鏡人、悪魔憑き、非対称航行。それらが何であるかは訊かないでほしい。いつも頭のなかに響いている言葉が、誰かに絶えず囁きかけられているかのようなのだ。やがて人類の滅亡を沈痛に告げる〈舞踏会の夜〉が始まる。そしてその滅亡には何の意味もない。一九八〇年代の中短編を大幅に改稿し、新原稿を加えて一冊にまとめた大作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "ベストSF2008 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。1980年代に発表された中短編群を大幅加筆修正・再編集し、新原稿を加えた完全版として2008年に刊行されたため、発表年はこの版のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "akai-hoshi",
+    "title": "赤い星",
+    "titleKana": "あかいほし",
+    "authorIds": [
+      "takano-fumio"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alternate-history",
+      "cyberpunk",
+      "virtual-reality"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "ネットワーク技術だけが突出して発達した、帝政ロシア支配下の江戸。ハッカーの町娘おきみは、吉原一の花魁である真理奈太夫から、潜伏中の皇子の情報を集めてほしいと依頼される。アキバから仮想空間のペテルブルクまでを駆けまわるおきみは、やがて謎の〈赤い星〉が到来するという噂を耳にする。江戸とロシアを混ぜ合わせた世界を、サイバーパンクの語彙で描いた幻想小説である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "ベストSF2008 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤い星"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tentai-no-kaiten",
+    "title": "天体の回転について",
+    "titleKana": "てんたいのかいてんについて",
+    "authorIds": [
+      "kobayashi-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "short-stories",
+      "space-development"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "少年の初恋と大気圏離脱という、まるで釣り合わない二つを同じ物語のなかで走らせる表題作をはじめ、全八編を収める本格SF短編集である。物理法則を厳密に守ったうえで発想だけを飛躍させる著者の持ち味が、どの編でもきれいに決まっている。理屈の精度がそのまま可笑しみへ転じてしまう瞬間が、この作家の真骨頂である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "ベストSF2008 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "uobune-kemonobune",
+    "title": "魚舟・獣舟",
+    "titleKana": "うおぶねけものぶね",
+    "authorIds": [
+      "ueda-sayuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "short-stories",
+      "disaster",
+      "genetic-engineering"
+    ],
+    "seriesName": "オーシャンクロニクル",
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "現代社会が崩壊し、陸地の大半が水没した未来。そこに生きる魚舟・獣舟と呼ばれる異形の生物と人類との関わりを描いた表題作。寄生茸に体を食い尽くされる奇病が日本全土を覆おうとし、しかも寄生された生物はただ死ぬだけではないという「くさびらの道」。書き下ろし中編を含む全六編を収める。のちの『華竜の宮』へつながる世界設定の原型が、ここに置かれている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "ベストSF2009 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "unbroken-arrow",
+    "title": "アンブロークン アロー 戦闘妖精・雪風",
+    "titleKana": "あんぶろーくんあろーせんとうようせいゆきかぜ",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "ai",
+      "alien"
+    ],
+    "seriesName": "戦闘妖精・雪風",
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "ジャムと結託したロンバート大佐が、人類に対して宣戦を布告する。ジャムの総攻撃が続くなか、深井零と戦闘機雪風を待ち受ける現実は苛酷なものだった。敵の実体をつかめないまま戦い続けることの意味が問い直される、〈戦闘妖精・雪風〉シリーズの第三作である。言語と認識をめぐる思弁がいっそう前面に出ており、戦闘小説の枠を大きくはみ出していく。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "ベストSF2009 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chikyu-ido-sakusen",
+    "title": "地球移動作戦",
+    "titleKana": "ちきゅういどうさくせん",
+    "authorIds": [
+      "yamamoto-hiroshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "space-development",
+      "hard-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "西暦二〇八三年、超光速粒子による推進を実用化した人類は、新しく見つかった天体2075Aの調査に探査船を送り出す。観測の結果、この星が二十四年後に地球へ迫り壊滅的な被害をもたらすと判明した。数々の対策案が飛び交うなか、天体物理学者の風祭良輔は、子どもたちの会話から突飛な着想を得る。地球そのものを動かすという発想を、工学的な手順として詰め切った長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "ベストSF2009 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "goto-san-no-koto",
+    "title": "後藤さんのこと",
+    "titleKana": "ごとうさんのこと",
+    "authorIds": [
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "language-sf",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "文芸誌から思想誌、SF専門誌まで、現代文学の最先端で試みられた超絶技巧と言語遊戯の六編を収める。増殖する後藤さん、無限に分岐する記述、読み手の予想を裏切り続ける形式。物語を進めることよりも、文章がどこまで自立して動けるかを試すことに主眼が置かれている。読みながら足場が消えていく感覚そのものを味わう作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "ベストSF2010 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "11-eleven",
+    "title": "11 eleven",
+    "titleKana": "いれぶん",
+    "authorIds": [
+      "tsuhara-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "sf-fantasy"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "百年に一度生まれ、未来を予言するといわれる生き物〈くだん〉。鬼の面をした怪物が異形の家族に見せた世界の真実とは何か。ジャンルを超えて絶賛され各種ランキングを席巻した「五色の舟」をはじめ、十一編を収める作品集である。日常のすぐ隣にある奇怪なものを、端正きわまりない文章で描き出していく。ジャンルの枠に収まらない書き手としての力量がよく出た一冊である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2011,
+        "result": "ベストSF2011 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kitsune-no-tsuki",
+    "title": "きつねのつき",
+    "titleKana": "きつねのつき",
+    "authorIds": [
+      "kitano-yusaku"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "post-apocalypse",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "人に化けた者たちが徘徊する町で、私は娘の春子と、いまは異形の姿になった妻との三人で暮らしている。あの災害のあとに取り戻したこの幸せを脅かすものがあれば、私は決して許さない。何が起きたのかを最後まで説明しないまま、失われたものと取り戻したものの手ざわりだけを積み上げていく、切なさに満ちた再生の物語である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2011,
+        "result": "ベストSF2011 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
