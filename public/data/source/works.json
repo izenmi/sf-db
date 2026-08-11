@@ -3257,5 +3257,722 @@
     },
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "there-and-back-again",
+    "title": "ノービットの冒険",
+    "titleKana": "のーびっとのぼうけん",
+    "authorIds": [
+      "pat-murphy"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "sf-fantasy"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1999,
+    "jpPublishedYear": 2001,
+    "originalTitle": "There and Back Again",
+    "status": "completed",
+    "synopsis": "小惑星帯でひっそり暮らすノービットのベイリー・ベルドンは、ある日、失われた通信ビーコンを拾ってしまう。それが縁でパタフィジシャンのギタナに見込まれ、彼は住み慣れた岩から遠く離れた大冒険へ引きずり出される。『ホビットの冒険』の筋立てを宇宙にそっくり移し替えた、遊び心に満ちた一作である。原作の指輪にあたる小道具が何になるのかも読みどころのひとつになっている。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2002,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "illegal-alien",
+    "title": "イリーガル・エイリアン",
+    "titleKana": "いりーがるえいりあん",
+    "authorIds": [
+      "robert-j-sawyer"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "alien",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "jpPublishedYear": 2002,
+    "originalTitle": "Illegal Alien",
+    "status": "completed",
+    "synopsis": "異星の宇宙船が地球に到来し、接触が成立して、両者は互いを学びはじめる。大統領科学顧問のフランク・ノビリオと、科学の面白さを伝えるテレビ司会者クリータス・カルフーンが応対にあたるが、やがて事態は法廷へ持ち込まれる。異星人を人間の司法制度で裁けるのかという問いを、法廷ものの形式で正面から扱った長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2003,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "heavens-reach",
+    "title": "星海の楽園",
+    "titleKana": "せいかいのらくえん",
+    "authorIds": [
+      "david-brin"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "space-opera",
+      "evolution"
+    ],
+    "seriesName": "知性化シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1998,
+    "jpPublishedYear": 2003,
+    "originalTitle": "Heaven's Reach",
+    "status": "completed",
+    "synopsis": "銀河文明の秩序が音を立てて崩れていくなか、辺境の惑星ジージョに隠れ住んでいた六つの種族は、それぞれの運命に向き合わされる。知性化をめぐる長い因縁と、宇宙そのものの成り立ちに関わる秘密が明らかになる。『変革への序章』から続く〈知性化の嵐〉三部作を締めくくる、大規模な完結編である。銀河文明の設計そのものを問い直すところまで話が広がっていく。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2004,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "distress-egan",
+    "title": "万物理論",
+    "titleKana": "ばんぶつりろん",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "hard-sf",
+      "near-future",
+      "virtual-reality"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1995,
+    "jpPublishedYear": 2004,
+    "originalTitle": "Distress",
+    "status": "completed",
+    "synopsis": "2055年、あらゆる自然法則を包み込む単一の理論——万物理論の完成が目前に迫っていた。国際理論物理学会の席上で三人の学者がそれぞれの理論を発表することになり、科学ジャーナリストのアンドルーが取材に向かう。だが学会の開かれる人工島には、理論の完成を阻もうとする者たちが集まっていた。認識と実在の関係を突き詰めた長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2005,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "diaspora-egan",
+    "title": "ディアスポラ",
+    "titleKana": "でぃあすぽら",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "virtual-reality",
+      "hard-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "jpPublishedYear": 2005,
+    "originalTitle": "Diaspora",
+    "status": "completed",
+    "synopsis": "30世紀、人類の大半は肉体を捨て、人格と記憶をソフトウェアに移して〈ポリス〉と呼ばれる計算機内の都市で生きていた。生身にとどまる者、ロボット身体を選んだ者もわずかに残る。中性子星の衝突が引き起こす災厄を境に、彼らは宇宙の構造そのものを探る旅に出る。数学的な思考実験を物語の推進力にした代表作。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2006,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ディアスポラ (小説)"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mortal-engines",
+    "title": "移動都市",
+    "titleKana": "いどうとし",
+    "authorIds": [
+      "philip-reeve"
+    ],
+    "translatorIds": [
+      "anno-rei"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "post-apocalypse",
+      "juvenile",
+      "far-future"
+    ],
+    "seriesName": "移動都市シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2001,
+    "jpPublishedYear": 2006,
+    "originalTitle": "Mortal Engines",
+    "status": "completed",
+    "synopsis": "遠い未来、都市は巨大な車輪を得て大地を走りまわり、より小さな都市を捕らえては解体して資源にしていた。移動都市ロンドンに住むギルド見習いの孤児トムは、ある事件をきっかけに都市から放り出され、顔に傷を持つ少女ヘスターとともに地上をさまようことになる。都市が都市を食うという着想を軸にした冒険譚。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2007,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "brightness-falls-from-the-air",
+    "title": "輝くもの天より墜ち",
+    "titleKana": "かがやくものてんよりおち",
+    "authorIds": [
+      "james-tiptree-jr"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "space-colony",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1985,
+    "jpPublishedYear": 2007,
+    "originalTitle": "Brightness Falls from the Air",
+    "status": "completed",
+    "synopsis": "殺された星から広がる新星の光の壁が、辺境の惑星ダミエムを通過する夜。その天体ショーを見物するために、十六人の人間が孤立した惑星に集まってくる。閉ざされた場所に集まった客たちという、館ものめいた構図のなかで、この星の先住種族に人類が何をしたのかが少しずつ明かされていく。著者の数少ない長編のひとつ。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2008,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "spin",
+    "title": "時間封鎖",
+    "titleKana": "じかんふうさ",
+    "authorIds": [
+      "robert-charles-wilson"
+    ],
+    "translatorIds": [
+      "mogi-ken"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "near-future",
+      "alien",
+      "hard-sf"
+    ],
+    "seriesName": "時間封鎖三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2008,
+    "originalTitle": "Spin",
+    "status": "completed",
+    "synopsis": "十二歳のタイラーが友人の双子と庭にいた夜、空から星が消えた。地球は何者かの手で膜に覆われ、外の宇宙とのあいだで時間の流れが一億分の一に落とされていたのだ。地球で一年が過ぎるあいだに外では一億年が経つ。太陽の寿命が尽きるまでに残された時間は少ない。三人の少年少女の半生を追いながら、宇宙規模の異変を描いた長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2009,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-last-colony",
+    "title": "最後の星戦",
+    "titleKana": "さいごのせいせん",
+    "authorIds": [
+      "john-scalzi"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "space-colony",
+      "alien"
+    ],
+    "seriesName": "老人と宇宙シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2007,
+    "jpPublishedYear": 2009,
+    "originalTitle": "The Last Colony",
+    "status": "completed",
+    "synopsis": "コロニー防衛軍を退役したジョン・ペリーは、植民惑星ハックルベリーで、ゴースト部隊出身の妻ジェーンと養女ゾーイとともに穏やかに暮らしていた。そこへ新しい植民地の指導者になってほしいという依頼が舞い込む。だがその計画の裏には、人類と異星種族連合との関係を左右する思惑が隠されていた。〈老人と宇宙〉シリーズ第3作。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2010,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "eifelheim",
+    "title": "異星人の郷",
+    "titleKana": "いせいじんのごう",
+    "authorIds": [
+      "michael-flynn"
+    ],
+    "translatorIds": [
+      "shimada-yoichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "first-contact",
+      "alien",
+      "parallel-world"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "jpPublishedYear": 2010,
+    "originalTitle": "Eifelheim",
+    "status": "completed",
+    "synopsis": "1349年、ドイツ黒森地方の小さな町アイフェルハイムが地図から消えた。黒死病で無人になったのだろうと片づけられてきたその出来事を、現代の歴史学者と物理学者が別々の角度から調べ直しはじめる。中世の村に不時着した異星人と、彼らを迎えた司祭の記録が、少しずつ浮かび上がってくる。信仰と科学を交差させた異色の接触もの。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2011,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "windup-girl",
+    "title": "ねじまき少女",
+    "titleKana": "ねじまきしょうじょ",
+    "authorIds": [
+      "paolo-bacigalupi"
+    ],
+    "translatorIds": [
+      "tanaka-kazue",
+      "kaneko-hiroshi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "dystopia",
+      "genetic-engineering",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2009,
+    "jpPublishedYear": 2011,
+    "originalTitle": "The Windup Girl",
+    "status": "completed",
+    "synopsis": "石油が尽き、遺伝子改変された作物と疫病が世界を支配する近未来。聖なる都市バンコクは、環境省の白シャツ隊隊長が失脚したあと一触即発の状態にあった。カロリー企業に対抗する王国最後の砦である種子バンクをめぐって、各勢力の思惑が交錯する。そこに、人工的に作られた少女エミコがいた。資源と生命の商品化を描く長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2012,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ねじまき少女"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "androids-dream",
+    "title": "アンドロイドの夢の羊",
+    "titleKana": "あんどろいどのゆめのひつじ",
+    "authorIds": [
+      "john-scalzi"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "satire-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "jpPublishedYear": 2012,
+    "originalTitle": "The Android's Dream",
+    "status": "completed",
+    "synopsis": "地球とニドゥ族の貿易交渉の席上で、外交上の大事件が起きた。戦争にまで発展しかねないこの事態を収めるため、ニドゥ族は代償として特殊な「羊」を差し出すよう要求してくる。国務省の下級職員ハリー・クリークは、その一頭を探し出す羽目になる。ディックの代表作に題名で目配せしつつ、徹頭徹尾ドタバタで押し切る一作。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2013,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "blindsight",
+    "title": "ブラインドサイト",
+    "titleKana": "ぶらいんどさいと",
+    "authorIds": [
+      "peter-watts"
+    ],
+    "translatorIds": [
+      "shimada-yoichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "first-contact",
+      "alien",
+      "hard-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "jpPublishedYear": 2013,
+    "originalTitle": "Blindsight",
+    "status": "completed",
+    "synopsis": "太陽系の外縁で、正体不明の巨大な人工構造物が見つかった。調査に送り込まれた宇宙船テーセウスの乗員は、吸血鬼を復活させた指揮官をはじめ、いずれも人間の標準からは外れた者たちである。彼らが接触した知性は、人類とはまったく異質な進化を遂げていた。意識というものが本当に必要なのかを問う、苛烈なハードSF。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2014,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ancillary-justice",
+    "title": "叛逆航路",
+    "titleKana": "はんぎゃくこうろ",
+    "authorIds": [
+      "ann-leckie"
+    ],
+    "translatorIds": [
+      "akao-hideko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "ai",
+      "military-sf"
+    ],
+    "seriesName": "叛逆航路三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2013,
+    "jpPublishedYear": 2015,
+    "originalTitle": "Ancillary Justice",
+    "status": "completed",
+    "synopsis": "はるかな未来、強大な専制国家ラドチは人類宇宙を併呑して版図を広げてきた。かつて巨大宇宙艦の人工知能であり、無数の属躰を同時に操っていた存在が、いまはただ一体の身体に閉じ込められて復讐の旅を続けている。人称と性別の扱いそのものを仕掛けに用い、英米の主要SF賞を席巻したデビュー長編である。一人称の複数性という語りの実験が、そのまま主題に直結している。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2016,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "united-states-of-japan",
+    "title": "ユナイテッド・ステイツ・オブ・ジャパン",
+    "titleKana": "ゆないてっどすていつおぶじゃぱん",
+    "authorIds": [
+      "peter-tieryas"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "parallel-world",
+      "robot",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "jpPublishedYear": 2016,
+    "originalTitle": "United States of Japan",
+    "status": "completed",
+    "synopsis": "第二次世界大戦で日本とドイツが勝利し、アメリカ西海岸が日本の統治下に置かれた世界。巨大ロボット兵が街路を闊歩するその国で、検閲局の石村大尉は、帝国の正史をくつがえすゲームの捜索を命じられる。ディック『高い城の男』への応答として書かれ、日本のサブカルチャーへの偏愛を全面に出した改変歴史SF。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2017,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mecha-samurai-empire",
+    "title": "メカ・サムライ・エンパイア",
+    "titleKana": "めかさむらいえんぱいあ",
+    "authorIds": [
+      "peter-tieryas"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "parallel-world",
+      "robot",
+      "military-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2018,
+    "jpPublishedYear": 2018,
+    "originalTitle": "Mecha Samurai Empire",
+    "status": "completed",
+    "synopsis": "日独が勝利した世界の日本統治下アメリカ。巨大ロボット「メカ」の操縦士に憧れる少年マックは、成績も家柄も足りないまま、それでも操縦席をめざして這い上がろうとする。前作と同じ世界を舞台に、今度は学園ものと兵器ものを掛け合わせた青春譚として仕立てた続編である。日本の巨大ロボットものへの偏愛が、細部にまで行き渡っている。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2019,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "project-hail-mary",
+    "title": "プロジェクト・ヘイル・メアリー",
+    "titleKana": "ぷろじぇくとへいるめありー",
+    "authorIds": [
+      "andy-weir"
+    ],
+    "translatorIds": [
+      "onoda-kazuko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "first-contact",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2021,
+    "jpPublishedYear": 2021,
+    "originalTitle": "Project Hail Mary",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "記憶を失った男が、見知らぬ宇宙船の中で目を覚ます。同乗していたはずの二人は既に死んでいた。断片的に戻ってくる記憶が告げるのは、太陽を蝕む微生物アストロファージから人類を救うという、彼に託された任務だった。『火星の人』の著者が、理詰めの問題解決と孤独な航海を組み合わせた長編である。前作と同じく、科学的な工夫を積み上げていく過程そのものが物語の推進力になっている。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2022,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/プロジェクト・ヘイル・メアリー"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "foundation",
+    "title": "銀河帝国の興亡",
+    "titleKana": "ぎんがていこくのこうぼう",
+    "authorIds": [
+      "isaac-asimov"
+    ],
+    "translatorIds": [
+      "kaji-yasuko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "evolution"
+    ],
+    "seriesName": "ファウンデーションシリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1951,
+    "jpPublishedYear": 1968,
+    "originalTitle": "Foundation",
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "銀河系を統べる帝国の崩壊を、心理歴史学によって予見した数学者ハリ・セルダン。彼は 三万年に及ぶはずの暗黒時代を千年に縮めるため、銀河の辺境に〈ファウンデーション〉を設立する。歴史そのものを主人公に据え、数世紀にわたる興亡を短い挿話の連なりとして描いた、SF史に残る三部作である。個人ではなく集団の趨勢を予測するという着想が、後続の作家に広く受け継がれた。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2023,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "drama": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ファウンデーションシリーズ"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。初刊版元は東京創元新社(現在の東京創元社)。受賞は鍛治靖子による新訳版の完結に対するもの。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kaiju-preservation-society",
+    "title": "怪獣保護協会",
+    "titleKana": "かいじゅうほごきょうかい",
+    "authorIds": [
+      "john-scalzi"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "parallel-world",
+      "alien",
+      "satire-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2022,
+    "jpPublishedYear": 2023,
+    "originalTitle": "The Kaiju Preservation Society",
+    "status": "completed",
+    "synopsis": "勤め先を失ったジェイミーが藁にもすがる思いで飛びついた仕事は、なぜか並行世界の地球へ渡るものだった。そこは巨大怪獣が生息する惑星で、彼らを調査し保護する秘密組織が活動している。生物学的に怪獣が成り立つ理屈をきちんと用意したうえで、軽妙な会話劇として押し切る一作。著者の持ち味がよく出た長編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2024,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "eversion",
+    "title": "反転領域",
+    "titleKana": "はんてんりょういき",
+    "authorIds": [
+      "alastair-reynolds"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "hard-sf",
+      "parallel-world"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2022,
+    "jpPublishedYear": 2025,
+    "originalTitle": "Eversion",
+    "status": "completed",
+    "synopsis": "十九世紀、外科医サイラスを乗せた帆船が、極地に眠るという古代の大建築物をめざして航海に出る。だが探検が佳境に入るたび、乗員たちは同じ状況を別の時代・別の乗り物で繰り返していることに気づきはじめる。舞台と時代を反転させながら真相へ迫っていく構成そのものが仕掛けになった、著者らしい一作である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2026,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "babel-kuang",
+    "title": "バベル オックスフォード翻訳家革命秘史",
+    "titleKana": "ばべるおっくすふぉーどほんやくかかくめいひし",
+    "authorIds": [
+      "rf-kuang"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "parallel-world",
+      "language-sf",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2022,
+    "jpPublishedYear": 2025,
+    "originalTitle": "Babel, or the Necessity of Violence",
+    "status": "completed",
+    "synopsis": "広東で孤児になった少年は、バベル学寮の教授リチャード・ラヴェルに引き取られ、ロビン・スウィフトという英語名を与えられる。ラテン語とギリシア語、そして官話を仕込まれた彼が入るのは、翻訳によって銀に魔力を宿らせる技術を独占するオックスフォードの翻訳研究所だった。言語と帝国主義の関係を主題に据えた長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2026,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

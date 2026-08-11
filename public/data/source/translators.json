@@ -232,5 +232,88 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yamagishi-makoto",
+    "name": "山岸真",
+    "nameKana": "やまぎしまこと",
+    "description": "グレッグ・イーガン作品の紹介者として知られる翻訳家・編集者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "anno-rei",
+    "name": "安野玲",
+    "nameKana": "あんのれい",
+    "description": "英米の小説を幅広く訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mogi-ken",
+    "name": "茂木健",
+    "nameKana": "もぎけん",
+    "description": "英米SFの翻訳家。『時間封鎖』三部作の邦訳を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shimada-yoichi",
+    "name": "嶋田洋一",
+    "nameKana": "しまだよういち",
+    "description": "『ブラインドサイト』『異星人の郷』などを訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tanaka-kazue",
+    "name": "田中一江",
+    "nameKana": "たなかかずえ",
+    "description": "英米の小説を訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kaneko-hiroshi",
+    "name": "金子浩",
+    "nameKana": "かねこひろし",
+    "description": "英米SF・ホラーの翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "akao-hideko",
+    "name": "赤尾秀子",
+    "nameKana": "あかおひでこ",
+    "description": "『叛逆航路』三部作などを訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kaji-yasuko",
+    "name": "鍛治靖子",
+    "nameKana": "かじやすこ",
+    "description": "〈ファウンデーション〉新訳などを手がけた翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "furusawa-yoshimichi",
+    "name": "古沢嘉通",
+    "nameKana": "ふるさわよしみち",
+    "description": "コナリー作品やSFの翻訳で知られる翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/古沢嘉通"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

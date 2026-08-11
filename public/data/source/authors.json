@@ -852,5 +852,159 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "pat-murphy",
+    "name": "パット・マーフィー",
+    "nameKana": "まーふぃーぱっと",
+    "description": "『落ちゆく女』などで知られるアメリカの作家。科学教育にも携わる。",
+    "birthYear": 1955,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "robert-j-sawyer",
+    "name": "ロバート・J・ソウヤー",
+    "nameKana": "そうやーろばーとじぇー",
+    "description": "『ホミニッド』『さよならダイノサウルス』などで知られるカナダの作家。日本でも人気が高い。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロバート・J・ソウヤー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "greg-egan",
+    "name": "グレッグ・イーガン",
+    "nameKana": "いーがんぐれっぐ",
+    "description": "『順列都市』『ディアスポラ』などで知られるオーストラリアの作家。数学と物理を作品構造に持ち込む。",
+    "birthYear": 1961,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グレッグ・イーガン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "philip-reeve",
+    "name": "フィリップ・リーヴ",
+    "nameKana": "りーゔふぃりっぷ",
+    "description": "『移動都市』シリーズで知られるイギリスの児童文学作家。",
+    "birthYear": 1966,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "james-tiptree-jr",
+    "name": "ジェイムズ・ティプトリー・ジュニア",
+    "nameKana": "てぃぷとりーじぇいむず",
+    "description": "覆面作家として活動したアメリカの作家アリス・シェルドンの筆名。性と死をめぐる鋭い短編で知られる。",
+    "birthYear": 1915,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェイムズ・ティプトリー・ジュニア"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "robert-charles-wilson",
+    "name": "ロバート・チャールズ・ウィルスン",
+    "nameKana": "うぃるすんろばーとちゃーるず",
+    "description": "『時間封鎖』などで知られるカナダの作家。日常の視点から宇宙規模の異変を描く。",
+    "birthYear": 1953,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "john-scalzi",
+    "name": "ジョン・スコルジー",
+    "nameKana": "すこるじーじょん",
+    "description": "『老人と宇宙』シリーズなどで知られるアメリカの作家。軽快な語り口が持ち味。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョン・スコルジー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "paolo-bacigalupi",
+    "name": "パオロ・バチガルピ",
+    "nameKana": "ばちがるぴぱおろ",
+    "description": "『ねじまき少女』でヒューゴー賞とネビュラ賞を受けたアメリカの作家。環境と資源を主題に据える。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パオロ・バチガルピ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "peter-watts",
+    "name": "ピーター・ワッツ",
+    "nameKana": "わっつぴーたー",
+    "description": "海洋生物学者でもあるカナダの作家。『ブラインドサイト』で意識の意味を問うた。",
+    "birthYear": 1958,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ann-leckie",
+    "name": "アン・レッキー",
+    "nameKana": "れっきーあん",
+    "description": "『叛逆航路』で英米の主要SF賞を席巻したアメリカの作家。",
+    "birthYear": 1966,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "peter-tieryas",
+    "name": "ピーター・トライアス",
+    "nameKana": "とらいあすぴーたー",
+    "description": "日本のサブカルチャーに強い影響を受けたアメリカの作家。改変歴史と巨大ロボットを組み合わせた作品を書く。",
+    "birthYear": 1979,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "isaac-asimov",
+    "name": "アイザック・アシモフ",
+    "nameKana": "あしもふあいざっく",
+    "description": "〈ファウンデーション〉と〈ロボット〉の二大シリーズを残したアメリカの作家。SFのビッグスリーのひとり。",
+    "birthYear": 1920,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アイザック・アシモフ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "alastair-reynolds",
+    "name": "アレステア・レナルズ",
+    "nameKana": "れなるずあれすてあ",
+    "description": "元宇宙物理学者のイギリスの作家。『啓示空間』などスケールの大きなハードSFで知られる。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アレステア・レナルズ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rf-kuang",
+    "name": "R・F・クァン",
+    "nameKana": "くぁんあーるえふ",
+    "description": "『バベル』などで知られるアメリカの作家。歴史と言語をめぐる主題を扱う。",
+    "birthYear": 1996,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
