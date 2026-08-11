@@ -18410,5 +18410,342 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "pavane",
+    "title": "パヴァーヌ",
+    "titleKana": "ぱゔぁーぬ",
+    "authorIds": [
+      "keith-roberts"
+    ],
+    "translatorIds": [
+      "ochi-michio"
+    ],
+    "publisherId": "sanrio",
+    "themeIds": [
+      "alternate-history",
+      "denki-sf",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1968,
+    "jpPublishedYear": 1987,
+    "originalTitle": "Pavane",
+    "status": "completed",
+    "synopsis": "一五八八年、エリザベス一世が暗殺され、混乱に乗じたスペイン無敵艦隊が英国本土へ侵攻する。英国は欧州とともにローマ法王の支配下に入り、宗教改革は鎮圧された。二十世紀、法王庁のもとで科学は弾圧され、蒸気機関車だけが発達している。閉ざされたもうひとつの欧州で、ついに反乱の火の手が上がる。連作形式の改変歴史小説である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "ベストSF2000 海外篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "timeline",
+    "title": "タイムライン",
+    "titleKana": "たいむらいん",
+    "authorIds": [
+      "michael-crichton"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "near-future",
+      "hard-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1999,
+    "jpPublishedYear": 2000,
+    "originalTitle": "Timeline",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "量子技術を扱う企業が、過去へ人を送り込む装置を完成させていた。中世フランスの遺跡を発掘していた考古学チームは、消息を絶った指導教授を追って一三五七年へ渡る。だが戻るための猶予は三十七時間しかない。百年戦争のさなかの城塞と修道院を舞台に、現代人の知識だけを頼りにした逃走劇が展開する。史実の細部を徹底して調べ上げたうえで娯楽に振り切った長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "ベストSF2000 海外篇 第10位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "orgasmachine",
+    "title": "オルガスマシン",
+    "titleKana": "おるがすましん",
+    "authorIds": [
+      "ian-watson"
+    ],
+    "translatorIds": [
+      "oshima-yutaka"
+    ],
+    "publisherId": "core-magazine",
+    "themeIds": [
+      "genetic-engineering",
+      "gender-sf",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1976,
+    "jpPublishedYear": 2001,
+    "originalTitle": "Orgasmachine",
+    "status": "completed",
+    "synopsis": "わたしたちは男のために造られた。カスタムメイド・ガールたちは、コンクリートの島で男たちの妄想と欲望を具現化した姿に仕立てられる。箱に詰められて主人のもとへ出荷された彼女たちを待つのは、男による男のための世界だった。巨大な青い眼を持つジェイドが、その仕組みそのものに疑問を抱きはじめる。女性を製品として造る社会を執拗に描くことで、現実の性の商品化を撃つ長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "ベストSF2001 海外篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "light-of-other-days",
+    "title": "過ぎ去りし日々の光",
+    "titleKana": "すぎさりしひびのひかり",
+    "authorIds": [
+      "arthur-c-clarke",
+      "stephen-baxter"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "hard-sf",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2000,
+    "jpPublishedYear": 2000,
+    "originalTitle": "The Light of Other Days",
+    "status": "completed",
+    "synopsis": "ワームホール技術が進み、時空の二点間で情報を瞬時にやりとりできるようになった。やがて光を送れるようになると、それを開発した巨大メディア企業はあらゆる場所を覗けるようになる。さらに過去へも視線が届くと分かったとき、人類は秘密という概念を失う。歴史のすべてが検証可能になった世界を描く長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "ベストSF2001 海外篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "davy",
+    "title": "デイヴィー 荒野の旅",
+    "titleKana": "でいゔぃーこうやのたび",
+    "authorIds": [
+      "edgar-pangborn"
+    ],
+    "translatorIds": [
+      "oshima-yutaka"
+    ],
+    "publisherId": "fusosha",
+    "themeIds": [
+      "post-apocalypse",
+      "far-future",
+      "juvenile"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1964,
+    "jpPublishedYear": 2002,
+    "originalTitle": "Davy",
+    "status": "completed",
+    "synopsis": "核戦争によって高度な技術文明が失われてから数世紀後の北アメリカ北東部。教会が支配する小さな国々に分かれた世界を、年季奉公から逃げ出した少年デイヴィーが旅していく。放浪の一座に加わり、恋を知り、やがて自らの来歴を書き残す。成長物語の形式を借りながら、失われた文明とその後を生きる人間の温かさを描いた長編である。ヒューゴー賞候補にもなった作品である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "ベストSF2002 海外篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "bin-no-naka-no-shuki",
+    "title": "壜の中の手記",
+    "titleKana": "びんのなかのしゅき",
+    "authorIds": [
+      "gerald-kersh"
+    ],
+    "translatorIds": [
+      "nishizaki-ken"
+    ],
+    "publisherId": "shobunsha",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "sf-fantasy"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1962,
+    "jpPublishedYear": 2002,
+    "originalTitle": "Men Without Bones",
+    "status": "completed",
+    "synopsis": "ミステリ、怪奇小説、SF、ファンタジー。幅広い領域にまたがっておびただしい作品を発表し、独特の語りのうちに途方もない奇想を現出させた異色作家の傑作選である。残酷で哀れで、それでいて崇高な話が並ぶ。北村薫と宮部みゆきが惜しみない賛辞を寄せた一冊としても知られる。奇想を奇想として成立させる語りの力が、どの編でも際立っている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "ベストSF2002 海外篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "house-of-leaves",
+    "title": "紙葉の家",
+    "titleKana": "しようのいえ",
+    "authorIds": [
+      "mark-z-danielewski"
+    ],
+    "translatorIds": [
+      "shimada-yoichi"
+    ],
+    "publisherId": "sony-magazines",
+    "themeIds": [
+      "denki-sf",
+      "parallel-world",
+      "world-truth"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2000,
+    "jpPublishedYear": 2002,
+    "originalTitle": "House of Leaves",
+    "status": "completed",
+    "synopsis": "ある一家が越してきた家は、外から測るより内側のほうが広かった。やがて廊下の奥に、あるはずのない扉と巨大な迷宮が現れる。その顛末を記録した映像についての学術論文、それに註を付けた老人の遺稿、さらに註を書き足す青年。註が註を呼び、本文が頁の上を移動しはじめる。組版そのものを迷宮に見立てた、書物という形式を極限まで使い切る長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "ベストSF2003 海外篇 第7位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "das-jesus-video",
+    "title": "イエスのビデオ",
+    "titleKana": "いえすのびでお",
+    "authorIds": [
+      "andreas-eschbach"
+    ],
+    "translatorIds": [
+      "akao-hideko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "near-future",
+      "religion-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1998,
+    "jpPublishedYear": 2003,
+    "originalTitle": "Das Jesus Video",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "イスラエルでの発掘調査に参加していたアメリカ人学生が、二千年前に死んだと思われる男の遺体を掘り当てる。その遺品のなかには、現代のデジタルビデオカメラの取扱説明書があった。過去へ渡った誰かがイエスを撮影したのか。過去へ渡った誰かがイエスを撮影したのだとすれば、その映像はどこにあるのか。カメラとテープの行方をめぐり、教団も企業も入り乱れる追跡劇が始まる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "ベストSF2003 海外篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "physiognomy",
+    "title": "白い果実",
+    "titleKana": "しろいかじつ",
+    "authorIds": [
+      "jeffrey-ford"
+    ],
+    "translatorIds": [
+      "yamao-yuko-tr"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "dystopia",
+      "sf-fantasy",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "jpPublishedYear": 2004,
+    "originalTitle": "The Physiognomy",
+    "status": "completed",
+    "synopsis": "悪夢のような理想形態都市を支配する独裁者の命により、観相官クレイは盗まれた奇跡の白い果実を捜して属領アナマソビアへ赴く。待ち受けるのは青い鉱石と化していく鉱夫たち、奇怪な神を祀る聖教会、そして僻地でただひとり観相学を学ぶ美しい娘。世界幻想文学大賞を受けた作品を、山尾悠子の訳で読める一冊である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "ベストSF2004 海外篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "old-mans-war",
+    "title": "老人と宇宙",
+    "titleKana": "ろうじんとそら",
+    "authorIds": [
+      "john-scalzi"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "space-colony",
+      "cyborg"
+    ],
+    "seriesName": "老人と宇宙シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2007,
+    "originalTitle": "Old Man's War",
+    "status": "completed",
+    "synopsis": "ジョン・ペリーは七十五歳の誕生日に亡き妻の墓参りをしてから軍隊に入った。地球には二度と戻れないという条件で、七十五歳以上しか入隊を認めないコロニー防衛軍にである。銀河の各惑星へ植民を進める人類を守るため、防衛軍は異質な異星種族と熾烈な戦争を続けていた。老人ばかりを集める理由がやがて明かされる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "ベストSF2007 海外篇 第7位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

@@ -927,5 +927,38 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ochi-michio",
+    "name": "越智道雄",
+    "nameKana": "おちみちお",
+    "description": "アメリカ研究者・翻訳家。明治大学名誉教授。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/越智道雄"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yamao-yuko-tr",
+    "name": "山尾悠子",
+    "nameKana": "やまおゆうこ",
+    "description": "幻想小説家。ジェフリー・フォードの翻訳など訳業も手がけている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山尾悠子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nishizaki-ken",
+    "name": "西崎憲",
+    "nameKana": "にしざきけん",
+    "description": "翻訳家・作家・アンソロジスト。英国の幻想文学の紹介で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/西崎憲"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

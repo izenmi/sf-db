@@ -3274,5 +3274,63 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "keith-roberts",
+    "name": "キース・ロバーツ",
+    "nameKana": "ろばーつきーす",
+    "description": "イギリスの作家・画家。改変歴史の代表作『パヴァーヌ』で知られる。",
+    "birthYear": 1935,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/キース・ロバーツ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ian-watson",
+    "name": "イアン・ワトスン",
+    "nameKana": "わとすんいあん",
+    "description": "イギリスの作家。言語や意識をめぐる観念的なSFで知られる。",
+    "birthYear": 1943,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/イアン・ワトスン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "edgar-pangborn",
+    "name": "エドガー・パングボーン",
+    "nameKana": "ぱんぐぼーんえどがー",
+    "description": "アメリカの作家。核戦争後の世界を人間味豊かに描いた作品で知られる。",
+    "birthYear": 1909,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gerald-kersh",
+    "name": "ジェラルド・カーシュ",
+    "nameKana": "かーしゅじぇらるど",
+    "description": "イギリス出身の作家。ミステリから怪奇小説まで、独特の語りで奇想を現出させた。",
+    "birthYear": 1911,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェラルド・カーシュ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mark-z-danielewski",
+    "name": "マーク・Z・ダニエレブスキー",
+    "nameKana": "だにえれぶすきーまーくぜっと",
+    "description": "アメリカの作家。組版そのものを表現に用いる実験的な作品で知られる。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マーク・Z・ダニエレブスキー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
