@@ -335,5 +335,162 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "numazawa-koji",
+    "name": "沼沢洽治",
+    "nameKana": "ぬまさわこうじ",
+    "description": "アメリカ文学を専門とした英文学者・翻訳家。東京工業大学名誉教授。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/沼沢洽治"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "inoue-isamu",
+    "name": "井上勇",
+    "nameKana": "いのういさむ",
+    "description": "ジャーナリストを経て翻訳家となり、東京創元社の海外ミステリ・SFを数多く手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/井上勇"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "inoue-kazuo",
+    "name": "井上一夫",
+    "nameKana": "いのうえかずお",
+    "description": "英米の小説を幅広く訳した翻訳家。日本推理作家協会・日本翻訳家協会会員。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/井上一夫"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yoshida-seiichi",
+    "name": "吉田誠一",
+    "nameKana": "よしだせいいち",
+    "description": "英文学者・翻訳家。横浜市立大学教授を務め、英米の小説を訳した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉田誠一"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "funato-makiko",
+    "name": "船戸牧子",
+    "nameKana": "ふなどまきこ",
+    "description": "英米文学、とくに推理小説とSFを訳した翻訳家・日本語教師。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/船戸牧子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fukamachi-mariko",
+    "name": "深町眞理子",
+    "nameKana": "ふかまちまりこ",
+    "description": "英米のミステリ・SFを数多く訳した翻訳家。『アンネの日記』の新訳でも知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/深町眞理子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "okabe-hiroyuki",
+    "name": "岡部宏之",
+    "nameKana": "おかべひろゆき",
+    "description": "SFとファンタジーを中心に訳した翻訳家・詩人。〈リバーワールド〉〈氷と炎の歌〉の訳者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岡部宏之"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sato-takako",
+    "name": "佐藤高子",
+    "nameKana": "さとうたかこ",
+    "description": "英米SFを中心に訳した翻訳家。ル＝グウィンやシルヴァーバーグの紹介に関わった。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kazami-jun",
+    "name": "風見潤",
+    "nameKana": "かざみじゅん",
+    "description": "翻訳家・作家。英米SFとファンタジーを数多く訳し、自身もジュブナイル作品を書いた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/風見潤"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sako-mariko",
+    "name": "酒匂真理子",
+    "nameKana": "さこうまりこ",
+    "description": "英米SFを中心に訳した翻訳家。サンリオSF文庫や創元SF文庫で作品を紹介した。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tomoeda-yasuko",
+    "name": "友枝康子",
+    "nameKana": "ともえだやすこ",
+    "description": "英米SFを訳した翻訳家。サンリオSF文庫の海外SF紹介に関わった。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "noguchi-yukio",
+    "name": "野口幸夫",
+    "nameKana": "のぐちゆきお",
+    "description": "英米SFを訳した翻訳家。『エンダーのゲーム』をはじめカードの作品を紹介した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/野口幸夫"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ogiso-ayako",
+    "name": "小木曽絢子",
+    "nameKana": "おぎそあやこ",
+    "description": "〈ヴォルコシガン・サガ〉の訳者として知られる翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "higurashi-masamichi",
+    "name": "日暮雅通",
+    "nameKana": "ひぐらしまさみち",
+    "description": "英米のミステリ・SF・ノンフィクションを幅広く訳した翻訳家。シャーロック・ホームズの新訳でも知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日暮雅通"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kurohara-toshiyuki",
+    "name": "黒原敏行",
+    "nameKana": "くろはらとしゆき",
+    "description": "コーマック・マッカーシーなど現代アメリカ文学を中心に訳した翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒原敏行"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

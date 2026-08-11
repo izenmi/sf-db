@@ -1225,5 +1225,207 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "alfred-bester",
+    "name": "アルフレッド・ベスター",
+    "nameKana": "べすたーあるふれっど",
+    "description": "『分解された男』『虎よ、虎よ!』で知られるアメリカの作家。実験的な文字組みと疾走感のある文体で知られる。",
+    "birthYear": 1913,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アルフレッド・ベスター"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mark-clifton",
+    "name": "マーク・クリフトン",
+    "nameKana": "くりふとんまーく",
+    "description": "アメリカのSF作家・実業家。人事の現場で得た知見を作品に持ち込んだ。",
+    "birthYear": 1906,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マーク・クリフトン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "frank-riley",
+    "name": "フランク・ライリー",
+    "nameKana": "らいりーふらんく",
+    "description": "アメリカの作家・ジャーナリスト。マーク・クリフトンとの共作『ボシイの時代』で知られる。",
+    "birthYear": 1915,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "walter-m-miller",
+    "name": "ウォルター・M・ミラー・ジュニア",
+    "nameKana": "みらーうぉるたーえむじゅにあ",
+    "description": "『黙示録3174年』一作で名を残したアメリカの作家。第二次大戦の従軍体験が作品の背景にある。",
+    "birthYear": 1923,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ウォルター・M・ミラー・ジュニア"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "clifford-d-simak",
+    "name": "クリフォード・D・シマック",
+    "nameKana": "しまっくくりふぉーどでぃー",
+    "description": "『都市』『中継ステーション』などで知られるアメリカの作家。田園を舞台にした静かな作風で知られる。",
+    "birthYear": 1904,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クリフォード・D・シマック"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ursula-k-le-guin",
+    "name": "アーシュラ・K・ル＝グウィン",
+    "nameKana": "るぐうぃんあーしゅらけー",
+    "description": "『闇の左手』『ゲド戦記』で知られるアメリカの作家。文化人類学の視点から異星社会を描いた。",
+    "birthYear": 1929,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アーシュラ・K・ル＝グウィン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "philip-jose-farmer",
+    "name": "フィリップ・ホセ・ファーマー",
+    "nameKana": "ふぁーまーふぃりっぷほせ",
+    "description": "〈リバーワールド〉シリーズで知られるアメリカの作家。既存の文学的人物を作品に取り込む手法で知られる。",
+    "birthYear": 1918,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フィリップ・ホセ・ファーマー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "joe-haldeman",
+    "name": "ジョー・ホールドマン",
+    "nameKana": "ほーるどまんじょー",
+    "description": "『終りなき戦い』で知られるアメリカの作家。ベトナム戦争への従軍体験を作品の背景に持つ。",
+    "birthYear": 1943,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョー・ホールドマン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kate-wilhelm",
+    "name": "ケイト・ウィルヘルム",
+    "nameKana": "うぃるへるむけいと",
+    "description": "『鳥の歌いまは絶え』で知られるアメリカの作家。クラリオン・ワークショップの創設にも関わった。",
+    "birthYear": 1928,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ケイト・ウィルヘルム"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "vonda-mcintyre",
+    "name": "ヴォンダ・N・マッキンタイア",
+    "nameKana": "まっきんたいあゔぉんだえぬ",
+    "description": "『夢の蛇』で知られるアメリカの作家。遺伝学の素養を作品に生かした。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヴォンダ・N・マッキンタイア"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "orson-scott-card",
+    "name": "オースン・スコット・カード",
+    "nameKana": "かーどおーすんすこっと",
+    "description": "『エンダーのゲーム』とその続編で知られるアメリカの作家。少年の心理描写に定評がある。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オースン・スコット・カード"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "lois-mcmaster-bujold",
+    "name": "ロイス・マクマスター・ビジョルド",
+    "nameKana": "びじょるどろいすまくますたー",
+    "description": "〈ヴォルコシガン・サガ〉で知られるアメリカの作家。ヒューゴー賞長編部門を四度受賞している。",
+    "birthYear": 1949,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロイス・マクマスター・ビジョルド"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "connie-willis",
+    "name": "コニー・ウィリス",
+    "nameKana": "うぃりすこにー",
+    "description": "『ドゥームズデイ・ブック』などで知られるアメリカの作家。喜劇と悲劇を往復する作風で知られる。",
+    "birthYear": 1945,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コニー・ウィリス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "neal-stephenson",
+    "name": "ニール・スティーヴンスン",
+    "nameKana": "すてぃーゔんすんにーる",
+    "description": "『スノウ・クラッシュ』『ダイヤモンド・エイジ』で知られるアメリカの作家。情報技術と歴史を織り交ぜた長大な作品で知られる。",
+    "birthYear": 1959,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ニール・スティーヴンスン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "michael-chabon",
+    "name": "マイケル・シェイボン",
+    "nameKana": "しぇいぼんまいける",
+    "description": "ピュリッツァー賞を受けたアメリカの作家。ジャンル小説の手法を純文学に持ち込む作風で知られる。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マイケル・シェイボン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "china-mieville",
+    "name": "チャイナ・ミエヴィル",
+    "nameKana": "みえゔぃるちゃいな",
+    "description": "『ペルディード・ストリート・ステーション』などで知られるイギリスの作家。ニュー・ウィアードの代表的な書き手。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チャイナ・ミエヴィル"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nk-jemisin",
+    "name": "N・K・ジェミシン",
+    "nameKana": "じぇみしんえぬけー",
+    "description": "《破壊された地球》三部作でヒューゴー賞長編部門を三年連続で受賞したアメリカの作家。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/N・K・ジェミシン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
