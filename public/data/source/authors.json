@@ -2562,5 +2562,65 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hanna-ren",
+    "name": "伴名練",
+    "nameKana": "はんなれん",
+    "description": "SFの歴史に通じたアンソロジストとしても知られる作家。『なめらかな世界と、その敵』で注目された。",
+    "birthYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/伴名練"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "takayama-haneko",
+    "name": "高山羽根子",
+    "nameKana": "たかやまはねこ",
+    "description": "芥川賞作家。創元SF短編賞出身で、境界の曖昧な物語を書く。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高山羽根子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "utsugi-shunsho",
+    "name": "空木春宵",
+    "nameKana": "うつぎしゅんしょう",
+    "description": "創元SF短編賞出身の作家。身体と痛みを主題にした耽美な作風で知られる。",
+    "birthYear": 1984,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/空木春宵"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hisanaga-mikihiko",
+    "name": "久永実木彦",
+    "nameKana": "ひさながみきひこ",
+    "description": "創元SF短編賞出身の作家。静かな筆致で異物との遭遇を描く。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/久永実木彦"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "miyazawa-iori",
+    "name": "宮澤伊織",
+    "nameKana": "みやざわいおり",
+    "description": "『裏世界ピクニック』などで知られる作家。奇想と娯楽性を兼ね備えた作風。",
+    "birthYear": 1983,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宮澤伊織"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

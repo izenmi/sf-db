@@ -12738,5 +12738,360 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nameraka-na-sekai",
+    "title": "なめらかな世界と、その敵",
+    "titleKana": "なめらかなせかいとそのてき",
+    "authorIds": [
+      "hanna-ren"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "parallel-world",
+      "short-stories",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "並行世界を自在に行き来できるのが当たり前になった世界で、それができない少女と過ごす一度きりの青春を描いた表題作をはじめ、六編を収める作品集である。設定を一つ動かしたときに人の情がどう変形するかを、それぞれ違う書き方で確かめていく。SF史への目配りが随所に効いており、過去の名作への応答として読める仕掛けもいくつも仕込まれている一冊である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "ベストSF2019 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/なめらかな世界と、その敵"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yadokari-no-hoshi",
+    "title": "宿借りの星",
+    "titleKana": "やどかりのほし",
+    "authorIds": [
+      "torishima-denpow"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "alien",
+      "far-future",
+      "post-apocalypse"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "その惑星では、かつて人類を滅ぼした異形の殺戮生物たちが国を築いて暮らしていた。幼馴染を殺してしまい祖国を追われたマガンダラは、異種の道連れとともに放浪の旅に出る。その途上で彼は、滅ぼしたはずの人間による恐ろしい企みを知ることになる。著者自身の挿絵を多数収めた、第40回日本SF大賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2019,
+        "result": "第40回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "ベストSF2019 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "octologue",
+    "title": "オクトローグ 酉島伝法作品集成",
+    "titleKana": "おくとろーぐとりしまでんぽうさくひんしゅうせい",
+    "authorIds": [
+      "torishima-denpow"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "alien",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "ある異常な刑罰にかけられた男を描く「環刑錮」、人類の異星探査を惑星生物の側から綴る「ブロッコリー神殿」など、書き下ろしを含む八編を収める作品集である。既存の語彙を組み替えて異形の生態と感覚を立ち上げる手つきは相変わらずで、どの一編も読み手の身体感覚を揺さぶってくる。人間の視点を意図的に外したところから世界を描く姿勢が全編に貫かれている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "ベストSF2020 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "american-buddha",
+    "title": "アメリカン・ブッダ",
+    "titleKana": "あめりかんぶっだ",
+    "authorIds": [
+      "shibata-katsuie"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "virtual-reality",
+      "religion-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "アメリカ大陸で未曾有の災害が発生し、人々が仮想空間へ逃れたあとの大地に取り残されたのは、仏教を信じ続けるインディアンだった。表題作のほか、星雲賞を受けた「雲南省スー族におけるVR技術の使用例」など六編を収める。土地に根ざした信仰と、それを記録し再現しようとする技術との関係を、文化人類学の視点から結び直していく。著者初の短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "ベストSF2020 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kurayami-ni-lens",
+    "title": "暗闇にレンズ",
+    "titleKana": "くらやみにれんず",
+    "authorIds": [
+      "takayama-haneko"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "alternate-history",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "高校生の「わたし」は親友と監視カメラだらけの街を歩き、携帯端末の小さなレンズで世界を切り取る。かつて母も祖母も曾祖母も同じことをしてきた。切り取られた映像は、あるときは教育や娯楽のために、またあるときは兵器として戦争や弾圧のために使われてきた。四代にわたる女たちの記録を重ねながら、映画と映像そのものの来歴を書き換えていく壮大な偽史である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "ベストSF2020 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "run-warai",
+    "title": "るん(笑)",
+    "titleKana": "るんかっこわらい",
+    "authorIds": [
+      "torishima-denpow"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "dystopia",
+      "satire-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "スピリチュアルと科学の立場が入れ替わった架空の日本。平熱は三十八度で、病気の原因は薬を飲むことだとされ、祈りとまじないがあらゆる不調を治すことになっている。結婚式場に勤める土屋は熱が下がらず、解熱剤を飲もうとして妻に止められる。同じ町に暮らす三世代の視点を通して、常識が反転した社会がどこまで自然に見えるかを描く不条理劇であり、ディストピア小説である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "ベストSF2021 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kanno-grand-guignol",
+    "title": "感応グラン＝ギニョル",
+    "titleKana": "かんのうぐらんぎにょる",
+    "authorIds": [
+      "utsugi-shunsho"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "denki-sf",
+      "short-stories",
+      "esper"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "昭和初期、浅草六区の片隅にある芝居小屋。ここでは夜ごと、少女たちによる残酷劇が演じられていた。ある日、完璧な美貌を持つ新入りがやってくる。本来この場所にそんな少女がいるはずはない。わたしの躰はわたしのものだと言い切ることの重みを、痛みの側から問いかけていく。表題作ほか五編を収める、創元SF短編賞出身の著者によるデビュー作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "ベストSF2021 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hochi-no-kemono",
+    "title": "法治の獣",
+    "titleKana": "ほうちのけもの",
+    "authorIds": [
+      "harukure-koichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "hard-sf",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "あたかも罪と罰の概念を持つかのように振る舞う、異星の草食獣シエジー。その行動の裏にある衝撃的な仕組みを描く表題作を含め、宇宙を舞台にした中短編三作を収める。異星生命の生態から社会や倫理の形が立ち上がってくるという、著者が得意とする組み立てが徹底されている。人間の常識をいったん脇に置いてから読ませる構成が、どの編にも共通している作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "ベストSF2022 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "watashitachi-no-kaiju",
+    "title": "わたしたちの怪獣",
+    "titleKana": "わたしたちのかいじゅう",
+    "authorIds": [
+      "hisanaga-mikihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "disaster",
+      "short-stories",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "運転免許を取得したつかさが家に帰ると、妹が父を殺していた。テレビからは巨大な怪獣の出現を告げる報道が流れている。死体をどう始末するかという切実な問題と、街が壊れていく非常事態とが同じ時間に並走していく。表題作ほか四編を収め、第55回星雲賞日本短編部門の受賞作も含む作品集である。静かな筆致で異物との遭遇を書く著者の資質がよく出ている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2023,
+        "result": "ベストSF2023 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tokitoki-channel",
+    "title": "ときときチャンネル 宇宙飲んでみた",
+    "titleKana": "ときときちゃんねるうちゅうのんでみた",
+    "authorIds": [
+      "miyazawa-iori"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "near-future",
+      "satire-sf",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "配信サービスで『ときときチャンネル』を始めた十時さくらは、同居人のマッドサイエンティスト・多田羅未貴の発明を紹介して収益化を目指す。宇宙を飲み、時間を飼い、ときには異世界を散歩する。目標はチャンネル登録者数千人。動画配信という枠組みを借りて奇想を次々に繰り出していく連作で、視聴者のコメントまで含めて物語が進んでいくのが可笑しい。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2023,
+        "result": "ベストSF2023 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ichiokunen-no-telescope",
+    "title": "一億年のテレスコープ",
+    "titleKana": "いちおくねんのてれすこーぷ",
+    "authorIds": [
+      "harukure-koichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "hard-sf",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "高校の天文部に集まった三人が立てた天体観測の計画は、数千万年後に銀河の文明同士をつなぐ第一歩だった。少年少女の個人的な思いつきが、想像を絶する時間を隔てて銀河規模の意味を持ちはじめる。世界最高水準と評されるファーストコンタクトSFであり、人間の一生とは桁の違う時間の尺度そのものを主題に据えた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2024,
+        "result": "ベストSF2024 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "code-buddha",
+    "title": "コード・ブッダ 機械仏教史縁起",
+    "titleKana": "こーどぶっだきかいぶっきょうしえんぎ",
+    "authorIds": [
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "ai",
+      "religion-sf",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "二〇二一年、名もなきコードがブッダを名乗った。自らを生命体と位置づけ、この世の苦しみとその原因を説き、そこから脱する方法を語りはじめる。それは対話プログラムにすぎなかったが、やがてブッダ・チャットボットと呼ばれるようになる。機械の仏教が広まり分派していく数千年を、経典の体裁で綴った長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2024,
+        "result": "ベストSF2024 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
