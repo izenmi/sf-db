@@ -355,6 +355,11 @@
     "awardResults": [
       {
         "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "2017年版 国内篇 第6位"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
         "year": 2018,
         "result": "2018年版 国内篇 第6位"
       }
@@ -512,7 +517,14 @@
     },
     "externalLinks": {},
     "sourceNote": "原著は1961年刊(ポーランド)。邦訳は沼野充義による原語からの新訳を採用し、NDLサーチで国書刊行会版・早川書房版の書誌を確認(jpPublishedYearはハヤカワ文庫SF版の2015年、初訳は1965年の飯田規和訳『ソラリスの陽のもとに』)。映画化(1972年・2002年)あり。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "2004年版 海外篇 第10位"
+      }
+    ]
   },
   {
     "id": "do-androids-dream",
@@ -1568,6 +1580,11 @@
     "synopsis": "戦術戦闘電子偵察機・雪風とパイロットの深井零は、正体不明の異星体ジャムとの戦闘を重ねていた。だが、ある作戦行動のさなかに被弾した雪風は、零を機外へ射出する。機械が下したその判断の意味を零は問い続ける。人間と機械のどちらが主体なのかを突き詰める、シリーズ第2部にあたる長編。戦闘機と搭乗員の関係を軸に、シリーズの主題がさらに深く掘り下げられる。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 1999,
+        "result": "1999年版 国内篇 第2位"
+      },
+      {
         "awardId": "seiun",
         "year": 2000,
         "result": "日本長編部門受賞"
@@ -1635,6 +1652,11 @@
     "synopsis": "高校化学部の部長・浅倉泉の人生目標は「努力しないで生きること」。文化祭を前に、たったひとりの部員とフラーレンの生成実験をしていたところ、学校に雷が直撃する。事故から生まれたのは空気より軽い謎の物質だった。ひとつの新素材が社会と宇宙開発を書き換えていく過程を、軽妙に描いた長編。巨大な変化が、田舎の高校の部室から始まってしまうという可笑しさが全編を貫く。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "2001年版 国内篇 第6位"
+      },
+      {
         "awardId": "seiun",
         "year": 2002,
         "result": "日本長編部門受賞"
@@ -1700,6 +1722,11 @@
     "volumeCount": 2,
     "synopsis": "2029年、新型エンジンの開発と永久凍土内の水の発見によって、月面に恒久施設を建てる「第六大陸」計画を阻むものはなくなったかに見えた。土木技術者たちが、夢物語ではなく地に足のついた工程管理で月面建設に挑む。宇宙開発を巨大プロジェクトの現場として描いた、著者の代表作。予算、工期、資材調達といった実務の積み重ねが、そのまま物語の推進力になる。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "2003年版 国内篇 第2位"
+      },
       {
         "awardId": "seiun",
         "year": 2004,
@@ -1768,6 +1795,11 @@
     "synopsis": "未来に見放されたような地方都市・辺里で過ごしたあの奇妙な夏、幼なじみの悠有がたった三秒だけ未来へ跳んだ。お嬢様学校に閉じ込められた饗子の号令のもと、高校生五人は跳躍の仕組みを解き明かそうと動きだす。青春小説の枠組みで時間SFの主題を扱った、著者の代表作。地方都市の閉塞感と、跳躍という一点の不思議が静かに響き合う構成である。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2005,
+        "result": "2005年版 国内篇 第5位"
+      },
+      {
         "awardId": "seiun",
         "year": 2006,
         "result": "日本長編部門受賞"
@@ -1796,6 +1828,11 @@
     "status": "completed",
     "synopsis": "『日本沈没』の発表から33年を経て書かれた続編。国土を失った日本人は、パプアニューギニアや中央アジアをはじめ世界各地へ散って入植していた。国家を持たない民として生きる人々が、次なる地球規模の異変に直面する。難民となった一億人の行方を、前作の作者と谷甲州の共作で描く。災害そのものではなく、災害の後に続く長い時間を主題に据えた続編である。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2006,
+        "result": "2006年版 国内篇 第4位"
+      },
       {
         "awardId": "seiun",
         "year": 2007,
@@ -1828,6 +1865,11 @@
     "volumeCount": 4,
     "synopsis": "公序良俗を害する表現を取り締まる「メディア良化法」が成立して三十年。検閲に対抗できる唯一の組織は、武装を認められた図書館の自衛部隊「図書隊」だけだった。かつて本を守ってくれた図書隊員に憧れて入隊した笠原郁は、鬼教官・堂上のもとで新人としてしごかれながら、言葉を守る戦いに巻き込まれていく。本を焼く側と守る側の攻防を、青春小説の枠で描いたシリーズ第1作である。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2006,
+        "result": "2006年版 国内篇 第6位"
+      },
       {
         "awardId": "seiun",
         "year": 2008,
@@ -1905,6 +1947,11 @@
     "status": "completed",
     "synopsis": "2001年9月11日、24世紀から「ガーディアン」と名乗るアンドロイドたちがやってきた。圧倒的な技術力を持つ彼らは同時多発テロを未然に防ぎ、続いて起きるはずだった大災害の犠牲者もゼロにしてしまう。歴史から悲劇が消えていく世界で、では取り返しのつかなかったはずの過去とは何だったのか。改変された二十一世紀を舞台に、作者自身を思わせる語り手が問い続ける長編。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "2010年版 国内篇 第5位"
+      },
       {
         "awardId": "seiun",
         "year": 2011,
@@ -2095,6 +2142,11 @@
     "synopsis": "中央アジアの沙漠にある小国アラルスタン。大統領が暗殺され、閣僚たちが我先にと国外へ逃げ出したあと、国に残ったのは後宮で暮らす少女たちだけだった。日本人のナツキをはじめとする少女たちは、成り行きで臨時政府を名乗り、国家を運営しはじめる。国とは何か、統治とは何かを軽やかな冒険譚の形で問いかける長編である。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "2017年版 国内篇 第5位"
+      },
+      {
         "awardId": "seiun",
         "year": 2018,
         "result": "日本長編部門受賞"
@@ -2270,7 +2322,14 @@
     "synopsis": "2045年、国際独立市テラ・アマソナスの指導者チェリー・イグナシオが、軍事企業グッドフェローズの捕虜を銃殺する。この虐殺を報じようとしたジャーナリスト迫田城兵は、事実確認プラットフォームによって配信を拒否されてしまう。戦争が興行として消費され、真偽の判定が自動化された世界で、報道は何をなしうるのか。現代の技術動向を延長して描いた長編。",
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本語版Wikipedia「星雲賞」は本作を第53回(2022年)日本長編部門の受賞作として挙げているが、書誌上の刊行年は2024年であり整合しないため、受賞歴としては登録していない。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2024,
+        "result": "2024年版 国内篇 第5位"
+      }
+    ]
   },
   {
     "id": "protocol-of-humanity",
@@ -2291,6 +2350,11 @@
     "status": "completed",
     "synopsis": "不慮の事故で右足を失ったダンサーの護堂恒明は、AIが制御する義足を装着して舞台に戻ろうとする。同じ頃、認知症が進む父の介護もまた彼の生活を侵しはじめていた。踊るという行為を通して、身体と知性のどこまでが自分なのかを問い直す長編。人工知能を扱い続けてきた著者が、介護とダンスという具体を通じて人間性の輪郭に迫る。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "2022年版 国内篇 第2位"
+      },
       {
         "awardId": "nihon-sf-taisho",
         "year": 2023,
@@ -2324,6 +2388,11 @@
     "status": "completed",
     "synopsis": "月と火星の開発が進む一方でWindows2021が発売されたばかりという、少しずれた二〇二一年を生きる夏紀。もうひとりの登場人物である登志夫の二〇二一年では、光量子コンピュータが異常な挙動を示しはじめる。二つの世界がどこで分かれ、どこで触れ合うのか。歴史のわずかな分岐を丁寧に積み上げていく、著者らしい改変歴史SFである。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2023,
+        "result": "2023年版 国内篇 第1位"
+      },
       {
         "awardId": "seiun",
         "year": 2024,
@@ -3461,6 +3530,11 @@
     "synopsis": "ヨーロッパ由来の便利さを受け入れながら本当のキクユ族でいられるのか——ケニアでの父子の問答から物語は始まる。やがて彼らは、伝統的なキクユの暮らしを再現するためだけに作られた小惑星〈キリンヤガ〉へ移り住む。祈祷師となった主人公が理想郷を守ろうとするたび、その理想が誰かを踏みつけていく。ユートピアの寓話として編まれた連作集。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 1999,
+        "result": "1999年版 海外篇 第4位"
+      },
+      {
         "awardId": "seiun",
         "year": 2000,
         "result": "海外長編部門受賞"
@@ -3528,6 +3602,11 @@
     "synopsis": "異星の宇宙船が地球に到来し、接触が成立して、両者は互いを学びはじめる。大統領科学顧問のフランク・ノビリオと、科学の面白さを伝えるテレビ司会者クリータス・カルフーンが応対にあたるが、やがて事態は法廷へ持ち込まれる。異星人を人間の司法制度で裁けるのかという問いを、法廷ものの形式で正面から扱った長編。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "2002年版 海外篇 第5位"
+      },
+      {
         "awardId": "seiun",
         "year": 2003,
         "result": "海外長編部門受賞"
@@ -3561,6 +3640,11 @@
     "status": "completed",
     "synopsis": "銀河文明の秩序が音を立てて崩れていくなか、辺境の惑星ジージョに隠れ住んでいた六つの種族は、それぞれの運命に向き合わされる。知性化をめぐる長い因縁と、宇宙そのものの成り立ちに関わる秘密が明らかになる。『変革への序章』から続く〈知性化の嵐〉三部作を締めくくる、大規模な完結編である。銀河文明の設計そのものを問い直すところまで話が広がっていく。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "2003年版 海外篇 第8位"
+      },
       {
         "awardId": "seiun",
         "year": 2004,
@@ -3674,6 +3758,11 @@
     "synopsis": "遠い未来、都市は巨大な車輪を得て大地を走りまわり、より小さな都市を捕らえては解体して資源にしていた。移動都市ロンドンに住むギルド見習いの孤児トムは、ある事件をきっかけに都市から放り出され、顔に傷を持つ少女ヘスターとともに地上をさまようことになる。都市が都市を食うという着想を軸にした冒険譚。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2006,
+        "result": "2006年版 海外篇 第8位"
+      },
+      {
         "awardId": "seiun",
         "year": 2007,
         "result": "海外長編部門受賞"
@@ -3709,6 +3798,11 @@
     "status": "completed",
     "synopsis": "殺された星から広がる新星の光の壁が、辺境の惑星ダミエムを通過する夜。その天体ショーを見物するために、十六人の人間が孤立した惑星に集まってくる。閉ざされた場所に集まった客たちという、館ものめいた構図のなかで、この星の先住種族に人類が何をしたのかが少しずつ明かされていく。著者の数少ない長編のひとつ。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "2007年版 海外篇 第4位"
+      },
       {
         "awardId": "seiun",
         "year": 2008,
@@ -3875,6 +3969,11 @@
         "result": "長編小説部門受賞"
       },
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2011,
+        "result": "2011年版 海外篇 第2位"
+      },
+      {
         "awardId": "seiun",
         "year": 2012,
         "result": "海外長編部門受賞"
@@ -3910,6 +4009,11 @@
     "synopsis": "地球とニドゥ族の貿易交渉の席上で、外交上の大事件が起きた。戦争にまで発展しかねないこの事態を収めるため、ニドゥ族は代償として特殊な「羊」を差し出すよう要求してくる。国務省の下級職員ハリー・クリークは、その一頭を探し出す羽目になる。ディックの代表作に題名で目配せしつつ、徹頭徹尾ドタバタで押し切る一作。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "2012年版 海外篇 第9位"
+      },
+      {
         "awardId": "seiun",
         "year": 2013,
         "result": "海外長編部門受賞"
@@ -3942,6 +4046,11 @@
     "status": "completed",
     "synopsis": "太陽系の外縁で、正体不明の巨大な人工構造物が見つかった。調査に送り込まれた宇宙船テーセウスの乗員は、吸血鬼を復活させた指揮官をはじめ、いずれも人間の標準からは外れた者たちである。彼らが接触した知性は、人類とはまったく異質な進化を遂げていた。意識というものが本当に必要なのかを問う、苛烈なハードSF。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "2013年版 海外篇 第2位"
+      },
       {
         "awardId": "seiun",
         "year": 2014,
@@ -4000,6 +4109,11 @@
         "awardId": "seiun",
         "year": 2016,
         "result": "海外長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "2016年版 海外篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -4029,6 +4143,11 @@
     "status": "completed",
     "synopsis": "第二次世界大戦で日本とドイツが勝利し、アメリカ西海岸が日本の統治下に置かれた世界。巨大ロボット兵が街路を闊歩するその国で、検閲局の石村大尉は、帝国の正史をくつがえすゲームの捜索を命じられる。ディック『高い城の男』への応答として書かれ、日本のサブカルチャーへの偏愛を全面に出した改変歴史SF。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "2016年版 海外篇 第2位"
+      },
       {
         "awardId": "seiun",
         "year": 2017,
@@ -4062,6 +4181,11 @@
     "status": "completed",
     "synopsis": "日独が勝利した世界の日本統治下アメリカ。巨大ロボット「メカ」の操縦士に憧れる少年マックは、成績も家柄も足りないまま、それでも操縦席をめざして這い上がろうとする。前作と同じ世界を舞台に、今度は学園ものと兵器ものを掛け合わせた青春譚として仕立てた続編である。日本の巨大ロボットものへの偏愛が、細部にまで行き渡っている。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "2018年版 海外篇 第6位"
+      },
       {
         "awardId": "seiun",
         "year": 2019,
@@ -4100,6 +4224,11 @@
         "awardId": "seiun",
         "year": 2022,
         "result": "海外長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "2022年版 海外篇 第1位"
       }
     ],
     "mediaMix": {
@@ -4178,6 +4307,11 @@
         "awardId": "locus",
         "year": 2023,
         "result": "SF長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2023,
+        "result": "2023年版 海外篇 第8位"
       },
       {
         "awardId": "seiun",
@@ -4618,6 +4752,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 1999,
         "result": "第20回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1999,
+        "result": "1999年版 国内篇 第4位"
       }
     ],
     "externalLinks": {
@@ -4686,6 +4825,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2002,
         "result": "第23回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "2002年版 国内篇 第4位"
       }
     ],
     "externalLinks": {
@@ -4717,6 +4861,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2002,
         "result": "第23回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "2002年版 国内篇 第8位"
       }
     ],
     "externalLinks": {},
@@ -4884,6 +5033,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2012,
         "result": "第33回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "2012年版 国内篇 第2位"
       }
     ],
     "externalLinks": {
@@ -4951,6 +5105,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2013,
         "result": "第34回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "2013年版 国内篇 第2位"
       }
     ],
     "externalLinks": {},
@@ -4980,6 +5139,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2014,
         "result": "第35回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2014,
+        "result": "2014年版 国内篇 第4位"
       }
     ],
     "externalLinks": {},
@@ -5067,6 +5231,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2015,
         "result": "第36回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2015,
+        "result": "2015年版 国内篇 第2位"
       }
     ],
     "externalLinks": {},
@@ -5161,6 +5330,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2018,
         "result": "第39回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "2018年版 国内篇 第6位"
       }
     ],
     "externalLinks": {
@@ -5192,6 +5366,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2018,
         "result": "第39回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "2018年版 国内篇 第2位"
       }
     ],
     "externalLinks": {
@@ -5224,6 +5403,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2020,
         "result": "第41回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "2020年版 国内篇 第6位"
       }
     ],
     "externalLinks": {},
@@ -5253,6 +5437,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2022,
         "result": "第43回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "2022年版 国内篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -5282,6 +5471,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2024,
         "result": "第45回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2024,
+        "result": "2024年版 国内篇 第4位"
       }
     ],
     "externalLinks": {},
@@ -6518,6 +6712,11 @@
         "awardId": "locus",
         "year": 1994,
         "result": "SF長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "2002年版 海外篇 第7位"
       }
     ],
     "externalLinks": {},
@@ -6595,6 +6794,11 @@
         "awardId": "locus",
         "year": 1996,
         "result": "SF長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "2002年版 海外篇 第2位"
       }
     ],
     "externalLinks": {
@@ -6717,6 +6921,11 @@
         "awardId": "nebula",
         "year": 2008,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "2009年版 海外篇 第5位"
       }
     ],
     "externalLinks": {
@@ -6757,6 +6966,11 @@
         "awardId": "hugo",
         "year": 2010,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "2012年版 海外篇 第1位"
       }
     ],
     "externalLinks": {
@@ -6804,6 +7018,11 @@
         "awardId": "nebula",
         "year": 2011,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "2012年版 海外篇 第8位"
       }
     ],
     "externalLinks": {},
@@ -6838,6 +7057,11 @@
         "awardId": "hugo",
         "year": 2016,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "2020年版 海外篇 第4位"
       }
     ],
     "externalLinks": {
@@ -6915,6 +7139,11 @@
         "awardId": "nebula",
         "year": 2018,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2023,
+        "result": "2023年版 海外篇 第7位"
       }
     ],
     "externalLinks": {
@@ -6962,6 +7191,11 @@
         "awardId": "nebula",
         "year": 2019,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "2020年版 海外篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -7073,7 +7307,14 @@
     "synopsis": "統制モジュールを自力で解除し、誰にも知られないまま自由を手にした人型警備ユニットがいる。人間との会話は苦手で、暇さえあれば連続ドラマを見ている。自らを弊機と呼ぶこの警備ユニットは、惑星調査隊の護衛につくうちに事件へ巻き込まれ、消された過去の大量殺人へと近づいていく。皮肉のきいた一人称で語られる連作である。",
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」の海外長編部門一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本語版は原著の中編四作を上下巻にまとめたもので、原題と発表年は第一作『All Systems Red』のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "2020年版 海外篇 第5位"
+      }
+    ]
   },
   {
     "id": "network-effect",
@@ -7151,6 +7392,11 @@
         "result": "SF長編部門受賞"
       },
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2024,
+        "result": "2024年版 海外篇 第9位"
+      },
+      {
         "awardId": "seiun",
         "year": 2025,
         "result": "海外長編部門受賞"
@@ -7188,6 +7434,11 @@
     "volumeCount": 2,
     "synopsis": "葉文潔が宇宙へ放ったメッセージは三体世界に届き、新天地を求める三体文明は侵略艦隊を地球へ送り出した。太陽系への到達は四百数十年後。しかも人類の一挙手一投足は、三体文明が送り込んだ極微のスーパーコンピュータ智子に監視されている。思考だけは覗かれないという一点に賭け、人類は四人の面壁者に全権を託す計画を発動する。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "2020年版 海外篇 第2位"
+      },
       {
         "awardId": "seiun",
         "year": 2021,
@@ -7237,6 +7488,11 @@
         "awardId": "locus",
         "year": 2017,
         "result": "SF長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "2021年版 海外篇 第1位"
       }
     ]
   },
@@ -8184,6 +8440,11 @@
         "awardId": "nebula",
         "year": 1998,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "2000年版 海外篇 第7位"
       }
     ],
     "externalLinks": {},
@@ -8222,6 +8483,11 @@
         "awardId": "nebula",
         "year": 1999,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "2000年版 海外篇 第5位"
       }
     ],
     "externalLinks": {},
@@ -8297,6 +8563,11 @@
         "awardId": "hugo",
         "year": 2000,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "2002年版 海外篇 第4位"
       }
     ],
     "externalLinks": {},
@@ -8327,6 +8598,11 @@
     "volumeCount": 2,
     "synopsis": "ヒトの遺伝子に眠っていた古いウイルスが目を覚まし、SHEVAと名づけられた。感染した胎児は流産に終わるが、そのあとに続く妊娠では、これまでの人類とは異なる特徴を備えた子が生まれてくる。疫病なのか、それとも進化の跳躍なのか。研究者たちの追跡と、恐慌に陥った社会や政府の反応が交互に描かれていく長編である。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "2000年版 海外篇 第4位"
+      },
       {
         "awardId": "nebula",
         "year": 2001,
@@ -8364,6 +8640,11 @@
         "awardId": "nebula",
         "year": 2004,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "2004年版 海外篇 第7位"
       }
     ],
     "externalLinks": {},
@@ -8397,6 +8678,11 @@
         "awardId": "nebula",
         "year": 2006,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "2007年版 海外篇 第6位"
       }
     ],
     "externalLinks": {},
@@ -8470,6 +8756,11 @@
         "awardId": "locus",
         "year": 2007,
         "result": "SF長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "2009年版 海外篇 第9位"
       }
     ],
     "externalLinks": {},
@@ -8508,6 +8799,11 @@
         "awardId": "locus",
         "year": 2013,
         "result": "SF長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2014,
+        "result": "2014年版 海外篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -8753,6 +9049,11 @@
         "awardId": "clarke",
         "year": 1997,
         "result": "受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "2003年版 海外篇 第6位"
       }
     ],
     "externalLinks": {},
@@ -8788,6 +9089,11 @@
         "awardId": "clarke",
         "year": 2001,
         "result": "受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "2009年版 海外篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -8821,6 +9127,11 @@
         "awardId": "clarke",
         "year": 2003,
         "result": "受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "2007年版 海外篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -8959,6 +9270,11 @@
         "awardId": "clarke",
         "year": 2016,
         "result": "受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "2021年版 海外篇 第2位"
       }
     ],
     "externalLinks": {},
@@ -9196,6 +9512,11 @@
         "awardId": "pkd",
         "year": 2001,
         "result": "受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "2001年版 海外篇 第7位"
       }
     ],
     "externalLinks": {},
@@ -9300,6 +9621,11 @@
         "awardId": "pkd",
         "year": 2020,
         "result": "受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "2022年版 海外篇 第2位"
       }
     ],
     "externalLinks": {},
@@ -9373,6 +9699,11 @@
         "awardId": "pkd",
         "year": 2010,
         "result": "特別賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "2012年版 海外篇 第4位"
       }
     ],
     "externalLinks": {},
@@ -9432,6 +9763,11 @@
     "synopsis": "彼女のこめかみには弾丸が埋まっていて、我が家に伝わる箱は毎年一度どこかの方向へ倒される。老教授の最終講義は鯰文書の謎を解き明かし、床下からは大量のフロイトが出土する。時間が反乱を起こしたあとの世界を、断章の連なりとして描いたデビュー作である。数学と物理の語彙を小説の材料として使い切った一冊である。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "2007年版 国内篇 第2位"
+      },
+      {
         "awardId": "pkd",
         "year": 2014,
         "result": "特別賞(英訳版)"
@@ -9466,6 +9802,11 @@
         "awardId": "hayakawa-sf-contest",
         "year": 2013,
         "result": "第1回大賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2014,
+        "result": "2014年版 国内篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -9611,6 +9952,11 @@
         "awardId": "hayakawa-sf-contest",
         "year": 2016,
         "result": "第4回特別賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "2018年版 国内篇 第7位"
       }
     ],
     "externalLinks": {},
@@ -9961,6 +10307,11 @@
         "awardId": "hayakawa-sf-contest",
         "year": 2023,
         "result": "第11回特別賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2024,
+        "result": "2024年版 国内篇 第6位"
       }
     ],
     "externalLinks": {},
@@ -10135,6 +10486,11 @@
         "awardId": "nihon-sf-shinjin",
         "year": 1999,
         "result": "第1回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "2000年版 国内篇 第8位"
       }
     ],
     "externalLinks": {},
@@ -10193,6 +10549,11 @@
         "awardId": "nihon-sf-shinjin",
         "year": 2000,
         "result": "第2回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "2001年版 国内篇 第9位"
       }
     ],
     "externalLinks": {},
@@ -10222,6 +10583,11 @@
         "awardId": "nihon-sf-shinjin",
         "year": 2000,
         "result": "第2回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "2001年版 国内篇 第5位"
       }
     ],
     "externalLinks": {},
@@ -10396,6 +10762,11 @@
         "awardId": "komatsu-sakyo-sho",
         "year": 2002,
         "result": "第3回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "2003年版 国内篇 第5位"
       }
     ],
     "mediaMix": {
@@ -10904,6 +11275,11 @@
         "awardId": "locus",
         "year": 2002,
         "result": "SF長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "2002年版 海外篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -10939,6 +11315,11 @@
         "awardId": "locus",
         "year": 2004,
         "result": "SF長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2006,
+        "result": "2006年版 海外篇 第2位"
       }
     ],
     "externalLinks": {
@@ -10974,6 +11355,11 @@
         "awardId": "locus",
         "year": 2006,
         "result": "SF長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "2009年版 海外篇 第2位"
       }
     ],
     "externalLinks": {
@@ -11042,6 +11428,11 @@
         "awardId": "locus",
         "year": 2012,
         "result": "SF長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "2013年版 海外篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -11316,6 +11707,11 @@
         "awardId": "locus",
         "year": 2001,
         "result": "第一長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2006,
+        "result": "2006年版 海外篇 第4位"
       }
     ],
     "externalLinks": {},
