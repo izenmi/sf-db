@@ -1,11 +1,35 @@
 {
+  "ariel-sasamoto": {
+    "title": "ARIEL",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T03:43:47.195Z"
+  },
+  "ato-wa-no-to-nare": {
+    "title": "あとは野となれ大和撫子",
+    "isbn": "9784041097861",
+    "matchedTitle": "あとは野となれ大和撫子",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7861/9784041097861_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:44:03.043Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16485228/"
+  },
+  "babylonia-wave": {
+    "title": "バビロニア・ウェーブ",
+    "isbn": null,
+    "matchedTitle": "バビロニア・ウェーブ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5258/2000000165258.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:42:21.990Z"
+  },
   "bokko-chan": {
     "title": "ボッコちゃん",
     "isbn": "9784101098012",
     "matchedTitle": "ボッコちゃん",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8012/9784101098012_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:16.447Z"
+    "resolvedAt": "2026-08-11T01:58:16.447Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/138209/"
   },
   "childhoods-end": {
     "title": "幼年期の終り",
@@ -13,7 +37,24 @@
     "matchedTitle": "幼年期の終り",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3415/9784150103415.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:18.808Z"
+    "resolvedAt": "2026-08-11T01:58:18.808Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/93847/"
+  },
+  "dairoku-tairiku": {
+    "title": "第六大陸",
+    "isbn": null,
+    "matchedTitle": "第六大陸２",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8140/2000000168140.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:43:27.301Z"
+  },
+  "dirty-pair-no-daigyakuten": {
+    "title": "ダーティペアの大逆転",
+    "isbn": null,
+    "matchedTitle": "ダーティペアの大逆転",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6242/2000000256242.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:42:13.277Z"
   },
   "do-androids-dream": {
     "title": "アンドロイドは電気羊の夢を見るか?",
@@ -21,7 +62,8 @@
     "matchedTitle": "アンドロイドは電気羊の夢を見るか？",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2296/9784150102296_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:23.240Z"
+    "resolvedAt": "2026-08-11T01:58:23.240Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/3648/"
   },
   "door-into-summer": {
     "title": "夏への扉",
@@ -29,7 +71,61 @@
     "matchedTitle": "夏への扉〔新版〕",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3093/9784150123093_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:20.023Z"
+    "resolvedAt": "2026-08-11T01:58:20.023Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16490956/"
+  },
+  "eien-no-mori": {
+    "title": "永遠の森 博物館惑星",
+    "isbn": null,
+    "matchedTitle": "永遠の森　博物館惑星",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8598/2000000168598.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:43:19.181Z"
+  },
+  "fuwafuwa-no-izumi": {
+    "title": "ふわふわの泉",
+    "isbn": "9784150310745",
+    "matchedTitle": "ふわふわの泉",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0745/9784150310745.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:43:20.332Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11749071/"
+  },
+  "ginga-eiyu-densetsu": {
+    "title": "銀河英雄伝説",
+    "isbn": "9784488725013",
+    "matchedTitle": "銀河英雄伝説（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5013/9784488725013.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:42:18.154Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4302552/"
+  },
+  "good-luck-yukikaze": {
+    "title": "グッドラック、戦闘妖精・雪風",
+    "isbn": "9784150306830",
+    "matchedTitle": "グッドラック　戦闘妖精・雪風",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1503/15030683.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:43:15.653Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1400064/"
+  },
+  "graf-zeppelin": {
+    "title": "グラーフ・ツェッペリン あの夏の飛行船",
+    "isbn": "9784150315559",
+    "matchedTitle": "グラーフ・ツェッペリン　あの夏の飛行船",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5559/9784150315559_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:44:14.787Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17510643/"
+  },
+  "guin-saga": {
+    "title": "グイン・サーガ",
+    "isbn": null,
+    "matchedTitle": "グイン・サーガ１　豹頭の仮面",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2763/2000000192763.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rk/b0fcdfd7e49d4dad9e9d28912b6af951/",
+    "source": "rakuten-kobo",
+    "note": "シリーズ1エントリのため第1巻『豹頭の仮面』の書影を採用。紙が品切のため楽天Kobo版"
   },
   "gyakusatsu-kikan": {
     "title": "虐殺器官",
@@ -37,7 +133,8 @@
     "matchedTitle": "虐殺器官新版",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1650/9784150311650.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:08.200Z"
+    "resolvedAt": "2026-08-11T01:58:08.200Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12879251/"
   },
   "harmony": {
     "title": "ハーモニー",
@@ -45,7 +142,8 @@
     "matchedTitle": "ハーモニー新版",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1667/9784150311667.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:10.564Z"
+    "resolvedAt": "2026-08-11T01:58:10.564Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12879252/"
   },
   "hateshinaki-nagare": {
     "title": "果しなき流れの果に",
@@ -53,7 +151,32 @@
     "matchedTitle": "果しなき流れの果に",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0012/9784150300012_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:04.585Z"
+    "resolvedAt": "2026-08-11T01:58:04.585Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/149542/"
+  },
+  "hikishio-no-toki": {
+    "title": "引き潮のとき",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T03:43:08.262Z"
+  },
+  "honzuki-no-gekokujo": {
+    "title": "本好きの下剋上",
+    "isbn": "9784864728256",
+    "matchedTitle": "本好きの下剋上　第一部　兵士の娘1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8256/9784864728256.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:44:17.358Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15897164/"
+  },
+  "hoseki-dorobo": {
+    "title": "宝石泥棒",
+    "isbn": "9784758438780",
+    "matchedTitle": "宝石泥棒新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8780/9784758438780.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:42:02.595Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13134638/"
   },
   "hyakuoku-no-hiru": {
     "title": "百億の昼と千億の夜",
@@ -61,7 +184,16 @@
     "matchedTitle": "百億の昼と千億の夜",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0004/9784150310004.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:03.428Z"
+    "resolvedAt": "2026-08-11T01:58:03.428Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6445519/"
+  },
+  "hybrid-child": {
+    "title": "ハイブリッド・チャイルド",
+    "isbn": null,
+    "matchedTitle": "ハイブリッド・チャイルド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6252/2000002236252.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:42:26.775Z"
   },
   "inherit-the-stars": {
     "title": "星を継ぐもの",
@@ -69,7 +201,81 @@
     "matchedTitle": "星を継ぐもの【新版】",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3315/9784488663315_1_2.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:24.611Z"
+    "resolvedAt": "2026-08-11T01:58:24.611Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17525105/"
+  },
+  "ishi-no-ketsumyaku": {
+    "title": "石の血脈",
+    "isbn": null,
+    "matchedTitle": "石の血脈",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8733/2000000218733.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:41:25.969Z"
+  },
+  "jogen-no-tsuki-wo-taberu-shishi": {
+    "title": "上弦の月を喰べる獅子",
+    "isbn": "9784150310264",
+    "matchedTitle": "上弦の月を喰べる獅子 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0264/9784150310264.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11112048/",
+    "source": "rakuten-books",
+    "note": "上下巻のため上巻の書影を採用"
+  },
+  "kagami-no-kuni-no-alice": {
+    "title": "鏡の国のアリス",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T03:41:49.418Z"
+  },
+  "kaseijin-senshi": {
+    "title": "火星人先史",
+    "isbn": null,
+    "matchedTitle": "火星人先史",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6983/2000002136983.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:42:06.119Z"
+  },
+  "kirikirijin": {
+    "title": "吉里吉里人",
+    "isbn": "9784101168166",
+    "matchedTitle": "吉里吉里人 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8166/9784101168166.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:42:07.333Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/197200/"
+  },
+  "kishin-heidan": {
+    "title": "機神兵団",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T03:42:53.431Z"
+  },
+  "kororogidake-kara": {
+    "title": "コロロギ岳から木星トロヤへ",
+    "isbn": "9784150311049",
+    "matchedTitle": "コロロギ岳から木星トロヤへ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1049/9784150311049.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:43:59.187Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12212028/"
+  },
+  "kyonen-wa-ii-toshi": {
+    "title": "去年はいい年になるだろう",
+    "isbn": "9784569678870",
+    "matchedTitle": "去年はいい年になるだろう（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8870/9784569678870_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:43:55.730Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11875081/"
+  },
+  "man-kind": {
+    "title": "マン・カインド",
+    "isbn": "9784152103185",
+    "matchedTitle": "マン・カインド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3185/9784152103185_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:44:12.456Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17933817/"
   },
   "mardock-scramble": {
     "title": "マルドゥック・スクランブル",
@@ -78,7 +284,25 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1536/9784152091536.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T01:58:14.117Z",
-    "note": "書影は〔改訂新版〕。同一作品の改訂版なので採用。"
+    "note": "書影は〔改訂新版〕。同一作品の改訂版なので採用。",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6692996/"
+  },
+  "mersas-no-shonen": {
+    "title": "メルサスの少年",
+    "isbn": null,
+    "matchedTitle": "メルサスの少年　螺旋の街の物語",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5176/2000016655176.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:42:30.334Z"
+  },
+  "nanase-futatabi": {
+    "title": "七瀬ふたたび",
+    "isbn": "9784101171074",
+    "matchedTitle": "七瀬ふたたび",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10117107.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:41:54.191Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/3592086/"
   },
   "nippon-chinbotsu": {
     "title": "日本沈没",
@@ -87,7 +311,26 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0650/9784094080650_1_4.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T01:58:02.253Z",
-    "note": "登録は光文社(カッパ・ノベルス初刊)だが、書影は小学館文庫版の上巻。作品として同一なので採用。"
+    "note": "登録は光文社(カッパ・ノベルス初刊)だが、書影は小学館文庫版の上巻。作品として同一なので採用。",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/3696456/"
+  },
+  "nippon-chinbotsu-dainibu": {
+    "title": "日本沈没・第二部",
+    "isbn": "9784094082746",
+    "matchedTitle": "日本沈没 第二部〔小学館文庫〕（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2746/9784094082746_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:43:52.222Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5730918/"
+  },
+  "onshu-seiiki": {
+    "title": "怨讐星域",
+    "isbn": "9784150311926",
+    "matchedTitle": "怨讐星域 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1926/9784150311926.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:44:00.325Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13251757/"
   },
   "orbital-cloud": {
     "title": "オービタル・クラウド",
@@ -95,7 +338,101 @@
     "matchedTitle": "オービタル・クラウド",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4445/9784152094445.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:17.625Z"
+    "resolvedAt": "2026-08-11T01:58:17.625Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12646860/"
+  },
+  "ore-no-chi-wa-tanin-no-chi": {
+    "title": "おれの血は他人の血",
+    "isbn": null,
+    "matchedTitle": "おれの血は他人の血（新潮文庫）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9779/2000001639779.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:41:53.013Z"
+  },
+  "owarinaki-sakuteki": {
+    "title": "終わりなき索敵",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T03:42:38.409Z"
+  },
+  "prism-kambayashi": {
+    "title": "プリズム",
+    "isbn": null,
+    "matchedTitle": "プリズム",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8620/2000000198620.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:42:16.937Z"
+  },
+  "protocol-of-humanity": {
+    "title": "プロトコル・オブ・ヒューマニティ",
+    "isbn": "9784152101785",
+    "matchedTitle": "プロトコル・オブ・ヒューマニティ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1785/9784152101785_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:44:13.629Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17255793/"
+  },
+  "rakuin-no-na-wa-hito": {
+    "title": "烙印の名はヒト",
+    "isbn": "9784152104137",
+    "matchedTitle": "烙印の名はヒト",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4137/9784152104137_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:44:18.524Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18114015/"
+  },
+  "reichourui-minami-e": {
+    "title": "霊長類南へ",
+    "isbn": "9784041071403",
+    "matchedTitle": "霊長類 南へ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1403/9784041071403_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:41:20.853Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15522849/"
+  },
+  "reigokin": {
+    "title": "零號琴",
+    "isbn": "9784150314965",
+    "matchedTitle": "零號琴 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4965/9784150314965_1_23.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16776164/",
+    "source": "rakuten-books",
+    "note": "上下巻のため上巻の書影を採用"
+  },
+  "saikoro-tokkotai": {
+    "title": "サイコロ特攻隊",
+    "isbn": null,
+    "matchedTitle": "サイコロ特攻隊",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6687/2000003626687.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:41:57.780Z"
+  },
+  "sayonara-jupiter": {
+    "title": "さよならジュピター",
+    "isbn": "9784894565227",
+    "matchedTitle": "さよならジュピター（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5227/9784894565227.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:42:08.517Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1061491/"
+  },
+  "seikai-no-monsho": {
+    "title": "星界の紋章",
+    "isbn": "9784150305475",
+    "matchedTitle": "星界の紋章1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5475/9784150305475.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:43:09.513Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/796897/"
+  },
+  "seikei-izumo-no-heitan": {
+    "title": "星系出雲の兵站",
+    "isbn": "9784150313401",
+    "matchedTitle": "星系出雲の兵站 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3401/9784150313401.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:44:06.512Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15540829/"
   },
   "sento-yosei-yukikaze": {
     "title": "戦闘妖精・雪風",
@@ -104,7 +441,8 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1503/15030692.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T01:58:07.020Z",
-    "note": "書影は2002年の改訂版〈改〉(ハヤカワ文庫)。登録した1984年版と同一作品の改訂版なので採用。"
+    "note": "書影は2002年の改訂版〈改〉(ハヤカワ文庫)。登録した1984年版と同一作品の改訂版なので採用。",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1434981/"
   },
   "shinsekai-yori": {
     "title": "新世界より",
@@ -113,7 +451,26 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8535/9784062768535_1_15.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T01:58:12.932Z",
-    "note": "上下巻のため上巻の書影を採用。"
+    "note": "上下巻のため上巻の書影を採用。",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6943986/"
+  },
+  "shisha-no-teikoku": {
+    "title": "屍者の帝国",
+    "isbn": "9784309021263",
+    "matchedTitle": "屍者の帝国",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1263/9784309021263.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:43:58.038Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11787231/"
+  },
+  "shometsu-no-korin": {
+    "title": "消滅の光輪",
+    "isbn": null,
+    "matchedTitle": "消滅の光輪 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2880/2000015882880.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rk/45e65e884f2d3ccc8b72a1a453ef043b/",
+    "source": "rakuten-kobo",
+    "note": "上下巻のため上巻の書影を採用。紙が絶版のため楽天Kobo版(書影は東京創元社版、初刊は早川書房)"
   },
   "solaris": {
     "title": "ソラリス",
@@ -121,7 +478,8 @@
     "matchedTitle": "ソラリス",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0009/9784150120009_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:21.936Z"
+    "resolvedAt": "2026-08-11T01:58:21.936Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13178421/"
   },
   "stories-of-your-life": {
     "title": "あなたの人生の物語",
@@ -129,7 +487,68 @@
     "matchedTitle": "あなたの人生の物語",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4589/9784150114589.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:27.041Z"
+    "resolvedAt": "2026-08-11T01:58:27.041Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1595071/"
+  },
+  "suisei-gari": {
+    "title": "彗星狩り",
+    "isbn": "9784488741105",
+    "matchedTitle": "彗星狩り 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1105/9784488741105_1_2.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16936146/",
+    "source": "rakuten-books",
+    "note": "上下巻のため上巻の書影を採用(書影は東京創元社の新版、初刊は朝日ソノラマ)"
+  },
+  "summer-time-traveller": {
+    "title": "サマー/タイム/トラベラー",
+    "isbn": null,
+    "matchedTitle": "サマー／タイム／トラベラー１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5807/2000000165807.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:43:51.094Z"
+  },
+  "taiyo-no-sandatsusha": {
+    "title": "太陽の簒奪者",
+    "isbn": null,
+    "matchedTitle": "太陽の簒奪者",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2800/2000000202800.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:43:23.779Z"
+  },
+  "teki-wa-kaizoku-a-kyu-no-teki": {
+    "title": "敵は海賊・A級の敵",
+    "isbn": null,
+    "matchedTitle": "敵は海賊・A級の敵",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0830/2000000250830.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:43:13.317Z"
+  },
+  "teki-wa-kaizoku-kaizokuban": {
+    "title": "敵は海賊・海賊版",
+    "isbn": "9784150310080",
+    "matchedTitle": "敵は海賊・海賊版ーDEHUMANIZE",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0080/9784150310080.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:42:09.716Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6640526/"
+  },
+  "tengoku-to-jikoku": {
+    "title": "天獄と地国",
+    "isbn": "9784150310301",
+    "matchedTitle": "天獄と地国",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0301/9784150310301.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:43:56.882Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11127004/"
+  },
+  "tenmei-no-shirube": {
+    "title": "天冥の標",
+    "isbn": "9784150309688",
+    "matchedTitle": "天冥の標（1　〔上〕）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9688/9784150309688.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:44:05.361Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6189607/"
   },
   "the-martian": {
     "title": "火星の人",
@@ -138,7 +557,8 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0436/9784150120436.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T01:58:28.689Z",
-    "note": "新版の上下巻のため上巻の書影を採用。"
+    "note": "新版の上下巻のため上巻の書影を採用。",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13514839/"
   },
   "three-body": {
     "title": "三体",
@@ -146,7 +566,8 @@
     "matchedTitle": "三体",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4342/9784150124342_1_3.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:31.219Z"
+    "resolvedAt": "2026-08-11T01:58:31.219Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17752281/"
   },
   "toki-wo-kakeru-shojo": {
     "title": "時をかける少女",
@@ -155,7 +576,43 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5218/9784041305218.jpg?_ex=400x400",
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T01:58:05.836Z",
-    "note": "書影は角川文庫の新装版。初刊(盛光社1967)と同一作品なので採用。"
+    "note": "書影は角川文庫の新装版。初刊(盛光社1967)と同一作品なので採用。",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4045918/"
+  },
+  "toshokan-senso": {
+    "title": "図書館戦争",
+    "isbn": "9784043898053",
+    "matchedTitle": "図書館戦争 図書館戦争シリーズ（1）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8053/9784043898053_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:43:53.418Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11164201/"
+  },
+  "tsugu-nowa-dareka": {
+    "title": "継ぐのは誰か?",
+    "isbn": "9784198947651",
+    "matchedTitle": "小松左京“21世紀”セレクション3　継ぐのは誰か？／ヴォミーサ　【技術革新〜さらに彼方の明日】編",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7651/9784198947651_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:41:22.140Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17208299/"
+  },
+  "tsuki-to-laika": {
+    "title": "月とライカと吸血姫",
+    "isbn": null,
+    "matchedTitle": "月とライカと吸血姫（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7874/2000006887874.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T03:44:09.999Z"
+  },
+  "ultraman-f": {
+    "title": "ウルトラマンF",
+    "isbn": "9784150313463",
+    "matchedTitle": "ウルトラマンF",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3463/9784150313463.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T03:44:01.466Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15576797/"
   },
   "yokohama-eki-sf": {
     "title": "横浜駅SF",
@@ -163,6 +620,7 @@
     "matchedTitle": "横浜駅SF",
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1576/9784040721576_1_8.jpg?_ex=400x400",
     "source": "rakuten-books",
-    "resolvedAt": "2026-08-11T01:58:15.276Z"
+    "resolvedAt": "2026-08-11T01:58:15.276Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14539606/"
   }
 }
