@@ -13093,5 +13093,376 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "permutation-city",
+    "title": "順列都市",
+    "titleKana": "じゅんれつとし",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "virtual-reality",
+      "hard-sf",
+      "ai"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1994,
+    "jpPublishedYear": 1999,
+    "originalTitle": "Permutation City",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "ソフトウェア設計者のマリア・デルカに、思いもよらない依頼が舞い込む。天才的な人工生命研究者ランバートが構想する人工宇宙オートヴァースの内部に、惑星ひとつと、そこから高い知能へ進化しうる原始有機体を設計してほしいというのだ。地球中の計算機を集めても走らせられないはずのプログラムを作る目的とは何なのか。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1999,
+        "result": "ベストSF1999 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "inori-no-umi",
+    "title": "祈りの海",
+    "titleKana": "いのりのうみ",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "religion-sf",
+      "virtual-reality"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1998,
+    "jpPublishedYear": 2000,
+    "originalTitle": "Oceanic",
+    "status": "completed",
+    "synopsis": "二万年前に惑星コヴナントへ移住し、聖ベアトリスを信奉する社会を築いた人類の子孫たち。微小生物の研究を始めた敬虔な信者マーティンは、信仰の根拠そのものに触れてしまう。ヒューゴー賞とローカス賞を受けた表題作のほか、頭のなかに人格のバックアップ用宝石を持つ人類を描く「ぼくになることを」など全十編を収める。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "ベストSF2001 海外篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "taklamakan",
+    "title": "タクラマカン",
+    "titleKana": "たくらまかん",
+    "authorIds": [
+      "bruce-sterling"
+    ],
+    "translatorIds": [
+      "ogawa-takashi",
+      "omori-nozomi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "cyberpunk"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1998,
+    "jpPublishedYear": 2001,
+    "originalTitle": "Taklamakan",
+    "status": "completed",
+    "synopsis": "中国の砂漠の地下に隠された巨大施設へ、二人の工作員が潜入する。そこで彼らが目にしたのは、外の世界を知らないまま何世代も暮らしてきた人々だった。ヒューゴー賞を受けた表題作のほか、技術と政治が絡み合う近未来を切り取った作品を収める。サイバーパンク以降のスターリングの仕事を見渡せる短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "ベストSF2001 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shiawase-no-riyu",
+    "title": "しあわせの理由",
+    "titleKana": "しあわせのりゆう",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "hard-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "jpPublishedYear": 2003,
+    "originalTitle": "Reasons to Be Cheerful",
+    "status": "completed",
+    "synopsis": "十二歳の誕生日を過ぎてまもなく、ぼくはいつもしあわせな気分でいるようになった。脳内の化学物質によって感情が左右されることの意味を探る表題作をはじめ、仮想のボールで量子サッカーに興じる未来を描くローカス賞受賞作「ボーダー・ガード」、事故で脳だけが助かった夫を妻が取り戻そうとする「適切な愛」など全九編を収める。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "ベストSF2003 海外篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "umi-o-ushinatta-otoko",
+    "title": "海を失った男",
+    "titleKana": "うみをうしなったおとこ",
+    "authorIds": [
+      "theodore-sturgeon"
+    ],
+    "translatorIds": [
+      "wakashima-tadashi"
+    ],
+    "publisherId": "shobunsha",
+    "themeIds": [
+      "short-stories",
+      "space-development",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1959,
+    "jpPublishedYear": 2003,
+    "originalTitle": "The Man Who Lost the Sea",
+    "status": "completed",
+    "synopsis": "砂浜に横たわる男が、意識の断片をつなぎ合わせながら自分がどこにいるのかを確かめようとする。少年時代の記憶と、いまここで起きていることが交互に差し込まれ、最後にひとつの像を結ぶ表題作。ほかに「ビアンカの手」など、愛と孤独を抒情的に描いた作品を収める。スタージョンの代表的な短編を集めた一冊である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "ベストSF2003 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-prestige",
+    "title": "奇術師",
+    "titleKana": "きじゅつし",
+    "authorIds": [
+      "christopher-priest"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "denki-sf",
+      "parallel-world",
+      "alternate-history"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1995,
+    "jpPublishedYear": 2004,
+    "originalTitle": "The Prestige",
+    "status": "completed",
+    "synopsis": "十九世紀の奇術師ルパート・アンジャーとアルフレッド・ボーデンは、互いの舞台を妨害し合う因縁を長く引きずっていた。二人の日記を、現代に生きる曾孫のケイトとアンドルーが読み解いていく。瞬間移動を謳う演目の秘密をめぐって、二人の記述はどこかで食い違う。事実と虚構の境を揺らし続ける著者の代表作であり、ノーラン監督の映画版の原作としても知られる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "ベストSF2004 海外篇 第2位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tuf-voyaging",
+    "title": "タフの方舟",
+    "titleKana": "たふのはこぶね",
+    "authorIds": [
+      "george-rr-martin"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "genetic-engineering",
+      "satire-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1986,
+    "jpPublishedYear": 2005,
+    "originalTitle": "Tuf Voyaging",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "巨体で猫好きの商人ハヴィランド・タフが、生態系を丸ごと作り替えられる古代の種子船〈方舟〉を手に入れてしまう。惑星の飢餓や害獣に悩む依頼人のもとを訪れては、生物兵器めいた解決策を淡々と提示していく。生態系という巨大な仕組みを一人の判断で書き換えられてしまう不気味さと、タフの飄々とした態度との落差が可笑しい。絶対的な力を握った個人と環境をめぐる、黒い笑いに満ちた連作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2005,
+        "result": "ベストSF2005 海外篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "revelation-space",
+    "title": "啓示空間",
+    "titleKana": "けいじくうかん",
+    "authorIds": [
+      "alastair-reynolds"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "hard-sf",
+      "alien"
+    ],
+    "seriesName": "レヴェレーション・スペース",
+    "origin": "overseas",
+    "firstPublishedYear": 2000,
+    "jpPublishedYear": 2005,
+    "originalTitle": "Revelation Space",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "内部に啓示空間があり、驚異的な技術が隠されているという謎の空間シュラウド。そこから唯一生還したダン・シルヴェステは、リサーガム星で異星種族の遺跡を発掘するうち、その絶滅の原因を解く鍵として中性子星ハデスを指し示す手がかりを得る。九十九万年前の絶滅の謎と巨大ラム・シップ内の暗闘が絡み合う長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2005,
+        "result": "ベストSF2005 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "death-doctor-island",
+    "title": "デス博士の島その他の物語",
+    "titleKana": "ですはかせのしまそのたのものがたり",
+    "authorIds": [
+      "gene-wolfe"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "parallel-world"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1970,
+    "jpPublishedYear": 2006,
+    "originalTitle": "The Island of Doctor Death and Other Stories",
+    "status": "completed",
+    "synopsis": "本を最初から読みはじめれば、みんな帰ってくる。孤独な少年のもとに物語の登場人物が訪れる表題作をはじめ、治療を目的とした島での少年たちの非情な運命を詩情豊かに描くネビュラ賞受賞作「アイランド博士の死」、冷凍睡眠から目覚めた男を待つものを描く一編など、ウルフの代表的な中短編を収める。語り手の言葉をどこまで信じてよいのか分からなくなる仕掛けが、どの編にも周到に仕込まれている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2006,
+        "result": "ベストSF2006 海外篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "singularity-sky",
+    "title": "シンギュラリティ・スカイ",
+    "titleKana": "しんぎゅらりてぃすかい",
+    "authorIds": [
+      "charles-stross"
+    ],
+    "translatorIds": [
+      "kaneko-hiroshi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "ai",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "jpPublishedYear": 2006,
+    "originalTitle": "Singularity Sky",
+    "status": "completed",
+    "synopsis": "アップロードされた精神の集合体である〈フェスティヴァル〉が、新共和国の辺境植民地ロチャーズ・ワールドに到来する。それは星系の物質を分解して滞在用の技術を作り、住民には禁制の携帯電話を軌道上からばらまきはじめた。望むものを何でも与える代わりに、社会の仕組みそのものを作り替えてしまう来訪者。情報が一気に流れ込んだ農業惑星が音を立てて崩れていく様子を描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2006,
+        "result": "ベストSF2006 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hitorikko",
+    "title": "ひとりっ子",
+    "titleKana": "ひとりっこ",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "hard-sf",
+      "ai"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "jpPublishedYear": 2006,
+    "originalTitle": "Singleton",
+    "status": "completed",
+    "synopsis": "この子がわたしの娘なの、生まれるのがほんの何年か遅くなったけれど。待望の第一子を失った科学者夫婦が選んだ行動を、子への無償の愛と量子論を絡めて描く表題作。ほかに星雲賞を受けた数学SF「ルミナス」、著者が追い続けてきた自己同一性の主題を突き詰めた「ふたりの距離」など、本邦初訳を含む作品を収める。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "ベストSF2007 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

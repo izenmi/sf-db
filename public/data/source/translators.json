@@ -758,5 +758,16 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "wakashima-tadashi",
+    "name": "若島正",
+    "nameKana": "わかしままさし",
+    "description": "英文学者・翻訳家・詰将棋作家。ナボコフやスタージョンの翻訳で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/若島正"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
