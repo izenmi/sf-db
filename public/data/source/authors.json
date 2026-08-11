@@ -2692,5 +2692,61 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "harlan-ellison",
+    "name": "ハーラン・エリスン",
+    "nameKana": "えりすんはーらん",
+    "description": "アメリカの作家。過激な言動でも知られ、極彩色と評される華麗な文体で数々の賞を受けた。",
+    "birthYear": 1934,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハーラン・エリスン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "lucius-shepard",
+    "name": "ルーシャス・シェパード",
+    "nameKana": "しぇぱーどるーしゃす",
+    "description": "アメリカの作家。中南米を舞台にした濃密な幻想と、〈竜のグリオール〉連作で知られる。",
+    "birthYear": 1943,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ルーシャス・シェパード"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "amal-el-mohtar",
+    "name": "アマル・エル＝モフタール",
+    "nameKana": "えるもふたーるあまる",
+    "description": "カナダの作家・詩人。詩的な文体の中短編で知られる。",
+    "birthYear": 1984,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "max-gladstone",
+    "name": "マックス・グラッドストーン",
+    "nameKana": "ぐらっどすとーんまっくす",
+    "description": "アメリカの作家。法と魔術を接続した〈クラフト・シークエンス〉で知られる。",
+    "birthYear": 1984,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jeffrey-ford",
+    "name": "ジェフリー・フォード",
+    "nameKana": "ふぉーどじぇふりー",
+    "description": "アメリカの作家。世界幻想文学大賞を何度も受けた現代幻想文学の書き手。",
+    "birthYear": 1955,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェフリー・フォード"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

@@ -778,5 +778,27 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yamada-kazuko",
+    "name": "山田和子",
+    "nameKana": "やまだかずこ",
+    "description": "英米のSFを訳した翻訳家・編集者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山田和子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tanigaki-akemi",
+    "name": "谷垣暁美",
+    "nameKana": "たにがきあけみ",
+    "description": "英米の幻想文学を訳した翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/谷垣暁美"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

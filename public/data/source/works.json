@@ -13767,5 +13767,343 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shi-no-tori",
+    "title": "死の鳥",
+    "titleKana": "しのとり",
+    "authorIds": [
+      "harlan-ellison"
+    ],
+    "translatorIds": [
+      "ito-norio"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "far-future",
+      "religion-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1973,
+    "jpPublishedYear": 2016,
+    "originalTitle": "The Deathbird",
+    "status": "completed",
+    "synopsis": "地球最後の人間となった男が、犬とともに世界の終わりへ向かう。創世の物語を裏返しに語り直した表題作は、ヒューゴー賞を受けたエリスンの代表作である。ほかに「「悔い改めよ、ハーレクィン!」とチクタクマンは言った」など、華麗な技巧と激烈な語り口で知られる作家の代表作を精選した日本オリジナル短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "ベストSF2016 海外篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-adjacent",
+    "title": "隣接界",
+    "titleKana": "りんせつかい",
+    "authorIds": [
+      "christopher-priest"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi",
+      "miki-yoko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "parallel-world",
+      "near-future",
+      "alternate-history"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2013,
+    "jpPublishedYear": 2017,
+    "originalTitle": "The Adjacent",
+    "status": "completed",
+    "synopsis": "近未来のイギリス。フリーカメラマンのティボー・タラントは、取材に赴いたトルコで反政府ゲリラの襲撃に遭い、最愛の妻を失う。本国へ送還された彼のまわりで、世界は少しずつ歪みはじめた。第一次大戦の飛行場、第二次大戦下のイギリス、そして未来。複数の時代が同じ構造を反復する、著者の集大成的な長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "ベストSF2017 海外篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "memories-of-my-mother",
+    "title": "母の記憶に",
+    "titleKana": "ははのきおくに",
+    "authorIds": [
+      "ken-liu"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi",
+      "miki-yoko",
+      "ichida-izumi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "ai"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2012,
+    "jpPublishedYear": 2017,
+    "originalTitle": "Memories of My Mother",
+    "status": "completed",
+    "synopsis": "不治の病を得た母が、娘のために選んだ行動をつづる表題作。娼婦を狙う殺人犯を追う「レギュラー」。単行本版から九編を選んだ短編集である。技術がもたらす選択肢が、家族や記憶といった古い結びつきをどう変えるのかを、静かな筆致で描き分けていく。『紙の動物園』に続く日本オリジナル編集の作品集で、中国の歴史や移民の経験を扱った作品も多く収められている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "ベストSF2017 海外篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "echopraxia",
+    "title": "エコープラクシア 反響動作",
+    "titleKana": "えこーぷらくしあはんきょうどうさ",
+    "authorIds": [
+      "peter-watts"
+    ],
+    "translatorIds": [
+      "shimada-yoichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "hard-sf",
+      "alien",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "jpPublishedYear": 2017,
+    "originalTitle": "Echopraxia",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "太陽系の外縁で意識を持たない知的生命体と接触したのち消息を絶ったはずの宇宙船〈テーセウス〉から、謎の通信がイカロス衛星網に届く。太陽近傍のイカロスへ向かった両球派と吸血鬼ヴァレリーの狙いは、小惑星群の天使だという。超越知性たちの熾烈な生存戦略が盤上で交錯する、『ブラインドサイト』と対になる長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "ベストSF2017 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "man-who-painted-griaule",
+    "title": "竜のグリオールに絵を描いた男",
+    "titleKana": "りゅうのぐりおーるにえをかいたおとこ",
+    "authorIds": [
+      "lucius-shepard"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "takeshobo",
+    "themeIds": [
+      "sf-fantasy",
+      "short-stories",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1984,
+    "jpPublishedYear": 2018,
+    "originalTitle": "The Man Who Painted the Dragon Griaule",
+    "status": "completed",
+    "synopsis": "全長一マイルにも及ぶ巨大な竜グリオール。数千年前に魔法使いとの戦いに敗れて動けなくなった彼の体は草木と土に覆われ、川が流れ、その上には村までできている。だが周囲に住む人々は、竜がいまも意思を持っていることを知っていた。毒を含んだ絵の具で竜を殺そうとする画家を描く表題作を含む連作短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "ベストSF2018 海外篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "seveneves",
+    "title": "七人のイヴ",
+    "titleKana": "しちにんのいゔ",
+    "authorIds": [
+      "neal-stephenson"
+    ],
+    "translatorIds": [
+      "higurashi-masamichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "space-development",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2015,
+    "jpPublishedYear": 2018,
+    "originalTitle": "Seveneves",
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "月が七つに分裂してから二年後、降り注ぐ破片によって地球は死の世界と化し、生き残ったのは軌道上の〈クラウド・アーク〉にいる千五百人だけとなった。だが思想の違いから集団は分裂し、火星移住を目論む一派が独自に動きはじめる。人類を二分する争いを経て、物語は五千年後の世界へと跳ぶ。軌道力学と工学の描写を徹底的に積み上げたうえで、種の存続そのものを主題に据えた大作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "ベストSF2018 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kyosei-watts",
+    "title": "巨星 ピーター・ワッツ傑作選",
+    "titleKana": "きょせいぴーたーわっつけっさくせん",
+    "authorIds": [
+      "peter-watts"
+    ],
+    "translatorIds": [
+      "shimada-yoichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "short-stories",
+      "hard-sf",
+      "alien"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2009,
+    "jpPublishedYear": 2019,
+    "originalTitle": "The Island",
+    "status": "completed",
+    "synopsis": "恒星をめぐる想像を絶する生態の生命体との邂逅を描き、ヒューゴー賞を受けた中編「島」。驚愕の一人称で語られる「遊星からの物体Xの回想」。任務のために実験的な意識を与えられた無人軍用ドローンの行き着く先を描く「天使」。生物学の知見を容赦なく突きつけるハードSF十一編を厳選した日本オリジナル短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "ベストSF2019 海外篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "exhalation",
+    "title": "息吹",
+    "titleKana": "いぶき",
+    "authorIds": [
+      "ted-chiang"
+    ],
+    "translatorIds": [
+      "omori-nozomi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "hard-sf",
+      "ai"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2019,
+    "jpPublishedYear": 2019,
+    "originalTitle": "Exhalation",
+    "status": "completed",
+    "synopsis": "人工知能の未来の姿を長い時間をかけて描く「ソフトウェア・オブジェクトのライフサイクル」、人間がひとりも出てこない世界でその成り立ちを探究する科学者を描く表題作。ひとつの思考実験を丁寧に育て上げ、そこから倫理と情感を引き出していく著者の第二短編集で、九編を収める。ヒューゴー賞・ローカス賞・星雲賞など数々の賞を受けた。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "ベストSF2020 海外篇 第1位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/息吹 (短編集)"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "time-war",
+    "title": "こうしてあなたたちは時間戦争に負ける",
+    "titleKana": "こうしてあなたたちはじかんせんそうにまける",
+    "authorIds": [
+      "amal-el-mohtar",
+      "max-gladstone"
+    ],
+    "translatorIds": [
+      "yamada-kazuko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "parallel-world",
+      "gender-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2019,
+    "jpPublishedYear": 2021,
+    "originalTitle": "This Is How You Lose the Time War",
+    "status": "completed",
+    "synopsis": "あらゆる時間と並行世界の覇権をめぐって争う二大勢力。〈エージェンシー〉の工作員レッドと、〈ガーデン〉の工作員ブルーは、いくつもの時間線で互いを好敵手として意識するうち、秘密裏に手紙を交わす関係になっていく。敵同士が書き残す挑発は、いつしか相手だけに宛てた言葉へ変わっていく。書簡体で綴られる、超絶技巧の多世界解釈SFである。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "ベストSF2021 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "last-triangle",
+    "title": "最後の三角形 ジェフリー・フォード短篇傑作選",
+    "titleKana": "さいごのさんかっけいじぇふりーふぉーどたんぺんけっさくせん",
+    "authorIds": [
+      "jeffrey-ford"
+    ],
+    "translatorIds": [
+      "tanigaki-akemi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "sf-fantasy"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2012,
+    "jpPublishedYear": 2023,
+    "originalTitle": "The Last Triangle",
+    "status": "completed",
+    "synopsis": "アコースティックギターの調べが目の前に金色の雨として現れ、指で絹をなでればレモンメレンゲの風味がする。世界幻想文学大賞に七回、シャーリイ・ジャクスン賞に四回輝いた現代幻想文学の巨人による、郷愁と畏怖と偏愛に満ちた十四編を収める。幻想と現実の継ぎ目が分からないまま話が進み、読み終えたあとに感触だけが残る。日本オリジナル編集の傑作選である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2023,
+        "result": "ベストSF2023 海外篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
