@@ -1222,5 +1222,1072 @@
     },
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hybrid-child",
+    "title": "ハイブリッド・チャイルド",
+    "titleKana": "はいぶりっどちゃいると",
+    "authorIds": [
+      "ohara-mariko"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "cyborg",
+      "genetic-engineering"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "アディアプトロン機械帝国との長い戦争に決着をつけるため、軍の施設で最終兵器がひそかに開発されていた。組み換え自在の特殊金属を骨組みとし、バイオ技術で育てた細胞を肉としたその存在は、やがて研究所を脱走する。兵器として作られたものが自らの生を選び直していく過程を、母性と身体の主題に重ねて描いた長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1991,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mersas-no-shonen",
+    "title": "メルサスの少年",
+    "titleKana": "めるさすのしょうねん",
+    "authorIds": [
+      "suga-hiroe"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "far-future",
+      "genetic-engineering"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "異形の遊女たちが春をひさぐ歓楽の街メルルキサス。子を宿せないはずの「メルサスの女」から生まれた少年イェノムの背には、出来そこないの翼のようなふたつの瘤があった。生まれつきの異形を抱えた者たちが身を寄せ合う街を舞台に、生殖と美をめぐる主題を静かな筆致で描く。著者の初期を代表する長編である。翼を持たぬ者ばかりの世界で異形に生まれた者は何を選べるのかを問い続ける。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1992,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "owarinaki-sakuteki",
+    "title": "終わりなき索敵",
+    "titleKana": "おわりなきさくてき",
+    "authorIds": [
+      "tani-koushuu"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "military-sf",
+      "space-development"
+    ],
+    "seriesName": "航空宇宙軍史シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "航空宇宙軍と外惑星連合が二度にわたって衝突した外惑星動乱。その戦域で、索敵という地味な任務に就く者たちの持久戦が続いていた。ワープの類を一切持たず、相対軌道と相対速度そのものを武器に変える戦闘、年単位を要する航行。今日の科学の延長線上にある宇宙戦争を積み上げてきた「航空宇宙軍史」シリーズの長編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1994,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/航空宇宙軍史"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは日本語版Wikipediaの当該記事を下敷きに独自要約した。日本語版Wikipedia「航空宇宙軍史」でシリーズの設定と本作の位置づけを確認した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kishin-heidan",
+    "title": "機神兵団",
+    "titleKana": "きしんへいだん",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "chuokoron-sha",
+    "themeIds": [
+      "robot",
+      "alien",
+      "military-sf"
+    ],
+    "seriesName": "機神兵団",
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "1937年の上海。日本軍の陸戦隊が、突如あらわれた正体不明の敵に襲撃される。かろうじて撃退したものの、残されたロボット兵士の残骸からは、プログラムを自己増殖させる機構が見つかった。第二次大戦前夜の東アジアを舞台に、異星の技術と人類の戦争が交錯する架空戦史ロボットSFの長編シリーズ。巨大ロボットの活劇と、史実に寄り添った戦間期の空気とが同居している。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1995,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/機神兵団"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは日本語版Wikipediaの当該記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hikishio-no-toki",
+    "title": "引き潮のとき",
+    "titleKana": "ひきしおのとき",
+    "authorIds": [
+      "mayumura-taku"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "far-future"
+    ],
+    "seriesName": "司政官シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "volumeCount": 5,
+    "synopsis": "人類が数多くの惑星へ植民した時代。征服と軍政を担ってきた連邦軍に代わり、連邦経営機構が統治のために送り込む文官が「司政官」である。撤退期に入った植民惑星で、司政官は現地社会と本国の要求の板挟みになりながら統治を畳んでいく。組織と個人の関係を書き続けた著者による、シリーズ最長の大作。統治を始める物語ではなく、統治を終わらせる物語であるところに本作の特色がある。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1996,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/司政官"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは日本語版Wikipediaの当該記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "seikai-no-monsho",
+    "title": "星界の紋章",
+    "titleKana": "せいかいのもんしょう",
+    "authorIds": [
+      "morioka-hiroyuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "military-sf"
+    ],
+    "seriesName": "星界シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "宇宙に版図を広げる星間国家「アーヴによる人類帝国」。故郷の惑星が無血で接収され、貴族の身分を与えられた少年ジント・リンは、士官学校へ向かう旅の途上で皇女ラフィールと出会う。折しも帝国と諸国連合のあいだで戦端が開かれ、ふたりは敵地となった惑星からの脱出行を強いられる。人工言語まで設計された星間叙事詩の開幕編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1997,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星界の紋章"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "teki-wa-kaizoku-a-kyu-no-teki",
+    "title": "敵は海賊・A級の敵",
+    "titleKana": "てきはかいぞくえーきゅうのてき",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "ai"
+    ],
+    "seriesName": "敵は海賊シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "どの星系にも属さず星から星へ渡り歩く宇宙キャラバンのひとつが、跡形もなく破壊された。居住船を兼ねた司令船を中心に、数十から数百の動力付きコンテナを丸ごと壊滅させる——並の相手にできる芸当ではない。海賊課の刑事ラテルとアプロが、規格外の敵を追って動きだす。長寿シリーズの一編。軽妙な会話の応酬の下に、知性とは何かという著者らしい問いが流れている。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1998,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/敵は海賊"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "suisei-gari",
+    "title": "彗星狩り",
+    "titleKana": "すいせいがり",
+    "authorIds": [
+      "sasamoto-yuichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-development",
+      "hard-sf",
+      "near-future"
+    ],
+    "seriesName": "星のパイロットシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "接近する彗星をめぐって、民間の宇宙船会社各社が同時に船を送り出す。地球からの航空妨害、進路に降りそそぐ流星群。四隻の宇宙船は無事に彗星へたどり着けるのか。宇宙開発を国家ではなく民間の商売として描き、取材に裏打ちされた技術描写で読ませる「星のパイロット」シリーズ第2作である。資源としての彗星をめぐる競争が、そのまま宇宙開発の経済を描くことになっている。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1999,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "good-luck-yukikaze",
+    "title": "グッドラック、戦闘妖精・雪風",
+    "titleKana": "ぐっどらっくせんとうようせいゆきかぜ",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "ai",
+      "alien"
+    ],
+    "seriesName": "雪風シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "戦術戦闘電子偵察機・雪風とパイロットの深井零は、正体不明の異星体ジャムとの戦闘を重ねていた。だが、ある作戦行動のさなかに被弾した雪風は、零を機外へ射出する。機械が下したその判断の意味を零は問い続ける。人間と機械のどちらが主体なのかを突き詰める、シリーズ第2部にあたる長編。戦闘機と搭乗員の関係を軸に、シリーズの主題がさらに深く掘り下げられる。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2000,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/戦闘妖精・雪風"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "eien-no-mori",
+    "title": "永遠の森 博物館惑星",
+    "titleKana": "えいえんのもりはくぶつかんわくせい",
+    "authorIds": [
+      "suga-hiroe"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "ai",
+      "short-stories"
+    ],
+    "seriesName": "博物館惑星シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "地球の衛星軌道に浮かぶ巨大博物館アフロディーテ。全世界のあらゆる芸術品が収められたこの施設では、データベースに直接接続した学芸員たちが分析と鑑定を通じて美を追い続けている。持ち込まれる作品と人間の事情が絡み合う事件を、総合管轄部署の職員が解いていく連作長編。美術品と人間の物語を短編の連なりとして重ね、ひとつの長編に編み上げている。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2001,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/永遠の森 博物館惑星"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fuwafuwa-no-izumi",
+    "title": "ふわふわの泉",
+    "titleKana": "ふわふわのいずみ",
+    "authorIds": [
+      "nojiri-housuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "enterbrain",
+    "themeIds": [
+      "hard-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "高校化学部の部長・浅倉泉の人生目標は「努力しないで生きること」。文化祭を前に、たったひとりの部員とフラーレンの生成実験をしていたところ、学校に雷が直撃する。事故から生まれたのは空気より軽い謎の物質だった。ひとつの新素材が社会と宇宙開発を書き換えていく過程を、軽妙に描いた長編。巨大な変化が、田舎の高校の部室から始まってしまうという可笑しさが全編を貫く。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2002,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "taiyo-no-sandatsusha",
+    "title": "太陽の簒奪者",
+    "titleKana": "たいようのさんだつしゃ",
+    "authorIds": [
+      "nojiri-housuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "first-contact",
+      "alien"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "2006年、水星から突如噴き上げられた鉱物資源が、太陽を取り巻く巨大なリングを形づくりはじめる。日照量は激減し、人類は破滅の淵に立たされた。いったい何者が、何のためにこれを造ったのか。異星文明への憧れを抱き続けるひとりの研究者を軸に、接触の困難さを正面から描いたハードSF。巨大構造物の物理と、理解の届かない相手に向き合う心情の両方を並べて描く。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2003,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/太陽の簒奪者"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dairoku-tairiku",
+    "title": "第六大陸",
+    "titleKana": "だいろくたいりく",
+    "authorIds": [
+      "ogawa-issui"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-development",
+      "hard-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "2029年、新型エンジンの開発と永久凍土内の水の発見によって、月面に恒久施設を建てる「第六大陸」計画を阻むものはなくなったかに見えた。土木技術者たちが、夢物語ではなく地に足のついた工程管理で月面建設に挑む。宇宙開発を巨大プロジェクトの現場として描いた、著者の代表作。予算、工期、資材調達といった実務の積み重ねが、そのまま物語の推進力になる。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2004,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/第六大陸"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ariel-sasamoto",
+    "title": "ARIEL",
+    "titleKana": "えりある",
+    "authorIds": [
+      "sasamoto-yuichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "robot",
+      "alien",
+      "satire-sf"
+    ],
+    "seriesName": "ARIEL",
+    "origin": "jp",
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "volumeCount": 20,
+    "synopsis": "異星人の侵略に対抗するため、民間の研究所が巨大人型ロボット「エリアル」を建造した。だが搭乗するのは所長の孫娘たちで、予算も人員も慢性的に足りない。侵略する側にも事情があり、迎え撃つ側にも家庭の事情がある。全20巻52話をかけて描かれた、脱力と本格描写が同居するロボットSFの長寿シリーズ。回を追うごとに設定が積み上がり、群像劇としての厚みを増していった。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2005,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ARIEL (小説)"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは日本語版Wikipediaの当該記事を下敷きに独自要約した。1986年に雑誌『獅子王』で連載が始まり2004年に全20巻で完結したことを日本語版Wikipediaで確認し、firstPublishedYearには連載開始年を採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "summer-time-traveller",
+    "title": "サマー/タイム/トラベラー",
+    "titleKana": "さまーたいむとらべらー",
+    "authorIds": [
+      "shinjo-kazuma"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "未来に見放されたような地方都市・辺里で過ごしたあの奇妙な夏、幼なじみの悠有がたった三秒だけ未来へ跳んだ。お嬢様学校に閉じ込められた饗子の号令のもと、高校生五人は跳躍の仕組みを解き明かそうと動きだす。青春小説の枠組みで時間SFの主題を扱った、著者の代表作。地方都市の閉塞感と、跳躍という一点の不思議が静かに響き合う構成である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2006,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nippon-chinbotsu-dainibu",
+    "title": "日本沈没・第二部",
+    "titleKana": "にほんちんぼつだいにぶ",
+    "authorIds": [
+      "komatsu-sakyo",
+      "tani-koushuu"
+    ],
+    "translatorIds": [],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "disaster",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "『日本沈没』の発表から33年を経て書かれた続編。国土を失った日本人は、パプアニューギニアや中央アジアをはじめ世界各地へ散って入植していた。国家を持たない民として生きる人々が、次なる地球規模の異変に直面する。難民となった一億人の行方を、前作の作者と谷甲州の共作で描く。災害そのものではなく、災害の後に続く長い時間を主題に据えた続編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2007,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本沈没"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "toshokan-senso",
+    "title": "図書館戦争",
+    "titleKana": "としょかんせんそう",
+    "authorIds": [
+      "arikawa-hiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "media-works",
+    "themeIds": [
+      "near-future",
+      "dystopia"
+    ],
+    "seriesName": "図書館戦争シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "公序良俗を害する表現を取り締まる「メディア良化法」が成立して三十年。検閲に対抗できる唯一の組織は、武装を認められた図書館の自衛部隊「図書隊」だけだった。かつて本を守ってくれた図書隊員に憧れて入隊した笠原郁は、鬼教官・堂上のもとで新人としてしごかれながら、言葉を守る戦いに巻き込まれていく。本を焼く側と守る側の攻防を、青春小説の枠で描いたシリーズ第1作である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2008,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "movie": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/図書館戦争"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "guin-saga",
+    "title": "グイン・サーガ",
+    "titleKana": "ぐいんさーが",
+    "authorIds": [
+      "kurimoto-kaoru"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "sf-fantasy",
+      "far-future"
+    ],
+    "seriesName": "グイン・サーガ",
+    "origin": "jp",
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "volumeCount": 130,
+    "synopsis": "モンゴール軍の奇襲によって、中原の古い国パロは滅亡の淵に立たされた。国王夫妻は殺され、双子の王族リンダとレムスは辺境へ逃れる。そこで二人が出会ったのは、記憶を失い豹の頭を持つ謎の戦士グインだった。自分が何者かを知らないまま戦い続ける男を軸に、中原の諸国が興亡する長大な物語。1979年の『豹頭の仮面』から四半世紀以上書き継がれた、日本最長級の連作である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2010,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グイン・サーガ"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは日本語版Wikipediaの当該記事を下敷きに独自要約した。第1巻『豹頭の仮面』が1979年9月に刊行されたことを日本語版Wikipediaで確認した。受賞は正伝完結までのシリーズ全体に対するもの。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kyonen-wa-ii-toshi",
+    "title": "去年はいい年になるだろう",
+    "titleKana": "きょねんはいいとしになるだろう",
+    "authorIds": [
+      "yamamoto-hiroshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "php-kenkyujo",
+    "themeIds": [
+      "time-travel",
+      "parallel-world",
+      "robot"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "2001年9月11日、24世紀から「ガーディアン」と名乗るアンドロイドたちがやってきた。圧倒的な技術力を持つ彼らは同時多発テロを未然に防ぎ、続いて起きるはずだった大災害の犠牲者もゼロにしてしまう。歴史から悲劇が消えていく世界で、では取り返しのつかなかったはずの過去とは何だったのか。改変された二十一世紀を舞台に、作者自身を思わせる語り手が問い続ける長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2011,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tengoku-to-jikoku",
+    "title": "天獄と地国",
+    "titleKana": "てんごくとじごく",
+    "authorIds": [
+      "kobayashi-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "天と地が逆転した奇妙な世界で、人々は乏しい資源を奪い合いながら生き延びていた。頭上に「地」が広がり、足元に虚空が口を開けるこの環境で、なぜ人間が暮らしているのか、誰も知らない。物理的な整合性を保ったまま極端な設定を組み上げ、その論理を最後まで押し切る著者らしい一作。生存を賭けた戦いと探索を通じて、世界の成り立ちが少しずつ明らかになっていく宇宙SFである。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2012,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shisha-no-teikoku",
+    "title": "屍者の帝国",
+    "titleKana": "ししゃのていこく",
+    "authorIds": [
+      "itoh-keikaku",
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "parallel-world",
+      "robot"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "十九世紀末。ヴィクター・フランケンシュタインによる人造人間の創造から約百年が経ち、その技術は全欧に拡散していた。労働から軍事まで「屍者」を使役するのが当たり前になった世界で、英国諜報機関の見習いジョン・H・ワトソンは、フランケンシュタインの手記を追う任務を与えられる。伊藤計劃が遺した冒頭三十枚を円城塔が引き継いで完成させた、共作の長編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2013,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/屍者の帝国"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kororogidake-kara",
+    "title": "コロロギ岳から木星トロヤへ",
+    "titleKana": "ころろぎだけからもくせいとろやへ",
+    "authorIds": [
+      "ogawa-issui"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "space-colony"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "西暦2231年、木星前方トロヤ群の小惑星アキレス。戦争に敗れたトロヤ人たちは、ヴェスタ人の支配下で屈辱的な日々を強いられていた。一方、地球の山中にある小さな谷では、まったく別の時代を生きる者たちが同じ問題に向き合っている。遠く隔たった二つの時空を並行して語り、それらが響き合う構造をとった中編。著者の初期作の設定を引き継いだ作品でもある。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2014,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "onshu-seiiki",
+    "title": "怨讐星域",
+    "titleKana": "おんしゅうせいいき",
+    "authorIds": [
+      "kajio-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "generation-ship",
+      "post-apocalypse",
+      "space-colony"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "太陽フレアの膨張によって地球の滅亡が避けられないと判明した近未来。アメリカ大統領に率いられた約三万人の選ばれた人々は、ひそかに世代宇宙船で地球を脱出する。取り残された人々もまた、別の方法で「楽園」への道を見つけた。生き延びた二つの人類が、それぞれの時間を経て再び出会うまでを描く百年紀の物語。選ばれた者と残された者の因縁が主題となる。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2016,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/怨讐星域"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは日本語版Wikipediaの当該記事を下敷きに独自要約した。『S-Fマガジン』2006年から2014年まで連作短編として連載され、加筆のうえ2015年に早川書房から刊行されたことを日本語版Wikipediaで確認し、firstPublishedYearには書籍刊行年を採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ultraman-f",
+    "title": "ウルトラマンF",
+    "titleKana": "うるとらまんえふ",
+    "authorIds": [
+      "kobayashi-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "実験事故により再び巨大化してしまった科学特捜隊の富士明子隊員。地球に襲いかかる脅威と戦う彼女の身体が謎の光に包まれたとき、そこに現れたものとは何か。円谷プロ公認のもと、初代『ウルトラマン』の設定を出発点に、巨大化という現象を物理と生物学の観点から詰め直した長編。特撮の記憶を持つ読者に向けて書かれた、著者らしい理詰めのオマージュである。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2017,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ato-wa-no-to-nare",
+    "title": "あとは野となれ大和撫子",
+    "titleKana": "あとはのとなれやまとなでしこ",
+    "authorIds": [
+      "miyauchi-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "near-future",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "中央アジアの沙漠にある小国アラルスタン。大統領が暗殺され、閣僚たちが我先にと国外へ逃げ出したあと、国に残ったのは後宮で暮らす少女たちだけだった。日本人のナツキをはじめとする少女たちは、成り行きで臨時政府を名乗り、国家を運営しはじめる。国とは何か、統治とは何かを軽やかな冒険譚の形で問いかける長編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2018,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あとは野となれ大和撫子"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "reigokin",
+    "title": "零號琴",
+    "titleKana": "れいごうきん",
+    "authorIds": [
+      "tobi-hirotaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "惑星美縟に埋蔵された巨大楽器が、五百年ぶりに秘曲「零號琴」を奏でることになった。演奏に合わせて上演される大假面劇の夜、鳴り響く音は惑星の来歴そのものを暴きはじめる。特殊楽器の調律師と相棒が巻き込まれる祝祭を、絢爛な語彙と重層的な構造で描く長編。著者が十数年をかけて書き上げた、日本SFでも異彩を放つ一作である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2019,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/零號琴"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tenmei-no-shirube",
+    "title": "天冥の標",
+    "titleKana": "てんめいのしるべ",
+    "authorIds": [
+      "ogawa-issui"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "space-colony",
+      "evolution"
+    ],
+    "seriesName": "天冥の標",
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "volumeCount": 17,
+    "synopsis": "植民星メニー・メニー・シープで起きた反乱から物語は始まり、そこから二十七世紀にわたる人類史が遡行と跳躍を繰り返しながら語られていく。疫病をもたらす「救世群」と人類の相克、宇宙に散った種の分岐、そして最後に訪れる決着。全十部十七巻を費やして人類の未来史を編み上げた、著者の代表作にして日本SFの一大長編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2020,
+        "result": "日本長編部門受賞"
+      },
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2019,
+        "result": "第40回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天冥の標"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "seikei-izumo-no-heitan",
+    "title": "星系出雲の兵站",
+    "titleKana": "せいけいいずものへいたん",
+    "authorIds": [
+      "hayashi-joji"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "space-opera",
+      "hard-sf"
+    ],
+    "seriesName": "星系出雲の兵站",
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "volumeCount": 9,
+    "synopsis": "人類が五つの播種船で到達した壱岐星系に、正体不明の知性体ガイナスが現れる。前線の戦闘そのものよりも、艦隊を動かし続けるための補給と生産こそが勝敗を決める——本作が主題に据えるのは、その兵站である。奪還作戦の失敗の責を負って閑職に移された将官と、密かに進む新兵器開発。組織の論理から宇宙戦争を描いた長編シリーズ。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2021,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tsuki-to-laika",
+    "title": "月とライカと吸血姫",
+    "titleKana": "つきとらいかとのすふぇらとぅ",
+    "authorIds": [
+      "makino-keisuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "space-development",
+      "parallel-world"
+    ],
+    "seriesName": "月とライカと吸血姫",
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "有人宇宙飛行がまだ誰にも成功していなかった時代。共和国の最高指導者は、人間をロケットで飛ばす前の実験台として、迫害されてきた吸血鬼を使うことを決めた。被験者に選ばれた少女ニナと、彼女の監督を命じられた青年レフ。宇宙に焦がれる二人が、国家の思惑のなかで信頼を築いていく。冷戦期の宇宙開発競争を下敷きにした改変歴史SFである。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2022,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月とライカと吸血姫"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "man-kind",
+    "title": "マン・カインド",
+    "titleKana": "まんかいんど",
+    "authorIds": [
+      "fujii-taiyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "2045年、国際独立市テラ・アマソナスの指導者チェリー・イグナシオが、軍事企業グッドフェローズの捕虜を銃殺する。この虐殺を報じようとしたジャーナリスト迫田城兵は、事実確認プラットフォームによって配信を拒否されてしまう。戦争が興行として消費され、真偽の判定が自動化された世界で、報道は何をなしうるのか。現代の技術動向を延長して描いた長編。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本語版Wikipedia「星雲賞」は本作を第53回(2022年)日本長編部門の受賞作として挙げているが、書誌上の刊行年は2024年であり整合しないため、受賞歴としては登録していない。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "protocol-of-humanity",
+    "title": "プロトコル・オブ・ヒューマニティ",
+    "titleKana": "ぷろとこるおぶひゅーまにてぃ",
+    "authorIds": [
+      "hase-satoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "ai",
+      "cyborg",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "不慮の事故で右足を失ったダンサーの護堂恒明は、AIが制御する義足を装着して舞台に戻ろうとする。同じ頃、認知症が進む父の介護もまた彼の生活を侵しはじめていた。踊るという行為を通して、身体と知性のどこまでが自分なのかを問い直す長編。人工知能を扱い続けてきた著者が、介護とダンスという具体を通じて人間性の輪郭に迫る。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2023,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "graf-zeppelin",
+    "title": "グラーフ・ツェッペリン あの夏の飛行船",
+    "titleKana": "ぐらーふつぇっぺりんあのなつのひこうせん",
+    "authorIds": [
+      "takano-fumio"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "parallel-world",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "月と火星の開発が進む一方でWindows2021が発売されたばかりという、少しずれた二〇二一年を生きる夏紀。もうひとりの登場人物である登志夫の二〇二一年では、光量子コンピュータが異常な挙動を示しはじめる。二つの世界がどこで分かれ、どこで触れ合うのか。歴史のわずかな分岐を丁寧に積み上げていく、著者らしい改変歴史SFである。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2024,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "honzuki-no-gekokujo",
+    "title": "本好きの下剋上",
+    "titleKana": "ほんずきのげこくじょう",
+    "authorIds": [
+      "kazuki-miya"
+    ],
+    "translatorIds": [],
+    "publisherId": "to-books",
+    "themeIds": [
+      "sf-fantasy",
+      "parallel-world"
+    ],
+    "seriesName": "本好きの下剋上",
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "volumeCount": 33,
+    "synopsis": "本さえ読めれば幸せだった大学生の本須麗乃は、事故で命を落としたのち、異世界の貧しい兵士の娘マインとして目を覚ます。だがその世界に本は流通しておらず、庶民が字を読むことすらない。ならば自分で作るしかない。紙作りから始めて活版印刷にまでたどり着く長い道のりを、社会の階層構造とともに描いた大長編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2025,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/本好きの下剋上"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rakuin-no-na-wa-hito",
+    "title": "烙印の名はヒト",
+    "titleKana": "らくいんのなはひと",
+    "authorIds": [
+      "ningen-rokudo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "robot",
+      "ai",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "介護施設で働くロボットのラブは、入居者の老博士に懇願されて彼女を絞殺してしまう。だがラブは、人を殺せない設計になっているはずだった。無実を証明し、自らの誇りを取り戻すために逃亡した彼の前に、ロボット排斥運動の担い手たちが立ちはだかる。人格を持つ機械に責任を問えるのかという古典的な主題を、現在の技術水準から捉え直した長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2026,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

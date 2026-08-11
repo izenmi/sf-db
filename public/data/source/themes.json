@@ -166,5 +166,10 @@
     "id": "satire-sf",
     "name": "風刺SF",
     "description": "現実の社会や制度を戯画化して批評する作品。"
+  },
+  {
+    "id": "sf-fantasy",
+    "name": "SFファンタジー",
+    "description": "科学と魔法の境界にある作品。星雲賞など日本のSF賞が対象としてきた領域を含む。"
   }
 ]

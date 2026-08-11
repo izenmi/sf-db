@@ -105,5 +105,89 @@
     },
     "sourceNote": "1980年代に活動した出版社で現存しない(後の扶桑社にあたる)。NDLサーチの書誌で初刊版元として確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "asahi-sonorama",
+    "name": "朝日ソノラマ",
+    "nameKana": "あさひそのらま",
+    "description": "ソノラマ文庫を擁した出版社。少年少女向けのSF・冒険小説を数多く送り出した。",
+    "foundedYear": 1959,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/朝日ソノラマ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chuokoron-sha",
+    "name": "中央公論社",
+    "nameKana": "ちゅうおうこうろんしゃ",
+    "description": "C★NOVELSなどを擁した総合出版社。1999年に中央公論新社へ改組した。",
+    "foundedYear": 1886,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中央公論社"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shogakukan",
+    "name": "小学館",
+    "nameKana": "しょうがくかん",
+    "description": "学習雑誌から文芸まで手がける総合出版社。",
+    "foundedYear": 1922,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小学館"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "enterbrain",
+    "name": "エンターブレイン",
+    "nameKana": "えんたーぶれいん",
+    "description": "ファミ通文庫などを擁した出版社。2013年にKADOKAWAへ統合された。",
+    "foundedYear": 2000,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エンターブレイン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "media-works",
+    "name": "メディアワークス",
+    "nameKana": "めでぃあわーくす",
+    "description": "電撃文庫を擁した出版社。2008年にアスキー・メディアワークスへ統合された。",
+    "foundedYear": 1992,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/メディアワークス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "php-kenkyujo",
+    "name": "PHP研究所",
+    "nameKana": "ぴーえっちぴーけんきゅうじょ",
+    "description": "実用書から文芸まで手がける出版社。SFでは山本弘の作品などを刊行した。",
+    "foundedYear": 1946,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/PHP研究所"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "to-books",
+    "name": "TOブックス",
+    "nameKana": "てぃーおーぶっくす",
+    "description": "『本好きの下剋上』などWeb小説発の作品を数多く書籍化している出版社。",
+    "foundedYear": 2010,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/TOブックス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

@@ -340,5 +340,267 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ohara-mariko",
+    "name": "大原まり子",
+    "nameKana": "おおはらまりこ",
+    "description": "『ハイブリッド・チャイルド』などで知られる作家。身体と性を主題にしたSFを書く。",
+    "birthYear": 1959,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大原まり子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "suga-hiroe",
+    "name": "菅浩江",
+    "nameKana": "すがひろえ",
+    "description": "『永遠の森 博物館惑星』などで知られる作家。芸術と技術の交点を描く作風。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/菅浩江"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tani-koushuu",
+    "name": "谷甲州",
+    "nameKana": "たにこうしゅう",
+    "description": "「航空宇宙軍史」シリーズのハードSFと山岳小説の両方で知られる作家。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/谷甲州"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "morioka-hiroyuki",
+    "name": "森岡浩之",
+    "nameKana": "もりおかひろゆき",
+    "description": "「星界」シリーズで知られる作家。人工言語アーヴ語を含む緻密な世界設定で読者を得た。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/森岡浩之"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sasamoto-yuichi",
+    "name": "笹本祐一",
+    "nameKana": "ささもとゆういち",
+    "description": "『ARIEL』『星のパイロット』などで知られる作家。航空宇宙の取材に基づく作風。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/笹本祐一"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nojiri-housuke",
+    "name": "野尻抱介",
+    "nameKana": "のじりほうすけ",
+    "description": "『太陽の簒奪者』『ふわふわの泉』などで知られる、理系的発想を核に置く作家。",
+    "birthYear": 1961,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/野尻抱介"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ogawa-issui",
+    "name": "小川一水",
+    "nameKana": "おがわいっすい",
+    "description": "『第六大陸』『天冥の標』などで知られる作家。土木・技術と人類史のスケールを結ぶ作風。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小川一水"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shinjo-kazuma",
+    "name": "新城カズマ",
+    "nameKana": "しんじょうかずま",
+    "description": "『サマー/タイム/トラベラー』などで知られる作家。人工言語や架空史の設計にも取り組む。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新城カズマ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "arikawa-hiro",
+    "name": "有川浩",
+    "nameKana": "ありかわひろ",
+    "description": "『図書館戦争』『空の中』などで知られる作家。自衛隊三部作や恋愛要素の強い作風で幅広い読者を得た。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/有川浩"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kurimoto-kaoru",
+    "name": "栗本薫",
+    "nameKana": "くりもとかおる",
+    "description": "『グイン・サーガ』を四半世紀以上書き継いだ作家。評論を中村真一郎賞受賞の中島梓名義でも発表した。",
+    "birthYear": 1953,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/栗本薫"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yamamoto-hiroshi",
+    "name": "山本弘",
+    "nameKana": "やまもとひろし",
+    "description": "『去年はいい年になるだろう』などの作家。と学会の初代会長としても知られた。",
+    "birthYear": 1956,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山本弘"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kobayashi-yasumi",
+    "name": "小林泰三",
+    "nameKana": "こばやしやすみ",
+    "description": "『玩具修理者』でデビューし、ホラーとハードSFの両面で個性的な作品を残した作家。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小林泰三"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "enjoe-toh",
+    "name": "円城塔",
+    "nameKana": "えんじょうとう",
+    "description": "数理的な着想を小説の形式そのものに持ち込む作家。『道化師の蝶』で芥川賞を受賞した。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/円城塔"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kajio-shinji",
+    "name": "梶尾真治",
+    "nameKana": "かじおしんじ",
+    "description": "『黄泉がえり』『怨讐星域』などで知られる作家。叙情的な時間SFを得意とする。",
+    "birthYear": 1947,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/梶尾真治"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "miyauchi-yusuke",
+    "name": "宮内悠介",
+    "nameKana": "みやうちゆうすけ",
+    "description": "『盤上の夜』でデビューした作家。国境や辺境を題材にした作品を多く手がける。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宮内悠介"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tobi-hirotaka",
+    "name": "飛浩隆",
+    "nameKana": "とびひろたか",
+    "description": "『グラン・ヴァカンス』『零號琴』などで知られる寡作の作家。緻密な文体と幻想的な世界像で評価が高い。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/飛浩隆"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hayashi-joji",
+    "name": "林譲治",
+    "nameKana": "はやしじょうじ",
+    "description": "『星系出雲の兵站』などで知られる作家。兵站や工学の視点から宇宙戦争を描く。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/林譲治"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "makino-keisuke",
+    "name": "牧野圭祐",
+    "nameKana": "まきのけいすけ",
+    "description": "『月とライカと吸血姫』で知られる作家・脚本家。",
+    "birthYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/牧野圭祐"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hase-satoshi",
+    "name": "長谷敏司",
+    "nameKana": "はせさとし",
+    "description": "『BEATLESS』『あなたのための物語』などで知られる作家。人間と技術の関係を主題に据える。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/長谷敏司"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "takano-fumio",
+    "name": "高野史緒",
+    "nameKana": "たかのふみお",
+    "description": "『カラマーゾフの妹』で乱歩賞を受賞した作家。歴史と音楽を織り込んだ作品を書く。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高野史緒"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kazuki-miya",
+    "name": "香月美夜",
+    "nameKana": "かづきみや",
+    "description": "『本好きの下剋上』の作者。Web連載から始まった長大なシリーズで支持を集めた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/香月美夜"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ningen-rokudo",
+    "name": "人間六度",
+    "nameKana": "にんげんろくど",
+    "description": "『スター・シェイカー』でデビューした作家。近年のハヤカワSFコンテスト出身作家のひとり。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/人間六度"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
