@@ -52,6 +52,24 @@ def fetch_extracts(titles, lang):
     return {t: resolve(t) for t in titles}
 
 
+def infobox_year(title, lang):
+    """導入部に年が無いときの予備。Infobox book の release_date / published を見る。
+    バリントン・J・ベイリー作品のように、導入部が「N冊目の長編である」としか書いていない
+    記事が実際にあるため。"""
+    url = f"https://{lang}.wikipedia.org/wiki/" + urllib.parse.quote(title.replace(" ", "_")) + "?action=raw"
+    try:
+        raw = urllib.request.urlopen(
+            urllib.request.Request(url, headers={"User-Agent": "sf-db-probe/1.0"}), timeout=45).read().decode()
+    except Exception:
+        return None, ""
+    for line in raw.split("\n"):
+        if re.search(r"^\s*\|\s*(release_date|published|pub_date)\s*=", line, re.I):
+            m = YEAR.search(line)
+            if m:
+                return m.group(1), line.strip()[:90]
+    return None, ""
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("titles")
@@ -71,7 +89,8 @@ def main():
     for n, (label, query) in enumerate(zip(labels, queries), 1):
         text = extracts.get(query)
         if not text:
-            print(f"{n}\t{label}\tNOPAGE")
+            y, ev = infobox_year(query, args.lang)
+            print(f"{n}\t{label}\t{y or ''}\t{ev or 'NOPAGE'}")
             continue
         head = re.sub(r"\s+", " ", text)[:600]
         years = []
@@ -85,6 +104,10 @@ def main():
             if YEAR.search(s):
                 sentence = s[: args.chars]
                 break
+        if not years:
+            y, ev = infobox_year(query, args.lang)
+            if y:
+                years, sentence = [y], ev
         print(f"{n}\t{label}\t{','.join(years[:5])}\t{sentence}")
 
 

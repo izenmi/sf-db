@@ -2289,5 +2289,457 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "crystal-world",
+    "title": "結晶世界",
+    "titleKana": "けっしょうせかい",
+    "authorIds": [
+      "jg-ballard"
+    ],
+    "translatorIds": [
+      "nakamura-yasuo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "disaster",
+      "post-apocalypse"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1966,
+    "jpPublishedYear": 1969,
+    "originalTitle": "The Crystal World",
+    "status": "completed",
+    "synopsis": "ハンセン病病院で働くイギリス人医師サンダースは、内陸で診療所を営む知人夫妻からの呼び出しを受け、カメルーンの港町ポート・マタールに川船で到着する。だがその奥地では、森も動物も人も、触れるものすべてが宝石のように結晶化していく異変が進行していた。世界が静止し輝きへ変わっていく過程を、破滅というより恍惚として描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1970,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/結晶世界"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "andromeda-strain",
+    "title": "アンドロメダ病原体",
+    "titleKana": "あんどろめだびょうげんたい",
+    "authorIds": [
+      "michael-crichton"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "alien",
+      "hard-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1969,
+    "jpPublishedYear": 1970,
+    "originalTitle": "The Andromeda Strain",
+    "status": "completed",
+    "synopsis": "回収された人工衛星が持ち帰った未知の微生物により、落下地点の町の住民がほぼ全滅する。極秘の地下研究施設ワイルドファイアに集められた四人の科学者は、正体不明の病原体を相手に時間との勝負を強いられる。報告書のような文体と図表を織り込み、緊急事態の手順そのものを緊張の源にした、著者の出世作である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1971,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンドロメダ病原体"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sirens-of-titan",
+    "title": "タイタンの妖女",
+    "titleKana": "たいたんのようじょ",
+    "authorIds": [
+      "kurt-vonnegut"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "satire-sf",
+      "time-travel"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1959,
+    "jpPublishedYear": 1972,
+    "originalTitle": "The Sirens of Titan",
+    "status": "completed",
+    "synopsis": "時間等曲率漏斗に落ちたウィンストン・ナイルズ・ラムファードは、あらゆる時と場所に波動として偏在する存在となり、未来を見通す力を得た。彼に導かれるまま、アメリカ一の富豪マラカイ・コンスタントは火星へ、水星へ、そしてタイタンへと運ばれていく。人類史の壮大さと無意味さを同時に描いてみせた、著者の代表作のひとつ。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1973,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/タイタンの妖女"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dune",
+    "title": "デューン砂の惑星",
+    "titleKana": "でゅーんすなのわくせい",
+    "authorIds": [
+      "frank-herbert"
+    ],
+    "translatorIds": [
+      "yano-tetsu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "space-colony",
+      "alien"
+    ],
+    "seriesName": "デューン・シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1965,
+    "jpPublishedYear": 1974,
+    "originalTitle": "Dune",
+    "status": "completed",
+    "synopsis": "宇宙で最も貴重な物質メランジを産する唯一の星、砂の惑星アラキス。公爵家の後継ぎポール・アトレイデスは、この星の統治を任された父が陰謀に倒れたのち、砂漠の民フレメンのもとに身を寄せる。生態系、宗教、政治、そして超越的な予知能力が絡み合う中で、彼は予言された救世主へと押し上げられていく。生態系の設計が物語の骨格そのものになっている点で、後続の世界構築型SFに決定的な影響を与えた。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1974,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デューン/砂の惑星"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "up-the-line",
+    "title": "時間線を遡って",
+    "titleKana": "じかんせんをさかのぼって",
+    "authorIds": [
+      "robert-silverberg"
+    ],
+    "translatorIds": [
+      "nakamura-yasuo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "time-travel"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1969,
+    "jpPublishedYear": 1974,
+    "originalTitle": "Up the Line",
+    "status": "completed",
+    "synopsis": "西暦2059年、史学の博士課程を落ちこぼれたジャッド・エリオット三世は、観光客を過去へ案内する時間旅行ガイドの職に就く。ビザンティン帝国への案内を繰り返すうち、彼は先祖にあたる女性に出会って禁を犯してしまう。時間旅行が観光産業になった世界の規則と、それを破ったときに生じる矛盾を、皮肉なユーモアで描いた長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1975,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/時間線を遡って"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは日本語版Wikipediaの当該記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "this-immortal",
+    "title": "わが名はコンラッド",
+    "titleKana": "わがなはこんらっど",
+    "authorIds": [
+      "roger-zelazny"
+    ],
+    "translatorIds": [
+      "obi-fusa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "post-apocalypse",
+      "alien",
+      "esper"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1966,
+    "jpPublishedYear": 1975,
+    "originalTitle": "This Immortal",
+    "status": "completed",
+    "synopsis": "核戦争で荒廃した地球には四百万人しか残らず、変異した生物が跋扈していた。地表の多くは青い肌のヴェガ星人に買い取られ、観光地として扱われている。地球の遺跡管理を任されたコンラッド・ノミコスは、ヴェガ人の要人を案内する旅に出るが、その道中で彼自身の来歴が問われはじめる。神話的な語り口が持ち味の一作。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1976,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dragon-masters",
+    "title": "竜を駆る種族",
+    "titleKana": "りゅうをかるしゅぞく",
+    "authorIds": [
+      "jack-vance"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "genetic-engineering",
+      "space-colony"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1962,
+    "jpPublishedYear": 1976,
+    "originalTitle": "The Dragon Masters",
+    "status": "completed",
+    "synopsis": "岩と荒野ばかりの辺境惑星エアリスで、人類は捕らえた異星の怪物を「竜」として品種改良し、別の異星種族との戦いに投入していた。だが敵もまた、捕虜にした人間を改造して兵にしている。互いに相手の種を家畜化した二つの勢力がぶつかる異様な戦争を、緻密な造形で描いた中編。生物を兵器として設計するという発想を、辺境惑星の風景とともに描き切っている。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1977,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "i-will-fear-no-evil",
+    "title": "悪徳なんかこわくない",
+    "titleKana": "あくとくなんかこわくない",
+    "authorIds": [
+      "robert-a-heinlein"
+    ],
+    "translatorIds": [
+      "yano-tetsu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "cyborg",
+      "near-future",
+      "satire-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1970,
+    "jpPublishedYear": 1977,
+    "originalTitle": "I Will Fear No Evil",
+    "status": "completed",
+    "synopsis": "死期の迫った大富豪ヨハン・セバスチャン・バッハ・スミスは、成功率のきわめて低い賭けに出る。若い肉体への脳移植である。手術は成功したが、彼が手に入れた身体は殺害された女性秘書のものだった。老人の意識と若い女性の身体が同居する状況から、性と自我をめぐる問いが立ち上がってくる。晩年のハインラインが社会的な規範に踏み込んだ、賛否の分かれる長編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1978,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ringworld",
+    "title": "リングワールド",
+    "titleKana": "りんぐわーるど",
+    "authorIds": [
+      "larry-niven"
+    ],
+    "translatorIds": [
+      "kosumi-rei"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "hard-sf",
+      "alien"
+    ],
+    "seriesName": "ノウンスペース",
+    "origin": "overseas",
+    "firstPublishedYear": 1970,
+    "jpPublishedYear": 1978,
+    "originalTitle": "Ringworld",
+    "status": "completed",
+    "synopsis": "2850年、恒星をリング状に取り囲む巨大な人工構造物リングワールドの存在が知られ、探検隊が組織される。選ばれたのは二人の人類と二人の異星人。テレポーテーションも絶対に壊れない宇宙船も揃っているはずの一行だが、着いた先の構造物はあまりにも大きく、あまりにも古かった。天体規模の建造物という着想を体系的に押し進めた代表作。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1979,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リングワールド"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは日本語版Wikipediaの当該記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rendezvous-with-rama",
+    "title": "宇宙のランデヴー",
+    "titleKana": "うちゅうのらんでゔー",
+    "authorIds": [
+      "arthur-c-clarke"
+    ],
+    "translatorIds": [
+      "minamiyama-hiroshi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "hard-sf",
+      "space-development"
+    ],
+    "seriesName": "ラーマ・シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1973,
+    "jpPublishedYear": 1979,
+    "originalTitle": "Rendezvous with Rama",
+    "status": "completed",
+    "synopsis": "2077年に小惑星がイタリア北部を直撃した事件を受け、人類は宇宙監視網スペースガードを整備した。2131年、その網が恒星間空間から飛来する巨大な物体を捉える。円筒形のそれは自然物ではありえなかった。ラーマと名付けられた物体の内部へ入った調査隊が見たものを、克明な描写だけで積み上げていく代表作。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1980,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇宙のランデヴー"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "genesis-machine",
+    "title": "創世記機械",
+    "titleKana": "そうせいきかい",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "yamataka-akira"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "hard-sf",
+      "near-future",
+      "military-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1978,
+    "jpPublishedYear": 1981,
+    "originalTitle": "The Genesis Machine",
+    "status": "completed",
+    "synopsis": "若き天才科学者クリフォードは、政府機関で統一場理論の研究を進めるうちに画期的な成果に到達する。物質と電磁気力と重力の本質を一つの理論で説明してみせたのだ。だがその成果が軍事利用へ引き寄せられていく過程で、彼は自らの発見の意味と向き合うことになる。科学と国家の関係を正面から扱ったハードSF。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1982,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。訳者は日本語版Wikipediaの受賞一覧では池央耿とされているが、NDLサーチの書誌3件がいずれも山高昭訳としているためそちらを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dragons-egg",
+    "title": "竜の卵",
+    "titleKana": "りゅうのたまご",
+    "authorIds": [
+      "robert-l-forward"
+    ],
+    "translatorIds": [
+      "yamataka-akira"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "alien",
+      "evolution"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1980,
+    "jpPublishedYear": 1982,
+    "originalTitle": "Dragon's Egg",
+    "status": "completed",
+    "synopsis": "直径わずか二十キロほどの中性子星の表面に、チーラと呼ばれる生命が誕生した。すさまじい重力と磁場のもとで、彼らの時間は人類の百万倍の速さで流れる。地球からの探査船が接近するあいだに、チーラの文明は原始から科学技術の時代までを駆け抜けてしまう。物理学者である著者が、極限環境の生物進化を計算で組み上げた代表作。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1983,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/竜の卵"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "garments-of-caean",
+    "title": "カエアンの聖衣",
+    "titleKana": "かえあんのせいい",
+    "authorIds": [
+      "barrington-bayley"
+    ],
+    "translatorIds": [
+      "fuyukawa-wataru"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1976,
+    "jpPublishedYear": 1983,
+    "originalTitle": "The Garments of Caean",
+    "status": "completed",
+    "synopsis": "衣服の文化が極限まで発達した惑星カエアン。そこで作られた服は、着る者の人格や能力までも変えてしまうという。詐欺師のマストと衣裳に通じたペダー・フォーバスは、墜落した船に積まれていたカエアン製の衣服を手に入れようと旅立つ。着るという行為から人間の主体性を問い直す、奇想に満ちた宇宙活劇である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1984,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

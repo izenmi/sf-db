@@ -602,5 +602,125 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jg-ballard",
+    "name": "J・G・バラード",
+    "nameKana": "ばらーどじぇーじー",
+    "description": "『結晶世界』『沈んだ世界』など破滅三部作で知られるイギリスの作家。内宇宙という主題を掲げた。",
+    "birthYear": 1930,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/J・G・バラード"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "michael-crichton",
+    "name": "マイケル・クライトン",
+    "nameKana": "くらいとんまいける",
+    "description": "『アンドロメダ病原体』『ジュラシック・パーク』など、科学技術の暴走を題材にしたベストセラーを書いたアメリカの作家。",
+    "birthYear": 1942,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マイケル・クライトン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "robert-silverberg",
+    "name": "ロバート・シルヴァーバーグ",
+    "nameKana": "しるゔぁーばーぐろばーと",
+    "description": "多作で知られるアメリカの作家。1960年代後半以降、文学的な密度の高い作品を次々に発表した。",
+    "birthYear": 1935,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロバート・シルヴァーバーグ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kurt-vonnegut",
+    "name": "カート・ヴォネガット・ジュニア",
+    "nameKana": "ゔぉねがっとかーと",
+    "description": "『タイタンの妖女』『スローターハウス5』などで知られるアメリカの作家。ブラックユーモアと人道的な視線を併せ持つ。",
+    "birthYear": 1922,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カート・ヴォネガット"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "frank-herbert",
+    "name": "フランク・ハーバート",
+    "nameKana": "はーばーとふらんく",
+    "description": "『デューン』シリーズで知られるアメリカの作家。生態学と宗教と政治を絡めた世界構築で知られる。",
+    "birthYear": 1920,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フランク・ハーバート"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "roger-zelazny",
+    "name": "ロジャー・ゼラズニイ",
+    "nameKana": "ぜらずにいろじゃー",
+    "description": "『わが名はコンラッド』『光の王』などで知られるアメリカの作家。神話を素材にした華麗な作風。",
+    "birthYear": 1937,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロジャー・ゼラズニイ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jack-vance",
+    "name": "ジャック・ヴァンス",
+    "nameKana": "ゔぁんすじゃっく",
+    "description": "『竜を駆る種族』『終末期の赤い地球』などで知られるアメリカの作家。凝った文体と異世界の造形に定評がある。",
+    "birthYear": 1916,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジャック・ヴァンス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "larry-niven",
+    "name": "ラリー・ニーヴン",
+    "nameKana": "にーゔんらりー",
+    "description": "『リングワールド』で知られるアメリカの作家。〈ノウンスペース〉と呼ばれる未来史を築いた。",
+    "birthYear": 1938,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラリー・ニーヴン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "robert-l-forward",
+    "name": "ロバート・L・フォワード",
+    "nameKana": "ふぉわーどろばーとえる",
+    "description": "物理学者でもあるアメリカの作家。『竜の卵』など、科学的裏づけを徹底したハードSFを書いた。",
+    "birthYear": 1932,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロバート・L・フォワード"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "barrington-bayley",
+    "name": "バリントン・J・ベイリー",
+    "nameKana": "べいりーばりんとんじぇー",
+    "description": "奇想に満ちた設定で知られるイギリスの作家。日本では『カエアンの聖衣』などが読まれた。",
+    "birthYear": 1937,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バリントン・J・ベイリー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

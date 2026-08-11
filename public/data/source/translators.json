@@ -86,5 +86,91 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nakamura-yasuo",
+    "name": "中村保男",
+    "nameKana": "なかむらやすお",
+    "description": "英米文学の翻訳家。バラードやシルヴァーバーグの邦訳を手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中村保男"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yano-tetsu",
+    "name": "矢野徹",
+    "nameKana": "やのてつ",
+    "description": "作家・翻訳家。ハインラインやハーバートの紹介者として日本SFの草創期を支えた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/矢野徹"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "obi-fusa",
+    "name": "小尾芙佐",
+    "nameKana": "おびふさ",
+    "description": "アシモフやゼラズニイなどの翻訳で知られる翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小尾芙佐"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kosumi-rei",
+    "name": "小隅黎",
+    "nameKana": "こすみれい",
+    "description": "翻訳家・SF評論家。本名は柴野拓美で、日本のSFファンダムの草分けでもある。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/柴野拓美"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "minamiyama-hiroshi",
+    "name": "南山宏",
+    "nameKana": "みなみやまひろし",
+    "description": "翻訳家・作家。クラーク作品の邦訳などを手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/南山宏"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yamataka-akira",
+    "name": "山高昭",
+    "nameKana": "やまたかあきら",
+    "description": "ホーガンやフォワードのハードSFを数多く訳した翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山高昭"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fuyukawa-wataru",
+    "name": "冬川亘",
+    "nameKana": "ふゆかわわたる",
+    "description": "英米SFの翻訳家。ベイリー作品の邦訳を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sakai-akinobu",
+    "name": "酒井昭伸",
+    "nameKana": "さかいあきのぶ",
+    "description": "『ハイペリオン』『デューン』新訳などで知られる翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/酒井昭伸"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
