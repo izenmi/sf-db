@@ -2658,5 +2658,39 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "felix-j-palma",
+    "name": "フェリクス・J・パルマ",
+    "nameKana": "ぱるまふぇりくすじぇー",
+    "description": "スペインの作家。H・G・ウェルズを狂言回しにした〈ヴィクトリア三部作〉で知られる。",
+    "birthYear": 1968,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hannu-rajaniemi",
+    "name": "ハンヌ・ライアニエミ",
+    "nameKana": "らいあにえみはんぬ",
+    "description": "フィンランド出身の作家・数理物理学者。情報技術の語彙を詰め込んだ遠未来SFで知られる。",
+    "birthYear": 1978,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハンヌ・ラヤニエミ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ken-liu",
+    "name": "ケン・リュウ",
+    "nameKana": "りゅうけん",
+    "description": "中国生まれのアメリカの作家・翻訳家。中国SFの英訳者としても大きな役割を果たした。",
+    "birthYear": 1976,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ケン・リュウ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

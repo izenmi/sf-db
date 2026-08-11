@@ -13464,5 +13464,308 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kagirinaki-natsu",
+    "title": "限りなき夏",
+    "titleKana": "かぎりなきなつ",
+    "authorIds": [
+      "christopher-priest"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "short-stories",
+      "time-travel",
+      "parallel-world"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1976,
+    "jpPublishedYear": 2008,
+    "originalTitle": "An Infinite Summer",
+    "status": "completed",
+    "synopsis": "ふたりの若い恋人が囚われの身となった夏の日は、引き伸ばされた一瞬となった。過去と未来をさまよう人間の愛と焦燥を技巧的に綴る表題作と「青ざめた逍遥」、狂騒に満ちた終末を描くデビュー作「逃走」、揺らぐ自己同一性を扱った「リアルタイム・ワールド」など、初期から円熟期までの代表作を収める。どの編でも、語られている出来事より語り方のほうが読者を惑わせるという著者の資質が徹底されている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "ベストSF2008 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "map-of-time",
+    "title": "時の地図",
+    "titleKana": "ときのちず",
+    "authorIds": [
+      "felix-j-palma"
+    ],
+    "translatorIds": [
+      "miyazaki-maki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "alternate-history",
+      "denki-sf"
+    ],
+    "seriesName": "ヴィクトリア三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2008,
+    "jpPublishedYear": 2010,
+    "originalTitle": "El mapa del tiempo",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "十九世紀末のロンドン。切り裂きジャックの犠牲者となった女性に恋していた青年アンドリューは、深い絶望から抜け出せずにいた。そこへ、時間旅行を売り物にする会社が現れる。H・G・ウェルズを狂言回しに置き、三つの物語が絡み合いながら進んでいく。時間旅行という商品が人々の人生をどう変えるのかを、十九世紀の空気ごと閉じ込めた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "ベストSF2010 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kiseki-nasu-monotachi",
+    "title": "奇跡なす者たち",
+    "titleKana": "きせきなすものたち",
+    "authorIds": [
+      "jack-vance"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "short-stories",
+      "sf-fantasy",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1958,
+    "jpPublishedYear": 2011,
+    "originalTitle": "The Miracle Workers",
+    "status": "completed",
+    "synopsis": "独特のユーモアと魅力あふれる異郷描写で熱狂的な読者を持ち、ダン・シモンズやジョージ・R・R・マーティンにも大きな影響を与えた名匠の作品集である。代表作「月の蛾」から、ヒューゴー賞とネビュラ賞の両方を受けた「最後の城」まで、浅倉久志の編で全八編を収める。魔術と科学の区別が曖昧な社会を、細部まで作り込んだうえで乾いた笑いとともに描くのが持ち味である。本邦初の短編集にあたる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2011,
+        "result": "ベストSF2011 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "pump-six",
+    "title": "第六ポンプ",
+    "titleKana": "だいろくぽんぷ",
+    "authorIds": [
+      "paolo-bacigalupi"
+    ],
+    "translatorIds": [
+      "nakahara-naoya",
+      "kaneko-hiroshi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "dystopia",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2008,
+    "jpPublishedYear": 2012,
+    "originalTitle": "Pump Six and Other Stories",
+    "status": "completed",
+    "synopsis": "出生率が下がり痴呆化が進んだ異形のニューヨークを、下水ポンプ施設の職員の視点から描くローカス賞受賞の表題作をはじめ、全十編を収める。資源が枯渇し環境が壊れたあとの世界を、そこで働く人間の手ざわりから積み上げていく。誰も全体像を把握できないまま社会の仕組みだけが劣化していく感触が、どの編にも通底している。『ねじまき少女』の著者による第一短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "ベストSF2012 海外篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "quantum-thief",
+    "title": "量子怪盗",
+    "titleKana": "りょうしかいとう",
+    "authorIds": [
+      "hannu-rajaniemi"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "ai",
+      "space-opera"
+    ],
+    "seriesName": "ジャン・ル・フランブール",
+    "origin": "overseas",
+    "firstPublishedYear": 2010,
+    "jpPublishedYear": 2012,
+    "originalTitle": "The Quantum Thief",
+    "status": "completed",
+    "synopsis": "遠い未来、小惑星群に置かれた監獄に、ひとりの男の精神が幽閉されていた。かつて太陽系に名を轟かせた量子怪盗ジャン・ル・フランブールである。そこへ高度な戦闘能力を持つ少女ミエリが現れ、脱獄させる見返りに火星であるものを盗んでほしいと告げる。記憶を通貨のように扱う都市を舞台に、情報技術の語彙を惜しみなく注ぎ込んだ長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "ベストSF2012 海外篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-islanders",
+    "title": "夢幻諸島から",
+    "titleKana": "むげんしょとうから",
+    "authorIds": [
+      "christopher-priest"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "parallel-world",
+      "denki-sf",
+      "short-stories"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2011,
+    "jpPublishedYear": 2013,
+    "originalTitle": "The Islanders",
+    "status": "completed",
+    "synopsis": "時間勾配による歪みのせいで精緻な地図を作れないこの世界は、交戦状態にある諸国からなる北大陸と、その主戦場である南大陸、その間の海に点在する夢幻諸島から成っている。最凶の昆虫スライムの発見譚、パントマイマー殺人事件、謎の天才画家の話。島々の事典という体裁を借りながら、少しずつ像を結んでいく長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "ベストSF2013 海外篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "incandescence",
+    "title": "白熱光",
+    "titleKana": "はくねつこう",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "alien",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2008,
+    "jpPublishedYear": 2013,
+    "originalTitle": "Incandescence",
+    "status": "completed",
+    "synopsis": "銀河の中心近くにある巨大な岩塊のなかで、ロイと呼ばれる小さな生き物たちが暮らしている。彼らは自分たちの世界が置かれた状況を、手作りの道具と観察だけで解き明かそうとする。一方、遥かな未来の人類の末裔が、失われた文明の痕跡を追っていた。重力を手探りで理解していく過程がそのまま冒険になる。物理法則の再発見そのものを物語にしてみせた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2014,
+        "result": "ベストSF2014 海外篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "paper-menagerie",
+    "title": "紙の動物園",
+    "titleKana": "かみのどうぶつえん",
+    "authorIds": [
+      "ken-liu"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "sf-fantasy"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2011,
+    "jpPublishedYear": 2015,
+    "originalTitle": "The Paper Menagerie",
+    "status": "completed",
+    "synopsis": "香港で出会った母をアメリカへ連れ帰った父。泣き虫だったぼくのために母が包装紙で折ってくれた虎や水牛は、みな命を吹き込まれて動きだした。母の折り紙だけがずっとぼくの友達だった。ヒューゴー賞・ネビュラ賞・世界幻想文学大賞の三冠に輝いた表題作をはじめ、移民の記憶と中国の歴史を扱った作品を多く収める。日本オリジナル編集による第一短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2015,
+        "result": "ベストSF2015 海外篇 第1位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/紙の動物園"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "water-knife",
+    "title": "神の水",
+    "titleKana": "かみのみず",
+    "authorIds": [
+      "paolo-bacigalupi"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2015,
+    "jpPublishedYear": 2015,
+    "originalTitle": "The Water Knife",
+    "status": "completed",
+    "synopsis": "地球温暖化によって慢性的な水不足が続く近未来のアメリカ。コロラド川の水利権をめぐって西部諸州の対立が激化し、水を確保するためなら手段を選ばない者たちが暗躍していた。ラスベガスの水利権執行人、フェニックスの記者、そして難民の少女。三人の視点を交互に置きながら、水資源をめぐる争いがどこまで人を追い詰めるのかを迫真の筆致で描く長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2015,
+        "result": "ベストSF2015 海外篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
