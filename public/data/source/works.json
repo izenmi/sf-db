@@ -1,0 +1,670 @@
+[
+  {
+    "id": "nippon-chinbotsu",
+    "title": "日本沈没",
+    "titleKana": "にっぽんちんぼつ",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "disaster",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1973,
+    "status": "completed",
+    "synopsis": "地球物理学者の田所博士は、日本海溝の異変から日本列島が近い将来海中に没するという結論に達する。政府は極秘の調査計画を進めるが、地殻変動は予測を超える速さで進行し、大地震と噴火が列島を襲い始める。国土を失う日本人は何を選ぶのか。克明な災害描写と文明論を融合させたパニックSFの金字塔。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1974,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本沈没"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で1973年刊行(カッパ・ノベルス)・映像化(1973/2006映画、1974/2021ドラマ、2020Webアニメ、漫画化)を確認。星雲賞受賞はWikipedia「星雲賞」の一覧で確認(第5回・1974年)。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hyakuoku-no-hiru",
+    "title": "百億の昼と千億の夜",
+    "titleKana": "ひゃくおくのひるとせんおくのよる",
+    "authorIds": [
+      "mitsuse-ryu"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1967,
+    "status": "completed",
+    "synopsis": "悠久の時を旅する阿修羅王は、プラトン、シッダールタ、ナザレのイエスら時代も場所も異なる求道者たちと交わりながら、世界の背後に潜む「滅び」の意思の正体を追う。幾多の文明の興亡を数十億年のスケールで見渡し、宇宙論と宗教的思索を織り込んで存在の意味を問いかける、日本SF屈指の壮大な叙事詩。",
+    "mediaMix": {
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/百億の昼と千億の夜"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で『S-Fマガジン』1965〜66年連載・1967年早川書房(日本SFシリーズ)単行本化・萩尾望都による漫画化を確認。firstPublishedYearは単行本刊行年を採用し、連載開始年は本欄に記載。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hateshinaki-nagare",
+    "title": "果しなき流れの果に",
+    "titleKana": "はてしなきながれのはてに",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "far-future",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1966,
+    "status": "completed",
+    "synopsis": "発掘現場で見つかった、砂が尽きることなく流れ続ける謎の砂時計。調査に関わった研究者・野々村は、その日を境に時空を超えた壮絶な戦いへと巻き込まれていく。10億年の時間と無数の宇宙を舞台に、人類の進化と存在の意味を正面から問う。日本SF史上屈指の傑作と評され続ける時間SFの金字塔。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/果しなき流れの果に"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で『S-Fマガジン』1965年連載後に単行本化されたことを確認。単行本刊行年はNDLサーチの書誌(1966年)を採用。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "toki-wo-kakeru-shojo",
+    "title": "時をかける少女",
+    "titleKana": "ときをかけるしょうじょ",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "time-travel",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1967,
+    "status": "completed",
+    "synopsis": "放課後の理科実験室でラベンダーの香りを嗅いだ高校生の芳山和子は、その日から時間を跳び越える不思議な能力を身につけてしまう。繰り返される一日、身に覚えのない記憶、そして転校生・深町一夫の秘密。世代を超えて読み継がれ、繰り返し映像化されてきた青春タイムトラベル物語の原点となる一冊。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/時をかける少女"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で学年誌1965〜66年連載・1967年盛光社「ジュニアSF」刊行・映像化歴(1972ドラマ、1983実写映画、2006アニメ映画ほか)を確認。初刊の盛光社は現存しないため、publisherIdは現行の角川文庫版のKADOKAWAを採用し、初刊は本欄に記載。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sento-yosei-yukikaze",
+    "title": "戦闘妖精・雪風",
+    "titleKana": "せんとうようせいゆきかぜ",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "ai",
+      "alien"
+    ],
+    "seriesName": "雪風シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "南極に突如出現した超空間通路から侵攻してきた謎の異星体ジャム。人類は異世界フェアリイに前線基地を築き、長い戦争を続けていた。深井零中尉は戦術戦闘偵察機「雪風」とともに、いかなる犠牲を払っても戦場の情報を持ち帰る任務を担う。人間と機械の関係を問い続けるミリタリーSFの金字塔。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1985,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/戦闘妖精・雪風"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で『SFマガジン』1979〜83年掲載の連作を1984年に文庫としてまとめたこと・OVA化(2002)・漫画化を確認。星雲賞受賞はWikipedia「星雲賞」の一覧で確認(第16回・1985年)。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gyakusatsu-kikan",
+    "title": "虐殺器官",
+    "titleKana": "ぎゃくさつきかん",
+    "authorIds": [
+      "itoh-keikaku"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "language-sf",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "9・11後の世界。先進諸国が徹底した管理体制で平和を維持する一方、後進諸国では内戦と大量虐殺が急増していた。米軍大尉クラヴィス・シェパードは、虐殺の陰に常に存在するというひとりの男、ジョン・ポールを追う。言語と人間の本性をめぐる思索を織り込んだ、ゼロ年代日本SFを代表するデビュー長編。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "2008年版 国内篇 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/虐殺器官"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で2007年発表・「ベストSF2007」国内篇第1位・劇場アニメ化・コミカライズを確認。第7回小松左京賞最終候補(受賞ではない)のため受賞歴には登録していない。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "harmony",
+    "title": "ハーモニー",
+    "titleKana": "はーもにー",
+    "authorIds": [
+      "itoh-keikaku"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "dystopia",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "大災禍を経た世界では、人々の健康を常時見守る医療社会システムが完成し、優しさと思いやりがすべての人の義務となっていた。かつて少女時代に反逆を試みた記憶を抱える螺旋監察官トァン・キリエは、世界で同時に起きた異常事象の調査に乗り出す。健康と幸福が強制される社会の行き着く先を描く代表作。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2009,
+        "result": "第30回受賞"
+      },
+      {
+        "awardId": "seiun",
+        "year": 2009,
+        "result": "日本長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "2010年版 国内篇 第1位"
+      },
+      {
+        "awardId": "pkd",
+        "year": 2011,
+        "result": "特別賞(英訳版)"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハーモニー_(小説)"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で2008年12月刊行(ハヤカワJコレクション)・第40回星雲賞日本長編部門・第30回日本SF大賞・「ベストSF2009」国内篇第1位・劇場アニメ化を確認。フィリップ・K・ディック賞特別賞(英訳版、2011年)は英語版Wikipediaの受賞作一覧で確認。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shinsekai-yori",
+    "title": "新世界より",
+    "titleKana": "しんせかいより",
+    "authorIds": [
+      "kishi-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "far-future",
+      "esper",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "1000年後の日本。呪力と呼ばれる念動力を得た人類は、関東の小さな町で穏やかな共同体を営んでいた。少女・渡辺早季と仲間たちは、成長するにつれて、平和な世界の成り立ちに潜む違和感に気づいていく。牧歌的な風景の裏に隠された文明の姿へと迫っていく、日本SF大賞受賞の長編。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2008,
+        "result": "第29回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "2009年版 国内篇 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新世界より_(小説)"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で2008年1月講談社刊を確認。第29回日本SF大賞はWikipedia「日本SF大賞」の一覧で、「ベストSF2008」国内篇第1位はWikipedia「SFが読みたい!」の表で確認。TVアニメ化(2012)・コミカライズあり。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mardock-scramble",
+    "title": "マルドゥック・スクランブル",
+    "titleKana": "まるどぅっくすくらんぶる",
+    "authorIds": [
+      "ubukata-tow"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "cyberpunk",
+      "ai",
+      "cyborg"
+    ],
+    "seriesName": "マルドゥック・シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "賭博の都マルドゥック市。少女娼婦バロットは、賭博師シェルに命を奪われかけたところを、事件屋のドクターと万能兵器ウフコックに救われる。委任事件担当官として蘇った彼女は、自らを殺そうとした男の犯罪を追いはじめる。変身するネズミ型兵器との相棒関係を軸に疾走するサイバーパンク・アクション。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2003,
+        "result": "第24回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "2004年版 国内篇 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マルドゥック・スクランブル"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で2003年ハヤカワ文庫JA刊・第24回日本SF大賞・『SFが読みたい!2004年版』国内篇第1位・劇場アニメ3部作・コミカライズを確認。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yokohama-eki-sf",
+    "title": "横浜駅SF",
+    "titleKana": "よこはまえきえすえふ",
+    "authorIds": [
+      "isukari-yuba"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "post-apocalypse",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "自己増殖を続ける横浜駅が本州の99%を覆い尽くした未来。駅構内「エキナカ」では自動改札が人々を管理し、Suikaを持たない者は排除される。駅の外で育った青年ヒロトは、5日間だけ有効の「18きっぷ」を手に構内へと足を踏み入れる。誰もが知る駅の風景を異形の未来に変換したユーモラスな終末SF。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "2018年版 国内篇 第6位"
+      }
+    ],
+    "mediaMix": {
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/横浜駅SF"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で2016年12月カドカワBOOKS刊・第1回カクヨムWeb小説コンテストSF部門大賞・『SFが読みたい!2018年版』国内篇第6位・コミカライズを確認。第38回日本SF大賞は最終候補(受賞ではない)のため登録していない。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "bokko-chan",
+    "title": "ボッコちゃん",
+    "titleKana": "ぼっこちゃん",
+    "authorIds": [
+      "hoshi-shinichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "short-stories",
+      "robot"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1971,
+    "status": "completed",
+    "synopsis": "バーに置かれた美人ロボット「ボッコちゃん」をめぐる皮肉な顛末を描く表題作をはじめ、宇宙人の来訪、未来の便利な装置、悪魔との取引など、奇抜な着想と鮮やかな結末の50編を収めたショートショート集。1話数ページで読める簡潔さと時代を選ばない普遍性で読み継がれる、星新一の代表作品集。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ボッコちゃん"
+    },
+    "sourceNote": "日本語版Wikipediaの表題作記事で、表題作が1958年発表(発表時題名「人造美人」)であること・文庫『ボッコちゃん』が星新一最初の文庫作品集であることを確認。firstPublishedYearは新潮文庫版短編集の刊行年(NDLサーチの書誌で1971年)を採用。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "orbital-cloud",
+    "title": "オービタル・クラウド",
+    "titleKana": "おーびたるくらうど",
+    "authorIds": [
+      "fujii-taiyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "space-development",
+      "hard-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "2020年。流れ星の出現を予報するWebサービスを運営する木村和海は、イランのロケット第2段が異常な軌道上昇を始めたことに気づく。それは地球規模のテロ計画の端緒だった。個人開発者やスタートアップの技術者たちが国家の思惑に立ち向かう、現代技術の延長線上で描かれた宇宙テクノスリラー。",
+    "externalLinks": {},
+    "sourceNote": "早川書房2014年刊。第35回日本SF大賞はWikipedia「日本SF大賞」の一覧、第46回星雲賞日本長編部門はWikipedia「星雲賞」の一覧で確認。刊行年はNDLサーチの書誌で確認。日本語版Wikipediaに単独記事は未確認。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "childhoods-end",
+    "title": "幼年期の終り",
+    "titleKana": "ようねんきのおわり",
+    "authorIds": [
+      "arthur-c-clarke"
+    ],
+    "translatorIds": [
+      "fukushima-masami"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "alien",
+      "evolution"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 1964,
+    "originalTitle": "Childhood's End",
+    "status": "completed",
+    "synopsis": "ある日、世界各都市の上空に巨大な宇宙船が現れた。圧倒的な科学力を持つ異星種族オーバーロードは、戦争も貧困もない黄金時代を人類にもたらすが、彼らはけっして人前に姿を見せず、その目的も語らない。管理された平和の先に待つ人類の姿を描き、SF史上の傑作と称されるクラークの代表作。",
+    "mediaMix": {
+      "drama": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/幼年期の終り"
+    },
+    "sourceNote": "原著の刊行年は英語版Wikipedia(Ballantine Books、1953年)を採用。日本語版Wikipediaの導入部は1952年刊行と記載しており食い違いがある。邦訳はNDLサーチの書誌で福島正実訳・早川書房・初出1964年を確認。ドラマ化(2015年の海外TVミニシリーズ)あり。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "door-into-summer",
+    "title": "夏への扉",
+    "titleKana": "なつへのとびら",
+    "authorIds": [
+      "robert-a-heinlein"
+    ],
+    "translatorIds": [
+      "fukushima-masami"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "robot"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1957,
+    "jpPublishedYear": 1958,
+    "originalTitle": "The Door into Summer",
+    "status": "completed",
+    "synopsis": "1970年、技術者のダンは共同経営者と恋人に裏切られ、発明も会社も奪われた上、30年の冷凍睡眠に送り込まれてしまう。2000年の世界で目覚めた彼は、失ったものを取り戻すため大胆な計画に挑む。愛猫ピートとともに「夏への扉」を探す主人公を描く、時間SFの永遠の名作。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夏への扉"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で1956年誌上連載・1957年ダブルデイ社刊を確認し、firstPublishedYearは単行本刊行年を採用。邦訳はNDLサーチの書誌で福島正実訳・最古1958年を確認(採用版はハヤカワ文庫SF)。2021年に日本で実写映画化。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "solaris",
+    "title": "ソラリス",
+    "titleKana": "そらりす",
+    "authorIds": [
+      "stanislaw-lem"
+    ],
+    "translatorIds": [
+      "numano-mitsuyoshi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "alien"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1961,
+    "jpPublishedYear": 2015,
+    "originalTitle": "Solaris",
+    "status": "completed",
+    "synopsis": "惑星ソラリスを覆う「海」は、一個の生命体である可能性が指摘されながら、百年におよぶ研究でも理解に至っていなかった。心理学者ケルヴィンが観測ステーションに到着すると、そこでは死んだはずの人間が現れる怪現象が起きていた。人間と異質な知性の接触の不可能性を突き詰めた思弁SFの最高峰。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "原著は1961年刊(ポーランド)。邦訳は沼野充義による原語からの新訳を採用し、NDLサーチで国書刊行会版・早川書房版の書誌を確認(jpPublishedYearはハヤカワ文庫SF版の2015年、初訳は1965年の飯田規和訳『ソラリスの陽のもとに』)。映画化(1972年・2002年)あり。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "do-androids-dream",
+    "title": "アンドロイドは電気羊の夢を見るか?",
+    "titleKana": "あんどろいどはでんきひつじのゆめをみるか",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "robot",
+      "post-apocalypse"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1968,
+    "jpPublishedYear": 1969,
+    "originalTitle": "Do Androids Dream of Electric Sheep?",
+    "status": "completed",
+    "synopsis": "最終戦争後の放射性降下物に覆われた地球。生きた動物を持つことが何よりのステータスとなった世界で、賞金稼ぎのリック・デッカードは火星から逃亡した最新型アンドロイド8体の「処理」を引き受ける。人間と人工物を分かつものは何かを問い、映画『ブレードランナー』の原作としても知られる代表作。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンドロイドは電気羊の夢を見るか?"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で1968年ダブルデイ社刊・浅倉久志訳が1969年にハヤカワ・SF・シリーズから初出版されたこと・『ブレードランナー』の原作であることを確認。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "inherit-the-stars",
+    "title": "星を継ぐもの",
+    "titleKana": "ほしをつぐもの",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "ike-hiroaki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "hard-sf",
+      "space-development",
+      "alien"
+    ],
+    "seriesName": "巨人たちの星シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1977,
+    "jpPublishedYear": 1980,
+    "originalTitle": "Inherit the Stars",
+    "status": "completed",
+    "synopsis": "月面で発見された、真紅の宇宙服をまとった死体。調査の結果、それは5万年前に死んだ人類だと判明する。原子物理学者ハントら科学者たちは、あらゆる分野の知見を突き合わせ、この「あってはならない事実」の説明に挑む。仮説と検証の積み重ねだけで壮大な謎を解いてゆくハードSFの金字塔。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1981,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星を継ぐもの"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で1977年刊のデビュー作・1980年邦訳(池央耿訳・創元SF文庫)・第12回星雲賞海外長編部門受賞・星野之宣による漫画化を確認。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "stories-of-your-life",
+    "title": "あなたの人生の物語",
+    "titleKana": "あなたのじんせいのものがたり",
+    "authorIds": [
+      "ted-chiang"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "language-sf",
+      "first-contact"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "jpPublishedYear": 2003,
+    "originalTitle": "Stories of Your Life and Others",
+    "status": "completed",
+    "synopsis": "突如地球に到来した異星人ヘプタポッドの言語を解読する言語学者を描き、映画『メッセージ』の原作となった表題作のほか、天使の降臨が災害として襲う世界、72文字で命を吹き込む名辞術など、科学と思弁を精緻に組み上げた8編を収録。寡作で知られるテッド・チャンの第一短編集にして現代SFの必読書。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あなたの人生の物語"
+    },
+    "sourceNote": "日本語版Wikipediaの表題作記事で、2002年に著者の短編集(Stories of Your Life and Others)として刊行されたこと・表題作が2000年ネビュラ賞中長編小説部門受賞・映画『メッセージ』(2016)の原作であることを確認。短編集の表題作単独の受賞のため受賞歴には登録せず、mediaMixのmovieは表題作の映画化を指す。邦訳はNDLサーチの書誌で浅倉久志ほか訳・早川書房・2003年を確認(公手成幸・嶋田洋一・古沢嘉通ほかとの共訳、翻訳者は代表して浅倉久志を登録)。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-martian",
+    "title": "火星の人",
+    "titleKana": "かせいのひと",
+    "authorIds": [
+      "andy-weir"
+    ],
+    "translatorIds": [
+      "onoda-kazuko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "space-development",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2011,
+    "jpPublishedYear": 2014,
+    "originalTitle": "The Martian",
+    "status": "completed",
+    "synopsis": "有人火星ミッションの最中、砂嵐の事故で死んだと誤認され、ひとり火星に取り残された宇宙飛行士マーク・ワトニー。彼は残された物資と植物学・工学の知識を武器に、ユーモアを失わないまま生存への道を切り拓いていく。技術的なリアリティと軽快な語り口で世界的ベストセラーになったサバイバルSF。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2015,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/火星の人"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で2014年小野田和子訳(ハヤカワ文庫SF)・第46回星雲賞海外長編部門受賞・映画『オデッセイ』(2015)を確認。原著は2011年に自費出版され2014年に商業出版されたため、firstPublishedYearは2011年を採用。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "three-body",
+    "title": "三体",
+    "titleKana": "さんたい",
+    "authorIds": [
+      "liu-cixin"
+    ],
+    "translatorIds": [
+      "omori-nozomi",
+      "mitsuyoshi-sakura",
+      "wan-zai"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "alien",
+      "hard-sf"
+    ],
+    "seriesName": "地球往事三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2008,
+    "jpPublishedYear": 2019,
+    "originalTitle": "三体",
+    "status": "completed",
+    "synopsis": "文化大革命で父を失った物理学者・葉文潔の下した決断は、数十年後の世界を揺るがす事態の引き金となった。ナノマテリアル研究者の汪淼は、科学者の連続自殺の調査に協力するうち、謎のVRゲーム「三体」に行き着く。中国発の世界的ベストセラーとなった「地球往事」三部作の第一作。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 2015,
+        "result": "長編小説部門受賞(英訳版)"
+      },
+      {
+        "awardId": "seiun",
+        "year": 2020,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "drama": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三体"
+    },
+    "sourceNote": "日本語版Wikipediaの作品記事で2006〜07年連載・2008年単行本化・2019年7月早川書房刊(大森望・光吉さくら・ワン・チャイ訳、立原透耶監修)を確認。ヒューゴー賞長編小説部門(2015年、ケン・リュウ英訳版)は同記事および一般報道で、第51回星雲賞海外長編部門はWikipedia「星雲賞」の一覧で確認。ドラマ化(2023年中国版・2024年Netflix版)・コミック版あり。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  }
+]

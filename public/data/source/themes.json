@@ -1,0 +1,160 @@
+[
+  {
+    "id": "space-opera",
+    "name": "スペースオペラ",
+    "description": "宇宙を舞台にした冒険活劇。"
+  },
+  {
+    "id": "time-travel",
+    "name": "タイムトラベル",
+    "description": "時間移動・時間旅行を扱う作品。"
+  },
+  {
+    "id": "time-loop",
+    "name": "タイムループ",
+    "description": "同じ時間を繰り返す構造の作品。"
+  },
+  {
+    "id": "dystopia",
+    "name": "ディストピア",
+    "description": "管理・統制された社会の暗部を描く作品。"
+  },
+  {
+    "id": "utopia",
+    "name": "ユートピア",
+    "description": "理想社会とその裏面を描く作品。"
+  },
+  {
+    "id": "first-contact",
+    "name": "ファーストコンタクト",
+    "description": "人類と異星知性の最初の接触を描く作品。"
+  },
+  {
+    "id": "cyberpunk",
+    "name": "サイバーパンク",
+    "description": "電脳化・企業支配・ストリート文化を特徴とする作品。"
+  },
+  {
+    "id": "post-apocalypse",
+    "name": "ポストアポカリプス",
+    "description": "文明崩壊後の世界を描く作品。"
+  },
+  {
+    "id": "ai",
+    "name": "AI・人工知能",
+    "description": "人工知能・機械知性を主題にした作品。"
+  },
+  {
+    "id": "robot",
+    "name": "ロボット",
+    "description": "ロボット・アンドロイドが登場する作品。"
+  },
+  {
+    "id": "cyborg",
+    "name": "サイボーグ",
+    "description": "人体の機械化・改造を扱う作品。"
+  },
+  {
+    "id": "space-development",
+    "name": "宇宙開発",
+    "description": "宇宙進出・宇宙飛行の技術と営みを描く作品。"
+  },
+  {
+    "id": "space-colony",
+    "name": "宇宙移民・コロニー",
+    "description": "地球外への移民・入植を扱う作品。"
+  },
+  {
+    "id": "alien",
+    "name": "異星生命",
+    "description": "異星人・地球外生命が登場する作品。"
+  },
+  {
+    "id": "genetic-engineering",
+    "name": "遺伝子工学",
+    "description": "遺伝子操作・生命工学を扱う作品。"
+  },
+  {
+    "id": "virtual-reality",
+    "name": "仮想現実",
+    "description": "仮想世界・電脳空間を舞台にした作品。"
+  },
+  {
+    "id": "esper",
+    "name": "超能力",
+    "description": "念動力・テレパシーなどの超常的能力を扱う作品。"
+  },
+  {
+    "id": "hard-sf",
+    "name": "ハードSF",
+    "description": "科学的な厳密さ・技術的リアリティを重視した作品。"
+  },
+  {
+    "id": "near-future",
+    "name": "近未来",
+    "description": "現代の延長線上の近い未来を舞台にした作品。"
+  },
+  {
+    "id": "far-future",
+    "name": "遠未来",
+    "description": "数百年から数十億年先の遠い未来を描く作品。"
+  },
+  {
+    "id": "parallel-world",
+    "name": "パラレルワールド",
+    "description": "並行世界・歴史改変を扱う作品。"
+  },
+  {
+    "id": "military-sf",
+    "name": "ミリタリーSF",
+    "description": "軍事・戦争を主題にした作品。"
+  },
+  {
+    "id": "generation-ship",
+    "name": "世代宇宙船",
+    "description": "恒星間航行と世代交代を扱う作品。"
+  },
+  {
+    "id": "language-sf",
+    "name": "言語SF",
+    "description": "言語・コミュニケーションそのものを主題にした作品。"
+  },
+  {
+    "id": "disaster",
+    "name": "災害SF",
+    "description": "天変地異・大規模災害を描く作品。"
+  },
+  {
+    "id": "evolution",
+    "name": "進化・宇宙論",
+    "description": "人類の進化や宇宙の構造そのものを主題にした作品。"
+  },
+  {
+    "id": "juvenile",
+    "name": "ジュブナイル",
+    "description": "少年少女向けに書かれた、青春要素の強い作品。"
+  },
+  {
+    "id": "short-stories",
+    "name": "短編集",
+    "description": "短編・ショートショートを収めた作品集。"
+  },
+  {
+    "id": "jojutsu-sf",
+    "name": "叙述トリックSF",
+    "description": "語りの構造自体に仕掛けがある作品。このタグが付いていること自体が手がかりになるためネタバレ扱い。",
+    "spoiler": true
+  },
+  {
+    "id": "world-truth",
+    "name": "世界の真相もの",
+    "description": "舞台となる世界の正体・成り立ちが物語の核心になっている作品。",
+    "spoiler": true
+  },
+  {
+    "id": "narrator-identity",
+    "name": "語り手の正体",
+    "description": "語り手が何者かということ自体が仕掛けになっている作品。",
+    "spoiler": true
+  }
+]

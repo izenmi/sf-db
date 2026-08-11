@@ -1,0 +1,90 @@
+[
+  {
+    "id": "fukushima-masami",
+    "name": "福島正実",
+    "nameKana": "ふくしままさみ",
+    "description": "『SFマガジン』初代編集長。クラーク・ハインラインなど海外SFの翻訳を多数手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/福島正実"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "asakura-hisashi",
+    "name": "浅倉久志",
+    "nameKana": "あさくらひさし",
+    "description": "ディック・ヴォネガットなどの翻訳で知られるSF翻訳の第一人者。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/浅倉久志"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ike-hiroaki",
+    "name": "池央耿",
+    "nameKana": "いけひろあき",
+    "description": "『星を継ぐもの』などホーガン作品の翻訳で知られる翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/池央耿"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "numano-mitsuyoshi",
+    "name": "沼野充義",
+    "nameKana": "ぬまのみつよし",
+    "description": "ロシア・ポーランド文学者。レム『ソラリス』を原語から翻訳した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/沼野充義"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "onoda-kazuko",
+    "name": "小野田和子",
+    "nameKana": "おのだかずこ",
+    "description": "『火星の人』などを手がけるSF翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小野田和子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "omori-nozomi",
+    "name": "大森望",
+    "nameKana": "おおもりのぞみ",
+    "description": "SF翻訳家・書評家。『三体』日本語版の翻訳に参加。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大森望"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mitsuyoshi-sakura",
+    "name": "光吉さくら",
+    "nameKana": "みつよしさくら",
+    "description": "中国語翻訳者。『三体』日本語版をワン・チャイとともに原語から翻訳した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/光吉さくら"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "wan-zai",
+    "name": "ワン・チャイ",
+    "nameKana": "わんちゃい",
+    "description": "中国語翻訳者。『三体』日本語版を光吉さくらとともに原語から翻訳した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ワン・チャイ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  }
+]

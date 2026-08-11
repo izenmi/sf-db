@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Full-bleed background, deliberately NOT rounded like the sister sites' icons: rounded
+       corners leave the four corners transparent, which some browsers and icon pipelines
+       composite onto white. A square fill keeps the corners black everywhere. -->
+  <rect width="64" height="64" fill="#000000" />
+  <!-- S is centred with dominant-baseline rather than the eyeballed baseline offset the sister
+       sites use for ら / ま / ゲ. Kept in sync with scripts/generate-icons.mjs, which renders
+       favicon.ico and apple-touch-icon.png. -->
+  <text
+    x="32"
+    y="33"
+    font-family="'M PLUS Rounded 1c', 'Hiragino Maru Gothic ProN', 'IPAGothic', sans-serif"
+    font-weight="800"
+    font-size="46"
+    fill="#6e8bff"
+    text-anchor="middle"
+    dominant-baseline="central"
+  >S</text>
+</svg>

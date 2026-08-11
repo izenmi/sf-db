@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://izenmi.github.io/sf-db/sitemap.xml

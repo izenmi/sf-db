@@ -1,0 +1,212 @@
+[
+  {
+    "id": "komatsu-sakyo",
+    "name": "小松左京",
+    "nameKana": "こまつさきょう",
+    "description": "『日本沈没』『果しなき流れの果に』で知られる、日本SF御三家のひとり。",
+    "birthYear": 1931,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小松左京"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mitsuse-ryu",
+    "name": "光瀬龍",
+    "nameKana": "みつせりゅう",
+    "description": "『百億の昼と千億の夜』など、宇宙論的スケールの叙事詩的作品で知られる作家。",
+    "birthYear": 1928,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/光瀬龍"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tsutsui-yasutaka",
+    "name": "筒井康隆",
+    "nameKana": "つついやすたか",
+    "description": "『時をかける少女』のほか実験的な作風でも知られる、日本SF御三家のひとり。",
+    "birthYear": 1934,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/筒井康隆"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kambayashi-chohei",
+    "name": "神林長平",
+    "nameKana": "かんばやしちょうへい",
+    "description": "『戦闘妖精・雪風』シリーズなど、機械と人間・言葉を主題にした作品で知られる作家。",
+    "birthYear": 1953,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神林長平"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "itoh-keikaku",
+    "name": "伊藤計劃",
+    "nameKana": "いとうけいかく",
+    "description": "『虐殺器官』『ハーモニー』を遺してゼロ年代日本SFに大きな足跡を残した作家。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/伊藤計劃"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kishi-yusuke",
+    "name": "貴志祐介",
+    "nameKana": "きしゆうすけ",
+    "description": "ホラー・ミステリーからSFまで幅広く手がける作家。『新世界より』で日本SF大賞受賞。",
+    "birthYear": 1959,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/貴志祐介"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ubukata-tow",
+    "name": "冲方丁",
+    "nameKana": "うぶかたとう",
+    "description": "『マルドゥック・スクランブル』のSFから時代小説まで幅広く手がける作家。",
+    "birthYear": 1977,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/冲方丁"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "isukari-yuba",
+    "name": "柞刈湯葉",
+    "nameKana": "いすかりゆば",
+    "description": "『横浜駅SF』でデビューした作家。理系的な着想とユーモアを併せ持つ作風。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/柞刈湯葉"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hoshi-shinichi",
+    "name": "星新一",
+    "nameKana": "ほししんいち",
+    "description": "1000編を超えるショートショートを残した「ショートショートの神様」。日本SF御三家のひとり。",
+    "birthYear": 1926,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星新一"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fujii-taiyo",
+    "name": "藤井太洋",
+    "nameKana": "ふじいたいよう",
+    "description": "セルフパブリッシング発でデビューし、現代技術に根ざした作風で知られる作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤井太洋"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "arthur-c-clarke",
+    "name": "アーサー・C・クラーク",
+    "nameKana": "くらーくあーさーしー",
+    "description": "『幼年期の終り』『2001年宇宙の旅』で知られるイギリスの作家。ビッグスリーのひとり。",
+    "birthYear": 1917,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アーサー・C・クラーク"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "robert-a-heinlein",
+    "name": "ロバート・A・ハインライン",
+    "nameKana": "はいんらいんろばーとえー",
+    "description": "『夏への扉』『月は無慈悲な夜の女王』で知られるアメリカの作家。ビッグスリーのひとり。",
+    "birthYear": 1907,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロバート・A・ハインライン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "stanislaw-lem",
+    "name": "スタニスワフ・レム",
+    "nameKana": "れむすたにすわふ",
+    "description": "『ソラリス』で知られるポーランドの作家。哲学的・思弁的なSFの巨匠。",
+    "birthYear": 1921,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スタニスワフ・レム"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "philip-k-dick",
+    "name": "フィリップ・K・ディック",
+    "nameKana": "でぃっくふぃりっぷけー",
+    "description": "『アンドロイドは電気羊の夢を見るか?』など、現実の不確かさを主題にしたアメリカの作家。",
+    "birthYear": 1928,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フィリップ・K・ディック"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "james-p-hogan",
+    "name": "ジェイムズ・P・ホーガン",
+    "nameKana": "ほーがんじぇいむずぴー",
+    "description": "『星を継ぐもの』で知られるイギリス出身のハードSF作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェイムズ・P・ホーガン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ted-chiang",
+    "name": "テッド・チャン",
+    "nameKana": "ちゃんてっど",
+    "description": "寡作ながら発表作の多くが受賞歴を持つアメリカの作家。『あなたの人生の物語』で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テッド・チャン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "andy-weir",
+    "name": "アンディ・ウィアー",
+    "nameKana": "うぃあーあんでぃ",
+    "description": "『火星の人』で知られるアメリカの作家。技術的リアリティとユーモアを併せ持つ作風。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンディ・ウィアー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "liu-cixin",
+    "name": "劉慈欣",
+    "nameKana": "りゅうじきん",
+    "description": "『三体』三部作で世界的な人気を得た中国の作家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/劉慈欣"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  }
+]

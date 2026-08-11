@@ -1,0 +1,937 @@
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 14px 20px 10px;
+}
+
+/* Not sticky — the user wants the full screen for content, header scrolls away. Kept subdued
+   (dark surface + thin accent border) rather than a bright color bar so it doesn't dominate. */
+.top-nav {
+  background: var(--color-surface-variant);
+  border-bottom: 2px solid var(--color-outline);
+}
+
+.top-nav__inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 8px 20px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 16px;
+}
+
+.top-nav__title {
+  font-weight: 800;
+  font-size: 1.05rem;
+  text-decoration: none;
+  color: var(--color-cosmo-deep);
+  margin-right: 4px;
+  letter-spacing: 0.02em;
+}
+
+.top-nav__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.top-nav__links a {
+  display: inline-block;
+  padding: 4px 11px;
+  border-radius: var(--radius-pill);
+  text-decoration: none;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.top-nav__links a.active,
+.top-nav__links a:hover {
+  background: var(--color-surface);
+  color: var(--color-cosmo-deep);
+}
+
+h1 {
+  font-size: 1.35rem;
+  margin: 4px 0 2px;
+  font-weight: 800;
+  color: var(--color-ink);
+}
+
+.page-subtitle {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+  margin: 0 0 12px;
+  font-weight: 500;
+}
+
+/* ---- Entity list (authors/translators/publishers/themes/awards) ---- */
+
+.entity-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 6px;
+}
+
+.entity-list__item a {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 7px 12px;
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  border: 1px solid var(--color-outline);
+  text-decoration: none;
+  color: var(--color-text);
+  font-weight: 700;
+  font-size: 0.92rem;
+  transition: border-color 0.15s ease;
+}
+
+.entity-list__item a:hover {
+  border-color: var(--color-cosmo-strong);
+}
+
+.entity-list__count {
+  color: var(--color-text-muted);
+  font-variant-numeric: tabular-nums;
+  font-weight: 700;
+}
+
+/* ---- Chips (theme tags, awards) — one calm palette, no rainbow cycling ---- */
+
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin: 5px 0;
+}
+
+.chip {
+  display: inline-block;
+  padding: 1px 8px;
+  border-radius: var(--radius-pill);
+  background: var(--color-surface-variant);
+  color: var(--color-primary-strong);
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-decoration: none;
+  border: 1px solid var(--color-outline);
+  transition: background 0.15s ease, border-color 0.15s ease;
+}
+
+.chip:hover {
+  background: var(--color-cosmo);
+  border-color: var(--color-cosmo-strong);
+  color: var(--color-ink-on-accent);
+}
+
+.award-chip {
+  background: transparent !important;
+  border-color: var(--color-outline) !important;
+  color: var(--color-text-muted);
+  font-weight: 500;
+  font-size: 0.68rem;
+  padding: 1px 8px;
+}
+
+.award-chip:hover {
+  background: var(--color-surface-variant) !important;
+  color: var(--color-text);
+}
+
+/* ---- Work list rows ---- */
+
+/* Two (or more, on very wide screens) columns instead of a single stacked column — a lone
+   column left a lot of unused horizontal space on desktop widths. */
+.work-grid {
+  display: grid;
+  /* min(450px, 100%) instead of a bare 450px — a bare minmax lower bound still forces that
+     track width even when the container is narrower, overflowing it (and the page) on mobile
+     instead of collapsing to a single full-width column. */
+  grid-template-columns: repeat(auto-fill, minmax(min(450px, 100%), 1fr));
+  gap: 6px;
+}
+
+/* 表紙表示モード(?view=covers)。書影だけをカード表示の倍のサイズ(92x131 → 184x262)で並べる。
+   トラックの下限は表紙幅の184pxだが、`(100% - gap) / 2` で頭打ちにして**必ず2列は入る**ように
+   している。これがないと375px幅のスマホで1列になり、中央に表紙が1枚だけ・左右が余白という
+   間延びした画面になる。メディアクエリを使わないのは .work-grid と同じ方針。 */
+.work-grid--covers {
+  grid-template-columns: repeat(auto-fill, minmax(min(184px, calc((100% - 12px) / 2)), 1fr));
+  gap: 12px;
+  justify-items: center;
+}
+
+.work-cover-card {
+  display: block;
+  width: 100%;
+  max-width: 184px;
+  border-radius: var(--radius-sm);
+}
+
+.work-card {
+  position: relative;
+  display: flex;
+  gap: 12px;
+  padding: 8px 10px;
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  border: 1px solid var(--color-outline);
+  color: var(--color-text);
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+
+/* Stretched link: covers the whole card so the entire card area is a real <a> click target
+   (native middle-click/ctrl-click "open in new tab", right-click menu, keyboard focus), while
+   staying invisible. The theme chip <Link>s below get `position: relative` so they stack above
+   it and remain independently clickable. */
+.work-card__cover-link {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.work-card .chip-row {
+  position: relative;
+  z-index: 1;
+}
+
+.work-grid .work-card {
+  margin-bottom: 0;
+}
+
+.pager {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 16px;
+  margin-bottom: 10px;
+  flex-wrap: wrap;
+}
+
+.pager__pages {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.pager__page {
+  min-width: 30px;
+  height: 30px;
+  padding: 0 8px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-outline);
+  background: var(--color-surface-variant);
+  color: var(--color-text);
+  font-size: 0.85rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  cursor: pointer;
+}
+
+.pager__page:hover {
+  border-color: var(--color-cosmo-strong);
+}
+
+.pager__page--active,
+.pager__page--active:hover {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: var(--color-ink-on-accent);
+}
+
+.pager__ellipsis {
+  color: var(--color-text-muted);
+  font-weight: 700;
+  padding: 0 4px;
+}
+
+.pager__prev,
+.pager__next {
+  padding: 0 14px;
+  height: 30px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--color-outline);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.pager__prev:disabled,
+.pager__next:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.pager__prev:not(:disabled):hover,
+.pager__next:not(:disabled):hover {
+  border-color: var(--color-cosmo-strong);
+}
+
+.work-card:hover {
+  border-color: var(--color-cosmo-strong);
+}
+
+.work-card__content {
+  flex: 1;
+  min-width: 0;
+}
+
+.work-card__title {
+  font-weight: 800;
+  font-size: 0.96rem;
+  margin-bottom: 1px;
+  color: var(--color-ink);
+}
+
+.work-card__meta {
+  color: var(--color-text-muted);
+  font-size: 0.86rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.work-card__series {
+  color: var(--color-cosmo-deep);
+  font-size: 0.78rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.work-card__awards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 3px;
+}
+
+/* ---- Cover placeholder ---- */
+
+.work-cover {
+  flex-shrink: 0;
+  border-radius: var(--radius-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 4px;
+  font-weight: 800;
+  color: var(--color-ink-on-accent);
+  border: 1px solid transparent;
+}
+
+.work-cover--sm {
+  width: 92px;
+  height: 131px;
+  font-size: 0.68rem;
+  line-height: 1.15;
+}
+
+.work-cover--lg {
+  width: 160px;
+  height: 228px;
+  font-size: 0.9rem;
+  line-height: 1.3;
+}
+
+/* sm/lg と違って幅を固定せず、トラックいっぱいまで伸びて184pxで頭打ちにする。狭い画面で
+   トラックが184pxを下回ったときに表紙がはみ出さず、そのまま縮んで2列を保てる。
+   高さは aspect-ratio で sm/lg と同じ 92:131 に揃える。 */
+.work-cover--xl {
+  width: 100%;
+  max-width: 184px;
+  height: auto;
+  aspect-ratio: 92 / 131;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.work-cover__title {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+}
+
+/* 表紙が無い作品はここでもプレースホルダになる。xl は高さに余裕があるので、
+   長いタイトルを6行で切らずに済ませる。 */
+.work-cover--xl .work-cover__title {
+  -webkit-line-clamp: 8;
+}
+
+.work-cover--blue {
+  background: var(--color-blue);
+  border-color: var(--color-blue-strong);
+}
+.work-cover--pink {
+  background: var(--color-pink);
+  border-color: var(--color-pink-strong);
+}
+.work-cover--mint {
+  background: var(--color-mint);
+  border-color: var(--color-mint-strong);
+}
+.work-cover--yellow {
+  background: var(--color-yellow);
+  border-color: var(--color-yellow-strong);
+}
+.work-cover--peach {
+  background: var(--color-peach);
+  border-color: var(--color-peach-strong);
+}
+.work-cover--purple {
+  background: var(--color-primary);
+  border-color: var(--color-primary-strong);
+}
+
+/* 書影は切らずに全体を収める。枠(92:131)と実際の書影の比率のズレは、上下または左右の
+   余白として出す。cover(はみ出しを切る)だと、比率の違う書影でタイトルや帯が切れてしまう。
+   余白は枠の背景色(カードと同じ surface)になるので目立たない。 */
+.work-cover--image {
+  object-fit: contain;
+  background: var(--color-surface);
+}
+
+.cover-link {
+  display: block;
+  margin-top: 6px;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.work-detail__hero {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  margin-bottom: 6px;
+}
+
+.work-detail__hero-cover {
+  text-align: center;
+}
+
+/* ---- Search / filters ---- */
+
+.search-box {
+  width: 100%;
+  padding: 5px 12px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--color-outline);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-size: 0.85rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+  transition: border-color 0.15s ease;
+}
+
+.search-box:focus {
+  outline: none;
+  border-color: var(--color-primary);
+}
+
+.filter-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.filter-row select {
+  padding: 3px 9px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--color-outline);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-weight: 700;
+  font-size: 0.78rem;
+}
+
+.filter-clear-btn {
+  padding: 3px 9px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--color-outline);
+  background: transparent;
+  color: var(--color-text-muted);
+  font-weight: 700;
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+
+.filter-clear-btn:hover {
+  border-color: var(--color-cosmo-strong);
+  color: var(--color-text);
+}
+
+/* カード表示 / 表紙表示のセグメンテッド・コントロール。絞り込みの <select> 群と同じ
+   .filter-row に並ぶので、高さ・角丸・文字サイズをそちらに揃えてある。 */
+.view-toggle {
+  display: flex;
+  border: 1px solid var(--color-outline);
+  border-radius: var(--radius-pill);
+  overflow: hidden;
+}
+
+.view-toggle__btn {
+  padding: 3px 12px;
+  border: none;
+  background: transparent;
+  color: var(--color-text-muted);
+  font-weight: 700;
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+
+.view-toggle__btn:hover {
+  color: var(--color-text);
+}
+
+.view-toggle__btn--active {
+  background: var(--color-primary);
+  color: var(--color-ink-on-accent);
+}
+
+/* ---- Home ---- */
+
+.home-hero {
+  text-align: center;
+  padding: 28px 20px 18px;
+}
+
+.home-hero h1 {
+  font-size: 1.9rem;
+  margin: 0;
+  color: var(--color-cosmo-deep);
+  letter-spacing: 0.03em;
+}
+
+.home-hero .page-subtitle {
+  margin-top: 8px;
+  color: var(--color-text-muted);
+}
+
+.home-intro {
+  max-width: 640px;
+  margin: 10px auto 0;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+/* A single joined "stat strip" (hairline dividers via the 1px gap + outline-colored background
+   showing through) reads calmer and more dashboard-like than six separate sticker-shadow boxes. */
+/* flex-wrap (not grid auto-fit) so a partially-filled last row doesn't leave empty phantom
+   cells — with grid, unfilled tracks in the final row stay part of the layout and render as
+   blank boxes (seen on mobile where 6 badges wrap to a 4+2 split). */
+.count-badges {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1px;
+  margin: 10px auto;
+  background: var(--color-outline);
+  border: 1px solid var(--color-outline);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  max-width: 620px;
+}
+
+.count-badge {
+  flex: 1 1 84px;
+  min-width: 84px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1px;
+  padding: 7px 4px 6px;
+  background: var(--color-surface);
+  border-bottom: 2px solid transparent;
+  text-decoration: none;
+  color: var(--color-text);
+  transition: background 0.15s ease;
+}
+
+.count-badge:hover {
+  background: var(--color-surface-variant);
+}
+
+.count-badge--pink {
+  border-bottom-color: var(--color-pink-strong);
+}
+.count-badge--blue {
+  border-bottom-color: var(--color-blue-strong);
+}
+.count-badge--mint {
+  border-bottom-color: var(--color-mint-strong);
+}
+.count-badge--yellow {
+  border-bottom-color: var(--color-yellow-strong);
+}
+.count-badge--purple {
+  border-bottom-color: var(--color-primary);
+}
+.count-badge--peach {
+  border-bottom-color: var(--color-peach-strong);
+}
+.count-badge--cosmo {
+  border-bottom-color: var(--color-cosmo-strong);
+}
+
+.count-badge__number {
+  font-size: 1.05rem;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-ink);
+}
+
+.count-badge--pink .count-badge__number {
+  color: var(--color-pink-strong);
+}
+.count-badge--blue .count-badge__number {
+  color: var(--color-blue-strong);
+}
+.count-badge--mint .count-badge__number {
+  color: var(--color-mint-strong);
+}
+.count-badge--yellow .count-badge__number {
+  color: var(--color-yellow-strong);
+}
+.count-badge--purple .count-badge__number {
+  color: var(--color-primary);
+}
+.count-badge--peach .count-badge__number {
+  color: var(--color-peach-strong);
+}
+.count-badge--cosmo .count-badge__number {
+  color: var(--color-cosmo-strong);
+}
+
+.count-badge__label {
+  font-size: 0.62rem;
+  color: var(--color-text-muted);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  white-space: nowrap;
+}
+
+.home-section {
+  margin: 26px 0;
+}
+
+.home-section__heading {
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--color-ink);
+  margin: 0 0 10px;
+}
+
+.home-section__more {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--color-cosmo-deep);
+  text-decoration: none;
+}
+
+.home-section__more:hover {
+  text-decoration: underline;
+}
+
+.home-award-name {
+  margin-right: 6px;
+  font-weight: 700;
+}
+
+.chip-row--lg {
+  gap: 8px;
+}
+
+.chip--lg {
+  padding: 5px 14px;
+  font-size: 0.85rem;
+}
+
+.sister-site-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 8px;
+  max-width: 680px;
+}
+
+.sister-site-card {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 9px 12px;
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  border: 1px solid var(--color-outline);
+  border-left: 3px solid var(--color-outline);
+  text-decoration: none;
+  color: var(--color-text);
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.sister-site-card:hover {
+  background: var(--color-surface-variant);
+}
+
+.sister-site-card__name {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  font-size: 0.88rem;
+  font-weight: 800;
+  color: var(--color-ink);
+}
+
+.sister-site-card__name::after {
+  content: "→";
+  font-weight: 700;
+  color: var(--color-text-muted);
+  transition: transform 0.15s ease;
+}
+
+.sister-site-card:hover .sister-site-card__name::after {
+  transform: translateX(3px);
+}
+
+.sister-site-card__desc {
+  font-size: 0.72rem;
+  color: var(--color-text-muted);
+  line-height: 1.4;
+}
+
+/* ---- spoiler-safe theme tags ----
+   Work cards drop spoiler tags entirely (see WorkCard.tsx); these styles cover the two places a
+   reader can deliberately opt into seeing them: the reveal button on a work page, and the
+   banner on a spoiler tag's own theme page. */
+
+.spoiler-block {
+  margin-top: 8px;
+}
+
+.spoiler-toggle {
+  padding: 5px 12px;
+  border-radius: var(--radius-pill);
+  border: 1px dashed var(--color-outline);
+  background: transparent;
+  color: var(--color-text-muted);
+  font-size: 0.76rem;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.spoiler-toggle:hover {
+  border-color: var(--color-cosmo-strong);
+  color: var(--color-cosmo-deep);
+}
+
+.spoiler-block__note {
+  font-size: 0.72rem;
+  color: var(--color-text-muted);
+  margin: 6px 0 4px;
+}
+
+.chip.spoiler-chip {
+  background: var(--color-surface-variant);
+  border-color: var(--color-cosmo-strong);
+}
+
+.spoiler-banner {
+  padding: 9px 12px;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--color-cosmo-strong);
+  color: var(--color-text-muted);
+  font-size: 0.78rem;
+}
+
+/* Secondary line inside an entity-list row. */
+.entity-list__note {
+  display: block;
+  font-size: 0.72rem;
+  color: var(--color-text-muted);
+}
+
+/* Each card is edged in the accent colour of the site it links to. */
+.sister-site-card--ranobe {
+  border-left-color: #7cd0ff;
+}
+
+.sister-site-card--manga {
+  border-left-color: #f2a35c;
+}
+
+.sister-site-card--tech {
+  border-left-color: #6fd6c6;
+}
+
+
+.sister-site-card--game {
+  border-left-color: #8fd66b;
+}
+
+.sister-site-card--anime {
+  border-left-color: #ff86ad;
+}
+
+.sister-site-card--movie {
+  border-left-color: #ffc85c;
+}
+
+.sister-site-card--mystery {
+  border-left-color: #a795ff;
+}
+
+.source-note {
+  color: var(--color-text-muted);
+  font-size: 0.72rem;
+  margin-top: 14px;
+}
+
+.winner-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.winner-list li {
+  padding: 7px 10px;
+  margin-bottom: 4px;
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  border: 1px solid var(--color-outline);
+}
+
+.winner-year {
+  color: var(--color-ink-on-accent);
+  border-radius: var(--radius-pill);
+  padding: 1px 9px;
+  margin-right: 6px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.82rem;
+}
+
+/* Colored per year (see colorForYear in AwardDetailPage.tsx) so winners cluster visually by
+ * year at a glance instead of every row using the same pill color. */
+.winner-year--blue {
+  background: var(--color-blue);
+}
+.winner-year--pink {
+  background: var(--color-pink);
+}
+.winner-year--mint {
+  background: var(--color-mint);
+}
+.winner-year--yellow {
+  background: var(--color-yellow);
+}
+.winner-year--peach {
+  background: var(--color-peach);
+}
+.winner-year--purple {
+  background: var(--color-primary);
+}
+
+
+/* 姉妹サイトの同一原作ページへの相互リンク(scripts/link-sister-works.mjs が張るクロスリンク)。
+   同一オリジン(izenmi.github.io)の別アプリなので、外部リンクと違い同じタブで開く。 */
+.sister-link {
+  display: inline-block;
+  padding: 6px 14px;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--color-cosmo-deep);
+  color: var(--color-text);
+  text-decoration: none;
+}
+
+.sister-link:hover {
+  background: var(--color-surface-variant);
+}
+
+/* アワード詳細ページ: 受賞作を年ごとにまとめ、作品カードで見せる。
+   カードの上に順位・部門(result)を出すので、カード自体には手を入れていない。 */
+.award-year {
+  margin-top: 28px;
+}
+
+.award-year__heading {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 14px;
+  font-size: 1rem;
+}
+
+/* 年は「その年の受賞作の区切り」であって飾りではないので、ピルを大きめに取って
+   件数と罫線を添える。背景色は .winner-year--* をそのまま流用し、年ごとの
+   色ローテーションを受賞歴・年表ページと一致させている。 */
+.award-year__year {
+  color: var(--color-ink-on-accent);
+  border-radius: var(--radius-pill);
+  padding: 4px 18px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  font-size: 1.2rem;
+  line-height: 1.3;
+}
+
+.award-year__count {
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.award-year__rule {
+  flex: 1;
+  height: 1px;
+  min-width: 0;
+  background: var(--color-outline);
+}
+
+.award-entry {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.award-entry__result {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.award-entry .work-card {
+  height: 100%;
+}
+
+/* アフィリエイト表記(全ページ下部) */
+.affiliate-notice {
+  max-width: 1200px;
+  margin: 40px auto 24px;
+  padding: 0 16px;
+  color: var(--color-text-muted);
+  font-size: 0.78rem;
+  line-height: 1.7;
+}

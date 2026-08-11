@@ -1,0 +1,145 @@
+[
+  {
+    "id": "seiun",
+    "name": "星雲賞",
+    "organizer": "日本SFファングループ連合会議",
+    "description": "日本SF大会の参加者投票で選ばれるファン投票の賞。前年に日本国内で発表された作品が対象で、日本長編・海外長編など部門制。",
+    "firstYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星雲賞"
+    },
+    "sourceNote": "日本語版Wikipedia「星雲賞」の部門別受賞作一覧で受賞年・受賞作を確認した。yearは授賞年(日本SF大会開催年)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nihon-sf-taisho",
+    "name": "日本SF大賞",
+    "organizer": "日本SF作家クラブ",
+    "description": "日本SF作家クラブが主催する、その年度の優れたSF作品に贈られる賞。",
+    "firstYear": 1980,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本SF大賞"
+    },
+    "sourceNote": "日本語版Wikipedia「日本SF大賞」の受賞作一覧で確認した。yearは対象年度の授賞年。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hayakawa-sf-contest",
+    "name": "ハヤカワSFコンテスト",
+    "organizer": "早川書房",
+    "description": "早川書房が主催する公募新人賞。1961年に始まり、中断を経て2013年に長編を対象として再開された。",
+    "firstYear": 1961,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハヤカワSFコンテスト"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で沿革を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sogen-sf-tanpen",
+    "name": "創元SF短編賞",
+    "organizer": "東京創元社",
+    "description": "東京創元社が主催する短編SFの公募新人賞。",
+    "firstYear": 2010,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/創元SF短編賞"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で沿革を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nihon-sf-shinjin",
+    "name": "日本SF新人賞",
+    "organizer": "日本SF作家クラブ",
+    "description": "日本SF作家クラブが1999年度から2009年度まで実施した公募新人賞。",
+    "firstYear": 1999,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本SF新人賞"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で沿革を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "komatsu-sakyo-sho",
+    "name": "小松左京賞",
+    "organizer": "角川春樹事務所",
+    "description": "角川春樹事務所が2000年から2009年まで実施した公募のSF長編賞。",
+    "firstYear": 2000,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小松左京賞"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で沿革を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hugo",
+    "name": "ヒューゴー賞",
+    "organizer": "世界SF大会",
+    "description": "世界SF大会(ワールドコン)の参加者投票で選ばれる、英語圏で最も知られたSF賞のひとつ。",
+    "firstYear": 1953,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヒューゴー賞"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で沿革を確認した。邦訳作品の受賞は英訳版としての受賞である旨をresultに明記する。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nebula",
+    "name": "ネビュラ賞",
+    "organizer": "アメリカSFファンタジー作家協会",
+    "description": "アメリカSFファンタジー作家協会(SFWA)の会員投票で選ばれる賞。",
+    "firstYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ネビュラ賞"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で沿革を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "locus",
+    "name": "ローカス賞",
+    "organizer": "ローカス誌",
+    "description": "アメリカのSF情報誌『ローカス』の読者投票で選ばれる賞。",
+    "firstYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ローカス賞"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で沿革を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "clarke",
+    "name": "アーサー・C・クラーク賞",
+    "organizer": "アーサー・C・クラーク賞委員会",
+    "description": "イギリスで前年に刊行された最も優れたSF小説に贈られる賞。",
+    "firstYear": 1987,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アーサー・C・クラーク賞"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で沿革を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "pkd",
+    "name": "フィリップ・K・ディック賞",
+    "organizer": "フィラデルフィアSF協会",
+    "description": "アメリカでペーパーバック・オリジナルとして刊行されたSFを対象とする賞。",
+    "firstYear": 1983,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フィリップ・K・ディック賞"
+    },
+    "sourceNote": "英語版Wikipedia「Philip K. Dick Award」の受賞作一覧で確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sf-ga-yomitai",
+    "name": "「SFが読みたい!」ベストSF",
+    "organizer": "早川書房",
+    "description": "年刊ガイドブック『SFが読みたい!』が発表する前年のベストSFランキング。国内篇・海外篇がある。yearは「◯年版」の表記に合わせる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/SFが読みたい!"
+    },
+    "sourceNote": "日本語版Wikipedia「SFが読みたい!」の各年版ランキングで順位を確認した。",
+    "updatedAt": "2026-08-11"
+  }
+]
