@@ -15556,5 +15556,282 @@
     },
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "iriya-no-sora",
+    "title": "イリヤの空、UFOの夏",
+    "titleKana": "いりやのそらゆーふぉーのなつ",
+    "authorIds": [
+      "akiyama-mizuhito"
+    ],
+    "translatorIds": [],
+    "publisherId": "media-works",
+    "themeIds": [
+      "alien",
+      "juvenile",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "園原中学校二年の浅羽直之は、非公式のゲリラ新聞部で夏じゅう山にこもりUFOを探していた。園原には噂の絶えない空軍基地がある。成果のないまま迎えた夏休み最後の夜、忍び込んだ学校のプールで彼は伊里野加奈と名乗る少女に出会う。翌日、彼女は転校生として浅羽のクラスに現れた。少年少女の日常と戦争が地続きになる連作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "ベストSF2003 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/イリヤの空、UFOの夏"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは日本語版Wikipediaのあらすじ節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "neji-no-kaiten",
+    "title": "ねじの回転",
+    "titleKana": "ねじのかいてん",
+    "authorIds": [
+      "onda-riku"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "time-travel",
+      "alternate-history",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "安藤大尉、栗原中尉、そして石原莞爾は、再生プロジェクトの指示のもと、コンピュータ〈シンデレラの靴〉が生み出す時間の狭間で、再生された過去をなぞって歴史を確定する作業に取りかかる。だが三人の胸の内にはそれぞれ異なる決意があった。二・二六事件という史実に材を取り、錯綜する時間と思惑を描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "ベストSF2003 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ねじの回転"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kioku-osen",
+    "title": "記憶汚染",
+    "titleKana": "きおくおせん",
+    "authorIds": [
+      "hayashi-joji"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "ai",
+      "near-future",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "破滅的な原発テロの教訓から、携帯情報端末による厳格な個人認証が課された近未来の日本。土建会社社長の北畑は、奈良の弥生遺跡で謎の文字板を発見するが、なぜかそれは二百年前のものと推定された。一方、認知心理学者の秋山霧子は人工知能の奇妙な挙動に困惑している。二つの事象が交わったとき、人類の営為を覆す真相が姿を現す。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "ベストSF2003 国内篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "keritai-tanaka",
+    "title": "蹴りたい田中",
+    "titleKana": "けりたいたなか",
+    "authorIds": [
+      "tanaka-hirofumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "satire-sf",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "第二次大戦下で鬱屈する少年兵たちの心象を描いた珠玉作で茶川賞を受賞したのち、突如として消息を絶った伝説の作家・田中啓文。その才能を偲び、幼少期から出奔までの生涯をたどる単行本未収録作八編と、ゆかりの作家や編集者による証言、受賞時のインタビューを収める。作者自身を虚構の中に葬ってみせた一冊である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "ベストSF2004 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rakuen-no-chie",
+    "title": "楽園の知恵 あるいはヒステリーの歴史",
+    "titleKana": "らくえんのちえあるいはひすてりーのれきし",
+    "authorIds": [
+      "makino-osamu"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "esper"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "夢を見ない理由、死体に似た街、腐敗していく自分、地下室で蠢く父、時の王国におわす神、娼婦工場の太った女。現実の皮が剥がれたときに見え隠れする幻覚と妄想と戦慄を、ヒステリーの治療過程に見立てて並べてみせた凄絶な作品集である。『傀儡后』で宇宙的な悪夢を描いて日本SF大賞を受けた著者の資質が、短い形式でいっそう濃く出た一冊である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "ベストSF2004 国内篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kamigari-2",
+    "title": "神狩り2 リッパー",
+    "titleKana": "かみがりつーりっぱー",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "esper",
+      "religion-sf",
+      "near-future"
+    ],
+    "seriesName": "神狩り",
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "人間の脳の主たる機能は、人間に対して事実を隠蔽することにある。それは神を隠すことなのだ。二〇××年十月、沖縄の宮古島レーダーサイトが国籍不明の未確認飛行物体を捉え、在日米軍が緊急発進をかける。接近した戦闘機のパイロットが視認したのは、長い髪と純白の衣をなびかせ四枚の翼を打つ何かだった。三十年ぶりの続編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2005,
+        "result": "ベストSF2005 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sora-no-naka",
+    "title": "空の中",
+    "titleKana": "そらのなか",
+    "authorIds": [
+      "arikawa-hiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "media-works",
+    "themeIds": [
+      "alien",
+      "first-contact",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "二〇〇X年、謎の航空機事故が相次いだ。メーカーの担当者と、生き残った自衛隊パイロットが調査のため高空へ飛ぶ。高度二万メートル、事故に共通するその空域で二人が見つけた秘密とは何か。一方、地上では子どもたちが海辺で不思議な生物を拾っていた。大人と子どもが見つけた二つの秘密が出会うとき、前代未聞の危機が訪れる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2005,
+        "result": "ベストSF2005 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/空の中"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yojohan-shinwa-taikei",
+    "title": "四畳半神話大系",
+    "titleKana": "よじょうはんしんわたいけい",
+    "authorIds": [
+      "morimi-tomihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "ohta-shuppan",
+    "themeIds": [
+      "parallel-world",
+      "time-loop",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "私は冴えない大学三回生である。バラ色のキャンパスライフを想像していたのに、現実はそこからほど遠い。できることなら一回生に戻ってやり直したい。四つの並行世界でそれぞれ別のサークルを選んだ「私」が、どの世界でも結局は似たような場所へ流れ着いていく。同じ文章が少しずつずれて反復される構成そのものが仕掛けになった、おかしくもほろ苦い青春小説である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2005,
+        "result": "ベストSF2005 国内篇 第10位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/四畳半神話大系"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "antoku-tenno-hyokaiki",
+    "title": "安徳天皇漂海記",
+    "titleKana": "あんとくてんのうひょうかいき",
+    "authorIds": [
+      "uzuki-hara-harusane"
+    ],
+    "translatorIds": [],
+    "publisherId": "chuokoron-shinsha",
+    "themeIds": [
+      "denki-sf",
+      "alternate-history",
+      "sf-fantasy"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "壇ノ浦の合戦で入水したはずの安徳天皇。伝説の幼帝が、鎌倉の若き詩人王・源実朝の前に、神器とともにその姿を現す。一方、空前の繁栄を誇る大元帝国の都では、巡遣使マルコ・ポーロがジパングの驚くべき物語をクビライに語りはじめていた。時と海を越えて紡がれる幻想の叙事詩であり、第19回山本周五郎賞を受けた作品である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2006,
+        "result": "ベストSF2006 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安徳天皇漂海記"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

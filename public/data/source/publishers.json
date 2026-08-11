@@ -405,5 +405,17 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chuokoron-shinsha",
+    "name": "中央公論新社",
+    "nameKana": "ちゅうおうこうろんしんしゃ",
+    "description": "1999年に中央公論社の事業を引き継いで発足した出版社。",
+    "foundedYear": 1999,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中央公論新社"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
