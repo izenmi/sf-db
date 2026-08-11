@@ -800,5 +800,16 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yanashita-kiichiro",
+    "name": "柳下毅一郎",
+    "nameKana": "やなしたきいちろう",
+    "description": "映画評論家・翻訳家。特殊翻訳家を名乗り、英米の異色作を数多く紹介した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/柳下毅一郎"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

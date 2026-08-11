@@ -17257,5 +17257,177 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "endymion",
+    "title": "エンディミオン",
+    "titleKana": "えんでぃみおん",
+    "authorIds": [
+      "dan-simmons"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "religion-sf"
+    ],
+    "seriesName": "ハイペリオン四部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1996,
+    "jpPublishedYear": 1999,
+    "originalTitle": "Endymion",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "〈時間の墓標〉から現れる救世主の名はアイネイアー、十二歳の少女だという。彼女はサイリーナス老人のかつての巡礼仲間、女探偵レイミアのひとり娘だった。だが墓標には、教会の支配を脅かしうる少女を捕らえようとパクスの大軍が集結しつつあった。老人から託されたホーキング絨毯を駆り、エンディミオンは旅立つ。四部作の第三作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1999,
+        "result": "ベストSF1999 海外篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "enders-shadow",
+    "title": "エンダーズ・シャドウ",
+    "titleKana": "えんだーずしゃどう",
+    "authorIds": [
+      "orson-scott-card"
+    ],
+    "translatorIds": [
+      "tanaka-kazue"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "juvenile",
+      "alien"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1999,
+    "jpPublishedYear": 2000,
+    "originalTitle": "Ender's Shadow",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "孤児のビーンは、ロッテルダムのストリート・キッドの集団のなかでたちまち頭角を現していく。やがて国際艦隊児童訓練プログラムの徴兵係に見出され、バトル・スクールへスカウトされた。同じ出来事を、エンダーの部下であるビーンの視点から描き直していく。飢えた路上で生き延びた少年の目に、バトル・スクールがどう映るのか。『エンダーのゲーム』の姉妹編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "ベストSF2000 海外篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "flashforward",
+    "title": "フラッシュフォワード",
+    "titleKana": "ふらっしゅふぉわーど",
+    "authorIds": [
+      "robert-j-sawyer"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "hard-sf",
+      "time-travel"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1999,
+    "jpPublishedYear": 2001,
+    "originalTitle": "Flashforward",
+    "status": "completed",
+    "synopsis": "物理学者ロイド・シムコーが率いる大型加速器の実験の最中、世界じゅうの人間が二分間だけ意識を失い、二十年後の自分の情景を見る。事故で命を落とす者も出た。見えた未来は確定したものなのか、それとも変えられるのか。研究者たちは検証を進めながら、自らが目にした未来と向き合っていく。誰にも未来が見えなかった者は何を意味するのか、という問いも重くのしかかる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "ベストSF2001 海外篇 第5位"
+      }
+    ],
+    "mediaMix": {
+      "drama": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "player-of-games",
+    "title": "ゲーム・プレイヤー",
+    "titleKana": "げーむぷれいやー",
+    "authorIds": [
+      "iain-m-banks"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "utopia"
+    ],
+    "seriesName": "カルチャー",
+    "origin": "overseas",
+    "firstPublishedYear": 1988,
+    "jpPublishedYear": 2001,
+    "originalTitle": "The Player of Games",
+    "status": "completed",
+    "synopsis": "盤上遊戯の名手として名を知られるジェルナウ・モラト・グルジェは、〈カルチャー〉の豊かな暮らしに退屈しきっていた。特殊環境局から長い旅への参加を打診された彼は、詳細も知らされないまま遠い帝国へ向かう。そこでは巨大なゲームの勝者が皇帝となる仕組みが社会そのものを支えていた。遊戯を通して文明を対置する長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "ベストSF2001 海外篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fifth-head-of-cerberus",
+    "title": "ケルベロス第五の首",
+    "titleKana": "けるべろすだいごのくび",
+    "authorIds": [
+      "gene-wolfe"
+    ],
+    "translatorIds": [
+      "yanashita-kiichiro"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "alien",
+      "space-colony",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1972,
+    "jpPublishedYear": 2004,
+    "originalTitle": "The Fifth Head of Cerberus",
+    "status": "completed",
+    "synopsis": "地球から遠く離れた双子の惑星サンタ・アンナとサント・クロア。かつてこの星には姿を自在に変える先住種族がいて、入植者に取って代わったとも言われている。娼館で育った少年、先住種族の神話を語る物語、獄中で書かれた手記。互いに響き合う三つの中編が、私とは誰かという問いを幾重にも折り返していく連作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "ベストSF2004 海外篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
