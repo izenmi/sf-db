@@ -2926,5 +2926,53 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sakuraba-kazuki",
+    "name": "桜庭一樹",
+    "nameKana": "さくらばかずき",
+    "description": "ライトノベル出身の直木賞作家。少女の内面と家族の年代記を得意とする。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/桜庭一樹"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "maijo-otaro",
+    "name": "舞城王太郎",
+    "nameKana": "まいじょうおうたろう",
+    "description": "メフィスト賞出身の作家。疾走する文体と過剰な仕掛けで知られる。",
+    "birthYear": 1973,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/舞城王太郎"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tanaka-tetsuya",
+    "name": "田中哲弥",
+    "nameKana": "たなかてつや",
+    "description": "とぼけた語り口と底の見えない不条理で知られる作家。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田中哲弥"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ueo-hisamitsu",
+    "name": "うえお久光",
+    "nameKana": "うえおひさみつ",
+    "description": "電撃小説大賞出身の作家。『悪魔のミカタ』などで知られる。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/うえお久光"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

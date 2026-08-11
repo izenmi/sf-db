@@ -2185,9 +2185,19 @@
     "synopsis": "植民星メニー・メニー・シープで起きた反乱から物語は始まり、そこから二十七世紀にわたる人類史が遡行と跳躍を繰り返しながら語られていく。疫病をもたらす「救世群」と人類の相克、宇宙に散った種の分岐、そして最後に訪れる決着。全十部十七巻を費やして人類の未来史を編み上げた、著者の代表作にして日本SFの一大長編である。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "ベストSF2010 国内篇 第10位(II 救世群)"
+      },
+      {
         "awardId": "nihon-sf-taisho",
         "year": 2019,
         "result": "第40回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "ベストSF2019 国内篇 第3位(10 青葉よ、豊かなれ)"
       },
       {
         "awardId": "seiun",
@@ -15831,6 +15841,249 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/安徳天皇漂海記"
     },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mardock-velocity",
+    "title": "マルドゥック・ヴェロシティ",
+    "titleKana": "まるどぅっくゔぇろしてぃ",
+    "authorIds": [
+      "ubukata-tow"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "cyborg",
+      "near-future",
+      "military-sf"
+    ],
+    "seriesName": "マルドゥック",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "ギャングの世代間抗争に端を発した拷問殺人の背後には、闇の軍属カトル・カールの存在があった。ボイルドらの熾烈な戦いと捜査の末に保護された女ナタリアの証言が示したのは、労組対立を利用して権力の拡大を狙う一族の影である。ついに牙を剥いた都市システムのもとで、ボイルドがどのように変わっていったのかを描く前日譚である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "ベストSF2007 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マルドゥック・ヴェロシティ"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kujira-no-o",
+    "title": "鯨の王",
+    "titleKana": "くじらのおう",
+    "authorIds": [
+      "fujisaki-shingo"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "disaster",
+      "evolution",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "マリアナ諸島海域の深海で、米海軍の攻撃型原潜が襲われた。船体に傷はないのに、乗組員の半数以上が死亡している。海軍は海底基地へ調査員を派遣した。一方、日本ではアル中の鯨類学者・須藤が未知の巨大クジラの骨を発見するが、採集した骨は何者かに盗まれてしまう。『白鯨』への敬意を込めた海洋冒険SFである。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "ベストSF2007 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "akakuchiba-ke",
+    "title": "赤朽葉家の伝説",
+    "titleKana": "あかくちばけのでんせつ",
+    "authorIds": [
+      "sakuraba-kazuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "denki-sf",
+      "esper",
+      "alternate-history"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "山の民に置き去りにされた幼子は、村の若夫婦に引き取られ、やがて製鉄業で財を成した旧家・赤朽葉家に望まれて嫁ぎ、千里眼奥様と呼ばれるようになる。これがわたしの祖母、赤朽葉万葉である。千里眼の祖母、漫画家の母、そして何者でもないわたし。旧家に生きる三代の女と、彼女たちを取り巻く一族の姿を、戦後日本の変化と重ねて鮮やかに描き上げた年代記である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "ベストSF2007 国内篇 第10位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤朽葉家の伝説"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "free-lunch-no-jidai",
+    "title": "フリーランチの時代",
+    "titleKana": "ふりーらんちのじだい",
+    "authorIds": [
+      "ogawa-issui"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "first-contact",
+      "space-development"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "私は人類をたいらげたい。火星やまと基地の隊員四名が体験する、あまりにあっけないファーストコンタクトを描く表題作。太陽系開拓時代に孤独な宇宙船を駆るニートの日常を追う一編。いつのまにか不老不死を手にしてしまった人類の戸惑い。そして長編『時砂の王』に秘められた戦いを描く外伝。技術の恩恵をただで受け取ってしまった人類を、さまざまな角度から眺める五編の作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "ベストSF2008 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "disco-tantei-suiyobi",
+    "title": "ディスコ探偵水曜日",
+    "titleKana": "でぃすこたんていすいようび",
+    "authorIds": [
+      "maijo-otaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "parallel-world",
+      "world-truth",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "奇妙な円形の館をめぐる謎と、そこに集った名探偵たちの連続死。迷子探しを専門とするアメリカ人探偵ディスコ・ウェンズデイが、人類史上最大の事件に挑む。推理小説の体裁で始まりながら、時間も空間も人格も融解していく方向へ猛烈な勢いで突き進んでいく。原稿用紙二千枚を超える長大な作品で、著者の作風がもっとも極端な形で出ている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "ベストSF2008 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ディスコ探偵水曜日"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "saru-eki",
+    "title": "猿駅/初恋",
+    "titleKana": "さるえきはつこい",
+    "authorIds": [
+      "tanaka-tetsuya"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "母に呼ばれて無人駅に降り立つと、そこは一面の猿だった。どこへ行くにも猿を避けて歩くのは至難の業で、約束の煙草屋に着くまでに数匹を踏んでしまう。しかし彼らは怒りもせず、黙って踏まれるままだった。とぼけた語り口のまま、いつのまにか底の抜けた場所へ連れていかれる。表題の二編をはじめ、独特の不条理をまとめた作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "ベストSF2009 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "murasakiiro-no-qualia",
+    "title": "紫色のクオリア",
+    "titleKana": "むらさきいろのくおりあ",
+    "authorIds": [
+      "ueo-hisamitsu"
+    ],
+    "translatorIds": [],
+    "publisherId": "ascii-media-works",
+    "themeIds": [
+      "parallel-world",
+      "esper",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "自分以外の人間がロボットに見えるという紫色の瞳を持つ中学生・毬井ゆかり。クラスでは天然の少女としてマスコット的に扱われているが、彼女のまわりでは確かに奇妙な出来事が起きている。友人の視点から始まった物語は、やがて量子論と並行世界をめぐる巨大な構造へと展開していく。ライトノベルの枠組みで本格SFをやりきった一作として評価された。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "ベストSF2009 国内篇 第10位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/紫色のクオリア"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yugami-shinju",
+    "title": "歪み真珠",
+    "titleKana": "ゆがみしんじゅ",
+    "authorIds": [
+      "yamao-yuko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "sf-fantasy"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "歪み真珠すなわちバロックという言葉にふさわしい、絢爛かつ緻密な十五編を収める作品集である。物語というより一枚の絵に近い短さの編もあり、どれも読み終えたあとに強いイメージだけが残る。長い沈黙を経て活動を再開した幻想小説家の、密度の高い仕事がまとめられている。日本語そのものを彫琢することに主眼が置かれた一冊である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "ベストSF2010 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
