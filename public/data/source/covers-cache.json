@@ -279,6 +279,14 @@
     "resolvedAt": "2026-08-11T01:58:16.447Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/138209/"
   },
+  "bokyaku-no-fune": {
+    "title": "忘却の船に流れは光",
+    "isbn": null,
+    "matchedTitle": "忘却の船に流れは光",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4049/2000005614049.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T13:32:18.659Z"
+  },
   "boneshaker": {
     "title": "ボーンシェイカー ぜんまい仕掛けの都市",
     "isbn": null,
@@ -1027,6 +1035,14 @@
     "resolvedAt": "2026-08-11T04:40:53.812Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17922235/"
   },
+  "ginga-teikoku-no-kobo": {
+    "title": "銀河帝国の弘法も筆の誤り",
+    "isbn": null,
+    "matchedTitle": "銀河帝国の弘法も筆の誤り",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4056/2000005614056.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T13:32:11.716Z"
+  },
   "gods-themselves": {
     "title": "神々自身",
     "isbn": null,
@@ -1090,6 +1106,15 @@
     "resolvedAt": "2026-08-11T01:58:08.200Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12879251/"
   },
+  "hachigatsu-no-hakubutsukan": {
+    "title": "八月の博物館",
+    "isbn": "9784309421438",
+    "matchedTitle": "八月の博物館",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1438/9784309421438_1_12.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T13:32:08.204Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17987472/"
+  },
   "hadae-no-shita": {
     "title": "膚の下",
     "isbn": "9784150308810",
@@ -1146,6 +1171,12 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T04:38:00.127Z"
+  },
+  "henshitsu-no-hoko": {
+    "title": "偏執の芳香 アロマパラノイド",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T13:32:06.974Z"
   },
   "hikishio-no-toki": {
     "title": "引き潮のとき",
@@ -1242,6 +1273,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6252/2000002236252.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T03:42:26.775Z"
+  },
+  "hydunan": {
+    "title": "ハイドゥナン",
+    "isbn": null,
+    "matchedTitle": "ハイドゥナン１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4447/2000000214447.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T13:32:25.730Z"
   },
   "hyle-no-umi": {
     "title": "ヒュレーの海",
@@ -1484,6 +1523,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T12:24:01.796Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16753753/"
+  },
+  "karakuri-immoral": {
+    "title": "からくりアンモラル",
+    "isbn": "9784150308964",
+    "matchedTitle": "からくりアンモラル",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1503/15030896.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T13:32:22.232Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4476781/"
   },
   "karyu-no-miya": {
     "title": "華竜の宮",
@@ -2060,6 +2108,14 @@
     "resolvedAt": "2026-08-11T10:45:50.557Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17510641/"
   },
+  "ouroboros-no-hado": {
+    "title": "ウロボロスの波動",
+    "isbn": null,
+    "matchedTitle": "ウロボロスの波動",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4060/2000005614060.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T13:32:15.172Z"
+  },
   "owarinaki-sakuteki": {
     "title": "終わりなき索敵",
     "isbn": null,
@@ -2587,6 +2643,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T09:49:17.103Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17072235/"
+  },
+  "soundtrack": {
+    "title": "サウンドトラック",
+    "isbn": "9784087460773",
+    "matchedTitle": "サウンドトラック（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0773/9784087460773.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T13:32:21.063Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4132798/"
   },
   "space-kinyudo": {
     "title": "スペース金融道",
@@ -3229,6 +3294,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T01:58:15.276Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14539606/"
+  },
+  "yume-no-ki-ga-tsugetanara": {
+    "title": "夢の樹が接げたなら",
+    "isbn": null,
+    "matchedTitle": "夢の樹が接げたなら",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4083/2000005614083.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T13:31:55.863Z"
   },
   "yumemiru-ashibue": {
     "title": "夢みる葦笛",
