@@ -15339,5 +15339,222 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "battle-royale",
+    "title": "バトル・ロワイアル",
+    "titleKana": "ばとるろわいある",
+    "authorIds": [
+      "takami-koshun"
+    ],
+    "translatorIds": [],
+    "publisherId": "ohta-shuppan",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "alternate-history"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "一九九七年、東洋の全体主義国家である大東亜共和国。城岩中学三年B組の七原秋也ら四十二人は、修学旅行のバスごと無人島へ拉致され、政府主催の殺人実験を強制される。生きて帰れるのはただひとり。そのためにはクラスメイト全員を殺すしかない。極限状況で剥き出しになる中学生たちの関係を、四十二人分の視点を切り替えながら描き切る。現代日本を震撼させたデスゲーム小説である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1999,
+        "result": "ベストSF1999 国内篇 第7位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バトル・ロワイアル"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mizuchi",
+    "title": "水霊 ミヅチ",
+    "titleKana": "みづち",
+    "authorIds": [
+      "tanaka-hirofumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "denki-sf",
+      "disaster",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "神社の遺跡から湧き出た水を商品化する。それは過疎の村の村興し事業の目玉企画だった。ところが計画に関わった者が、人間離れした食欲を示したあとに痩せ衰えて死亡する怪事件が起きる。湧き水との関連を指摘する民俗学者・杜川己一郎は、遺跡の学術調査を進めるうちに疑念を確信へと変えていく。水という身近なものを媒介として恐怖を組み立てた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1999,
+        "result": "ベストSF1999 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "saijo-hideki-no-okage-desu",
+    "title": "西城秀樹のおかげです",
+    "titleKana": "さいじょうひできのおかげです",
+    "authorIds": [
+      "mori-natsuko"
+    ],
+    "translatorIds": [],
+    "publisherId": "east-press",
+    "themeIds": [
+      "short-stories",
+      "post-apocalypse",
+      "gender-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "謎のウイルスによって人類が死滅した世界で、ひとりの少女が野望を謳いあげる表題作。前代未聞のファーストコンタクトを描く「地球娘による地球外クッキング」。一九七九年を舞台にした不条理な青春譚「エロチカ79」。愛と笑いとエロスに満ちた作品集で、性愛を正面から扱う著者の資質がよく出ている。悩める人類に福音を授けると謳う口上そのものが可笑しい一冊である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "ベストSF2000 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "neko-no-chikyugi",
+    "title": "猫の地球儀",
+    "titleKana": "ねこのちきゅうぎ",
+    "authorIds": [
+      "akiyama-mizuhito"
+    ],
+    "translatorIds": [],
+    "publisherId": "media-works",
+    "themeIds": [
+      "space-colony",
+      "far-future",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "スカイウォーカーであるというだけで宣教部隊に殺される時代。三十六番目のスカイウォーカー朧が遺したロボットと、彼の人生が詰まった瓶を拾ったのは、朧の予言どおり三十七番目のスカイウォーカーとなる幽だった。そして幽は一匹のちっぽけな猫である。軌道上の閉じた世界で、猫たちがひたすら空を目指す。抒情的な文体と設定の作り込みが噛み合った代表作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "ベストSF2000 国内篇 第10位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/猫の地球儀"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kuroi-hotoke",
+    "title": "黒い仏",
+    "titleKana": "くろいほとけ",
+    "authorIds": [
+      "shuno-masayuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "denki-sf",
+      "jojutsu-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "九世紀の天台僧・円載にまつわる唐の秘宝探しと、指紋ひとつ残されていない部屋で見つかった身元不明の死体。無関係に見える二つの事柄の接点はどこにあるのか。日本シリーズに沸く福岡の裏で、二つの力が跋扈する。名探偵・石動戯作は複雑怪奇な事件の解を導き出せるのか。ミステリの体裁で始まりながら大きく足を踏み外していく、賛否両論を呼んだ超絶技巧の問題作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "ベストSF2001 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒い仏"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "donuts",
+    "title": "どーなつ",
+    "titleKana": "どーなつ",
+    "authorIds": [
+      "kitano-yusaku"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "virtual-reality",
+      "near-future",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "どこまでが自分でどこからが他者なのか分からない。この記憶は本当に自分のものなのか。父の迎えを待ちながらピンボール台で遊んだデパート屋上の夕暮れ、火星に雨を降らせようとした田宮さんに恋していたころ、どことも知れぬ異星で電気熊に乗って戦った日々。おれの想い出には何かが足りず、そして何かが多すぎる。記憶と現実の継ぎ目を淡々と外していく長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "ベストSF2002 国内篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "lapis-lazuli",
+    "title": "ラピスラズリ",
+    "titleKana": "らぴすらずり",
+    "authorIds": [
+      "yamao-yuko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "denki-sf",
+      "sf-fantasy",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "冬のあいだ眠り続ける宿命を持つ〈冬眠者〉たち。ある冬の日、ひとり眠りから覚めてしまった少女が出会ったのは、定めを忘れたゴーストだった。秋、冬眠者の館の棟開きの日に、人形を届けにきた荷運びと使用人、冬眠者、ゴーストが絡み合って引き起こされる騒動。五つの断章が緩やかに響き合い、イメージだけで世界を立ち上げていく。目覚めと眠りをめぐる連作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "ベストSF2003 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラピスラズリ"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

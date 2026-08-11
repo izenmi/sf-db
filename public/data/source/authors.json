@@ -2866,5 +2866,65 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "takami-koshun",
+    "name": "高見広春",
+    "nameKana": "たかみこうしゅん",
+    "description": "『バトル・ロワイアル』で衝撃的なデビューを飾った作家。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高見広春"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "akiyama-mizuhito",
+    "name": "秋山瑞人",
+    "nameKana": "あきやまみずひと",
+    "description": "ライトノベルの書き手として熱狂的な支持を集める作家。抒情的な文体と設定の作り込みで知られる。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/秋山瑞人"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shuno-masayuki",
+    "name": "殊能将之",
+    "nameKana": "しゅのうまさゆき",
+    "description": "メフィスト賞出身のミステリ作家。ジャンルの約束事を裏切る仕掛けで知られた。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/殊能将之"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "furuhashi-hideyuki",
+    "name": "古橋秀之",
+    "nameKana": "ふるはしひでゆき",
+    "description": "電撃ゲーム小説大賞出身の作家。スペースオペラから伝奇まで幅広く手がける。",
+    "birthYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/古橋秀之"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "uzuki-hara-harusane",
+    "name": "宇月原晴明",
+    "nameKana": "うつきばらはるあき",
+    "description": "史実に幻想を接ぎ木した歴史伝奇小説で知られる作家。日本ファンタジーノベル大賞出身。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇月原晴明"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
