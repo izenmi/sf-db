@@ -2796,5 +2796,52 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "takano-kazuaki",
+    "name": "高野和明",
+    "nameKana": "たかのかずあき",
+    "description": "脚本家を経て作家となった。緻密な取材に裏打ちされた大作エンタテインメントで知られる。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高野和明"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nozaki-mado",
+    "name": "野﨑まど",
+    "nameKana": "のざきまど",
+    "description": "ライトノベル出身の作家。人間の認識や創作の根源を扱う作品で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/野﨑まど"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "norizuki-rintaro",
+    "name": "法月綸太郎",
+    "nameKana": "のりづきりんたろう",
+    "description": "本格ミステリの代表的な書き手。論理そのものを主題にした作品でSF読者からも支持される。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/法月綸太郎"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kurata-takashi",
+    "name": "倉田タカシ",
+    "nameKana": "くらたたかし",
+    "description": "イラストレーターでもある作家。〈稀刊 奇想天外〉などを経て小説を発表している。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/倉田タカシ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

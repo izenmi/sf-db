@@ -14724,5 +14724,271 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "genocide-takano",
+    "title": "ジェノサイド",
+    "titleKana": "じぇのさいど",
+    "authorIds": [
+      "takano-kazuaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "evolution",
+      "near-future",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "イラクで戦うアメリカ人傭兵と、日本で薬学を専攻する大学院生。まったく接点のない二人の運命が交錯するとき、大陸をまたぐ冒険の幕が開く。アメリカの情報機関が察知した人類絶滅の危機とは何なのか。コンゴの密林で見つかったあるものをめぐって、各国の思惑が動きはじめる。長大な取材に支えられた娯楽大作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2011,
+        "result": "ベストSF2011 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェノサイド"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nankyokuten-no-piapia",
+    "title": "南極点のピアピア動画",
+    "titleKana": "なんきょくてんのぴあぴあどうが",
+    "authorIds": [
+      "nojiri-housuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-development",
+      "near-future",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "日本の次期月探査計画に関わっていた大学院生・蓮見省一の夢は、彗星が月面に衝突した瞬間に潰えた。恋人までが去り、彼は愛をボーカロイドの小隅レイに歌わせて動画共有サイトに上げるしかなかった。だが月からの放出物が地球に双極ジェットを作ると判明し、動画サイトの技術部を中心とした有志による〈宇宙男プロジェクト〉が動き出す。集合知が宇宙開発を進めていく連作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "ベストSF2012 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kiryu-keisatsu-ankoku-shijo",
+    "title": "機龍警察 暗黒市場",
+    "titleKana": "きりゅうけいさつあんこくしじょう",
+    "authorIds": [
+      "tsukimura-ryoe"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "near-future",
+      "robot"
+    ],
+    "seriesName": "機龍警察",
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "警視庁との契約を解除されたユーリ・オズノフ元警部は、旧知のロシアン・マフィアと組んで武器の密売に手を染めていた。一方、市場に流出した新型機甲兵装が〈龍機兵〉の同型機ではないかと疑う沖津特捜部長は、闇市場の壊滅作戦に着手する。日本とロシア、二つの国をつなぐ警察官の秘められた絆を描く至近未来の警察小説である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "ベストSF2012 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gene-mapper",
+    "title": "Gene Mapper -full build-",
+    "titleKana": "じーんまっぱーふるびるど",
+    "authorIds": [
+      "fujii-taiyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "genetic-engineering",
+      "near-future",
+      "virtual-reality"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "拡張現実と遺伝子組み換え作物が生活に溶け込んだ近未来。設計者として蒸留作物の意匠を手がける林田は、自作の稲に異常が起きたという連絡を受ける。原因を追ってベトナムへ飛んだ彼は、農業と情報が結びついた世界の裏側に触れていく。個人出版の電子書籍として話題になった作品を、大幅に改稿した完全版である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "ベストSF2013 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "know",
+    "title": "know",
+    "titleKana": "のう",
+    "authorIds": [
+      "nozaki-mado"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "ai",
+      "cyborg"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "超情報化への対策として、人造の脳葉〈電子葉〉の移植が義務づけられた二〇八一年の京都。情報庁で働く官僚の御野・連レルは、情報素子のコードのなかに、恩師であり行方不明の研究者・道終・常イチが残した暗号を見つける。その啓示に導かれた先で待っていたのは、ひとりの少女だった。すべてを知るとは何かを問う長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "ベストSF2013 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "knox-machine",
+    "title": "ノックス・マシン",
+    "titleKana": "のっくすましん",
+    "authorIds": [
+      "norizuki-rintaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "time-travel",
+      "short-stories",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "上海大学のユアンは、国家科学技術局から召喚の連絡を受ける。「ノックスの十戒」を論じた彼の論文について確認したいことがあるという。出向いた先で持ちかけられたのは、予想もしない提案だった。本格ミステリの約束事を時間旅行の装置として使い切る表題作をはじめ、論理そのものを遊び倒す四編を収める。推理小説の歴史に詳しいほど笑える仕掛けが随所に置かれている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "ベストSF2013 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kiryu-keisatsu-mibo-ryodan",
+    "title": "機龍警察 未亡旅団",
+    "titleKana": "きりゅうけいさつみぼうりょだん",
+    "authorIds": [
+      "tsukimura-ryoe"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "near-future",
+      "robot"
+    ],
+    "seriesName": "機龍警察",
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "女性だけで構成された自爆テロ集団が、チェチェンから日本へ潜入した。特捜部が捜査を進める一方で、城木理事官は政治家である兄にある疑念を抱きはじめる。夫や息子を奪われた女たちがなぜ武器を取るのかを正面から扱っている。少女兵の存在が捜査する側の倫理を揺さぶり、シリーズのなかでもとりわけ苦い読後感を残す一作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2014,
+        "result": "ベストSF2014 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "haha-ni-naru-ishi-no-tsubute-de",
+    "title": "母になる、石の礫で",
+    "titleKana": "ははになるいしのつぶてで",
+    "authorIds": [
+      "kurata-takashi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "genetic-engineering",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "三次元印刷が驚異的に進化し、建築物から料理まで直接出力できる未来。禁断の実験のために地球を脱出した十二人の科学者は、火星と木星のあいだの小惑星帯にコロニーを築いていた。〈始祖〉と呼ばれる彼らが産み出した二世たちは、やがてコロニーを離れて自らの巣を作りはじめる。親と子の関係を極端な形で問い直す長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2015,
+        "result": "ベストSF2015 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kameri",
+    "title": "カメリ",
+    "titleKana": "かめり",
+    "authorIds": [
+      "kitano-yusaku"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "robot",
+      "post-apocalypse",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "人間が消えてしまった世界のカフェで、模造亀のカメリは考える。楽しいとはどういうことなのだろう。店を訪れるヒトデナシたちに喜んでほしくて、今日もカメリはささやかな奇跡を起こす。世界に何が起きたのかを最後まで説明しないまま、穏やかな日常だけを積み重ねていく。喪失を背景に置いたまま、それでも続く暮らしを描く、すこし不思議で心温まる連作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "ベストSF2016 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
