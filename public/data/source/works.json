@@ -172,12 +172,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2007,
-        "result": "2007年版 国内篇 第1位"
-      },
-      {
-        "awardId": "sf-ga-yomitai",
-        "year": 2008,
-        "result": "2008年版 国内篇 第1位"
+        "result": "ベストSF2007 国内篇 第1位"
       }
     ],
     "mediaMix": {
@@ -221,12 +216,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2009,
-        "result": "2009年版 国内篇 第1位"
-      },
-      {
-        "awardId": "sf-ga-yomitai",
-        "year": 2010,
-        "result": "2010年版 国内篇 第1位"
+        "result": "ベストSF2009 国内篇 第1位"
       },
       {
         "awardId": "pkd",
@@ -271,12 +261,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2008,
-        "result": "2008年版 国内篇 第1位"
-      },
-      {
-        "awardId": "sf-ga-yomitai",
-        "year": 2009,
-        "result": "2009年版 国内篇 第1位"
+        "result": "ベストSF2008 国内篇 第1位"
       }
     ],
     "mediaMix": {
@@ -317,12 +302,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2003,
-        "result": "2003年版 国内篇 第1位"
-      },
-      {
-        "awardId": "sf-ga-yomitai",
-        "year": 2004,
-        "result": "2004年版 国内篇 第1位"
+        "result": "ベストSF2003 国内篇 第1位"
       }
     ],
     "mediaMix": {
@@ -356,12 +336,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2017,
-        "result": "2017年版 国内篇 第6位"
-      },
-      {
-        "awardId": "sf-ga-yomitai",
-        "year": 2018,
-        "result": "2018年版 国内篇 第6位"
+        "result": "ベストSF2017 国内篇 第6位"
       }
     ],
     "mediaMix": {
@@ -426,7 +401,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2014,
-        "result": "2014年版 国内篇 第1位"
+        "result": "ベストSF2014 国内篇 第1位"
       }
     ]
   },
@@ -522,7 +497,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2004,
-        "result": "2004年版 海外篇 第10位"
+        "result": "ベストSF2004 海外篇 第10位"
       }
     ]
   },
@@ -629,7 +604,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2003,
-        "result": "2003年版 海外篇 第1位"
+        "result": "ベストSF2003 海外篇 第1位"
       }
     ]
   },
@@ -659,7 +634,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2014,
-        "result": "2014年版 海外篇 第1位"
+        "result": "ベストSF2014 海外篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -708,14 +683,9 @@
         "result": "長編小説部門受賞(英訳版)"
       },
       {
-        "awardId": "hugo",
-        "year": 2015,
-        "result": "長編小説部門受賞"
-      },
-      {
         "awardId": "sf-ga-yomitai",
         "year": 2019,
-        "result": "2019年版 海外篇 第1位"
+        "result": "ベストSF2019 海外篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -1480,7 +1450,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1996,
-        "result": "1996年版 国内篇 第1位"
+        "result": "ベストSF1996 国内篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -1582,7 +1552,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1999,
-        "result": "1999年版 国内篇 第2位"
+        "result": "ベストSF1999 国内篇 第2位"
       },
       {
         "awardId": "seiun",
@@ -1619,7 +1589,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2000,
-        "result": "2000年版 国内篇 第1位"
+        "result": "ベストSF2000 国内篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -1654,7 +1624,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2001,
-        "result": "2001年版 国内篇 第6位"
+        "result": "ベストSF2001 国内篇 第6位"
       },
       {
         "awardId": "seiun",
@@ -1688,7 +1658,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2002,
-        "result": "2002年版 国内篇 第1位"
+        "result": "ベストSF2002 国内篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -1725,7 +1695,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2003,
-        "result": "2003年版 国内篇 第2位"
+        "result": "ベストSF2003 国内篇 第2位"
       },
       {
         "awardId": "seiun",
@@ -1797,7 +1767,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2005,
-        "result": "2005年版 国内篇 第5位"
+        "result": "ベストSF2005 国内篇 第5位"
       },
       {
         "awardId": "seiun",
@@ -1831,7 +1801,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2006,
-        "result": "2006年版 国内篇 第4位"
+        "result": "ベストSF2006 国内篇 第4位"
       },
       {
         "awardId": "seiun",
@@ -1868,7 +1838,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2006,
-        "result": "2006年版 国内篇 第6位"
+        "result": "ベストSF2006 国内篇 第6位"
       },
       {
         "awardId": "seiun",
@@ -1950,7 +1920,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2010,
-        "result": "2010年版 国内篇 第5位"
+        "result": "ベストSF2010 国内篇 第5位"
       },
       {
         "awardId": "seiun",
@@ -2017,7 +1987,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2012,
-        "result": "2012年版 国内篇 第1位"
+        "result": "ベストSF2012 国内篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -2144,7 +2114,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2017,
-        "result": "2017年版 国内篇 第5位"
+        "result": "ベストSF2017 国内篇 第5位"
       },
       {
         "awardId": "seiun",
@@ -2179,7 +2149,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2018,
-        "result": "2018年版 国内篇 第1位"
+        "result": "ベストSF2018 国内篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -2215,14 +2185,14 @@
     "synopsis": "植民星メニー・メニー・シープで起きた反乱から物語は始まり、そこから二十七世紀にわたる人類史が遡行と跳躍を繰り返しながら語られていく。疫病をもたらす「救世群」と人類の相克、宇宙に散った種の分岐、そして最後に訪れる決着。全十部十七巻を費やして人類の未来史を編み上げた、著者の代表作にして日本SFの一大長編である。",
     "awardResults": [
       {
-        "awardId": "seiun",
-        "year": 2020,
-        "result": "日本長編部門受賞"
-      },
-      {
         "awardId": "nihon-sf-taisho",
         "year": 2019,
         "result": "第40回受賞"
+      },
+      {
+        "awardId": "seiun",
+        "year": 2020,
+        "result": "日本長編部門受賞"
       }
     ],
     "externalLinks": {
@@ -2327,7 +2297,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2024,
-        "result": "2024年版 国内篇 第5位"
+        "result": "ベストSF2024 国内篇 第5位"
       }
     ]
   },
@@ -2353,7 +2323,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2022,
-        "result": "2022年版 国内篇 第2位"
+        "result": "ベストSF2022 国内篇 第2位"
       },
       {
         "awardId": "nihon-sf-taisho",
@@ -2391,7 +2361,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2023,
-        "result": "2023年版 国内篇 第1位"
+        "result": "ベストSF2023 国内篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -3217,7 +3187,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1992,
-        "result": "1992年版 海外篇 第1位"
+        "result": "ベストSF1992 海外篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -3303,11 +3273,6 @@
         "awardId": "seiun",
         "year": 1995,
         "result": "海外長編部門受賞"
-      },
-      {
-        "awardId": "sf-ga-yomitai",
-        "year": 1995,
-        "result": "1995年版 海外篇 第1位(《ハイペリオン》2部作として)"
       }
     ],
     "externalLinks": {
@@ -3455,7 +3420,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1998,
-        "result": "1998年版 海外篇 第1位"
+        "result": "ベストSF1998 海外篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -3532,7 +3497,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1999,
-        "result": "1999年版 海外篇 第4位"
+        "result": "ベストSF1999 海外篇 第4位"
       },
       {
         "awardId": "seiun",
@@ -3604,7 +3569,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2002,
-        "result": "2002年版 海外篇 第5位"
+        "result": "ベストSF2002 海外篇 第5位"
       },
       {
         "awardId": "seiun",
@@ -3643,7 +3608,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2003,
-        "result": "2003年版 海外篇 第8位"
+        "result": "ベストSF2003 海外篇 第8位"
       },
       {
         "awardId": "seiun",
@@ -3681,7 +3646,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2004,
-        "result": "2004年版 海外篇 第1位"
+        "result": "ベストSF2004 海外篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -3719,7 +3684,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2005,
-        "result": "2005年版 海外篇 第1位"
+        "result": "ベストSF2005 海外篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -3760,7 +3725,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2006,
-        "result": "2006年版 海外篇 第8位"
+        "result": "ベストSF2006 海外篇 第8位"
       },
       {
         "awardId": "seiun",
@@ -3801,7 +3766,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2007,
-        "result": "2007年版 海外篇 第4位"
+        "result": "ベストSF2007 海外篇 第4位"
       },
       {
         "awardId": "seiun",
@@ -3845,7 +3810,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2008,
-        "result": "2008年版 海外篇 第1位"
+        "result": "ベストSF2008 海外篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -3917,7 +3882,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2010,
-        "result": "2010年版 海外篇 第1位"
+        "result": "ベストSF2010 海外篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -3971,7 +3936,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2011,
-        "result": "2011年版 海外篇 第2位"
+        "result": "ベストSF2011 海外篇 第2位"
       },
       {
         "awardId": "seiun",
@@ -4011,7 +3976,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2012,
-        "result": "2012年版 海外篇 第9位"
+        "result": "ベストSF2012 海外篇 第9位"
       },
       {
         "awardId": "seiun",
@@ -4049,7 +4014,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2013,
-        "result": "2013年版 海外篇 第2位"
+        "result": "ベストSF2013 海外篇 第2位"
       },
       {
         "awardId": "seiun",
@@ -4113,7 +4078,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2016,
-        "result": "2016年版 海外篇 第3位"
+        "result": "ベストSF2016 海外篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -4146,7 +4111,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2016,
-        "result": "2016年版 海外篇 第2位"
+        "result": "ベストSF2016 海外篇 第2位"
       },
       {
         "awardId": "seiun",
@@ -4184,7 +4149,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2018,
-        "result": "2018年版 海外篇 第6位"
+        "result": "ベストSF2018 海外篇 第6位"
       },
       {
         "awardId": "seiun",
@@ -4228,7 +4193,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2022,
-        "result": "2022年版 海外篇 第1位"
+        "result": "ベストSF2022 海外篇 第1位"
       }
     ],
     "mediaMix": {
@@ -4311,7 +4276,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2023,
-        "result": "2023年版 海外篇 第8位"
+        "result": "ベストSF2023 海外篇 第8位"
       },
       {
         "awardId": "seiun",
@@ -4603,7 +4568,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1990,
-        "result": "1990年版 国内篇 第1位"
+        "result": "ベストSF1990 国内篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -4756,7 +4721,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1999,
-        "result": "1999年版 国内篇 第4位"
+        "result": "ベストSF1999 国内篇 第4位"
       }
     ],
     "externalLinks": {
@@ -4792,7 +4757,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2001,
-        "result": "2001年版 国内篇 第1位"
+        "result": "ベストSF2001 国内篇 第1位"
       }
     ],
     "externalLinks": {
@@ -4829,7 +4794,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2002,
-        "result": "2002年版 国内篇 第4位"
+        "result": "ベストSF2002 国内篇 第4位"
       }
     ],
     "externalLinks": {
@@ -4865,7 +4830,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2002,
-        "result": "2002年版 国内篇 第8位"
+        "result": "ベストSF2002 国内篇 第8位"
       }
     ],
     "externalLinks": {},
@@ -4894,7 +4859,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2004,
-        "result": "2004年版 国内篇 第1位"
+        "result": "ベストSF2004 国内篇 第1位"
       },
       {
         "awardId": "nihon-sf-taisho",
@@ -4963,7 +4928,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2010,
-        "result": "2010年版 国内篇 第1位"
+        "result": "ベストSF2010 国内篇 第1位"
       },
       {
         "awardId": "nihon-sf-taisho",
@@ -5037,7 +5002,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2012,
-        "result": "2012年版 国内篇 第2位"
+        "result": "ベストSF2012 国内篇 第2位"
       }
     ],
     "externalLinks": {
@@ -5073,7 +5038,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2013,
-        "result": "2013年版 国内篇 第1位"
+        "result": "ベストSF2013 国内篇 第1位"
       }
     ],
     "externalLinks": {
@@ -5109,7 +5074,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2013,
-        "result": "2013年版 国内篇 第2位"
+        "result": "ベストSF2013 国内篇 第2位"
       }
     ],
     "externalLinks": {},
@@ -5143,7 +5108,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2014,
-        "result": "2014年版 国内篇 第4位"
+        "result": "ベストSF2014 国内篇 第4位"
       }
     ],
     "externalLinks": {},
@@ -5235,7 +5200,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2015,
-        "result": "2015年版 国内篇 第2位"
+        "result": "ベストSF2015 国内篇 第2位"
       }
     ],
     "externalLinks": {},
@@ -5301,7 +5266,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2017,
-        "result": "2017年版 国内篇 第1位"
+        "result": "ベストSF2017 国内篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -5334,7 +5299,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2018,
-        "result": "2018年版 国内篇 第6位"
+        "result": "ベストSF2018 国内篇 第6位"
       }
     ],
     "externalLinks": {
@@ -5370,7 +5335,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2018,
-        "result": "2018年版 国内篇 第2位"
+        "result": "ベストSF2018 国内篇 第2位"
       }
     ],
     "externalLinks": {
@@ -5407,7 +5372,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2020,
-        "result": "2020年版 国内篇 第6位"
+        "result": "ベストSF2020 国内篇 第6位"
       }
     ],
     "externalLinks": {},
@@ -5441,7 +5406,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2022,
-        "result": "2022年版 国内篇 第3位"
+        "result": "ベストSF2022 国内篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -5475,7 +5440,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2024,
-        "result": "2024年版 国内篇 第4位"
+        "result": "ベストSF2024 国内篇 第4位"
       }
     ],
     "externalLinks": {},
@@ -5504,7 +5469,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1991,
-        "result": "1991年版 国内篇 第1位"
+        "result": "ベストSF1991 国内篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -5533,7 +5498,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1993,
-        "result": "1993年版 国内篇 第1位"
+        "result": "ベストSF1993 国内篇 第1位"
       }
     ],
     "mediaMix": {
@@ -5567,7 +5532,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1994,
-        "result": "1994年版 国内篇 第1位"
+        "result": "ベストSF1994 国内篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -5596,7 +5561,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1997,
-        "result": "1997年版 国内篇 第1位"
+        "result": "ベストSF1997 国内篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -5626,7 +5591,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1998,
-        "result": "1998年版 国内篇 第1位"
+        "result": "ベストSF1998 国内篇 第1位"
       }
     ],
     "externalLinks": {
@@ -5657,7 +5622,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2005,
-        "result": "2005年版 国内篇 第1位"
+        "result": "ベストSF2005 国内篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -5690,7 +5655,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1991,
-        "result": "1991年版 海外篇 第1位"
+        "result": "ベストSF1991 海外篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -5728,7 +5693,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1993,
-        "result": "1993年版 海外篇 第1位"
+        "result": "ベストSF1993 海外篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -5766,7 +5731,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1997,
-        "result": "1997年版 海外篇 第1位"
+        "result": "ベストSF1997 海外篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -5799,7 +5764,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1999,
-        "result": "1999年版 海外篇 第1位"
+        "result": "ベストSF1999 海外篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -5838,7 +5803,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2000,
-        "result": "2000年版 海外篇 第1位"
+        "result": "ベストSF2000 海外篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -6716,7 +6681,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2002,
-        "result": "2002年版 海外篇 第7位"
+        "result": "ベストSF2002 海外篇 第7位"
       }
     ],
     "externalLinks": {},
@@ -6798,7 +6763,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2002,
-        "result": "2002年版 海外篇 第2位"
+        "result": "ベストSF2002 海外篇 第2位"
       }
     ],
     "externalLinks": {
@@ -6925,7 +6890,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2009,
-        "result": "2009年版 海外篇 第5位"
+        "result": "ベストSF2009 海外篇 第5位"
       }
     ],
     "externalLinks": {
@@ -6970,7 +6935,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2012,
-        "result": "2012年版 海外篇 第1位"
+        "result": "ベストSF2012 海外篇 第1位"
       }
     ],
     "externalLinks": {
@@ -7022,7 +6987,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2012,
-        "result": "2012年版 海外篇 第8位"
+        "result": "ベストSF2012 海外篇 第8位"
       }
     ],
     "externalLinks": {},
@@ -7061,7 +7026,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2020,
-        "result": "2020年版 海外篇 第4位"
+        "result": "ベストSF2020 海外篇 第4位"
       }
     ],
     "externalLinks": {
@@ -7143,7 +7108,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2023,
-        "result": "2023年版 海外篇 第7位"
+        "result": "ベストSF2023 海外篇 第7位"
       }
     ],
     "externalLinks": {
@@ -7195,7 +7160,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2020,
-        "result": "2020年版 海外篇 第3位"
+        "result": "ベストSF2020 海外篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -7312,7 +7277,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2020,
-        "result": "2020年版 海外篇 第5位"
+        "result": "ベストSF2020 海外篇 第5位"
       }
     ]
   },
@@ -7394,7 +7359,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2024,
-        "result": "2024年版 海外篇 第9位"
+        "result": "ベストSF2024 海外篇 第9位"
       },
       {
         "awardId": "seiun",
@@ -7437,7 +7402,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2020,
-        "result": "2020年版 海外篇 第2位"
+        "result": "ベストSF2020 海外篇 第2位"
       },
       {
         "awardId": "seiun",
@@ -7492,7 +7457,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2021,
-        "result": "2021年版 海外篇 第1位"
+        "result": "ベストSF2021 海外篇 第1位"
       }
     ]
   },
@@ -7792,12 +7757,12 @@
     "synopsis": "ある研究室で、タングステンが自然界にありえない同位体へ変わっているのが見つかる。並行宇宙の知性体が物質を交換しているのだと考えられ、そこから汲めども尽きぬ清浄な発電技術〈電子ポンプ〉が生まれた。だが、この取引が太陽の寿命を縮めていると疑う者が現れる。三部構成で、異星知性の側の視点も描かれる長編である。",
     "awardResults": [
       {
-        "awardId": "nebula",
+        "awardId": "hugo",
         "year": 1973,
         "result": "長編小説部門受賞"
       },
       {
-        "awardId": "hugo",
+        "awardId": "nebula",
         "year": 1973,
         "result": "長編小説部門受賞"
       }
@@ -7866,12 +7831,12 @@
     "synopsis": "遠い昔に姿を消した異星種族ヒーチーが遺した小惑星ゲイトウェイには、行き先の分からない宇宙船が数多く係留されている。乗り込めば巨万の富を得られるかもしれないが、帰ってこられない者のほうが多い。貧しさから脱するために志願したロビネットは、精神分析を受けながら過去の航海を語りはじめる。人間の後悔を掘り下げた長編である。",
     "awardResults": [
       {
-        "awardId": "nebula",
+        "awardId": "hugo",
         "year": 1978,
         "result": "長編小説部門受賞"
       },
       {
-        "awardId": "hugo",
+        "awardId": "nebula",
         "year": 1978,
         "result": "長編小説部門受賞"
       }
@@ -7904,12 +7869,12 @@
     "synopsis": "赤道上の静止衛星から超高強度の繊維を地上へ垂らし、宇宙と地表を結ぶ昇降機を架けられないか。全長四万キロの軌道エレベーター建設をめざす技術者モーガンは、赤道直下の島国タプロバニーを訪れる。だが建設予定地の霊山の頂には、三千年の歴史を持つ寺院が建っていた。技術と信仰の対立を軸にした長編である。",
     "awardResults": [
       {
-        "awardId": "nebula",
+        "awardId": "hugo",
         "year": 1980,
         "result": "長編小説部門受賞"
       },
       {
-        "awardId": "hugo",
+        "awardId": "nebula",
         "year": 1980,
         "result": "長編小説部門受賞"
       }
@@ -8444,7 +8409,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2000,
-        "result": "2000年版 海外篇 第7位"
+        "result": "ベストSF2000 海外篇 第7位"
       }
     ],
     "externalLinks": {},
@@ -8487,7 +8452,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2000,
-        "result": "2000年版 海外篇 第5位"
+        "result": "ベストSF2000 海外篇 第5位"
       }
     ],
     "externalLinks": {},
@@ -8567,7 +8532,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2002,
-        "result": "2002年版 海外篇 第4位"
+        "result": "ベストSF2002 海外篇 第4位"
       }
     ],
     "externalLinks": {},
@@ -8601,7 +8566,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2000,
-        "result": "2000年版 海外篇 第4位"
+        "result": "ベストSF2000 海外篇 第4位"
       },
       {
         "awardId": "nebula",
@@ -8644,7 +8609,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2004,
-        "result": "2004年版 海外篇 第7位"
+        "result": "ベストSF2004 海外篇 第7位"
       }
     ],
     "externalLinks": {},
@@ -8682,7 +8647,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2007,
-        "result": "2007年版 海外篇 第6位"
+        "result": "ベストSF2007 海外篇 第6位"
       }
     ],
     "externalLinks": {},
@@ -8760,7 +8725,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2009,
-        "result": "2009年版 海外篇 第9位"
+        "result": "ベストSF2009 海外篇 第9位"
       }
     ],
     "externalLinks": {},
@@ -8803,7 +8768,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2014,
-        "result": "2014年版 海外篇 第3位"
+        "result": "ベストSF2014 海外篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -9053,7 +9018,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2003,
-        "result": "2003年版 海外篇 第6位"
+        "result": "ベストSF2003 海外篇 第6位"
       }
     ],
     "externalLinks": {},
@@ -9093,7 +9058,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2009,
-        "result": "2009年版 海外篇 第1位"
+        "result": "ベストSF2009 海外篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -9131,7 +9096,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2007,
-        "result": "2007年版 海外篇 第1位"
+        "result": "ベストSF2007 海外篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -9274,7 +9239,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2021,
-        "result": "2021年版 海外篇 第2位"
+        "result": "ベストSF2021 海外篇 第2位"
       }
     ],
     "externalLinks": {},
@@ -9516,7 +9481,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2001,
-        "result": "2001年版 海外篇 第7位"
+        "result": "ベストSF2001 海外篇 第7位"
       }
     ],
     "externalLinks": {},
@@ -9625,7 +9590,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2022,
-        "result": "2022年版 海外篇 第2位"
+        "result": "ベストSF2022 海外篇 第2位"
       }
     ],
     "externalLinks": {},
@@ -9703,7 +9668,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2012,
-        "result": "2012年版 海外篇 第4位"
+        "result": "ベストSF2012 海外篇 第4位"
       }
     ],
     "externalLinks": {},
@@ -9765,7 +9730,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2007,
-        "result": "2007年版 国内篇 第2位"
+        "result": "ベストSF2007 国内篇 第2位"
       },
       {
         "awardId": "pkd",
@@ -9806,7 +9771,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2014,
-        "result": "2014年版 国内篇 第3位"
+        "result": "ベストSF2014 国内篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -9956,7 +9921,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2018,
-        "result": "2018年版 国内篇 第7位"
+        "result": "ベストSF2018 国内篇 第7位"
       }
     ],
     "externalLinks": {},
@@ -10311,7 +10276,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2024,
-        "result": "2024年版 国内篇 第6位"
+        "result": "ベストSF2024 国内篇 第6位"
       }
     ],
     "externalLinks": {},
@@ -10490,7 +10455,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2000,
-        "result": "2000年版 国内篇 第8位"
+        "result": "ベストSF2000 国内篇 第8位"
       }
     ],
     "externalLinks": {},
@@ -10553,7 +10518,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2001,
-        "result": "2001年版 国内篇 第9位"
+        "result": "ベストSF2001 国内篇 第9位"
       }
     ],
     "externalLinks": {},
@@ -10587,7 +10552,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2001,
-        "result": "2001年版 国内篇 第5位"
+        "result": "ベストSF2001 国内篇 第5位"
       }
     ],
     "externalLinks": {},
@@ -10766,7 +10731,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2003,
-        "result": "2003年版 国内篇 第5位"
+        "result": "ベストSF2003 国内篇 第5位"
       }
     ],
     "mediaMix": {
@@ -11279,7 +11244,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2002,
-        "result": "2002年版 海外篇 第1位"
+        "result": "ベストSF2002 海外篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -11319,7 +11284,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2006,
-        "result": "2006年版 海外篇 第2位"
+        "result": "ベストSF2006 海外篇 第2位"
       }
     ],
     "externalLinks": {
@@ -11359,7 +11324,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2009,
-        "result": "2009年版 海外篇 第2位"
+        "result": "ベストSF2009 海外篇 第2位"
       }
     ],
     "externalLinks": {
@@ -11432,7 +11397,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2013,
-        "result": "2013年版 海外篇 第3位"
+        "result": "ベストSF2013 海外篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -11711,7 +11676,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2006,
-        "result": "2006年版 海外篇 第4位"
+        "result": "ベストSF2006 海外篇 第4位"
       }
     ],
     "externalLinks": {},
@@ -11840,7 +11805,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 1999,
-        "result": "1999年版 国内篇 第3位"
+        "result": "ベストSF1999 国内篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -11869,7 +11834,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2000,
-        "result": "2000年版 国内篇 第2位"
+        "result": "ベストSF2000 国内篇 第2位"
       }
     ],
     "externalLinks": {
@@ -11900,7 +11865,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2000,
-        "result": "2000年版 国内篇 第3位"
+        "result": "ベストSF2000 国内篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -11929,7 +11894,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2001,
-        "result": "2001年版 国内篇 第3位"
+        "result": "ベストSF2001 国内篇 第3位"
       }
     ],
     "externalLinks": {
@@ -11957,13 +11922,6 @@
     "firstPublishedYear": 2002,
     "status": "completed",
     "synopsis": "仮想リゾート〈数値海岸〉の一区画、南欧の港町を模した〈夏の区界〉。ゲストである人間の訪問が途絶えてから千年、取り残された人工知能たちは終わらない夏を過ごしていた。だがある日、謎の存在〈蜘蛛〉の大群が現れ、街のすべてを無化しはじめる。わずかに生き残った人工知能たちの、絶望に満ちた一夜の攻防が始まる。",
-    "awardResults": [
-      {
-        "awardId": "sf-ga-yomitai",
-        "year": 2002,
-        "result": "2002年版 国内篇 第2位"
-      }
-    ],
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
@@ -11990,7 +11948,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2002,
-        "result": "2002年版 国内篇 第3位"
+        "result": "ベストSF2002 国内篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -12020,7 +11978,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2003,
-        "result": "2003年版 国内篇 第3位"
+        "result": "ベストSF2003 国内篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -12051,7 +12009,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2004,
-        "result": "2004年版 国内篇 第2位"
+        "result": "ベストSF2004 国内篇 第2位"
       }
     ],
     "externalLinks": {},
@@ -12081,7 +12039,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2004,
-        "result": "2004年版 国内篇 第3位"
+        "result": "ベストSF2004 国内篇 第3位"
       }
     ],
     "externalLinks": {
@@ -12112,7 +12070,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2005,
-        "result": "2005年版 国内篇 第2位"
+        "result": "ベストSF2005 国内篇 第2位"
       }
     ],
     "externalLinks": {},
@@ -12141,7 +12099,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2005,
-        "result": "2005年版 国内篇 第3位"
+        "result": "ベストSF2005 国内篇 第3位"
       }
     ],
     "mediaMix": {
@@ -12174,7 +12132,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2006,
-        "result": "2006年版 国内篇 第1位"
+        "result": "ベストSF2006 国内篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -12203,7 +12161,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2006,
-        "result": "2006年版 国内篇 第2位"
+        "result": "ベストSF2006 国内篇 第2位"
       }
     ],
     "externalLinks": {
@@ -12234,7 +12192,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2006,
-        "result": "2006年版 国内篇 第3位"
+        "result": "ベストSF2006 国内篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -12263,7 +12221,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2007,
-        "result": "2007年版 国内篇 第3位"
+        "result": "ベストSF2007 国内篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -12292,7 +12250,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2008,
-        "result": "2008年版 国内篇 第2位"
+        "result": "ベストSF2008 国内篇 第2位"
       }
     ],
     "mediaMix": {
@@ -12326,7 +12284,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2008,
-        "result": "2008年版 国内篇 第3位"
+        "result": "ベストSF2008 国内篇 第3位"
       }
     ],
     "externalLinks": {},
@@ -12355,7 +12313,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2009,
-        "result": "2009年版 国内篇 第3位"
+        "result": "ベストSF2009 国内篇 第3位"
       }
     ],
     "externalLinks": {
@@ -12386,7 +12344,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2010,
-        "result": "2010年版 国内篇 第2位"
+        "result": "ベストSF2010 国内篇 第2位"
       }
     ],
     "externalLinks": {},
@@ -12415,7 +12373,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2010,
-        "result": "2010年版 国内篇 第3位"
+        "result": "ベストSF2010 国内篇 第3位"
       }
     ],
     "externalLinks": {
@@ -12446,7 +12404,7 @@
       {
         "awardId": "sf-ga-yomitai",
         "year": 2011,
-        "result": "2011年版 国内篇 第1位"
+        "result": "ベストSF2011 国内篇 第1位"
       }
     ],
     "externalLinks": {},
