@@ -8,6 +8,14 @@
     "resolvedAt": "2026-08-11T04:39:54.150Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/866593/"
   },
+  "ada-yamada": {
+    "title": "エイダ",
+    "isbn": null,
+    "matchedTitle": "エイダ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6641/2000005426641.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T04:56:16.590Z"
+  },
   "ancillary-justice": {
     "title": "叛逆航路",
     "isbn": null,
@@ -32,6 +40,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T04:32:27.553Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11646156/"
+  },
+  "anubis-gates": {
+    "title": "アヌビスの門",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T04:56:44.765Z"
   },
   "arabia-no-yoru-no-shuzoku": {
     "title": "アラビアの夜の種族",
@@ -75,6 +89,15 @@
     "source": "rakuten-books",
     "note": "上下巻のため上巻の書影を採用"
   },
+  "babel-no-kaori": {
+    "title": "バベルの薫り",
+    "isbn": null,
+    "matchedTitle": "バベルの薫り（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4068/2000005614068.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rk/6b7e8b6576d33b2d87653e2b328ee5b5/",
+    "source": "rakuten-kobo",
+    "note": "上下巻のため上巻の書影を採用(紙が品切のため楽天Kobo版)"
+  },
   "babylonia-wave": {
     "title": "バビロニア・ウェーブ",
     "isbn": null,
@@ -109,6 +132,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T01:58:16.447Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/138209/"
+  },
+  "brain-valley": {
+    "title": "BRAIN VALLEY",
+    "isbn": null,
+    "matchedTitle": "ＢＲＡＩＮ　ＶＡＬＬＥＹ（上）（新潮文庫）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0737/2000000260737.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rk/3d346d6da8ae3d08ba846984856d00f1/",
+    "source": "rakuten-kobo",
+    "note": "上下巻のため上巻の書影を採用(紙が品切のため楽天Kobo版)(書影は新潮文庫版、初刊は角川書店)"
   },
   "brightness-falls-from-the-air": {
     "title": "輝くもの天より墜ち",
@@ -157,6 +189,12 @@
     "rakutenItemUrl": "https://books.rakuten.co.jp/rk/287a07528de13d79bda5cf4fb4e96e57/",
     "source": "rakuten-kobo",
     "note": "上下巻のため上巻の書影を採用(紙が品切のため楽天Kobo版)"
+  },
+  "desolation-road": {
+    "title": "火星夜想曲",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T04:56:52.711Z"
   },
   "diaspora-egan": {
     "title": "ディアスポラ",
@@ -664,6 +702,15 @@
     "resolvedAt": "2026-08-11T03:43:55.730Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11875081/"
   },
+  "lightgene-no-isan": {
+    "title": "ライトジーンの遺産",
+    "isbn": "9784150309398",
+    "matchedTitle": "ライトジーンの遺産",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9398/9784150309398.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T04:56:17.745Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5885531/"
+  },
   "man-kind": {
     "title": "マン・カインド",
     "isbn": "9784152103185",
@@ -812,6 +859,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T03:42:38.409Z"
   },
+  "paprika": {
+    "title": "パプリカ",
+    "isbn": "9784101171401",
+    "matchedTitle": "パプリカ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10117140.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T04:56:11.478Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1497140/"
+  },
   "penguin-highway": {
     "title": "ペンギン・ハイウェイ",
     "isbn": "9784041005613",
@@ -846,6 +902,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T03:44:13.629Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17255793/"
+  },
+  "quarantine-egan": {
+    "title": "宇宙消失",
+    "isbn": "9784488711016",
+    "matchedTitle": "宇宙消失",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4887/48871101.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T04:56:53.865Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1086935/"
   },
   "rakuin-no-na-wa-hito": {
     "title": "烙印の名はヒト",
@@ -893,6 +958,23 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T04:33:43.033Z"
+  },
+  "rise-of-endymion": {
+    "title": "エンディミオンの覚醒",
+    "isbn": null,
+    "matchedTitle": "エンディミオンの覚醒（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4603/2000001834603.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T04:56:57.337Z"
+  },
+  "rou-vaux-no-wakusei": {
+    "title": "老ヴォールの惑星",
+    "isbn": "9784150308094",
+    "matchedTitle": "老ヴォールの惑星",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1503/15030809.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T04:56:23.670Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/3618607/"
   },
   "saigo-no-teki": {
     "title": "最後の敵",
@@ -1095,6 +1177,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T03:42:09.716Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6640526/"
+  },
+  "ten-thousand-light-years": {
+    "title": "故郷から10000光年",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T04:56:31.741Z"
   },
   "tengoku-to-jikoku": {
     "title": "天獄と地国",
