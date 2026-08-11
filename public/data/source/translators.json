@@ -634,5 +634,98 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "wani-momoko",
+    "name": "和爾桃子",
+    "nameKana": "わにももこ",
+    "description": "東洋を舞台とした英米のミステリ・ファンタジーを訳した翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/和爾桃子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mitsuzono-maki",
+    "name": "満園真木",
+    "nameKana": "みつぞのまき",
+    "description": "英米の小説を訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tanizaki-yui",
+    "name": "谷崎由依",
+    "nameKana": "たにざきゆい",
+    "description": "小説家・翻訳家。近畿大学准教授。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/谷崎由依"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "taguchi-toshiki",
+    "name": "田口俊樹",
+    "nameKana": "たぐちとしき",
+    "description": "英米のミステリを中心に数多く訳した翻訳家。翻訳学校の講師としても知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田口俊樹"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ueno-motomi",
+    "name": "上野元美",
+    "nameKana": "うえのもとみ",
+    "description": "英米の小説を訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shimokusu-masaya",
+    "name": "下楠昌哉",
+    "nameKana": "しもくすまさや",
+    "description": "英文学者・翻訳家。同志社大学教授。イギリス・アイルランド文学が専門。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/下楠昌哉"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nakamura-hitomi-tr",
+    "name": "中村仁美",
+    "nameKana": "なかむらひとみ",
+    "description": "英米の小説を訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "aoki-chizuru",
+    "name": "青木千鶴",
+    "nameKana": "あおきちづる",
+    "description": "英米文学の翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青木千鶴"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "onishi-akira",
+    "name": "大西憲",
+    "nameKana": "おおにしあきら",
+    "description": "英米のSF・ミステリを訳した翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大西憲"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

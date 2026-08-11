@@ -8708,5 +8708,582 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "zoo-city",
+    "title": "ZOO CITY",
+    "titleKana": "ずーしてぃ",
+    "authorIds": [
+      "lauren-beukes"
+    ],
+    "translatorIds": [
+      "wani-momoko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "sf-fantasy",
+      "dystopia",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2010,
+    "jpPublishedYear": 2013,
+    "originalTitle": "Zoo City",
+    "status": "completed",
+    "synopsis": "罪を犯した者には動物が憑き、離れられなくなる。そんな理が働くもうひとつのヨハネスブルグが舞台である。ナマケモノを背負う元記者ジンジは、薬物依存から立ち直りつつ、失せ物探しの才を活かして日銭を稼いでいた。行方不明の少女歌手を捜す仕事を引き受けたことから、彼女は都市の暗部へ引きずり込まれていく。",
+    "awardResults": [
+      {
+        "awardId": "clarke",
+        "year": 2011,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「アーサー・C・クラーク賞」「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。フィリップ・K・ディック賞は公式サイトが刊行年で一覧しているため、受賞年は刊行年の翌年とした。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "station-eleven",
+    "title": "ステーション・イレブン",
+    "titleKana": "すてーしょんいれぶん",
+    "authorIds": [
+      "emily-st-john-mandel"
+    ],
+    "translatorIds": [
+      "mitsuzono-maki"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "post-apocalypse",
+      "disaster",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "jpPublishedYear": 2015,
+    "originalTitle": "Station Eleven",
+    "status": "completed",
+    "synopsis": "トロントの劇場で『リア王』を演じていた俳優が舞台上で倒れたその夜、致死性の高い新型インフルエンザが世界へ広がりはじめる。文明が失われた二十年後、生き残った人々のあいだを、シェイクスピア劇と音楽を携えた旅の一座が巡っている。倒れた俳優と関わりのあった人々の過去と現在が、少しずつ結び合わされていく。",
+    "awardResults": [
+      {
+        "awardId": "clarke",
+        "year": 2015,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "drama": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「アーサー・C・クラーク賞」「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。フィリップ・K・ディック賞は公式サイトが刊行年で一覧しているため、受賞年は刊行年の翌年とした。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "children-of-time",
+    "title": "時の子供たち",
+    "titleKana": "ときのこどもたち",
+    "authorIds": [
+      "adrian-tchaikovsky"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "takeshobo",
+    "themeIds": [
+      "far-future",
+      "evolution",
+      "generation-ship"
+    ],
+    "seriesName": "時の子供たち",
+    "origin": "overseas",
+    "firstPublishedYear": 2015,
+    "jpPublishedYear": 2021,
+    "originalTitle": "Children of Time",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "荒廃した地球を捨てた人類は、宇宙船で難民のように漂っていた。唯一の望みは、数千年前に進められたテラフォーミング計画の遺産である。改造された惑星には、地球の生物の知能を高めるナノウイルスが送り込まれていた。数十世紀を経て、その星では猿ではなく蜘蛛が知性を獲得していた。二つの種の歴史を並行して描く長編である。",
+    "awardResults": [
+      {
+        "awardId": "clarke",
+        "year": 2016,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「アーサー・C・クラーク賞」「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。フィリップ・K・ディック賞は公式サイトが刊行年で一覧しているため、受賞年は刊行年の翌年とした。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "underground-railroad",
+    "title": "地下鉄道",
+    "titleKana": "ちかてつどう",
+    "authorIds": [
+      "colson-whitehead"
+    ],
+    "translatorIds": [
+      "tanizaki-yui"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alternate-history",
+      "dystopia",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "jpPublishedYear": 2017,
+    "originalTitle": "The Underground Railroad",
+    "status": "completed",
+    "synopsis": "十九世紀のジョージア州、綿花農園で過酷な扱いを受けてきた奴隷の少女コーラは、自由の待つ北部をめざして逃亡する。逃亡奴隷を助ける秘密組織〈地下鉄道〉が、この物語では文字どおり地下を走る鉄道として現れる。州ごとに姿を変える差別のかたちを通過しながら、悪名高い奴隷狩り人の追跡が続いていく。史実に一つだけ幻想を差し込むことで、逃亡の道のりそのものをアメリカ史の縮図として見せた長編である。",
+    "awardResults": [
+      {
+        "awardId": "clarke",
+        "year": 2017,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "drama": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「アーサー・C・クラーク賞」「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。フィリップ・K・ディック賞は公式サイトが刊行年で一覧しているため、受賞年は刊行年の翌年とした。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "software-rucker",
+    "title": "ソフトウェア",
+    "titleKana": "そふとうぇあ",
+    "authorIds": [
+      "rudy-rucker"
+    ],
+    "translatorIds": [
+      "kuromaru-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "ai",
+      "robot",
+      "near-future"
+    ],
+    "seriesName": "ウェア四部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1982,
+    "jpPublishedYear": 1989,
+    "originalTitle": "Software",
+    "status": "completed",
+    "synopsis": "ロボットに自由意志を与える方法を見つけたことで反逆罪に問われた計算機科学者コッブ・アンダースンは、いまや酒浸りの老人である。彼が生み出した機械種族ボッパーは月で独自の社会を築いていた。二〇二〇年、ボッパーの使者がコッブのもとを訪れ、不死をやると持ちかける。差し出された取引の中身を知らぬまま、老人は月へ向かうことになる。機械が自ら進化しはじめた世界を描く〈ウェア〉四部作の第一作である。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 1983,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「アーサー・C・クラーク賞」「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。フィリップ・K・ディック賞は公式サイトが刊行年で一覧しているため、受賞年は刊行年の翌年とした。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dinner-at-deviants-palace",
+    "title": "奇人宮の宴",
+    "titleKana": "きじんきゅうのうたげ",
+    "authorIds": [
+      "tim-powers"
+    ],
+    "translatorIds": [
+      "asai-osamu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "post-apocalypse",
+      "dystopia",
+      "esper"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1985,
+    "jpPublishedYear": 1988,
+    "originalTitle": "Dinner at Deviant's Palace",
+    "status": "completed",
+    "synopsis": "核戦争によって荒廃したアメリカ西海岸。かつて教団から人をさらい出す仕事をしていた楽師リヴァスは、その稼業から足を洗って久しい。だが昔の恋人が邪教に取り込まれたと聞き、彼はもう一度救出に向かう決意をする。教団は人の精神を吸い上げる術を持ち、信者は抜け殻のようになっていく。奇人宮と呼ばれる歓楽の館へ近づくにつれ、教祖をめぐる不穏な影が濃くなっていく。荒野を舞台にした冒険譚の形式で書かれた長編である。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 1986,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「アーサー・C・クラーク賞」「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。フィリップ・K・ディック賞は公式サイトが刊行年で一覧しているため、受賞年は刊行年の翌年とした。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "homunculus",
+    "title": "ホムンクルス",
+    "titleKana": "ほむんくるす",
+    "authorIds": [
+      "james-p-blaylock"
+    ],
+    "translatorIds": [
+      "tomoeda-yasuko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "denki-sf",
+      "alien",
+      "parallel-world"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1986,
+    "jpPublishedYear": 1989,
+    "originalTitle": "Homunculus",
+    "status": "completed",
+    "synopsis": "ヴィクトリア朝のロンドン上空を、操縦者の死んだ飛行船が何年も旋回し続けている。王立協会も、科学者にして探検家のラングドン・セント・アイヴズも、その正体に強い関心を寄せていた。伝道師を名乗る贋金作りのシャイローは、船に乗っているのは自分の父親である小さな異星人だと信じている。スチームパンクの原点に数えられる長編である。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 1987,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「アーサー・C・クラーク賞」「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。フィリップ・K・ディック賞は公式サイトが刊行年で一覧しているため、受賞年は刊行年の翌年とした。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "wetware",
+    "title": "ウェットウェア",
+    "titleKana": "うぇっとうぇあ",
+    "authorIds": [
+      "rudy-rucker"
+    ],
+    "translatorIds": [
+      "kuromaru-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "ai",
+      "robot",
+      "genetic-engineering"
+    ],
+    "seriesName": "ウェア四部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1988,
+    "jpPublishedYear": 1989,
+    "originalTitle": "Wetware",
+    "status": "completed",
+    "synopsis": "前作から十年後の二〇三〇年。エドガー・アラン・ポーに取り憑かれた機械種族ボッパーのベレニケは、人間と機械を掛け合わせた新しい存在を地球に増やそうと企てる。月に住む人間の女性に胚を植えつけた彼女は、その罪を女性自身になすりつけた。生身と機械の境目を溶かしていく〈ウェア〉四部作の第二作である。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 1989,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「アーサー・C・クラーク賞」「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。フィリップ・K・ディック賞は公式サイトが刊行年で一覧しているため、受賞年は刊行年の翌年とした。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "vacuum-diagrams",
+    "title": "プランク・ゼロ",
+    "titleKana": "ぷらんくぜろ",
+    "authorIds": [
+      "stephen-baxter"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "far-future",
+      "short-stories"
+    ],
+    "seriesName": "ジーリー・シークエンス",
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "jpPublishedYear": 2002,
+    "originalTitle": "Vacuum Diagrams",
+    "status": "completed",
+    "synopsis": "人類が宇宙へ出てから数百万年、さらにその先の宇宙の終わりまでを見晴らす連作短編集である。超越的な異種族ジーリーと、その残した遺物をめぐって人類の歴史が幾度も塗り替えられていく。各編は独立して読めるが、通して読むと〈ジーリー・シークエンス〉全体の年表として立ち上がる。物理学の知見を惜しみなく注ぎ込んだ一冊である。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 2000,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。同賞は公式サイトが刊行年で一覧しており授賞はその翌年であるため、受賞年は刊行年に1を足した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "only-forward",
+    "title": "オンリー・フォワード",
+    "titleKana": "おんりーふぉわーど",
+    "authorIds": [
+      "michael-marshall-smith"
+    ],
+    "translatorIds": [
+      "shimada-yoichi"
+    ],
+    "publisherId": "sony-magazines",
+    "themeIds": [
+      "near-future",
+      "dystopia",
+      "virtual-reality"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1994,
+    "jpPublishedYear": 2001,
+    "originalTitle": "Only Forward",
+    "status": "completed",
+    "synopsis": "数世紀先の巨大都市は、住民が信条や嗜好ごとに分かれた無数の地区で構成されている。色彩を愛でることが入居条件の地区に住むスタークは、面倒事を引き受けて生計を立てていた。要人の失踪を追ううちに、彼は地区から地区へと渡り歩くことになる。奇抜な都市の造形から、しだいに主人公自身の過去へと踏み込んでいく長編である。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 2001,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。同賞は公式サイトが刊行年で一覧しており授賞はその翌年であるため、受賞年は刊行年に1を足した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "altered-carbon",
+    "title": "オルタード・カーボン",
+    "titleKana": "おるたーどかーぼん",
+    "authorIds": [
+      "richard-morgan"
+    ],
+    "translatorIds": [
+      "taguchi-toshiki"
+    ],
+    "publisherId": "aspect",
+    "themeIds": [
+      "cyberpunk",
+      "far-future",
+      "cyborg"
+    ],
+    "seriesName": "タケシ・コヴァッチ",
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "jpPublishedYear": 2005,
+    "originalTitle": "Altered Carbon",
+    "status": "completed",
+    "synopsis": "人間の意識を記録媒体に保存し、別の肉体に移し替えられるようになった二十七世紀。元特殊部隊の兵士タケシ・コヴァッチは、大富豪の依頼で自らの死の真相を調べるため、他人の身体に入れられてベイ・シティへ送り込まれる。死が金で買い戻せる世界で、殺人はどんな意味を持つのか。ハードボイルドの型を借りた長編である。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 2004,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "drama": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。同賞は公式サイトが刊行年で一覧しており授賞はその翌年であるため、受賞年は刊行年に1を足した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "countdown-city",
+    "title": "カウントダウン・シティ",
+    "titleKana": "かうんとだうんしてぃ",
+    "authorIds": [
+      "ben-h-winters"
+    ],
+    "translatorIds": [
+      "ueno-motomi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "near-future",
+      "post-apocalypse"
+    ],
+    "seriesName": "地上最後の刑事",
+    "origin": "overseas",
+    "firstPublishedYear": 2013,
+    "jpPublishedYear": 2014,
+    "originalTitle": "Countdown City",
+    "status": "completed",
+    "synopsis": "小惑星の衝突までいくばくもなく、電気も通信も止まり、石油も飲み水も心もとない。人々は職務も生活も投げ出して、思い思いの終わり方を探しはじめていた。警察を解かれた元刑事ヘンリー・パレスは、かつての世話役に頼まれ、姿を消したその夫を捜す。世界が終わるとわかっていてなお職務を全うしようとする男の物語である。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 2014,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。同賞は公式サイトが刊行年で一覧しており授賞はその翌年であるため、受賞年は刊行年に1を足した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sooner-or-later-everything-falls-into-the-sea",
+    "title": "いずれすべては海の中に",
+    "titleKana": "いずれすべてはうみのなかに",
+    "authorIds": [
+      "sarah-pinsker"
+    ],
+    "translatorIds": [
+      "ichida-izumi"
+    ],
+    "publisherId": "takeshobo",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "generation-ship"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2019,
+    "jpPublishedYear": 2022,
+    "originalTitle": "Sooner or Later Everything Falls into the Sea",
+    "status": "completed",
+    "synopsis": "最新の義手が道路とつながってしまう男の話、世代宇宙船のなかで受け継がれていく記憶と音楽、クジラを運転して旅をするという奇妙な仕事。並行世界のサラ・ピンスカーたちが集う大会で起きた殺人を、そのうちのひとりが解く一編も収められている。身体の拡張と音楽をめぐる想像力が全体に通底しており、日常のすぐ隣にある小さなずれを丁寧にすくい上げていく。日本オリジナル編集ではなく原著の構成に沿った短編集である。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 2020,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。同賞は公式サイトが刊行年で一覧しており授賞はその翌年であるため、受賞年は刊行年に1を足した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "wild-shore",
+    "title": "荒れた岸辺",
+    "titleKana": "あれたきしべ",
+    "authorIds": [
+      "kim-stanley-robinson"
+    ],
+    "translatorIds": [
+      "onishi-akira"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "post-apocalypse",
+      "near-future",
+      "dystopia"
+    ],
+    "seriesName": "オレンジ郡三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1984,
+    "jpPublishedYear": 1986,
+    "originalTitle": "The Wild Shore",
+    "status": "completed",
+    "synopsis": "一九八七年、北米の主要都市に数千発の中性子爆弾が撃ち込まれ、合衆国は解体された。カリフォルニア州オレンジ郡の海沿いでは、生き残った人々が小さな村を作り、農耕と漁で細々と暮らしている。復興を望む若者たちの前に、日本をはじめとする外の世界の思惑が立ちはだかる。牧歌的な再出発として始まった物語は、やがてその牧歌性そのものを問い直していく。オレンジ郡の三つの未来を描く三部作の第一作である。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 1985,
+        "result": "特別賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。同賞は公式サイトが刊行年で一覧しており授賞はその翌年であるため、受賞年は刊行年に1を足した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cyberabad-days",
+    "title": "サイバラバード・デイズ",
+    "titleKana": "さいばらばーどでいず",
+    "authorIds": [
+      "ian-mcdonald"
+    ],
+    "translatorIds": [
+      "shimokusu-masaya",
+      "nakamura-hitomi-tr"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "ai",
+      "short-stories"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2009,
+    "jpPublishedYear": 2012,
+    "originalTitle": "Cyberabad Days",
+    "status": "completed",
+    "synopsis": "二〇四七年、分裂した独立国家群となったインドを舞台にした連作短編集である。ロボット戦士に憧れる少年の冒険、人工知能が仲立ちする婚礼、遺伝子操作で寿命を引き延ばされた子どもたち。急速な技術の普及が、家族や信仰といった古い仕組みとぶつかりながら社会を作り替えていく。ヒューゴー賞を受けた「ジンの花嫁」を含む七つの中短編を収めている。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 2010,
+        "result": "特別賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。同賞は公式サイトが刊行年で一覧しており授賞はその翌年であるため、受賞年は刊行年に1を足した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "company-man",
+    "title": "カンパニー・マン",
+    "titleKana": "かんぱにーまん",
+    "authorIds": [
+      "robert-jackson-bennett"
+    ],
+    "translatorIds": [
+      "aoki-chizuru"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alternate-history",
+      "dystopia",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2011,
+    "jpPublishedYear": 2014,
+    "originalTitle": "The Company Man",
+    "status": "completed",
+    "synopsis": "巨大企業マクノートン社が生み出した技術によって、時代を先取りした都市が築かれている。組合員が奇怪な手口で次々と殺され、社が政府にも伏せていた宇宙飛行実験の事実が明るみに出ると、市民の反感は限界に達した。社の調査員ヘイズは組合運動の首謀者との接触を試みる。改変歴史の都市を舞台にした一作である。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 2012,
+        "result": "特別賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。同賞は公式サイトが刊行年で一覧しており授賞はその翌年であるため、受賞年は刊行年に1を足した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "self-reference-engine",
+    "title": "Self-Reference ENGINE",
+    "titleKana": "せるふりふぁれんすえんじん",
+    "authorIds": [
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "parallel-world",
+      "ai",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "彼女のこめかみには弾丸が埋まっていて、我が家に伝わる箱は毎年一度どこかの方向へ倒される。老教授の最終講義は鯰文書の謎を解き明かし、床下からは大量のフロイトが出土する。時間が反乱を起こしたあとの世界を、断章の連なりとして描いたデビュー作である。数学と物理の語彙を小説の材料として使い切った一冊である。",
+    "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 2014,
+        "result": "特別賞(英訳版)"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Self-Reference ENGINE"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。同賞は公式サイトが刊行年で一覧しており授賞はその翌年であるため、受賞年は刊行年に1を足した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。英訳版(Terry Gallagher訳)が2014年のフィリップ・K・ディック賞特別賞を受けた。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

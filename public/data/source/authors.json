@@ -1769,5 +1769,133 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "lauren-beukes",
+    "name": "ローレン・ビュークス",
+    "nameKana": "びゅーくすろーれん",
+    "description": "南アフリカ出身の作家・脚本家。ヨハネスブルグを舞台にした『ZOO CITY』でクラーク賞を受けた。",
+    "birthYear": 1976,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "emily-st-john-mandel",
+    "name": "エミリー・セントジョン・マンデル",
+    "nameKana": "まんでるえみりーせんとじょん",
+    "description": "カナダ出身の作家。パンデミック後の世界を描いた『ステーション・イレブン』で広く知られた。",
+    "birthYear": 1979,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "adrian-tchaikovsky",
+    "name": "エイドリアン・チャイコフスキー",
+    "nameKana": "ちゃいこふすきーえいどりあん",
+    "description": "イギリスの作家。動物の知性化を扱う〈時の子供たち〉シリーズなどで知られる。",
+    "birthYear": 1972,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "colson-whitehead",
+    "name": "コルソン・ホワイトヘッド",
+    "nameKana": "ほわいとへっどこるそん",
+    "description": "ピュリッツァー賞を二度受けたアメリカの作家。史実に幻想を差し込む手法で知られる。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コルソン・ホワイトヘッド"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rudy-rucker",
+    "name": "ルーディ・ラッカー",
+    "nameKana": "らっかーるーでぃ",
+    "description": "数学者でもあるアメリカの作家。〈ウェア〉四部作などサイバーパンク期の代表的な書き手。",
+    "birthYear": 1946,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ルーディ・ラッカー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "james-p-blaylock",
+    "name": "ジェイムズ・P・ブレイロック",
+    "nameKana": "ぶれいろっくじぇいむずぴー",
+    "description": "スチームパンクの創始者のひとりに数えられるアメリカの作家。ヴィクトリア朝を舞台にした奇想で知られる。",
+    "birthYear": 1950,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェイムズ・P・ブレイロック"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "richard-morgan",
+    "name": "リチャード・モーガン",
+    "nameKana": "もーがんりちゃーど",
+    "description": "〈タケシ・コヴァッチ〉三部作で知られるイギリスの作家。サイバーパンクとハードボイルドを掛け合わせた作風。",
+    "birthYear": 1965,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リチャード・モーガン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "michael-marshall-smith",
+    "name": "マイケル・マーシャル・スミス",
+    "nameKana": "すみすまいけるまーしゃる",
+    "description": "イギリスの作家。SFとホラー、サスペンスを行き来し、短編の名手としても知られる。",
+    "birthYear": 1965,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ben-h-winters",
+    "name": "ベン・H・ウィンターズ",
+    "nameKana": "うぃんたーずべんえいち",
+    "description": "アメリカの作家。終末を背景にした〈地上最後の刑事〉三部作で知られる。",
+    "birthYear": 1976,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sarah-pinsker",
+    "name": "サラ・ピンスカー",
+    "nameKana": "ぴんすかーさら",
+    "description": "アメリカの作家・シンガーソングライター。音楽を題材にした短編で高い評価を得ている。",
+    "birthYear": 1977,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "robert-jackson-bennett",
+    "name": "ロバート・ジャクソン・ベネット",
+    "nameKana": "べねっとろばーとじゃくそん",
+    "description": "アメリカの作家。企業都市や神々を題材にした重厚な世界設定で知られる。",
+    "birthYear": 1984,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "andri-snaer-magnason",
+    "name": "アンドリ・スナイル・マグナソン",
+    "nameKana": "まぐなそんあんどりすないる",
+    "description": "アイスランドの作家。環境問題への発言でも知られ、寓話的な作風を持つ。",
+    "birthYear": 1973,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
