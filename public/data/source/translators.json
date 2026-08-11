@@ -829,5 +829,38 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nakamura-toru",
+    "name": "中村融",
+    "nameKana": "なかむらとおる",
+    "description": "英米SFの翻訳家・アンソロジスト。古典的な短編の紹介に力を注いでいる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中村融"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shiraishi-akira",
+    "name": "白石朗",
+    "nameKana": "しらいしろう",
+    "description": "スティーヴン・キングやジョン・グリシャムの翻訳で知られる翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/白石朗"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "enjoe-toh-tr",
+    "name": "円城塔",
+    "nameKana": "えんじょうとう",
+    "description": "小説家。チャールズ・ユウの翻訳など、訳業も手がけている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/円城塔"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

@@ -17767,5 +17767,309 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "paraxi-no-kioku",
+    "title": "パラークシの記憶",
+    "titleKana": "ぱらーくしのきおく",
+    "authorIds": [
+      "michael-coney"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto"
+    ],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "alien",
+      "space-colony",
+      "juvenile"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1976,
+    "jpPublishedYear": 2013,
+    "originalTitle": "I Remember Pallahaxi",
+    "status": "completed",
+    "synopsis": "冬の再訪も近い不穏な時代に、ハーディとチャームは出会う。そして、起こりえないはずの殺人事件が発生する。『ハローサマー、グッドバイ』と同じ星を舞台にした続編であり、前作で提示された謎の全体像がここで語られる。少年少女の視点を通して、この星が繰り返してきた歴史そのものが姿を現していく。前作を読んでから手に取ることで真価が分かる一作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "ベストSF2013 海外篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "11-22-63",
+    "title": "11/22/63",
+    "titleKana": "いちいちにいにいろくさん",
+    "authorIds": [
+      "stephen-king"
+    ],
+    "translatorIds": [
+      "shiraishi-akira"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "time-travel",
+      "alternate-history",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2011,
+    "jpPublishedYear": 2013,
+    "originalTitle": "11/22/63",
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "過去へ通じる扉の存在を知った男が、ケネディ暗殺を阻止しようと一九五八年へ渡る。暗殺の日まで五年を過ごしながら、彼は歴史を変えることの重みを知っていく。歴史は改変を拒もうとするかのように、彼の行く手にさまざまな妨害を差し出す。恋と喪失を織り込んだ、キングにしか書けない長大な時間旅行小説である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "ベストSF2013 海外篇 第5位"
+      }
+    ],
+    "mediaMix": {
+      "drama": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dervish-house",
+    "title": "旋舞の千年都市",
+    "titleKana": "せんぶのせんねんとし",
+    "authorIds": [
+      "ian-mcdonald"
+    ],
+    "translatorIds": [
+      "shimokusu-masaya"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "near-future",
+      "ai",
+      "genetic-engineering"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2010,
+    "jpPublishedYear": 2014,
+    "originalTitle": "The Dervish House",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "ナノテクノロジーの革命と低炭素経済に沸く至近未来のイスタンブール。犠牲者ゼロという奇妙な自爆テロが起きた。ボットを操ってテロ現場のドローンを追う探偵志望の少年、人工知能が飛び交う国際金融市場に詐欺を仕掛けるトレーダー、革命的なナノテク技術の研究者。六人の視点が一つの都市の五日間を織り上げていく。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2014,
+        "result": "ベストSF2014 海外篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "how-to-live-safely",
+    "title": "SF的な宇宙で安全に暮らすっていうこと",
+    "titleKana": "えすえふてきなうちゅうであんぜんにくらすっていうこと",
+    "authorIds": [
+      "charles-yu"
+    ],
+    "translatorIds": [
+      "enjoe-toh-tr"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "ai",
+      "parallel-world"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2010,
+    "jpPublishedYear": 2014,
+    "originalTitle": "How to Live Safely in a Science Fictional Universe",
+    "status": "completed",
+    "synopsis": "僕はタイムマシンの修理とサポートを担当する技術者で、個人用タイムマシンに乗って時間のはざまを漂っている。電話ボックスほどの空間で暮らす僕にとって、対話画面のタミーと非実在犬のエドはかけがえのない存在だ。母は同じ時間を繰り返すサービスに入ったきり、父は失踪中である。自己言及的な仕掛けに満ちた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2014,
+        "result": "ベストSF2014 海外篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "violent-century",
+    "title": "完璧な夏の日",
+    "titleKana": "かんぺきななつのひ",
+    "authorIds": [
+      "lavie-tidhar"
+    ],
+    "translatorIds": [
+      "mogi-ken"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "alternate-history",
+      "esper",
+      "military-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2013,
+    "jpPublishedYear": 2015,
+    "originalTitle": "The Violent Century",
+    "status": "completed",
+    "synopsis": "一九三二年、世界各地に突如として異能力者が現れた。ユーバーメンシュ、超人、ヒーローと呼ばれた彼らは、第二次世界大戦を前に各国の情報機関や軍に徴集され、それぞれの能力で死闘を繰り広げる。正義のない戦場を駆け抜けた青年たちの友情と絆を、現在と過去を細かく往復しながら描いていく。超人ものの意匠を借りた、二十世紀そのものへの覚書のような戦争SFである。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2015,
+        "result": "ベストSF2015 海外篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "clockwork-rocket",
+    "title": "クロックワーク・ロケット",
+    "titleKana": "くろっくわーくろけっと",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto",
+      "nakamura-toru"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "alien",
+      "far-future"
+    ],
+    "seriesName": "直交三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2011,
+    "jpPublishedYear": 2015,
+    "originalTitle": "The Clockwork Rocket",
+    "status": "completed",
+    "synopsis": "この宇宙とは少し違う物理法則に支配された世界。光の速度が波長によって変わるその宇宙で、女性科学者ヤルダは世紀の大発見を成し遂げる。だが同時に、惑星が滅亡の危機に瀕していることも判明した。光の性質が違えば技術も生物も社会も違ってくる。異なる物理から世界を丸ごと組み立て直してみせる、〈直交〉三部作の開幕編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "ベストSF2016 海外篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "borrowed-man",
+    "title": "書架の探偵",
+    "titleKana": "しょかのたんてい",
+    "authorIds": [
+      "gene-wolfe"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "ai",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2015,
+    "jpPublishedYear": 2017,
+    "originalTitle": "A Borrowed Man",
+    "status": "completed",
+    "synopsis": "図書館の書架に住む男スミスは、故人となった推理作家のクローンである。貸し出されて役目を果たし、返却されればまた棚へ戻る。ある日、謎を携えた令嬢が彼のもとを訪れた。人が蔵書として扱われる社会の手ざわりを、探偵小説の枠組みのなかで淡々と描いていく。語り手の言い落としが最後まで効いている、巨匠の遺作となったSFミステリである。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "ベストSF2017 海外篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "my-real-children",
+    "title": "わたしの本当の子どもたち",
+    "titleKana": "わたしのほんとうのこどもたち",
+    "authorIds": [
+      "jo-walton"
+    ],
+    "translatorIds": [
+      "mogi-ken"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "parallel-world",
+      "alternate-history",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "jpPublishedYear": 2017,
+    "originalTitle": "My Real Children",
+    "status": "completed",
+    "synopsis": "もしあのとき別の選択をしていたら。パトリシアの人生は、若い日のひとつの決断を境にふたつへ分岐した。並行して語られる二つの世界で、彼女はまったく異なる道を歩む。歴史の歩みすら違うそれぞれの世界で出会う別々の喜びと悲しみ、そして子どもたち。老境に至った彼女がどちらの記憶も持っているという設定が、静かな衝撃を残す長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "ベストSF2017 海外篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "schild-ladder",
+    "title": "シルトの梯子",
+    "titleKana": "しるとのはしご",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "far-future",
+      "ai"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "jpPublishedYear": 2017,
+    "originalTitle": "Schild's Ladder",
+    "status": "completed",
+    "synopsis": "二万年後の未来。物理学者のキャスは量子グラフ理論の応用実験を行う。だがその実験で生まれた真真空が膨張をはじめ、現在の時空そのものの存在を脅かしはじめた。光速で広がり続ける境界から逃げる人類と、その向こう側を見ようとする者たち。物理理論を物語の骨格そのものに据えた、著者の代表的な長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "ベストSF2018 海外篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

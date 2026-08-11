@@ -3146,5 +3146,51 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "stephen-king",
+    "name": "スティーヴン・キング",
+    "nameKana": "きんぐすてぃーゔん",
+    "description": "アメリカのモダンホラーの第一人者。SFやファンタジーの領域でも数多くの作品を残している。",
+    "birthYear": 1947,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スティーヴン・キング"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "charles-yu",
+    "name": "チャールズ・ユウ",
+    "nameKana": "ゆうちゃーるず",
+    "description": "台湾系アメリカ人の作家・脚本家。自己言及的な仕掛けとユーモアで知られる。",
+    "birthYear": 1976,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "lavie-tidhar",
+    "name": "ラヴィ・ティドハー",
+    "nameKana": "てぃどはーらゔぃ",
+    "description": "イスラエル出身の作家。歴史とジャンル小説を掛け合わせた作品で知られる。",
+    "birthYear": 1976,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ラヴィ・ティドハー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jo-walton",
+    "name": "ジョー・ウォルトン",
+    "nameKana": "うぉるとんじょー",
+    "description": "ウェールズ出身でカナダに住む作家。歴史改変と幻想の境界を行き来する。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョー・ウォルトン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
