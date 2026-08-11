@@ -1897,5 +1897,236 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mutofuyu-kazuo",
+    "name": "六冬和生",
+    "nameKana": "むとうゆかずお",
+    "description": "第1回ハヤカワSFコンテスト大賞を『みずは無間』で受賞してデビューした作家。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/六冬和生"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shibata-katsuie",
+    "name": "柴田勝家",
+    "nameKana": "しばたかついえ",
+    "description": "第2回ハヤカワSFコンテスト大賞でデビューした作家。文化人類学を下敷きにした作風で知られる。",
+    "birthYear": 1987,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/柴田勝家"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yoshida-en",
+    "name": "吉田エン",
+    "nameKana": "よしだえん",
+    "description": "第4回ハヤカワSFコンテスト優秀賞を『世界の終わりの壁際で』で受賞した作家。",
+    "birthYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉田エン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kuroishi-chikamori",
+    "name": "黒石迩守",
+    "nameKana": "くろいしちかもり",
+    "description": "第4回ハヤカワSFコンテスト優秀賞を『ヒュレーの海』で受賞した作家。",
+    "birthYear": 1985,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒石迩守"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kusano-gengen",
+    "name": "草野原々",
+    "nameKana": "くさのげんげん",
+    "description": "デビュー作『最後にして最初のアイドル』で星雲賞を受賞した作家。哲学とオタク文化を掛け合わせた奇想で知られる。",
+    "birthYear": 1990,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/草野原々"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tsukui-itsuki",
+    "name": "津久井五月",
+    "nameKana": "つくいいつき",
+    "description": "建築を学んだ経歴を持つ作家。第5回ハヤカワSFコンテスト大賞を『コルヌトピア』で受賞した。",
+    "birthYear": 1992,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/津久井五月"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "higuchi-kyosuke",
+    "name": "樋口恭介",
+    "nameKana": "ひぐちきょうすけ",
+    "description": "会社員として働きながら執筆する作家・評論家。第5回ハヤカワSFコンテスト大賞を『構造素子』で受賞した。",
+    "birthYear": 1989,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/樋口恭介"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sanpo-yukinari",
+    "name": "三方行成",
+    "nameKana": "さんぽうゆきなり",
+    "description": "童話や神話の枠組みをSFに読み替える短編で知られる作家。",
+    "birthYear": 1983,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三方行成"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "harukure-koichi",
+    "name": "春暮康一",
+    "nameKana": "はるくれこういち",
+    "description": "異星生命の生態を緻密に組み上げる作風で知られる作家。第7回ハヤカワSFコンテスト優秀賞でデビューした。",
+    "birthYear": 1985,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/春暮康一"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "juzan-futa",
+    "name": "十三不塔",
+    "nameKana": "じゅうざんふた",
+    "description": "第8回ハヤカワSFコンテスト優秀賞を『ヴィンダウス・エンジン』で受賞した作家。",
+    "birthYear": 1980,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/十三不塔"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "takeda-jinzo",
+    "name": "竹田人造",
+    "nameKana": "たけだじんぞう",
+    "description": "第8回ハヤカワSFコンテスト優秀賞でデビューした作家。人工知能を題材にした犯罪小説で知られる。",
+    "birthYear": 1989,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "anno-takahiro",
+    "name": "安野貴博",
+    "nameKana": "あんのたかひろ",
+    "description": "AI技術者・起業家でもある作家。第9回ハヤカワSFコンテスト優秀賞でデビューした。",
+    "birthYear": 1990,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安野貴博"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ogawa-rakki",
+    "name": "小川楽喜",
+    "nameKana": "おがわらっき",
+    "description": "第10回ハヤカワSFコンテスト大賞を『標本作家』で受賞した作家。",
+    "birthYear": 1980,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小川楽喜"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shiozaki-tsutomu",
+    "name": "塩崎ツトム",
+    "nameKana": "しおざきつとむ",
+    "description": "第10回ハヤカワSFコンテスト特別賞を『ダイダロス』で受賞した作家。",
+    "birthYear": 1980,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yano-arrow",
+    "name": "矢野アロウ",
+    "nameKana": "やのあろう",
+    "description": "第11回ハヤカワSFコンテスト大賞を『ホライズン・ゲート 事象の狩人』で受賞した作家。",
+    "birthYear": 1985,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mamiya-kai",
+    "name": "間宮改衣",
+    "nameKana": "まみやかい",
+    "description": "第11回ハヤカワSFコンテスト特別賞を『ここはすべての夜明けまえ』で受賞した作家。",
+    "birthYear": 1993,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/間宮改衣"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kasuga",
+    "name": "カスガ",
+    "nameKana": "かすが",
+    "description": "第12回ハヤカワSFコンテスト大賞を『コミケへの聖歌』で受賞した作家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "inukai-torahiko",
+    "name": "犬怪寅日子",
+    "nameKana": "いぬかいとらひこ",
+    "description": "第12回ハヤカワSFコンテスト大賞を『羊式型人間模擬機』で受賞した作家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "karibe-yuki",
+    "name": "カリベユウキ",
+    "nameKana": "かりべゆうき",
+    "description": "第12回ハヤカワSFコンテスト優秀賞を『マイ・ゴーストリー・フレンド』で受賞した作家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sekimoto-satoshi",
+    "name": "関元聡",
+    "nameKana": "せきもとさとし",
+    "description": "第13回ハヤカワSFコンテスト優秀賞を『摂氏千度、五万気圧』で受賞した作家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hijikata-ari",
+    "name": "土形亜理",
+    "nameKana": "ひじかたあり",
+    "description": "第13回ハヤカワSFコンテスト特別賞を『みずうみの満ちるまで』で受賞した作家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

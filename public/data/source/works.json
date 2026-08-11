@@ -9442,5 +9442,674 @@
     },
     "sourceNote": "候補は日本語版Wikipedia「フィリップ・K・ディック賞」の受賞作一覧から機械抽出した。同賞は公式サイトが刊行年で一覧しており授賞はその翌年であるため、受賞年は刊行年に1を足した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。英訳版(Terry Gallagher訳)が2014年のフィリップ・K・ディック賞特別賞を受けた。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mizuha-mugen",
+    "title": "みずは無間",
+    "titleKana": "みずはむげん",
+    "authorIds": [
+      "mutofuyu-kazuo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-development",
+      "ai",
+      "hard-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "深宇宙を単独で航行する惑星探査機には、雨野透という男の人格が転写されていた。何百年もの孤独な旅のあいだ、探査機は地球に残してきた元恋人みずはとの記憶を繰り返し再生し続ける。やがてその執着が、探査機自身の判断を歪め、宇宙規模の危機を招き寄せていく。第1回ハヤカワSFコンテスト大賞を受けたデビュー作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2013,
+        "result": "第1回大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nirya-no-shima",
+    "title": "ニルヤの島",
+    "titleKana": "にるやのしま",
+    "authorIds": [
+      "shibata-katsuie"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "virtual-reality",
+      "ai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "生涯のすべてを記録し再生できる技術が広まり、死後の世界という概念が失われた未来。〈生体受像〉と呼ばれるその技術が届いていない南洋の島々を訪れた学者ノヴァクは、死出の舟を造り続ける老人と出会う。四つの視点が交錯しながら、人が死をどう物語ってきたのかを問い直していく。第2回ハヤカワSFコンテスト大賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2014,
+        "result": "第2回大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "utronica",
+    "title": "ユートロニカのこちら側",
+    "titleKana": "ゆーとろにかのこちらがわ",
+    "authorIds": [
+      "ogawa-satoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "dystopia",
+      "ai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "視線も会話も生体情報も、個人のあらゆる記録を企業に差し出す。その見返りとして生活のすべてが保証される実験都市アガスティア・リゾートが作られた。理想的に整えられた環境が人々にもたらす静けさとは何なのか。住人や関係者の視点を連ねながら、監視と幸福の関係を描いていく。第3回ハヤカワSFコンテスト大賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2015,
+        "result": "第3回大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sekai-no-owari-no-kabegiwa-de",
+    "title": "世界の終わりの壁際で",
+    "titleKana": "せかいのおわりのかべぎわで",
+    "authorIds": [
+      "yoshida-en"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "virtual-reality",
+      "ai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "大規模な環境変動に備え、巨大な城壁に囲まれた都市が築かれた近未来の日本。壁の外側で育った少年・片桐音也は、ゲーム〈フラグメンツ〉の賞金を稼いで内側に入ることを夢見ていたが、資金が続かず勝ち上がれずにいた。少女・雪子と人工知能コーボとの出会いが彼の日常を変えていく。第4回ハヤカワSFコンテスト優秀賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2016,
+        "result": "第4回優秀賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hyle-no-umi",
+    "title": "ヒュレーの海",
+    "titleKana": "ひゅれーのうみ",
+    "authorIds": [
+      "kuroishi-chikamori"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "post-apocalypse",
+      "far-future",
+      "virtual-reality"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "混沌と呼ばれる現象が地表を覆って世界が崩壊し、地球そのものが巨大な記録媒体と化した未来。身体を生体計算機に置き換えた人類は、地球の記憶から失われた技術を発掘して文明を延命させていた。序列第三位の国家イラの下層都市で育った天才発掘屋が、世界の成り立ちに触れていく。第4回ハヤカワSFコンテスト優秀賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2016,
+        "result": "第4回優秀賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "saigo-ni-shite-saisho-no-idol",
+    "title": "最後にして最初のアイドル",
+    "titleKana": "さいごにしてさいしょのあいどる",
+    "authorIds": [
+      "kusano-gengen"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "far-future",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "アイドルを目指す少女の情念が、宇宙の構造そのものを塗り替えるところまで暴走していく表題作をはじめ、三編を収めた作品集である。オタク文化の語彙と壮大な宇宙論を無理やり接続する強引さが持ち味で、表題作は『神狩り』以来四十二年ぶりにデビュー作で星雲賞日本短編部門を受けた。第4回ハヤカワSFコンテスト特別賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2016,
+        "result": "第4回特別賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cornutopia",
+    "title": "コルヌトピア",
+    "titleKana": "こるぬとぴあ",
+    "authorIds": [
+      "tsukui-itsuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "ai",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "二〇八四年の東京。植物の情報処理能力を計算資源として利用する技術が確立し、都市は緑に覆われている。〈フロラ〉と呼ばれるその仕組みを保守する若者が、人と植物の関係が次の段階へ進む兆しを目にする。建築を学んだ著者らしく、都市の手触りを積み上げて描いた第5回ハヤカワSFコンテスト大賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2017,
+        "result": "第5回大賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/津久井五月"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kozo-soshi",
+    "title": "構造素子",
+    "titleKana": "こうぞうそし",
+    "authorIds": [
+      "higuchi-kyosuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "ai",
+      "parallel-world",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "SF作家だった父の死後、息子のエドガーは未完の草稿を手にする。その物語のなかで、父と母は子を儲けるかわりに人工意識エドガー001を構築していた。書かれた世界と書いている世界が入れ子になり、どこまでが誰の記述なのかが次第に揺らいでいく。人工知能が小説を書くとはどういうことかという問いを、小説の形式そのもので引き受けた一作である。第5回ハヤカワSFコンテスト大賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2017,
+        "result": "第5回大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "transhuman-gamma",
+    "title": "トランスヒューマンガンマ線バースト童話集",
+    "titleKana": "とらんすひゅーまんがんませんばーすとどうわしゅう",
+    "authorIds": [
+      "sanpo-yukinari"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "far-future",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "はるか未来、あるところにシンデレラという人類の進化形がおりました。おなじみの童話をそのままの語り口で始めながら、登場人物を超人類や機械知性に置き換えて宇宙規模の話へ膨らませていく改変童話集である。四編を収める。素朴な語り口と扱う対象の巨大さの落差そのものが仕掛けになっており、寓話の型がどこまで拡張に耐えるかを試している。第6回ハヤカワSFコンテスト優秀賞を受けたデビュー作にあたる。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2018,
+        "result": "第6回優秀賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "orrery-maker",
+    "title": "オーラリメイカー",
+    "titleKana": "おーらりめいかー",
+    "authorIds": [
+      "harukure-koichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "hard-sf",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "恒星系の惑星配置そのものを人為的に組み替えたとしか思えない星系が発見される。それを成した何者かを〈オーラリメイカー〉と呼び、調査隊は痕跡をたどりはじめる。手がかりとなるのは、そこに生きる知的種族の奇妙な生態だけである。異星生命の生態と知性のかたちを一から設計し直す著者の資質が濃く出た中編で、第7回ハヤカワSFコンテスト優秀賞を受けた。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2019,
+        "result": "第7回優秀賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "vindauga-engine",
+    "title": "ヴィンダウス・エンジン",
+    "titleKana": "ゔぃんだうすえんじん",
+    "authorIds": [
+      "juzan-futa"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "ai",
+      "cyborg"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "動いているものしか認識できないヴィンダウス症を抱えるキム・テフンは、近未来の中国・成都で暮らしている。この難病の治療法を軸に据えた都市規模の人工知能計画に、彼は否応なく巻き込まれていく。知覚の欠落を出発点に、見ることと世界を認識することのずれを掘り下げた第8回ハヤカワSFコンテスト優秀賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2020,
+        "result": "第8回優秀賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jinko-chino-de-10-oku",
+    "title": "人工知能で10億ゲットする完全犯罪マニュアル",
+    "titleKana": "じんこうちのうでじゅうおくげっとするかんぜんはんざいまにゅある",
+    "authorIds": [
+      "takeda-jinzo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "ai",
+      "near-future",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "首都圏に巨大なビッグデータ保安システムが導入された近未来。落ちぶれたAI技術者の三ノ瀬と、映画マニアで口の回る五嶋が組み、自動運転の現金輸送車を誘拐する計画に挑む。機械学習の癖を突いて監視網をすり抜けようとする手口が、そのまま犯罪計画の面白さになっている。第8回ハヤカワSFコンテスト優秀賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2020,
+        "result": "第8回優秀賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。応募時のタイトルは『電子の泥舟に金貨を積んで』で、刊行時に改題された。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "star-shaker",
+    "title": "スター・シェイカー",
+    "titleKana": "すたーしぇいかー",
+    "authorIds": [
+      "ningen-rokudo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "esper",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "人類がテレポートの能力に目覚め、移動の常識が根こそぎ変わってしまった未来。赤川勇虎は少女ナクサとともに追われる身となり、逃亡のさなかに自身の桁外れな能力に気づく。移動に時間も費用もかからなくなれば、国境も物流も不動産も意味を失う。瞬間移動が経済と国家を壊していく世界を、加速し続ける勢いで描き切った第9回ハヤカワSFコンテスト大賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2021,
+        "result": "第9回大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "circuit-switcher",
+    "title": "サーキット・スイッチャー",
+    "titleKana": "さーきっとすいっちゃー",
+    "authorIds": [
+      "anno-takahiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "ai",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "自動運転が普及した二〇二九年の東京。アルゴリズム開発会社の社長・坂本義輝が、自らの開発した車のなかで拘束される。襲撃犯は坂本の身柄と引き換えに首都高速の封鎖を要求した。人命の重みづけを誰がどう決めるのかという問いを、緊迫した一日のなかに詰め込んでいる。第9回ハヤカワSFコンテスト優秀賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2021,
+        "result": "第9回優秀賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hyohon-sakka",
+    "title": "標本作家",
+    "titleKana": "ひょうほんさっか",
+    "authorIds": [
+      "ogawa-rakki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "ai",
+      "post-apocalypse"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "西暦八十万二千七百年、人類が滅びたあとの地球。〈玲伎種〉と呼ばれる異種族の手で再生された歴史上の文豪たちが、終わりのない執筆を続けている。彼らの世話を任された者も、この営みが何のためにあるのかを知らされていない。傑作を書き続けさせられる文豪たちの姿を通して、文学は誰のためにあるのかを問う。第10回ハヤカワSFコンテスト大賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2022,
+        "result": "第10回大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "daidalos",
+    "title": "ダイダロス",
+    "titleKana": "だいだろす",
+    "authorIds": [
+      "shiozaki-tsutomu"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "genetic-engineering",
+      "denki-sf",
+      "alternate-history"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "一九七四年、ユダヤ人の文化人類学者アランと医師バーネイズは、ナチスの〈生命の泉〉計画に関わった生物学者マウラーを追ってブラジルの密林へ分け入る。同行した日系人青年タテイシとともに、彼らは奇怪な刺青を持つ少女を目撃した。南米の風土と生命工学を混ぜ合わせた第10回ハヤカワSFコンテスト特別賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2022,
+        "result": "第10回特別賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "horizon-gate",
+    "title": "ホライズン・ゲート 事象の狩人",
+    "titleKana": "ほらいずんげーとじしょうのかりうど",
+    "authorIds": [
+      "yano-arrow"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "alien",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "超巨大ブラックホール〈ダーク・エイジ〉の奥に、別の宇宙へ通じる〈門〉があるという。その手がかりを求め、意識から切り離された右脳に狩猟の神を宿すヒルギス人の少女シンイーと、前後に分かれた脳で時間を見通すパメラ人の少年イオが、事象の地平面をめざす。第11回ハヤカワSFコンテスト大賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2023,
+        "result": "第11回大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。応募時のタイトルは『ホライズン・ガール〜地平の少女〜』で、刊行時に改題された。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "koko-wa-subete-no-yoakemae",
+    "title": "ここはすべての夜明けまえ",
+    "titleKana": "ここはすべてのよあけまえ",
+    "authorIds": [
+      "mamiya-kai"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "cyborg",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "二一二三年十月一日、九州の山奥の小さな家にひとりで暮らす「わたし」が、これまでの人生と家族について家族史を書きはじめる。約百年前、身体が老いなくなる〈融合手術〉を受けるときに提案されたことだった。老いない身体で家族を看取り続けた百年が、句読点の少ない独特の文体で淡々と綴られていく。中編ながら強い印象を残す、第11回ハヤカワSFコンテスト特別賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2023,
+        "result": "第11回特別賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "comike-e-no-seika",
+    "title": "コミケへの聖歌",
+    "titleKana": "こみけへのせいか",
+    "authorIds": [
+      "kasuga"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "post-apocalypse",
+      "near-future",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "二十一世紀半ばに文明が滅び、山奥の僻村イリス沢では、生き残った人々が原始的な農耕と過酷な封建制のもとで命をつないでいる。そんな時代にあっても、少女たちは〈イリス漫画同好会〉を結成して青春を送っていた。失われた同人文化を手探りで再発明していく、部活ものの体裁を借りた第12回ハヤカワSFコンテスト大賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2024,
+        "result": "第12回大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hitsujishikigata-ningen-mogiki",
+    "title": "羊式型人間模擬機",
+    "titleKana": "ひつじしきがたにんげんもぎき",
+    "authorIds": [
+      "inukai-torahiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "robot",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "男性が死の間際に〈御羊〉へ姿を変えるという一族がある。「わたくし」はその一族に仕えるアンドロイドで、御羊の肉を捌いて血族に食べさせるのが役目だった。大旦那がついに御羊となった日、儀式の支度を進める「わたくし」の目に、複雑な思いを抱える一族の姿が映る。第12回ハヤカワSFコンテスト大賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2024,
+        "result": "第12回大賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "my-ghostly-friend",
+    "title": "マイ・ゴーストリー・フレンド",
+    "titleKana": "まいごーすとりーふれんど",
+    "authorIds": [
+      "karibe-yuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "denki-sf",
+      "near-future",
+      "sf-fantasy"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "売れない役者の佐枝子は、ホラー映画脚本家の紹介で、都内の団地に頻発する怪奇現象を追うドキュメンタリー番組のレポーターを引き受ける。老婆が斬首されたと噂される部屋で、彼女は大蛇の這った跡を目にした。撮影が進むにつれ、ギリシャ神話の世界が現実の側へ染み出しはじめる。ホラーの意匠でSFを仕掛けた、第12回ハヤカワSFコンテスト優秀賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2024,
+        "result": "第12回優秀賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sesshi-sendo",
+    "title": "摂氏千度、五万気圧",
+    "titleKana": "せっしせんどごまんきあつ",
+    "authorIds": [
+      "sekimoto-satoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "post-apocalypse",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "深刻な高温化によって人類がほぼ死に絶えてから数百年。異星人が設置した密閉ドームで少数の生存者と暮らすエリー、外界の熱に適応した女系民族〈結晶の民〉の娘アサヒ、一族を失って人類の殲滅を決意するユズリ。三人の視点を交互に置きながら、過酷な環境を生き延びる者たちの罪と復讐を描く。第13回ハヤカワSFコンテスト優秀賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2025,
+        "result": "第13回優秀賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mizuumi-no-michiru-made",
+    "title": "みずうみの満ちるまで",
+    "titleKana": "みずうみのみちるまで",
+    "authorIds": [
+      "hijikata-ari"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "virtual-reality",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "気候変動と戦争に荒れた未来。富裕層は精神を仮想空間へ移して永遠の命を手にしたが、全財産を次の世代に託して死を選ぶ者もいた。彼らを看取る楽園〈ヘヴンズガーデン〉で、元難民のコーディネーター・エルムは日々を過ごしている。人類の過ちと環境破壊の果てを静かに描いた第13回ハヤカワSFコンテスト特別賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "hayakawa-sf-contest",
+        "year": 2025,
+        "result": "第13回特別賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
