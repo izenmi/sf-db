@@ -109,4 +109,4 @@ node scripts/generate-icons.mjs  # favicon.ico/apple-touch-icon.png再生成(手
 
 ## データ規模の推移
 
-(初回scaffold: このセクションに件数を追記していく)
+20作品(2026-08-11、初回scaffold)。著者18・翻訳者8・出版社6・テーマ31(うちspoiler 3)・アワード12。国内12作品・海外8作品。表紙は20/20(100%)解決(全件楽天ブックス)。受賞歴はWikipediaの賞ページ(星雲賞・日本SF大賞・「SFが読みたい!」・PKD賞英語版・ヒューゴー賞)で裏取りし、書誌はNDLサーチ(`probe_ndl.py`)で確認した。候補・最終候補どまりの賞歴(虐殺器官の小松左京賞、横浜駅SFの日本SF大賞)はsourceNoteのみに記載。
