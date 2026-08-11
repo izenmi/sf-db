@@ -2986,5 +2986,17 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ishikawa-muneo",
+    "name": "石川宗生",
+    "nameKana": "いしかわむねお",
+    "description": "第7回創元SF短編賞でデビューした作家。日常の一点を極端に押し広げる作風で知られる。",
+    "birthYear": 1984,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/石川宗生"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

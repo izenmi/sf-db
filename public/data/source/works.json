@@ -16378,5 +16378,300 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "campanella",
+    "title": "カムパネルラ",
+    "titleKana": "かむぱねるら",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "time-travel",
+      "parallel-world",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "十六歳のぼくを置いて母は逝った。宮沢賢治研究に生涯を捧げた母は、否定されている『銀河鉄道の夜』第四次改稿版の存在を主張していた。花巻へ散骨に訪れたぼくは、気がつくと昭和八年、賢治が亡くなる二日前にいた。辿り着いた賢治の家で迎えたのは、早逝したはずの妹トシと、その娘さそりだった。永遠に改稿され続ける小説をめぐる長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "ベストSF2016 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "urasekai-picnic",
+    "title": "裏世界ピクニック ふたりの怪異探検ファイル",
+    "titleKana": "うらせかいぴくにっくふたりのかいいたんけんふぁいる",
+    "authorIds": [
+      "miyazawa-iori"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "parallel-world",
+      "denki-sf",
+      "near-future"
+    ],
+    "seriesName": "裏世界ピクニック",
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "廃屋のなかの扉から〈裏世界〉を見つけた紙越空魚は、ネット怪談で知られるくねくねを目撃して命を落としかける。そこを助けたのが仁科鳥子だった。後日、大学を訪ねてきた鳥子から探索への協力を請われ、二人は裏世界を調べはじめる。実話怪談やネットロアをそのまま異界の生態として扱い、二人の関係が少しずつ変わっていく過程と並走させる。女子二人組による探検連作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "ベストSF2017 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/裏世界ピクニック"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは日本語版Wikipediaのあらすじ節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "koko-kara-saki-wa",
+    "title": "ここから先は何もない",
+    "titleKana": "ここからさきはなにもない",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "space-development",
+      "evolution",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "三億キロ彼方の小惑星で、化石人骨が発見された。だが日本の探査機が採取したサンプルを、アメリカが合法的に持ち去ってしまう。政府の命を受けた大庭卓は、天才ハッカーの鋭二と組んで奪還チームを結成する。不可能に近い作戦の先で、化石人骨の正体と人類進化の謎が待つ。巨匠によるSFミステリの大作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "ベストSF2017 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cho-ugoku-ie-nite",
+    "title": "超動く家にて 宮内悠介短編集",
+    "titleKana": "ちょううごくいえにてみやうちゆうすけたんぺんしゅう",
+    "authorIds": [
+      "miyauchi-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "short-stories",
+      "satire-sf",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "雑誌『トランジスタ技術』を圧縮する謎の競技をめぐる「トランジスタ技術の圧縮」、ヴァン・ダインの二十則が支配する世界で殺人を企てる男を描く「法則」など、著者自ら精選した十六編を収める。深刻な顔でくだらない話を書く必要に迫られていたという著者の、遊びの部分だけを集めた作品集である。技巧を全力でくだらなさに注ぎ込む贅沢さが持ち味になっている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "ベストSF2018 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hanbun-sekai",
+    "title": "半分世界",
+    "titleKana": "はんぶんせかい",
+    "authorIds": [
+      "ishikawa-muneo"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "short-stories",
+      "parallel-world",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "三年前、会社から帰宅途中の吉田大輔氏は、最寄り駅から自宅までのあいだで一瞬にして一万九千三百二十九人になった。第7回創元SF短編賞を受けた表題作をはじめ、まっぷたつになった家で暮らし続ける一家とそれを観察する人々、町じゅうが白と黒に分かれて何百年も試合を続ける町など、四編を収める。日常の一点だけを極端に押し広げ、あとはひたすら生真面目に記述していく作風が全編で徹底されている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "ベストSF2018 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "objectum",
+    "title": "オブジェクタム",
+    "titleKana": "おぶじぇくたむ",
+    "authorIds": [
+      "takayama-haneko"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-shimbun-shuppan",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "alternate-history"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "小学生のころ、祖父はいつも秘密基地で壁新聞を作っていた。表題作のほか、第2回林芙美子文学賞を受けた「太陽の側の島」、敗戦後に戦地から復員した夫は出征前と同じ人物なのかを問う「如何様」を収める。輪郭のはっきりしない記憶と、それを他人と共有しきれないもどかしさを描く短編集である。のちに芥川賞を受ける著者の初期の仕事がまとまっている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "ベストSF2018 国内篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "lila-to-senka-no-kaze",
+    "title": "リラと戦禍の風",
+    "titleKana": "りらとせんかのかぜ",
+    "authorIds": [
+      "ueda-sayuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "denki-sf",
+      "alternate-history",
+      "sf-fantasy"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "第一次世界大戦下、両親を亡くしたポーランド人の少女リラは、不死の魔物である伯爵と館で暮らしていた。護衛のドイツ人兵士イェルクとともにヨーロッパ各地の悲劇を目にした彼女は、伯爵の力を借りて祖国を助ける計画を立てる。一方、イェルクもまた人類を救うために大きな決断をする。なぜ人は争いを繰り返すのかを問う長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "ベストSF2019 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "saki-o-yuku-monotachi",
+    "title": "先をゆくもの達",
+    "titleKana": "さきをゆくものたち",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "ai",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "火星の古いコロニー、ラムスタービル。地球人が残した〈全地球情報機械〉を探索することを生き甲斐とするナミブ・コマチは、火星人の寿命である九十歳を拒む祖母に共感している自分に戸惑う。やがて自らの性欲を自覚した彼女は、火星で初めての男児を産み落とす。生殖と機械をめぐる思弁を突き詰めた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "ベストSF2019 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nettai-morimi",
+    "title": "熱帯",
+    "titleKana": "ねったい",
+    "authorIds": [
+      "morimi-tomihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "denki-sf",
+      "parallel-world",
+      "sf-fantasy"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "どうしても読み終えられない本がある。その名も『熱帯』。この本を探し求める作家の森見登美彦は、ある日〈沈黙読書会〉なる催しで不思議な女性と出会い、あなたは何もご存じないと告げられる。秘密を解き明かすべく組織された学団と、彼らがたどり着いた暴夜書房。東京から京都、さらに遠くへと舞台を移しながら、物語が物語を次々に呑み込んでいく長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "ベストSF2019 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/熱帯 (小説)"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ningentachi-no-hanashi",
+    "title": "人間たちの話",
+    "titleKana": "にんげんたちのはなし",
+    "authorIds": [
+      "isukari-yuba"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "宇宙空間で提供されるラーメン屋の顛末を描く「宇宙ラーメン重油味」、監視が徹底された社会をあえて楽しんでみせる「たのしい超監視社会」など、六編を収める作品集である。設定を一つ動かしたときに人間がどうみみっちく振る舞うかを、軽い筆致で観察していく。若手の奇才と評される著者の資質がよく出ている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "ベストSF2020 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
