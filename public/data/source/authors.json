@@ -2974,5 +2974,17 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kawakami-hiromi",
+    "name": "川上弘美",
+    "nameKana": "かわかみひろみ",
+    "description": "芥川賞作家。日常と異界がなだらかに接続する作風で知られる。",
+    "birthYear": 1958,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/川上弘美"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

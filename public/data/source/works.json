@@ -16086,5 +16086,297 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hon-ni-datte-osu-to-mesu",
+    "title": "本にだって雄と雌があります",
+    "titleKana": "ほんにだっておすとめすがあります",
+    "authorIds": [
+      "oda-masakuni"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "denki-sf",
+      "sf-fantasy",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "本も結婚し、出産もする。小学四年生の夏、土井博は祖父母の住む深井家の屋敷に預けられた。ある晩、彼は祖父が定めた掟である書物の位置を変えるべからずを破ってしまう。すると翌朝、信じられない光景が広がっていた。長じて一児の父となった博が、亡き祖父の日記から一族の歴史を遡っていく仰天の長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "ベストSF2012 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "lilienthal-no-matsuei",
+    "title": "リリエンタールの末裔",
+    "titleKana": "りりえんたーるのまつえい",
+    "authorIds": [
+      "ueda-sayuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "disaster",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "『華竜の宮』の世界の片隅で、空を飛ぶことを夢見た青年の信念を描く表題作。十八世紀の魔都ロンドンを舞台にした書き下ろし中編。海に沈んだ世界と歴史の裏側とを行き来しながら、人がなにかを諦めきれない理由を描いていく四編を収める作品集である。長編とは異なる角度から著者の主題が浮かび上がる一冊になっている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "ベストSF2012 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "bokura-wa-toshi-o-aishiteita",
+    "title": "ぼくらは都市を愛していた",
+    "titleKana": "ぼくらはとしをあいしていた",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-shimbun-shuppan",
+    "themeIds": [
+      "disaster",
+      "near-future",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "デジタルデータだけを破壊する〈情報震〉が地球上で頻発している。原因はおろか震源地すら特定できない。あらゆる情報が崩れ、機能を失った大都市から人の影が消えた。偵察のためトウキョウへ進駐した日本情報軍の機動観測隊は、そこで想定外の敵と出会う。都市とは情報の集積でしかないのかという問いを、失われていく風景とともに突きつける長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "ベストSF2012 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ぼくらは都市を愛していた"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "karamazov-no-imoto",
+    "title": "カラマーゾフの妹",
+    "titleKana": "からまーぞふのいもうと",
+    "authorIds": [
+      "takano-fumio"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "alternate-history",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "カラマーゾフ事件から十三年後。モスクワで内務省未解決事件課の特別捜査官として働くイワンが、事件以来はじめて帰郷する。兄ドミートリーの無罪を証明し、真相を確かめたい。再捜査を始めた彼の前で新たな事件が起きる。十三年前の真犯人は誰なのか。ドストエフスキーの続編を書くという企てを成し遂げた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "ベストSF2012 国内篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dare-ni-mishotote",
+    "title": "誰に見しょとて",
+    "titleKana": "だれにみしょとて",
+    "authorIds": [
+      "suga-hiroe"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "genetic-engineering",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "東京湾に新設された超巨大な浮体構造物のメインテナント〈サロン・ド・ノーベル〉には、美容に関するすべてが収められていた。理想の化粧品と美容法を求めてさまよう岡村天音は、大学の先輩が生まれ変わったような肌をしていることに驚く。美容と医療を謳う革新的な企業の存在が浮かび上がってくる。美しくありたいという願いがどこまで人を変えてしまうのかを描く連作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "ベストSF2013 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chryse-no-sakana",
+    "title": "クリュセの魚",
+    "titleKana": "くりゅせのさかな",
+    "authorIds": [
+      "azuma-hiroki"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "space-colony",
+      "alien",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "異星文明が残したワームホールゲートの発見によって、人類第二の故郷である火星は戦争の時代を迎えようとしていた。日本人の末裔である葦船彰人と大島麻理沙は出会い、恋に落ち、そのことが火星の歴史を動かしていく。彰人が選ぶならそれが運命だったのだと麻理沙は言う。壮大な歴史を背景に置きながら、二人の関係だけを見つめ続けるSF恋愛小説である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "ベストSF2013 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "udon-kitsune-tsuki-no",
+    "title": "うどん キツネつきの",
+    "titleKana": "うどんきつねつきの",
+    "authorIds": [
+      "takayama-haneko"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "sf-fantasy"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "犬に似た奇妙な生き物を育てる三姉妹の人生をユーモラスに描き、第1回創元SF短編賞佳作となった表題作。郊外のぼろアパートの住人たちの可笑しな日々、十五人姉妹が暮らす孤島を襲う異常事態、ウェブ上に現れた子どもの日記から始まる冒険。輪郭のはっきりしないものを、そのままの形で差し出してくる作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2015,
+        "result": "ベストSF2015 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shuffle-koho",
+    "title": "シャッフル航法",
+    "titleKana": "しゃっふるこうほう",
+    "authorIds": [
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "short-stories",
+      "language-sf",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "そろそろオリオン座が振り向くはずだ。世界の果てに近い町で夜空を見上げ続ける青春、太陽系じゅうの食通を唸らせる料理に隠された真実、主人公が次々に殺されていく事件。甘美で繊細、壮大でボンクラ。夢みる言葉と踊る文字、胸にしみる小理屈と抒情が同居している。形式の実験と読み心地の良さが両立した、円城塔の世界が炸裂する作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2015,
+        "result": "ベストSF2015 国内篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kanojo-ga-esper",
+    "title": "彼女がエスパーだったころ",
+    "titleKana": "かのじょがえすぱーだったころ",
+    "authorIds": [
+      "miyauchi-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "esper",
+      "short-stories",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "百匹目の猿、エスパー、ロボトミー、代替医療。人類の叡智である科学では捉えきれない超常現象を通して、人間そのものを見つめ直していく連作である。信じる者と検証する者のあいだに横たわる溝を、ルポルタージュの体裁を借りて丁寧に掘り下げていく。進化を、科学を、未来を疑えという帯の言葉どおりの一冊で、吉川英治文学新人賞を受けた。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "ベストSF2016 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "okina-tori-ni-sarawarenai-yo",
+    "title": "大きな鳥にさらわれないよう",
+    "titleKana": "おおきなとりにさらわれないよう",
+    "authorIds": [
+      "kawakami-hiromi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "far-future",
+      "evolution",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "遠い未来、衰退を認めた人類は〈母〉のもとで集団ごとに隔離されて暮らしている。異なる集団の人間が交わることで、新しい遺伝子を持ち進化しうる人間が生まれるかもしれない。そのかすかな希望に賭けた人々の行く末を、時代も語り手も異なる十四の断章で描いていく。はるか先を静かに見通した、泉鏡花文学賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "ベストSF2016 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
