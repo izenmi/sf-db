@@ -2550,5 +2550,17 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mishima-koji",
+    "name": "三島浩司",
+    "nameKana": "みしまこうじ",
+    "description": "第4回日本SF新人賞でデビューした作家。巨大兵器と異星生命の総力戦を描く作品で知られる。",
+    "birthYear": 1965,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三島浩司"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

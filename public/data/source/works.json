@@ -12410,5 +12410,333 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dynamic-figure",
+    "title": "ダイナミックフィギュア",
+    "titleKana": "だいなみっくふぃぎゅあ",
+    "authorIds": [
+      "mishima-koji"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "alien",
+      "robot"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "異星生命体ジグとの戦いが続く日本。人型兵器ダイナミックフィギュアを操れるのは、機体と神経を接続できるごく限られた若者だけだった。搭乗者となった伊島大介は、機体を通して敵と自分の境目が溶けていく感覚に苛まれる。巨大兵器を動かすとはどういうことかを、操縦者の身体感覚の側から書き切っている。二足歩行兵器の戦闘描写を極限まで突き詰めた、リアルロボットSFの到達点である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2011,
+        "result": "ベストSF2011 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "beatless",
+    "title": "BEATLESS",
+    "titleKana": "びーとれす",
+    "authorIds": [
+      "hase-satoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "ai",
+      "robot",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "百年後の未来、社会の大半はhIEと呼ばれる人型アンドロイドに任されていた。やがて人類の知恵を超える超高度hIEが現れ、人の技術を凌駕した〈人類未到産物〉が生まれはじめる。十七歳の遠藤アラトは、舞い散る花びらに襲われたところを一体のhIEに救われる。彼女は〈人類未到産物〉の一体だった。心を持たない道具と人がどう関係を結べるのかを、正面から問い直した長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "ベストSF2012 国内篇 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BEATLESS"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hoshi-o-tsukuru-monotachi",
+    "title": "星を創る者たち",
+    "titleKana": "ほしをつくるものたち",
+    "authorIds": [
+      "tani-koushuu"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "space-development",
+      "hard-sf",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "月面基地の建設、小惑星の軌道変更、木星圏の資源開発。太陽系のあちこちで難題にぶつかりながら、それを知恵と体力で乗り越えていく現場の技術者たちを描く連作である。派手な事件ではなく、工程と段取りと現場判断の積み重ねが物語を進めていく。宇宙土木SFと呼ばれる著者の代表領域であり、最終話に用意された大きな仕掛けは第45回星雲賞日本短編部門を受けた。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "ベストSF2013 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shinku-no-hibun",
+    "title": "深紅の碑文",
+    "titleKana": "しんくのひぶん",
+    "authorIds": [
+      "ueda-sayuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "post-apocalypse",
+      "genetic-engineering"
+    ],
+    "seriesName": "オーシャンクロニクル",
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "海面上昇によって陸と海に分かたれた人類。その対立を解消しようと奔走する者、種そのものを宇宙へ送り出そうとする者、破局に乗じて暴力へ走る者。苛烈な闘争の時代に、それぞれの信念を貫こうとする人々が、滅びゆく星に生の輝きを灯していく。陸と海のどちらにも与しない立場を選んだ者たちの姿が、物語の背骨になっている。『華竜の宮』に続く海洋SFの大作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2014,
+        "result": "ベストSF2014 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "epilogue",
+    "title": "エピローグ",
+    "titleKana": "えぴろーぐ",
+    "authorIds": [
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "parallel-world",
+      "ai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "現実宇宙の解像度が上がり、人類がこちら側へ退転してからしばらく経った世界。宇宙的な規模で繰り広げられる追跡劇と、地上で起きる連続殺人の捜査が、同じ紙の上で並走していく。語りの層がいくつも重なり、どこまでが物語の内側でどこからが外側なのか分からなくなっていく。その構造そのものが読みどころであり、著者の作風がもっとも極端に出た長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2015,
+        "result": "ベストSF2015 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "exodus-shokogun",
+    "title": "エクソダス症候群",
+    "titleKana": "えくそだすしょうこうぐん",
+    "authorIds": [
+      "miyauchi-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-colony",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "火星の丘の斜面に、カバラの生命の樹を模した配置で建てられた病院がある。亡くなった父がかつて勤めた、火星で唯一の精神病院である。地球の大学を追われて故郷へ戻った青年医師カズキは、薬もベッドも人手も足りないこの病院に着任した。彼の帰郷と同時に、二十五年前から隠されていた歯車が音を立てて動きはじめる。精神医療の歴史を火星という舞台に重ねた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2015,
+        "result": "ベストSF2015 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yumemiru-ashibue",
+    "title": "夢みる葦笛",
+    "titleKana": "ゆめみるあしぶえ",
+    "authorIds": [
+      "ueda-sayuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "short-stories",
+      "alien",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "ある日、街にイソギンチャクのような頭を持つ奇妙な生物が現れた。不思議な曲を奏でるそれはみるみる増殖し、美しい歌声で人々を魅了する一方、人間から大切な何かを奪い去ろうとしていた。表題作をはじめ、人と人ならざるもの、呪術と科学、過去と未来のあいだを自在に行き来する十編を収める。人間とは何かという問いを、さまざまな角度から繰り返し投げかける短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "ベストSF2016 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "space-kinyudo",
+    "title": "スペース金融道",
+    "titleKana": "すぺーすきんゆうどう",
+    "authorIds": [
+      "miyauchi-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "space-colony",
+      "robot",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "人類初の植民惑星、通称・二番街。アンドロイドを主な顧客とする新星金融で債権回収を担当する「ぼく」と、上司のユーセフ。普段はいい加減で最悪な男なのに、たまに大得点を挙げて挽回する。貧乏くじを引かされるのはいつも「ぼく」である。宇宙から地獄まで取り立てに走る二人組を描く連作で、金融という即物的な題材を通して植民惑星の社会が立ち上がってくる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "ベストSF2016 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "bibibi-bi-bap",
+    "title": "ビビビ・ビ・バップ",
+    "titleKana": "びびびびばっぷ",
+    "authorIds": [
+      "okuizumi-hikaru"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "ai",
+      "virtual-reality",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "僕の葬式でピアノを弾いていただきたいんです。その依頼がすべての始まりだった。電脳のなかで生き続ける命、アンドロイドとの白熱のジャズセッション、大山康晴十五世名人アンドロイドの謎、天才工学少女、そして迫り来る電脳ウイルスの大感染。平成の新宿から近未来の南アフリカまでを駆け抜ける、ジャズとAIを掛け合わせた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "ベストSF2016 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kosei-teki-sento-kihan",
+    "title": "公正的戦闘規範",
+    "titleKana": "こうせいてきせんとうきはん",
+    "authorIds": [
+      "fujii-taiyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "near-future",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "デビュー長編『Gene Mapper』の前日譚にあたる「コラボレーション」、無人機と規範が支配する近未来の皮肉な戦場を描く表題作、分断が進んだアメリカを扱う「第二内戦」など全五編を収める。技術の運用がそのまま倫理の問題に直結する現場を、実務者の視点から書き分けている。エンジニア出身の著者らしい手ざわりが全編に通っている短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "ベストSF2017 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hametsu-no-o",
+    "title": "破滅の王",
+    "titleKana": "はめつのおう",
+    "authorIds": [
+      "ueda-sayuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "alternate-history",
+      "disaster",
+      "genetic-engineering"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "一九四三年、魔都と呼ばれた上海。ひとりの科学者の絶望から、治療法のない細菌兵器が生まれた。その論文は分割され、英仏独米日の大使館に届けられる。手を取り合わなければ人類に待つのは破滅である。各国の思惑が交錯するなか、日本の細菌学者たちは論文の全容を突き止めようとする。世界大戦のさなかに突きつけられた究極の選択を描き、直木賞候補にもなった長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "ベストSF2018 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
