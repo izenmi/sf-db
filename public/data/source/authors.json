@@ -3033,5 +3033,48 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "matsuki-rin",
+    "name": "松樹凛",
+    "nameKana": "まつきりん",
+    "description": "第12回創元SF短編賞でデビューした作家。時間を扱った緻密な作品で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/松樹凛"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ikezawa-haruna",
+    "name": "池澤春菜",
+    "nameKana": "いけざわはるな",
+    "description": "声優・作家。日本SF作家クラブ会長を務め、書評家としても活動する。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/池澤春菜"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "katase-jiro",
+    "name": "片瀬二郎",
+    "nameKana": "かたせじろう",
+    "description": "創元SF短編賞出身の作家。ロボットや異形を通して人の情を描く。",
+    "birthYear": 1972,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "oxy-takehiko",
+    "name": "オキシタケヒコ",
+    "nameKana": "おきしたけひこ",
+    "description": "第3回創元SF短編賞優秀賞でデビューした作家。音響をはじめ専門知識を軸にした作品が多い。",
+    "birthYear": 1971,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
