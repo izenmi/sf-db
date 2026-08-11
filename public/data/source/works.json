@@ -12150,5 +12150,307 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ragged-girl",
+    "title": "ラギッド・ガール 廃園の天使II",
+    "titleKana": "らぎっどがーるはいえんのてんしつー",
+    "authorIds": [
+      "tobi-hirotaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "virtual-reality",
+      "ai",
+      "short-stories"
+    ],
+    "seriesName": "廃園の天使",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "人間の情報的な似姿を官能素空間へ送り込む技術によって、仮想リゾート〈数値海岸〉は生まれた。その技術的にして精神的な基盤には、直感像的な全身感覚を持つひとりの醜い女の存在があった。開発秘話にあたる表題作と、人間の訪問が途絶えた〈大途絶〉の真相を描く「魔述師」など五編を収める。前作の謎を照らし出す作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2006,
+        "result": "2006年版 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ai-no-monogatari",
+    "title": "アイの物語",
+    "titleKana": "あいのものがたり",
+    "authorIds": [
+      "yamamoto-hiroshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "ai",
+      "robot",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "数百年後、機械に支配された地上でひとりの青年が美しいアンドロイドと出会う。機械を憎む青年に、アンドロイドはかつて人間が書いた物語を読んで聞かせはじめた。七つの物語を挟み込みながら、機械と人間がどこで行き違ったのかが少しずつ明かされていく。物語ることそのものが主題に据えられており、千夜一夜物語の構造を借りた連作として組み上げられている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2006,
+        "result": "2006年版 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アイの物語"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tengai-no-toride",
+    "title": "天涯の砦",
+    "titleKana": "てんがいのとりで",
+    "authorIds": [
+      "ogawa-issui"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-development",
+      "disaster",
+      "hard-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "軌道ステーション〈望天〉で破滅的な大事故が起きた。残骸と月往還船からなる構造体は、無数の死体とともに漂流を始める。だが隔離された気密区画には数名の生存者がいた。空気ダクト越しの声だけで互いを支え合う彼らに、やがて構造体が大気圏突入軌道へ乗っているという事実が突きつけられる。真空との絶望的な闘いを、限られた資材と知識だけで描き切った長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2006,
+        "result": "2006年版 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chinmoku-no-flyby",
+    "title": "沈黙のフライバイ",
+    "titleKana": "ちんもくのふらいばい",
+    "authorIds": [
+      "nojiri-housuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "space-development",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "アンドロメダ方面を発信源とする有意信号が発見された。分析にあたったJAXAの野嶋と弥生は、それが恒星間の測位システムの信号であり、異星人の探査機が地球へ向かっていると確信する。静かなファーストコンタクトが見せる壮大な光景を描く表題作ほか、女子大生の思いつきが大気圏外への道を拓く一編など全五編を収める。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "2007年版 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mm9",
+    "title": "MM9",
+    "titleKana": "えむえむないん",
+    "authorIds": [
+      "yamamoto-hiroshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "disaster",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "地震や台風と同じ自然災害の一種として、怪獣災害が存在する現代日本。有数の怪獣大国であるこの国では、気象庁に置かれた特異生物対策部、略して気特対が昼夜を問わず駆け回っている。出現予測に正体の特定、自衛隊と連携した作戦行動。相次ぐ難局に立ち向かう職員たちを描く、本格SFと怪獣ものの掛け合わせである。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "2008年版 国内篇 第2位"
+      }
+    ],
+    "mediaMix": {
+      "drama": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/MM9"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "boys-surface",
+    "title": "Boy's Surface",
+    "titleKana": "ぼーいずさーふぇいす",
+    "authorIds": [
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "parallel-world",
+      "language-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "これは多分、僕たちの初恋の物語である。あるいは、初恋の不可能性をめぐる物語である。数学の用語と定義を小説の骨組みとして流用し、恋愛小説の型そのものを分解して組み直した四編を収める。表題作をはじめ、読み進めるほど自分が何を読まされているのか分からなくなる感覚が心地よい。数学と恋愛という遠い二つを強引に接続してみせた作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "2008年版 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ballet-mecanique",
+    "title": "バレエ・メカニック",
+    "titleKana": "ばれえめかにっく",
+    "authorIds": [
+      "tsuhara-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "esper",
+      "virtual-reality",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "造形家である木根原の娘・理沙は、九年前に海辺で溺れて以来ずっと深昏睡の状態にある。彼を追ってくる幻聴とモーツァルトの楽曲。高速道路でありえない津波に遭い、各地で七本肢の巨大蜘蛛が目撃されているとも知る。担当医師の龍神は、理沙の夢想が東京に砂嵐を巻き起こしているのだと語る。稀代の幻視者による長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "2009年版 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バレエ・メカニック"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "doronkorondo",
+    "title": "どろんころんど",
+    "titleKana": "どろんころんど",
+    "authorIds": [
+      "kitano-yusaku"
+    ],
+    "translatorIds": [],
+    "publisherId": "fukuinkan-shoten",
+    "themeIds": [
+      "robot",
+      "post-apocalypse",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "アンドロイドの少女アリスが長い休止状態から目覚めると、そこにはどこまでも広がる泥の海があり、大勢いたはずの人間は姿を消していた。アリスの仕事は人間相手に商品説明をすることである。その務めを果たすため、商品である亀型の子守りロボット万年1号を連れて、消えた人間を探して泥の世界を歩きはじめる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "2010年版 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "quantum-families",
+    "title": "クォンタム・ファミリーズ",
+    "titleKana": "くぉんたむふぁみりーず",
+    "authorIds": [
+      "azuma-hiroki"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "parallel-world",
+      "near-future",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "量子論を背景に、選ばなかったはずの人生が並行して存在する世界を描く近未来小説である。小説家である主人公のもとに、存在しないはずの娘からメールが届く。そこから彼は、別の選択をした自分の家族の側へ引きずり込まれていく。批評家として知られる著者が単著として初めて書いた小説で、三島由紀夫賞を受けた。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "2010年版 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クォンタム・ファミリーズ"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。内容は日本語版Wikipediaの記事冒頭で確認し、独自にまとめた。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kore-wa-pen-desu",
+    "title": "これはペンです",
+    "titleKana": "これはぺんです",
+    "authorIds": [
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "language-sf",
+      "ai",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "叔父は文字だ。文字通り。文章自動生成プログラムの開発で莫大な富を得たらしい叔父から、大学生の姪のもとへ不思議な手紙が次々に届く。それは肉筆にとどまらず、文字を刻んだ磁石やタイプボール、DNA配列としてまで現れた。表題作と、脳内の巨大仮想都市に人生を封じ込めた父を描く「良い夜を持っている」の二編を収める。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2011,
+        "result": "2011年版 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

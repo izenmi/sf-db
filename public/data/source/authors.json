@@ -2526,5 +2526,29 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tsuhara-yasumi",
+    "name": "津原泰水",
+    "nameKana": "つはらやすみ",
+    "description": "幻想小説からミステリまで手がけた作家。緻密な文章と不穏な幻視で知られる。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/津原泰水"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "azuma-hiroki",
+    "name": "東浩紀",
+    "nameKana": "あずまひろき",
+    "description": "批評家・作家。『クォンタム・ファミリーズ』で三島由紀夫賞を受けた。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東浩紀"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
