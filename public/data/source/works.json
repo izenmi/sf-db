@@ -10668,5 +10668,758 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "titan-varley",
+    "title": "ティーターン",
+    "titleKana": "てぃーたーん",
+    "authorIds": [
+      "john-varley"
+    ],
+    "translatorIds": [
+      "fukamachi-mariko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-development",
+      "alien",
+      "space-colony"
+    ],
+    "seriesName": "ガイア三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1979,
+    "jpPublishedYear": 1982,
+    "originalTitle": "Titan",
+    "status": "completed",
+    "synopsis": "二〇二五年、探査船リングマスターは土星を目指す途上で、軌道上に奇妙な衛星を発見する。船長シロッコ・ジョーンズら乗組員が接近すると、衛星は内部に生態系を抱えた巨大な人工天体だった。ばらばらに放り出された乗員たちは、それぞれの土地で異形の住民と出会いながら、再会をめざして歩きはじめる。天体そのものが意思を持っているらしいと分かってくる〈ガイア〉三部作の第一作である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 1980,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "many-colored-land",
+    "title": "多彩の地",
+    "titleKana": "たさいのち",
+    "authorIds": [
+      "julian-may"
+    ],
+    "translatorIds": [
+      "hinatsu-hibiki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "sf-fantasy",
+      "far-future"
+    ],
+    "seriesName": "鮮新世からの亡命者",
+    "origin": "overseas",
+    "firstPublishedYear": 1981,
+    "jpPublishedYear": 1983,
+    "originalTitle": "The Many-Colored Land",
+    "status": "completed",
+    "synopsis": "二十二世紀、銀河へ広がった人類社会になじめない者たちのために、六百万年前の鮮新世へ通じる一方通行の時間の門が開かれていた。過去へ渡った者を待っていたのは、原始の地球ではなく、そこに先んじて住みついていた異星の二種族の支配だった。彼らは首に枷をはめられ、超能力を利用される立場に置かれる。壮大な連作の幕開けとなる〈鮮新世からの亡命者〉第一作である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 1982,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "integral-trees",
+    "title": "インテグラル・ツリー",
+    "titleKana": "いんてぐらるつりー",
+    "authorIds": [
+      "larry-niven"
+    ],
+    "translatorIds": [
+      "kosumi-rei"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "space-colony",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1984,
+    "jpPublishedYear": 1986,
+    "originalTitle": "The Integral Trees",
+    "status": "completed",
+    "synopsis": "中性子星ヴォイのそばを回る巨大ガス惑星は、潮汐に引きちぎられて大気を失い、恒星のまわりに巨大な気体の輪を残した。その無重力の輪のなかに、積分記号の形をした全長百キロの樹が漂っている。樹に住みついた人類の子孫たちは、重力も地面も知らないまま世代を重ねていた。物理設定を徹底して詰めた長編である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 1985,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/インテグラル・ツリー"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-postman",
+    "title": "ポストマン",
+    "titleKana": "ぽすとまん",
+    "authorIds": [
+      "david-brin"
+    ],
+    "translatorIds": [
+      "onishi-akira"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "post-apocalypse",
+      "dystopia",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1985,
+    "jpPublishedYear": 1988,
+    "originalTitle": "The Postman",
+    "status": "completed",
+    "synopsis": "文明が崩れ落ちたあとのオレゴンをさまよう男が、朽ちた車から郵便配達員の制服を見つけて身につける。雨風をしのぐためだけの思いつきだったが、彼が名乗った〈合衆国再建政府の郵便検査官〉という嘘は、行く先々の集落に希望を与えてしまう。彼の郵便は各地をつなぐ細い糸となり、やがて略奪を繰り返す民兵組織と正面から向き合うことになる。ひとつの嘘が制度へ育っていく過程を描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 1986,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cryptonomicon",
+    "title": "クリプトノミコン",
+    "titleKana": "くりぷとのみこん",
+    "authorIds": [
+      "neal-stephenson"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "hard-sf",
+      "alternate-history"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1999,
+    "jpPublishedYear": 2002,
+    "originalTitle": "Cryptonomicon",
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "第二次大戦下、暗号解読者ローレンスは、日独間のごく一部の通信にしか現れない新型暗号アレトゥサの存在に気づき、自ら考案した電子計算機で解読に挑む。その半世紀後、孫のランディは祖父の遺品からその調査記録を見つける。二つの時代を往復しながら、暗号と計算機と金塊をめぐる物語が絡み合っていく。情報技術の歴史そのものを小説に流し込んだ大部の長編である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2000,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-telling",
+    "title": "言の葉の樹",
+    "titleKana": "ことのはのき",
+    "authorIds": [
+      "ursula-k-le-guin"
+    ],
+    "translatorIds": [
+      "obi-fusa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "dystopia",
+      "language-sf"
+    ],
+    "seriesName": "ハイニッシュ・ユニバース",
+    "origin": "overseas",
+    "firstPublishedYear": 2000,
+    "jpPublishedYear": 2002,
+    "originalTitle": "The Telling",
+    "status": "completed",
+    "synopsis": "惑星アカでは、古い象形文字で書かれた詩も小説も歴史書も、過去のあらゆる本が焚書にされていた。科学技術の進んだ大宇宙連合エクーメンと接触して以来、圧政のもとで伝統文化を捨て、新しい道を進もうとしていたのである。観察員として地球から派遣された若い女性サティは、密かに続けられてきた〈語り〉を知る。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2001,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "passage",
+    "title": "航路",
+    "titleKana": "こうろ",
+    "authorIds": [
+      "connie-willis"
+    ],
+    "translatorIds": [
+      "omori-nozomi"
+    ],
+    "publisherId": "sony-magazines",
+    "themeIds": [
+      "near-future",
+      "evolution",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2001,
+    "jpPublishedYear": 2002,
+    "originalTitle": "Passage",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "マーシー総合病院で臨死体験者の聞き取り調査を続けてきた認知心理学者ジョアンナは、神経内科医リチャードから新しい計画への協力を求められる。臨死体験を人為的に起こし、そのときの脳の活動を詳細に記録しようというのだ。だが実験にはトラブルが続き、被験者が足りなくなってしまう。ジョアンナは自ら被験者になると申し出て、繰り返し臨死の側へ渡っていくことになる。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2002,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ilium",
+    "title": "イリアム",
+    "titleKana": "いりあむ",
+    "authorIds": [
+      "dan-simmons"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "space-colony",
+      "sf-fantasy"
+    ],
+    "seriesName": "イリアム/オリュンポス",
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "jpPublishedYear": 2006,
+    "originalTitle": "Ilium",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "遥かな未来、地球化された火星のオリュンポス山の麓で、ギリシア神話の神々と英雄たちが激烈な戦いを繰り広げている。それを観察するために復活させられた学師ホッケンベリーは、神々に報告を上げる役目を負っていた。地球に残された最後の人類と、木星圏から来た自律機械たち。並行して進む三つの物語が、やがて一点へ収束していく。〈ハイペリオン〉の著者による新たな叙事詩である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2004,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/イリウム"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "accelerando",
+    "title": "アッチェレランド",
+    "titleKana": "あっちぇれらんど",
+    "authorIds": [
+      "charles-stross"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "ai",
+      "near-future",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2009,
+    "originalTitle": "Accelerando",
+    "status": "completed",
+    "synopsis": "技術的特異点の前・最中・後という三つの時期を、ある一族の三世代にわたって描く連作である。あらゆるものに知能が宿り、経済も人格も加速度的に姿を変えていく。九つの短編を積み上げることで、人類が人類でなくなっていく過程そのものを追いかけていく。情報技術と経済の語彙を大量に投入し、加速する未来を体感させる構成が持ち味である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2006,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アッチェレランド (小説)"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "boneshaker",
+    "title": "ボーンシェイカー ぜんまい仕掛けの都市",
+    "titleKana": "ぼーんしぇいかーぜんまいじかけのとし",
+    "authorIds": [
+      "cherie-priest"
+    ],
+    "translatorIds": [
+      "ichida-izumi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alternate-history",
+      "denki-sf",
+      "post-apocalypse"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2009,
+    "jpPublishedYear": 2012,
+    "originalTitle": "Boneshaker",
+    "status": "completed",
+    "synopsis": "南北戦争が始まって間もない頃、クロンダイクの金鉱の噂に沸く北米北西部。ロシアの出資者に依頼された発明家レヴィティカス・ブルーは、氷を掘り抜く巨大機械ボーンシェイカーを完成させる。だが試運転は市街を崩壊させ、地中から有毒ガスを噴き出させた。十六年後、壁に囲まれた廃都へ、汚名を着せられたブルーの妻ブライアと、父の名誉を確かめようとする息子が足を踏み入れる。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2010,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "embassytown",
+    "title": "言語都市",
+    "titleKana": "げんごとし",
+    "authorIds": [
+      "china-mieville"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "language-sf",
+      "alien",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2011,
+    "jpPublishedYear": 2013,
+    "originalTitle": "Embassytown",
+    "status": "completed",
+    "synopsis": "遥かな未来、人類は辺境の惑星アリエカに居留地エンバシータウンを築き、謎めいた先住種族と共存してきた。アリエカ人は口にあたる二つの器官から同時に発話するという特異な言語を持ち、人類は彼らと話せる〈大使〉をクローンとして生み出して外交にあたっていた。だが新しい大使が着任した日を境に、この均衡は音を立てて崩れはじめる。言語そのものを物語の駆動装置に据えた長編である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2012,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ancillary-sword",
+    "title": "亡霊星域",
+    "titleKana": "ぼうれいせいいき",
+    "authorIds": [
+      "ann-leckie"
+    ],
+    "translatorIds": [
+      "akao-hideko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "ai",
+      "far-future"
+    ],
+    "seriesName": "叛逆航路三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "jpPublishedYear": 2016,
+    "originalTitle": "Ancillary Sword",
+    "status": "completed",
+    "synopsis": "ついに内戦が始まった。かつて宇宙戦艦の人工知能であり、いまはただひとりの生体兵器〈属躰〉となった「わたし」は、宿敵アナーンダから艦隊司令官に任じられる。復讐心を胸に秘めたまま正体を隠し、新たな艦で植民星系へ向かう。着いた先で目にしたのは、帝国の支配が末端でどう機能しているかという現実だった。三部作の第二作である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2015,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/亡霊星域"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ancillary-mercy",
+    "title": "星群艦隊",
+    "titleKana": "せいぐんかんたい",
+    "authorIds": [
+      "ann-leckie"
+    ],
+    "translatorIds": [
+      "akao-hideko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "ai",
+      "far-future"
+    ],
+    "seriesName": "叛逆航路三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2015,
+    "jpPublishedYear": 2016,
+    "originalTitle": "Ancillary Mercy",
+    "status": "completed",
+    "synopsis": "かろうじて非常事態を切り抜けたアソエクの星系にも、ついに内乱の戦火が及ぶ。無人のはずの隣接星系には正体不明の艦が潜み、人類を凌駕する力を持つ異星種族プレスジャーが動きはじめた。そして宿敵であるラドチの絶対的支配者アナーンダが、ついにこの星系へ姿を現す。「わたし」は艦と乗員を守り抜けるのか。〈叛逆航路〉三部作を締めくくる完結編である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2016,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」「ローカス賞 第一長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "collapsing-empire",
+    "title": "星間帝国の皇女 ラスト・エンペロー",
+    "titleKana": "せいかんていこくのこうじょらすとえんぺろー",
+    "authorIds": [
+      "john-scalzi"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "dystopia"
+    ],
+    "seriesName": "インターディペンデンシー",
+    "origin": "overseas",
+    "firstPublishedYear": 2017,
+    "jpPublishedYear": 2018,
+    "originalTitle": "The Collapsing Empire",
+    "status": "completed",
+    "synopsis": "相互依存する国家と商業ギルドの神聖帝国インターディペンデンシーは、異時空の流れ〈フロー〉を使う超光速航行によって成り立っていた。だが四十七星系を結ぶその礎が崩れつつある。父帝の死後、カーデニアは惑星ハブで若くして皇位を継ぎ、破滅の迫る帝国で権謀術数の渦に呑み込まれていく。三部作の第一作である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2018,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」「ローカス賞 第一長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "city-in-the-middle-of-the-night",
+    "title": "永遠の真夜中の都市",
+    "titleKana": "えいえんのまよなかのとし",
+    "authorIds": [
+      "charlie-jane-anders"
+    ],
+    "translatorIds": [
+      "ichida-izumi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-colony",
+      "alien",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2019,
+    "jpPublishedYear": 2022,
+    "originalTitle": "The City in the Middle of the Night",
+    "status": "completed",
+    "synopsis": "常に同じ面を太陽へ向ける植民惑星では、荒れ狂う昼と凍りつく夜に挟まれた黄昏地帯だけに人が住み、社会は緩やかに衰退していた。ソフィーは、愛する対象であり革命を志すビアンカをかばって町を追放される。永遠の夜のなかで彼女が出会ったのは、人とは異質な知性を持つ生命体だった。過酷な世界であがく少女たちの物語である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2020,
+        "result": "SF長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」「ローカス賞 第一長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "starship-and-haiku",
+    "title": "スターシップと俳句",
+    "titleKana": "すたーしっぷとはいく",
+    "authorIds": [
+      "somtow-sucharitkul"
+    ],
+    "translatorIds": [
+      "fuyukawa-wataru"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "post-apocalypse",
+      "alien",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1981,
+    "jpPublishedYear": 1984,
+    "originalTitle": "Starship & Haiku",
+    "status": "completed",
+    "synopsis": "生物兵器と核による戦争で荒廃した世界。壊滅した日本に生き残った人々は、名誉ある死を選ぶことを是として集団自決へ向かおうとしていた。日本人と鯨とのあいだに古い血のつながりがあるという伝承が、その決断に絡んでくる。西洋人の目に映った日本の美意識をSFに翻案した、ローカス賞第一長編部門の受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 1982,
+        "result": "第一長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」「ローカス賞 第一長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "contact-sagan",
+    "title": "コンタクト",
+    "titleKana": "こんたくと",
+    "authorIds": [
+      "carl-sagan"
+    ],
+    "translatorIds": [
+      "takami-hiroshi",
+      "ike-hiroaki"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "first-contact",
+      "hard-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1985,
+    "jpPublishedYear": 1986,
+    "originalTitle": "Contact",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "幼い頃から数学と自然科学に強い適性を示したエリー・アロウェイは、天文学者となって地球外知性の探索に打ち込んでいた。やがて彼女は、こと座ベガの方向から届いた明らかに人工的な信号を捉える。信号には巨大な機械の設計図が含まれていた。天文学者である著者が、接触の手続きを徹底して現実的に描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 1986,
+        "result": "第一長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」「ローカス賞 第一長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gun-with-occasional-music",
+    "title": "銃、ときどき音楽",
+    "titleKana": "じゅうときどきおんがく",
+    "authorIds": [
+      "jonathan-lethem"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "genetic-engineering"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1994,
+    "jpPublishedYear": 1996,
+    "originalTitle": "Gun, with Occasional Music",
+    "status": "completed",
+    "synopsis": "質問することが罪になり、記憶を薄める薬が配給される近未来のサンフランシスコ。私立探偵コンラッド・メトカーフは、著名な泌尿器科医殺しの濡れ衣を着せられたという男から依頼を受ける。だが誰もこの事件の解決を望んでいない。知性化された動物が街を歩く世界を、ハードボイルドの語り口で描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 1995,
+        "result": "第一長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」「ローカス賞 第一長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mars-crossing",
+    "title": "火星縦断",
+    "titleKana": "かせいじゅうだん",
+    "authorIds": [
+      "geoffrey-landis"
+    ],
+    "translatorIds": [
+      "onoda-kazuko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-development",
+      "hard-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2000,
+    "jpPublishedYear": 2006,
+    "originalTitle": "Mars Crossing",
+    "status": "completed",
+    "synopsis": "ブラジルと合衆国の二度の失敗を経て、第三次火星探検隊が赤い惑星へ降り立つ。だが帰還船が使い物にならないと判明し、六人の隊員は生き延びるために極地へ向かって数千キロを踏破することになる。しかも帰還できるのは一人だけである。NASAの科学者でもある著者が、火星の環境を精密に書き込んだ長編である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2001,
+        "result": "第一長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」「ローカス賞 第一長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "down-and-out-in-the-magic-kingdom",
+    "title": "マジック・キングダムで落ちぶれて",
+    "titleKana": "まじっくきんぐだむでおちぶれて",
+    "authorIds": [
+      "cory-doctorow"
+    ],
+    "translatorIds": [
+      "kawazoe-tomoko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "virtual-reality",
+      "utopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "jpPublishedYear": 2005,
+    "originalTitle": "Down and Out in the Magic Kingdom",
+    "status": "completed",
+    "synopsis": "不老不死も無尽蔵のエネルギーも実現し、貨幣の代わりに他人からの評判が価値を持つビッチャン世界。一世紀以上を生きてきたジュールズは、ディズニー・ワールドのアトラクション運営に情熱を注いでいた。だが〈ホーンテッド・マンション〉の刷新をめぐる争いが起き、彼は殺害されてしまう。評判経済を描いたデビュー長編である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2004,
+        "result": "第一長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」「ローカス賞 第一長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "singularitys-ring",
+    "title": "天空のリング",
+    "titleKana": "てんくうのりんぐ",
+    "authorIds": [
+      "paul-melko"
+    ],
+    "translatorIds": [
+      "kaneko-hiroshi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "evolution",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2008,
+    "jpPublishedYear": 2010,
+    "originalTitle": "Singularity's Ring",
+    "status": "completed",
+    "synopsis": "技術的特異点によって人類の大半が消えたあとの地球。特異点の焦点となった巨大な軌道リングは、いまも無人のまま地球を取り巻いている。残された人々は工業技術を保ち、ふたたび宇宙へ出ようとしていた。五人でひとつの意識を作る集合体として育てられた少年少女が、その計画の中心に置かれる。デビュー長編である。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2009,
+        "result": "第一長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」「ローカス賞 第一長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ninefox-gambit",
+    "title": "ナインフォックスの覚醒",
+    "titleKana": "ないんふぉっくすのかくせい",
+    "authorIds": [
+      "yoon-ha-lee"
+    ],
+    "translatorIds": [
+      "akao-hideko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "military-sf",
+      "far-future"
+    ],
+    "seriesName": "六連合三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "jpPublishedYear": 2020,
+    "originalTitle": "Ninefox Gambit",
+    "status": "completed",
+    "synopsis": "数学と暦にもとづいて物理法則を書き換える科学体系〈暦法〉を操る星間大国〈六連合〉。若き女性軍人にして数学の天才チェリスは、史上最悪の反逆者にして伝説の戦術家ジェダオの精神を我が身に憑依させ、艦隊を率いて鉄壁の暦法シールドに守られた宇宙都市要塞の攻略に向かう。専制国家の秘密が背後に横たわる三部作の第一作。",
+    "awardResults": [
+      {
+        "awardId": "locus",
+        "year": 2017,
+        "result": "第一長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」「ローカス賞 第一長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

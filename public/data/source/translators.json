@@ -727,5 +727,36 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hinatsu-hibiki",
+    "name": "日夏響",
+    "nameKana": "ひなつひびき",
+    "description": "英米のSF・ファンタジーを訳した翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日夏響"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "takami-hiroshi",
+    "name": "高見浩",
+    "nameKana": "たかみひろし",
+    "description": "ヘミングウェイの新訳などで知られる翻訳家。ノンフィクションも幅広く訳した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高見浩"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kawazoe-tomoko",
+    "name": "川副智子",
+    "nameKana": "かわぞえともこ",
+    "description": "英米の小説を訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

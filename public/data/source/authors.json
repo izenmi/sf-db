@@ -2340,5 +2340,155 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "john-varley",
+    "name": "ジョン・ヴァーリイ",
+    "nameKana": "ゔぁーりいじょん",
+    "description": "〈八世界〉シリーズや〈ガイア〉三部作で知られるアメリカの作家。身体改造と性別の流動性を早くから扱った。",
+    "birthYear": 1947,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョン・ヴァーリイ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "julian-may",
+    "name": "ジュリアン・メイ",
+    "nameKana": "めいじゅりあん",
+    "description": "〈鮮新世からの亡命者〉四部作で知られるアメリカの作家。",
+    "birthYear": 1931,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "charles-stross",
+    "name": "チャールズ・ストロス",
+    "nameKana": "すとろすちゃーるず",
+    "description": "イギリスの作家。技術的特異点や情報技術を扱った作品で知られる。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チャールズ・ストロス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cherie-priest",
+    "name": "シェリー・プリースト",
+    "nameKana": "ぷりーすとしぇりー",
+    "description": "アメリカの作家。スチームパンクの代表作『ボーンシェイカー』で知られる。",
+    "birthYear": 1975,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "somtow-sucharitkul",
+    "name": "ソムトウ・スチャリトクル",
+    "nameKana": "すちゃりとくるそむとう",
+    "description": "タイ出身の作家・作曲家。SFとホラーの双方で作品を発表した。",
+    "birthYear": 1952,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ソムトウ・スチャリトカル"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "carl-sagan",
+    "name": "カール・セーガン",
+    "nameKana": "せーがんかーる",
+    "description": "アメリカの天文学者・作家。科学の普及に大きな役割を果たし、小説『コンタクト』を残した。",
+    "birthYear": 1934,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カール・セーガン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jonathan-lethem",
+    "name": "ジョナサン・レセム",
+    "nameKana": "れせむじょなさん",
+    "description": "アメリカの作家。ジャンル小説の意匠を借りながら文学的な作品を書くことで知られる。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョナサン・レセム"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "linda-nagata",
+    "name": "リンダ・ナガタ",
+    "nameKana": "ながたりんだ",
+    "description": "ハワイ在住のアメリカの作家。ナノテクノロジーを扱ったハードSFで知られる。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リンダ・ナガタ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sarah-zettel",
+    "name": "サラ・ゼッテル",
+    "nameKana": "ぜってるさら",
+    "description": "アメリカの作家。デビュー作『大いなる復活のとき』でローカス賞第一長編部門を受けた。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サラ・ゼッテル"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "geoffrey-landis",
+    "name": "ジェフリー・A・ランディス",
+    "nameKana": "らんでぃすじぇふりーえー",
+    "description": "NASAの科学者でもあるアメリカの作家。火星探査計画に携わりながら小説を書いている。",
+    "birthYear": 1955,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェフリー・A・ランディス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cory-doctorow",
+    "name": "コリイ・ドクトロウ",
+    "nameKana": "どくとろうこりい",
+    "description": "カナダ出身の作家・活動家。著作権や情報の自由をめぐる主張でも知られる。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コリイ・ドクトロウ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "paul-melko",
+    "name": "ポール・メルコ",
+    "nameKana": "めるこぽーる",
+    "description": "アメリカの作家。集合意識を扱った『天空のリング』でローカス賞第一長編部門を受けた。",
+    "birthYear": 1966,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yoon-ha-lee",
+    "name": "ユーン・ハ・リー",
+    "nameKana": "りーゆーんは",
+    "description": "韓国系アメリカ人の作家。数学を体系の中核に据えた〈六連合〉シリーズで知られる。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ユーン・ハ・リー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
