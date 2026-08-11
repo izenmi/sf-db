@@ -16673,5 +16673,357 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "one-more-nuke",
+    "title": "ワン・モア・ヌーク",
+    "titleKana": "わんもあぬーく",
+    "authorIds": [
+      "fujii-taiyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "near-future",
+      "military-sf",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "核の穴は、あなた方をもう一度、特別な存在にしてくれる。原爆テロを予告する一本の動画が日本を大混乱に陥れた。爆発は三月十一日午前零時。福島第一原発事故とのつながりを示唆するメッセージの真意を、政府は見抜けない。科学者と刑事の執念が、互いを欺きながら疾走する二人のテロリストの歪んだ理想に迫っていく。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "ベストSF2020 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "titan-nozaki",
+    "title": "タイタン",
+    "titleKana": "たいたん",
+    "authorIds": [
+      "nozaki-mado"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "ai",
+      "near-future",
+      "utopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "至高の人工知能タイタンによって社会が平和に保たれた未来。人類は仕事から解放され、自由を謳歌していた。心理学を趣味とする内匠成果のもとを、世界にほんのひと握りしかいない就労者ナレインが訪れ、あなたに仕事を頼みたいと告げる。働くとはどういうことかを、人工知能との対話を通して問い直す長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "ベストSF2020 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hotel-arcadia",
+    "title": "ホテル・アルカディア",
+    "titleKana": "ほてるあるかでぃあ",
+    "authorIds": [
+      "ishikawa-muneo"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "denki-sf",
+      "short-stories",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "ホテル〈アルカディア〉支配人のひとり娘プルデンシアは、理由も告げずに敷地のはずれのコテージへ閉じこもってしまう。投宿していた七名の芸術家が同情し、彼女を外へ誘い出そうとコテージの前で自作の物語を順番に語りはじめた。本から脱け出した挿絵、何千年も伸び続ける塔。入れ子の物語が積み重なっていく連作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2020,
+        "result": "ベストSF2020 国内篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "banpaku-seisen",
+    "title": "万博聖戦",
+    "titleKana": "ばんぱくせいせん",
+    "authorIds": [
+      "makino-osamu"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "esper",
+      "alternate-history",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "虐げられた子どもたちは、大人たちの支配から逃れるための戦いを繰り広げていた。そして一九七〇年、大阪万博で子どもと大人が正面から激突する。高度成長期の日本を舞台に、大人になることそのものを敵とみなす戦いを描く。少年期の万能感とその喪失を、著者らしい過剰で下品で切実な筆致のまま叩きつけてくる。日本SF大賞を受けた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "ベストSF2021 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kiryu-keisatsu-hakkotsu-kaido",
+    "title": "機龍警察 白骨街道",
+    "titleKana": "きりゅうけいさつはっこつかいどう",
+    "authorIds": [
+      "tsukimura-ryoe"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "near-future",
+      "robot"
+    ],
+    "seriesName": "機龍警察",
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "新型の龍機兵を導入した警視庁特捜部に、新たな指令が下る。ミャンマーで確保された国外逃亡犯の引き渡しを、特捜部の傭兵にやらせろというのだ。だがその道行きは危機に次ぐ危機の連続だった。旧日本軍が敗走した白骨街道を舞台に、過去の戦争の重みと現在の暴力とが幾重にも重なっていく。フィクションが現実を突き抜けると評されるシリーズの第六作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "ベストSF2021 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tezcatlipoca",
+    "title": "テスカトリポカ",
+    "titleKana": "てすかとりぽか",
+    "authorIds": [
+      "sato-kiwamu"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "denki-sf",
+      "near-future",
+      "religion-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "メキシコの麻薬密売組織の抗争で、組織を牛耳るカサソラ四兄弟のうち三人が殺された。生き残った三男バルミロは追手を逃れて海を渡り、ジャカルタの裏社会で麻薬に身を持ち崩した日本人医師・末永と出会う。二人は日本へ渡り、川崎でならず者たちを集めていく。アステカの神話を現代の暴力に重ねた直木賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "ベストSF2021 国内篇 第10位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テスカトリポカ"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mazu-ushi-o-kyu-to-shimasu",
+    "title": "まず牛を球とします。",
+    "titleKana": "まずうしをきゅうとします",
+    "authorIds": [
+      "isukari-yuba"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "short-stories",
+      "satire-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "私は人類を幸福にするのが仕事です。物理の授業でおなじみの乱暴な近似を題名に掲げ、世界を単純化してみせたときに何が起きるかを次々に試していく作品集である。ハンバーガー屋の待ち時間に気軽にめくれて、味わいは濃厚。さくっと読めてざくっと刺さる短編を集めた一冊で、理系的な発想と身も蓋もない結論の落差が持ち味である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "ベストSF2022 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "godzilla-sp",
+    "title": "ゴジラ S.P",
+    "titleKana": "ごじらしんぎゅらぽいんと",
+    "authorIds": [
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "disaster",
+      "near-future",
+      "hard-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "二〇三〇年、千葉県逃尾市に一体の未確認飛行生物が飛来する。銀色のロボット、ジェットジャガーとの交戦の末に突然死したその怪鳥は、ラドンと名づけられた。その後、市の周辺でラドンの死骸が相次いで見つかる。テレビアニメの脚本を手がけた著者が、同じ世界のもうひとつの物語として書き下ろした小説版である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "ベストSF2022 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "aggressors",
+    "title": "アグレッサーズ 戦闘妖精・雪風",
+    "titleKana": "あぐれっさーずせんとうようせいゆきかぜ",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "ai",
+      "alien"
+    ],
+    "seriesName": "戦闘妖精・雪風",
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "対ジャム戦略のため、クーリィ准将は特殊戦にアグレッサー部隊を新設する。仮想敵を演じる部隊に雪風も加わり、地球連合軍の戦闘機との模擬戦に臨むことになった。味方を敵として扱うという構図のなかで、深井零と雪風の関係もまた別の角度から照らし出されていく。何が敵かを定義することそのものを問い続ける、シリーズ第四作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "ベストSF2022 国内篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "schrodinger-no-shojo",
+    "title": "シュレーディンガーの少女",
+    "titleKana": "しゅれーでぃんがーのしょうじょ",
+    "authorIds": [
+      "matsuzaki-yuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "dystopia",
+      "short-stories",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "すべての六十五歳に例外なくプログラムされた死が訪れる世界。肥満者をスタジオに集めて公開デスゲームを催す健康至上主義社会。数学の使用が禁じられた世界。秋刀魚がいなくなった未来の食卓。さまざまなディストピアを生き延びる、力強く勇敢な女性たちを描く六編を収める。極端な制度を一つ置いただけの世界が、驚くほど現実に似て見えてくる作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2023,
+        "result": "ベストSF2023 国内篇 第7位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kaiju-shasendo",
+    "title": "回樹",
+    "titleKana": "かいじゅ",
+    "authorIds": [
+      "shasendo-yuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "真実の愛を証明できる物体〈回樹〉をめぐる、ありふれた愛の顛末を描く表題作。ほかに、誰も思いつけない発想と、誰にでも思いあたる感情とを組み合わせた六編を収める。極端な設定を一つ持ち込んだうえで、そこに置かれた人間の情だけを冷静に書き切っていく。愛という言葉が指すものの範囲を、少しずつずらしながら確かめていく作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2023,
+        "result": "ベストSF2023 国内篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "annabel-anomaly",
+    "title": "アナベル・アノマリー",
+    "titleKana": "あなべるあのまりー",
+    "authorIds": [
+      "taniguchi-hiroki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "esper",
+      "near-future",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "殺されたのはアナベルという名の少女である。これで彼女は通算十一度、殺されたことになる。ただ存在するだけですべてを変容させてしまう少女と、それを取り巻く人々。少女禍と呼ばれる現象をめぐって、超能力が見せる異様な光景が奔流のように押し寄せる。伝説的な超能力SFが大幅に増補されて再誕した一作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2023,
+        "result": "ベストSF2023 国内篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
