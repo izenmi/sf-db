@@ -2741,5 +2741,521 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "elric-saga",
+    "title": "エルリック・サーガ",
+    "titleKana": "えるりっくさーが",
+    "authorIds": [
+      "michael-moorcock"
+    ],
+    "translatorIds": [
+      "yasuda-hitoshi",
+      "sakai-akinobu"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "sf-fantasy"
+    ],
+    "seriesName": "エルリック・サーガ",
+    "origin": "overseas",
+    "firstPublishedYear": 1961,
+    "originalTitle": "Elric of Melniboné",
+    "status": "completed",
+    "synopsis": "混沌の神々を奉じ、ドラゴンを使役して一万年にわたり世界を支配してきたメルニボネ人。その皇帝でありながら、白子で病弱なエルリックは、魔剣ストームブリンガーに生命力を吸わせることでかろうじて立っている。滅びゆく古き種族の最後の王が、自らの帝国と愛する者を巻き込みながら破滅へ向かう。永遠の戦士という主題を貫くムアコックの代表シリーズである。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1986,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エルリック・サーガ"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。原著は1961年の短編から始まる連作。邦訳の初刊年はNDLサーチで確認できなかったため登録していない(出版社は本DBが参照した角川文庫版)。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "neuromancer",
+    "title": "ニューロマンサー",
+    "titleKana": "にゅーろまんさー",
+    "authorIds": [
+      "william-gibson"
+    ],
+    "translatorIds": [
+      "kuromaru-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "cyberpunk",
+      "virtual-reality",
+      "ai"
+    ],
+    "seriesName": "スプロール・シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1984,
+    "jpPublishedYear": 1986,
+    "originalTitle": "Neuromancer",
+    "status": "completed",
+    "synopsis": "電脳空間と、ネオンに照らされた退廃都市とが交錯する近未来。かつて凄腕のデータ泥棒だったケイスは、雇い主を裏切った罰に神経を焼かれ、電脳空間へ入る能力を奪われていた。能力の回復と引き換えに危険な仕事を引き受けた彼は、鏡の目を持つ女モリイとともに、正体の知れない依頼主の計画に踏み込んでいく。サイバーパンクという語を決定づけた記念碑的長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1987,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ニューロマンサー"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "norstrilia",
+    "title": "ノーストリリア",
+    "titleKana": "のーすとりりあ",
+    "authorIds": [
+      "cordwainer-smith"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "space-opera"
+    ],
+    "seriesName": "人類補完機構",
+    "origin": "overseas",
+    "firstPublishedYear": 1975,
+    "jpPublishedYear": 1987,
+    "originalTitle": "Norstrilia",
+    "status": "completed",
+    "synopsis": "「人間の再発見」の第一世紀。不老長寿の薬を産出する銀河一の富裕惑星ノーストリリアで、ひとりの少年が資産運用の失敗を避けるため、なりゆきで地球そのものを買い取ってしまう。買った星を見に地球へ降りた彼を待っていたのは、下級民と呼ばれる動物起源の人々と、彼らをめぐる秘密だった。著者唯一の長編にして〈人類補完機構〉の中核をなす一作。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1988,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ノーストリリア"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "footfall",
+    "title": "降伏の儀式",
+    "titleKana": "こうふくのぎしき",
+    "authorIds": [
+      "larry-niven",
+      "jerry-pournelle"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "first-contact",
+      "alien",
+      "military-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1985,
+    "jpPublishedYear": 1988,
+    "originalTitle": "Footfall",
+    "status": "completed",
+    "synopsis": "1990年代、ある天文台が奇妙な光点を観測する。それは地球へ接近する一隻の巨大宇宙船だった。人類が初の地球外生命との遭遇に胸を躍らせるなか、来訪者が選んだのは対話ではなく侵略だった。軍人、政治家、そしてSF作家たちまでが動員される総力戦を、群像劇の手法で描いた大長編。異星人側の社会構造まで作り込んだ点が読みどころである。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1989,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "collision-with-chronos",
+    "title": "時間衝突",
+    "titleKana": "じかんしょうとつ",
+    "authorIds": [
+      "barrington-bayley"
+    ],
+    "translatorIds": [
+      "omori-nozomi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "time-travel",
+      "alien",
+      "hard-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1973,
+    "jpPublishedYear": 1989,
+    "originalTitle": "Collision with Chronos",
+    "status": "completed",
+    "synopsis": "異星人との戦争によって過去の遺産をことごとく失った地球。異星人が残した遺跡を調査していた考古学者たちのもとに、三百年前に撮られたはずの一枚の写真が届けられる。そこに写っていたものは、時間そのものの構造への疑いを呼び起こした。時間を前後に流れる二つの波としてとらえる大胆な仮説を、物語の骨格に据えた奇想長編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1990,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "uplift-war",
+    "title": "知性化戦争",
+    "titleKana": "ちせいかせんそう",
+    "authorIds": [
+      "david-brin"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "genetic-engineering",
+      "evolution"
+    ],
+    "seriesName": "知性化シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1987,
+    "jpPublishedYear": 1990,
+    "originalTitle": "The Uplift War",
+    "status": "completed",
+    "synopsis": "銀河文明では、先進種族が原始的な種に手を加えて知性を与える「知性化」が秩序の根幹をなしていた。人類は後見者を持たないまま自力で知性を得た異例の存在であり、チンパンジーとイルカを自ら知性化して同胞としている。惑星ガースが侵略されたとき、取り残された人間とチンパンジーたちはゲリラ戦を選ぶ。生態系と種の関係を主題にしたシリーズの一編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1991,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tau-zero",
+    "title": "タウ・ゼロ",
+    "titleKana": "たうぜろ",
+    "authorIds": [
+      "poul-anderson"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "hard-sf",
+      "generation-ship",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1970,
+    "jpPublishedYear": 1992,
+    "originalTitle": "Tau Zero",
+    "status": "completed",
+    "synopsis": "五十人の男女を乗せた植民船レオノーラ・クリスチーネ号は、バサード・ラムジェットを推進機関としておとめ座ベータ星をめざしていた。光速には届かないものの、亜光速航行による時間の遅れが乗員を守るはずだった。ところが減速装置が故障し、船は加速をやめられなくなる。相対論的効果を物語の駆動力そのものに変えた、ハードSFの古典である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1993,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/タウ・ゼロ"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "entoverse",
+    "title": "内なる宇宙",
+    "titleKana": "うちなるうちゅう",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "ike-hiroaki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "alien",
+      "virtual-reality",
+      "hard-sf"
+    ],
+    "seriesName": "巨人たちの星シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1991,
+    "jpPublishedYear": 1993,
+    "originalTitle": "Entoverse",
+    "status": "completed",
+    "synopsis": "架空の戦争に敗れた惑星ジェヴレンでは、社会が荒廃し、住民のあいだで奇怪な精神障害が広がっていた。調査に赴いたハントたちは、その症状の背後に、計算機の内側で自生した別の宇宙の存在を疑いはじめる。月面で五万年前の死体が見つかったところから始まった〈巨人たちの星〉シリーズを、内側の宇宙という着想で拡張した第4部である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1994,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hyperion",
+    "title": "ハイペリオン",
+    "titleKana": "はいぺりおん",
+    "authorIds": [
+      "dan-simmons"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "time-travel"
+    ],
+    "seriesName": "ハイペリオン四部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1989,
+    "jpPublishedYear": 1994,
+    "originalTitle": "Hyperion",
+    "status": "completed",
+    "synopsis": "28世紀、宇宙に広がった人類を統べる連邦政府を揺るがす事態が起きていた。辺境の惑星ハイペリオンには、時間を遡行する殺戮者シュライクを封じた〈時間の墓標〉がある。その墓標が開こうとするとき、七人の巡礼が惑星へ向かった。それぞれが墓標に願いを託す理由を語っていく——カンタベリー物語の構成を宇宙叙事詩に持ち込んだ代表作。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1995,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハイペリオン (小説)"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fall-of-hyperion",
+    "title": "ハイペリオンの没落",
+    "titleKana": "はいぺりおんのぼつらく",
+    "authorIds": [
+      "dan-simmons"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "military-sf"
+    ],
+    "seriesName": "ハイペリオン四部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1990,
+    "jpPublishedYear": 1995,
+    "originalTitle": "The Fall of Hyperion",
+    "status": "completed",
+    "synopsis": "宇宙の蛮族アウスターの侵攻に対抗するため、連邦の無敵艦隊が投入された。熾烈な戦火のただなかに取り残された惑星ハイペリオンでは、時を超越する〈時間の墓標〉がついに開きはじめる。前作で語られた七つの物語が一本に束ねられ、連邦の中枢とAI群〈テクノコア〉の思惑までが姿を現す。四部作の前半を締めくくる長編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1996,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "timelike-infinity",
+    "title": "時間的無限大",
+    "titleKana": "じかんてきむげんだい",
+    "authorIds": [
+      "stephen-baxter"
+    ],
+    "translatorIds": [
+      "onoda-kazuko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "alien",
+      "time-travel"
+    ],
+    "seriesName": "ジーリー・クロニクル",
+    "origin": "overseas",
+    "firstPublishedYear": 1992,
+    "jpPublishedYear": 1995,
+    "originalTitle": "Timelike Infinity",
+    "status": "completed",
+    "synopsis": "西暦5407年、人類は液体状の異星種族カックスに征服され、わずかな星系に押し込められて支配を受けていた。人類が過去に築いたワームホール網の一方の口が、千五百年の時を隔てて帰還する。抑圧された未来と、まだ自由だった過去とをつなぐその通路をめぐって、双方の思惑が交錯する。〈ジーリー・クロニクル〉を構成する一編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1996,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fallen-angels",
+    "title": "天使墜落",
+    "titleKana": "てんしついらく",
+    "authorIds": [
+      "larry-niven",
+      "jerry-pournelle",
+      "michael-flynn"
+    ],
+    "translatorIds": [
+      "asai-osamu"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "near-future",
+      "dystopia",
+      "satire-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1991,
+    "jpPublishedYear": 1997,
+    "originalTitle": "Fallen Angels",
+    "status": "completed",
+    "synopsis": "近未来のアメリカでは、急進的な環境保護運動と宗教右派が「近代技術への嫌悪」という一点で手を結び、科学そのものが敵視されるようになっていた。技術の抑制によって氷河期が進むなか、軌道上の居住区から落ちてきた二人の宇宙飛行士を、SFファンダムの面々が匿って逃がそうとする。科学不信の時代への痛烈な諷刺を込めた長編。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1998,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "time-ships",
+    "title": "タイム・シップ",
+    "titleKana": "たいむしっぷ",
+    "authorIds": [
+      "stephen-baxter"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "far-future",
+      "hard-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1995,
+    "jpPublishedYear": 1998,
+    "originalTitle": "The Time Ships",
+    "status": "completed",
+    "synopsis": "1891年、時間航行家はふたたび未来へ旅立った。最初の旅で出会ったエロイ族のウィーナを救うため、西暦80万2701年をめざしてマシンを再起動したのである。だが彼が辿り着いたのは、前と同じ未来ではなかった。ウェルズ『タイム・マシン』の公認続編として書かれ、多世界解釈まで取り込んで時間旅行の理屈を突き詰めた長編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1999,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "red-mars",
+    "title": "レッド・マーズ",
+    "titleKana": "れっどまーず",
+    "authorIds": [
+      "kim-stanley-robinson"
+    ],
+    "translatorIds": [
+      "oshima-yutaka"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-colony",
+      "hard-sf",
+      "space-development"
+    ],
+    "seriesName": "火星三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1992,
+    "jpPublishedYear": 1998,
+    "originalTitle": "Red Mars",
+    "status": "completed",
+    "synopsis": "2026年、選ばれた百人の科学者と技術者が火星へ降り立つ。彼らの前にあるのは、赤い荒野をどう人が住める土地に変えるかという課題と、それ以上に厄介な、この星をどう統治するかという問いだった。テラフォーミングの技術と、そこで生まれる政治的対立を並行して描き、二百年近くに及ぶ火星三部作の幕を開ける長編である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1999,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kirinyaga",
+    "title": "キリンヤガ",
+    "titleKana": "きりんやが",
+    "authorIds": [
+      "mike-resnick"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "utopia",
+      "short-stories"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1998,
+    "jpPublishedYear": 1999,
+    "originalTitle": "Kirinyaga: A Fable of Utopia",
+    "status": "completed",
+    "synopsis": "ヨーロッパ由来の便利さを受け入れながら本当のキクユ族でいられるのか——ケニアでの父子の問答から物語は始まる。やがて彼らは、伝統的なキクユの暮らしを再現するためだけに作られた小惑星〈キリンヤガ〉へ移り住む。祈祷師となった主人公が理想郷を守ろうとするたび、その理想が誰かを踏みつけていく。ユートピアの寓話として編まれた連作集。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2000,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/キリンヤガ"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

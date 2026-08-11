@@ -722,5 +722,135 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "michael-moorcock",
+    "name": "マイケル・ムアコック",
+    "nameKana": "むあこっくまいける",
+    "description": "『エルリック・サーガ』などで知られるイギリスの作家。永遠の戦士という主題で作品世界を連結した。",
+    "birthYear": 1939,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マイケル・ムアコック"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "william-gibson",
+    "name": "ウィリアム・ギブスン",
+    "nameKana": "ぎぶすんうぃりあむ",
+    "description": "『ニューロマンサー』でサイバーパンクを決定づけたアメリカ生まれの作家。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ウィリアム・ギブスン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cordwainer-smith",
+    "name": "コードウェイナー・スミス",
+    "nameKana": "すみすこーどうぇいなー",
+    "description": "〈人類補完機構〉と呼ばれる未来史を書いたアメリカの作家。本業は東洋研究者で寡作に終わった。",
+    "birthYear": 1913,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コードウェイナー・スミス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jerry-pournelle",
+    "name": "ジェリー・パーネル",
+    "nameKana": "ぱーねるじぇりー",
+    "description": "ラリー・ニーヴンとの共作で知られるアメリカの作家。工学と軍事の知識に裏打ちされた作風。",
+    "birthYear": 1933,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェリー・パーネル"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "david-brin",
+    "name": "デイヴィッド・ブリン",
+    "nameKana": "ぶりんでいゔぃっど",
+    "description": "〈知性化〉シリーズで知られるアメリカの作家。天文学者でもある。",
+    "birthYear": 1950,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デイヴィッド・ブリン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "poul-anderson",
+    "name": "ポール・アンダースン",
+    "nameKana": "あんだーすんぽーる",
+    "description": "SFとファンタジーの双方で多くの作品を残したアメリカの作家。『タウ・ゼロ』が代表作のひとつ。",
+    "birthYear": 1926,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ポール・アンダースン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dan-simmons",
+    "name": "ダン・シモンズ",
+    "nameKana": "しもんずだん",
+    "description": "『ハイペリオン』四部作で知られるアメリカの作家。SFからホラーまで幅広く手がける。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダン・シモンズ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "stephen-baxter",
+    "name": "スティーヴン・バクスター",
+    "nameKana": "ばくすたーすてぃーゔん",
+    "description": "〈ジーリー・クロニクル〉などで知られるイギリスの作家。徹底したハードSFを書き続けている。",
+    "birthYear": 1957,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スティーヴン・バクスター"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kim-stanley-robinson",
+    "name": "キム・スタンリー・ロビンスン",
+    "nameKana": "ろびんすんきむすたんりー",
+    "description": "『レッド・マーズ』に始まる火星三部作で知られるアメリカの作家。生態と政治を主題に据える。",
+    "birthYear": 1952,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/キム・スタンリー・ロビンスン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mike-resnick",
+    "name": "マイク・レズニック",
+    "nameKana": "れずにっくまいく",
+    "description": "『キリンヤガ』などで知られるアメリカの作家。多数の賞を受けた短編の名手。",
+    "birthYear": 1942,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マイク・レズニック"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "michael-flynn",
+    "name": "マイクル・フリン",
+    "nameKana": "ふりんまいくる",
+    "description": "統計学を背景に持つアメリカの作家。ニーヴン・パーネルとの共作『天使墜落』などがある。",
+    "birthYear": 1947,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

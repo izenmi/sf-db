@@ -172,5 +172,65 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yasuda-hitoshi",
+    "name": "安田均",
+    "nameKana": "やすだひとし",
+    "description": "翻訳家・ゲームデザイナー。ムアコック作品の紹介などを手がけた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安田均"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kuromaru-hisashi",
+    "name": "黒丸尚",
+    "nameKana": "くろまるひさし",
+    "description": "『ニューロマンサー』の訳文でサイバーパンクの日本語を作った翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黒丸尚"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "asai-osamu",
+    "name": "浅井修",
+    "nameKana": "あさいおさむ",
+    "description": "英米SFの翻訳家。ニーヴン・パーネル作品の邦訳を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nakahara-naoya",
+    "name": "中原尚哉",
+    "nameKana": "なかはらなおや",
+    "description": "バクスターやマーサ・ウェルズなどを訳す翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中原尚哉"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "oshima-yutaka",
+    "name": "大島豊",
+    "nameKana": "おおしまゆたか",
+    "description": "英米SF・ファンタジーの翻訳家。火星三部作の邦訳を手がけた。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "uchida-masayuki",
+    "name": "内田昌之",
+    "nameKana": "うちだまさゆき",
+    "description": "ソウヤーやレズニックなどを訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

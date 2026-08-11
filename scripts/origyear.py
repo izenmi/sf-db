@@ -70,6 +70,42 @@ def infobox_year(title, lang):
     return None, ""
 
 
+def wikidata_year(title):
+    """最後の砦。Wikidataで作品を引き、P577(出版日)の最も古い年を返す。
+
+    英語版Wikipediaは曖昧さ回避ページや「シリーズ全体」の記事に飛ばされることが多く
+    (『レッド・マーズ』→Mars trilogy、『キリンヤガ』→曖昧さ回避)、導入部の正規表現では
+    原著発表年を取り切れない。Wikidataは構造化されているのでその揺れを受けない。"""
+    try:
+        q = urllib.parse.urlencode({"action": "wbsearchentities", "search": title,
+                                    "language": "en", "format": "json", "limit": "8", "type": "item"})
+        hits = json.load(urllib.request.urlopen(urllib.request.Request(
+            "https://www.wikidata.org/w/api.php?" + q,
+            headers={"User-Agent": "sf-db-probe/1.0"}), timeout=45)).get("search", [])
+    except Exception:
+        return None, ""
+    for h in hits:
+        desc = (h.get("description") or "").lower()
+        if not re.search(r"novel|book|novella|short story collection|work of fiction", desc):
+            continue
+        try:
+            ent = json.load(urllib.request.urlopen(urllib.request.Request(
+                f"https://www.wikidata.org/wiki/Special:EntityData/{h['id']}.json",
+                headers={"User-Agent": "sf-db-probe/1.0"}), timeout=45))
+        except Exception:
+            continue
+        claims = ent["entities"][h["id"]].get("claims", {})
+        years = []
+        for c in claims.get("P577", []):
+            t = c.get("mainsnak", {}).get("datavalue", {}).get("value", {}).get("time", "")
+            m = re.match(r"\+(\d{4})", t or "")
+            if m:
+                years.append(int(m.group(1)))
+        if years:
+            return str(min(years)), f"wikidata:{h['id']} {h.get('description','')[:50]}"
+    return None, ""
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("titles")
@@ -90,6 +126,8 @@ def main():
         text = extracts.get(query)
         if not text:
             y, ev = infobox_year(query, args.lang)
+            if not y and args.lang == "en":
+                y, ev = wikidata_year(query)
             print(f"{n}\t{label}\t{y or ''}\t{ev or 'NOPAGE'}")
             continue
         head = re.sub(r"\s+", " ", text)[:600]
@@ -106,6 +144,8 @@ def main():
                 break
         if not years:
             y, ev = infobox_year(query, args.lang)
+            if not y and args.lang == "en":
+                y, ev = wikidata_year(query)
             if y:
                 years, sentence = [y], ev
         print(f"{n}\t{label}\t{','.join(years[:5])}\t{sentence}")
