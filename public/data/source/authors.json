@@ -3332,5 +3332,41 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kelly-link",
+    "name": "ケリー・リンク",
+    "nameKana": "りんくけりー",
+    "description": "アメリカの作家・編集者。日常と幻想の境目が曖昧な短編で高い評価を得ている。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ケリー・リンク"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cormac-mccarthy",
+    "name": "コーマック・マッカーシー",
+    "nameKana": "まっかーしーこーまっく",
+    "description": "アメリカ現代文学の巨匠。簡潔で硬質な文体と暴力の描写で知られる。",
+    "birthYear": 1933,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/コーマック・マッカーシー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "viktor-pelevin",
+    "name": "ヴィクトル・ペレーヴィン",
+    "nameKana": "ぺれーゔぃんゔぃくとる",
+    "description": "ロシアの作家。ソ連崩壊前後の社会を諧謔と幻想で描く。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヴィクトル・ペレーヴィン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

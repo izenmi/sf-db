@@ -960,5 +960,25 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shibata-motoyuki",
+    "name": "柴田元幸",
+    "nameKana": "しばたもとゆき",
+    "description": "アメリカ文学者・翻訳家。現代アメリカ小説の紹介者として知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/柴田元幸"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "oyama-shinji",
+    "name": "尾山慎二",
+    "nameKana": "おやましんじ",
+    "description": "ロシア語の小説を訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

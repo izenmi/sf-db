@@ -18747,5 +18747,174 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "magic-for-beginners",
+    "title": "マジック・フォー・ビギナーズ",
+    "titleKana": "まじっくふぉーびぎなーず",
+    "authorIds": [
+      "kelly-link"
+    ],
+    "translatorIds": [
+      "shibata-motoyuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "sf-fantasy"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2007,
+    "originalTitle": "Magic for Beginners",
+    "status": "completed",
+    "synopsis": "電話ボックスを相続した少年が、その番号に何度もかけてみる。誰も出るはずのない電話に、あるとき彼の愛するテレビドラマの主人公が出て助けを求めてくる。異色の青春小説である表題作ほか、国をまるごと収めたハンドバッグの遍歴を少女が語る一編、何かに憑かれた家を買った家族の騒動など、アメリカ文学の新潮流を示す短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "ベストSF2007 海外篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kiln-people",
+    "title": "キルン・ピープル",
+    "titleKana": "きるんぴーぷる",
+    "authorIds": [
+      "david-brin"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "robot",
+      "ai"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "jpPublishedYear": 2007,
+    "originalTitle": "Kiln People",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "人が自分の粘土製の複製を作れるようになった未来。〈ディット〉と呼ばれる複製は、作られた時点までの記憶をすべて引き継ぐが、寿命はおよそ一日しかない。一日の終わりに複製の記憶を回収するのが日常となった社会で、私立探偵アルバート・モリスは、自分のディットが次々に殺される事件に巻き込まれていく。複製された自分をどこまで自分と呼べるのかを、探偵小説の枠組みで問う長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "ベストSF2007 海外篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-road",
+    "title": "ザ・ロード",
+    "titleKana": "ざろーど",
+    "authorIds": [
+      "cormac-mccarthy"
+    ],
+    "translatorIds": [
+      "kurohara-toshiyuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "post-apocalypse",
+      "disaster",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "jpPublishedYear": 2008,
+    "originalTitle": "The Road",
+    "status": "completed",
+    "synopsis": "空には暗雲が垂れこめ、気温は下がり続ける。目の前に広がるのは、植物も死に絶え、降り積もる灰に覆われて廃墟と化した世界である。そのなかを父と子が南へ向かって歩いていく。掠奪や殺人をためらわない人間から逃れ、わずかに残った食物を探し、互いだけを支えにして。世界は本当に終わってしまったのか。荒れ果てた大陸を漂う父子の姿を、極限まで削ぎ落とした文章で描く。ピュリッツァー賞を受けた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "ベストSF2008 海外篇 第10位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "omon-ra",
+    "title": "宇宙飛行士オモン・ラー",
+    "titleKana": "うちゅうひこうしおもんらー",
+    "authorIds": [
+      "viktor-pelevin"
+    ],
+    "translatorIds": [
+      "oyama-shinji"
+    ],
+    "publisherId": "gunzosha",
+    "themeIds": [
+      "space-development",
+      "satire-sf",
+      "alternate-history"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1992,
+    "jpPublishedYear": 2010,
+    "originalTitle": "Омон Ра",
+    "status": "completed",
+    "synopsis": "うすよごれた地上の現実がいやになったら宇宙へ飛び出そう。子どもの頃から月に憧れて宇宙飛行士になったソ連の若者オモンに下された命令は、帰ることのできない月への特攻飛行だった。アメリカのアポロが月の表なら、ソ連のオモンは裏側をめざす。宇宙開発の競争など人間の妄想の産物にすぎないのか。ソ連という体制そのものを諧謔と幻想で解体してみせた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "ベストSF2010 海外篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "little-brother",
+    "title": "リトル・ブラザー",
+    "titleKana": "りとるぶらざー",
+    "authorIds": [
+      "cory-doctorow"
+    ],
+    "translatorIds": [
+      "kaneko-hiroshi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "juvenile"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2008,
+    "jpPublishedYear": 2011,
+    "originalTitle": "Little Brother",
+    "status": "completed",
+    "synopsis": "サンフランシスコに住む十七歳のハッカー、マーカス・ヤロウは、親友たちと学校を抜け出して現実拡張ゲームに興じていた。そのとき市街で大規模なテロが起き、彼らはテロの容疑者として拘束される。度重なる尋問の末に解放された彼は、監視を強める国土安全保障省に技術で対抗しようと決意する。暗号や無線の仕組みを丁寧に説明しながら進む、若い読者に向けた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2011,
+        "result": "ベストSF2011 海外篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
