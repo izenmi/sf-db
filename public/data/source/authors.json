@@ -2843,5 +2843,28 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "akano-kosaku",
+    "name": "赤野工作",
+    "nameKana": "あかのこうさく",
+    "description": "架空のテレビゲーム史を書き続ける作家。ゲームレビューの体裁を借りた作品で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/赤野工作"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "takashima-yuya",
+    "name": "高島雄哉",
+    "nameKana": "たかしまゆうや",
+    "description": "物理学を学んだ作家。第5回創元SF短編賞でデビューし、映像作品の設定協力も手がける。",
+    "birthYear": 1977,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高島雄哉"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

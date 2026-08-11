@@ -14990,5 +14990,354 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "monad-no-ryoiki",
+    "title": "モナドの領域",
+    "titleKana": "もなどのりょういき",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "world-truth",
+      "near-future",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "河川敷で若い女性の腕が発見された。ほどなく近隣のベーカリーで、アルバイトの美大生が精巧な腕の形をしたバゲットを作り、常連の美大教授が新聞のコラムで取り上げて評判を呼ぶ。やがて教授は公園に人を集め、全知全能を示しはじめる。自らを神の上の創造主だと名乗る彼の真意はどこにあるのか。著者が自ら最高傑作と呼んだ長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "ベストSF2016 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "video-game-with-no-name",
+    "title": "ザ・ビデオ・ゲーム・ウィズ・ノーネーム",
+    "titleKana": "ざびでおげーむうぃずのーねーむ",
+    "authorIds": [
+      "akano-kosaku"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "virtual-reality",
+      "near-future",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "二一一五年に開設されたサイト〈ザ・ビデオ・ゲーム・ウィズ・ノーネーム〉が紹介するのは、不幸にも低い評価を受けた未来のゲームたちである。依存症を治すために遊ぶほどつまらなくなる射撃ゲーム、人工冬眠中の暇つぶしに作られた夢のなかで遊べるゲーム。百年分の架空のゲーム史を、レビューの積み重ねだけで描き出す。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "ベストSF2017 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hello-world-fujii",
+    "title": "ハロー・ワールド",
+    "titleKana": "はろーわーるど",
+    "authorIds": [
+      "fujii-taiyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "near-future",
+      "ai",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "エンジニアの文椎が作った広告ブロックアプリが、インドネシアで突如売れはじめる。その裏には思いもよらない事実が隠されていた。検閲や盗撮といった問題を扱う表題作をはじめ、インターネットの自由を脅かす動きに、知識と技術だけで静かに立ち向かう文椎の連作である。現実のサービスや事件を丁寧に踏まえた描写が全編を支えている。第40回吉川英治文学新人賞を受けた。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "ベストSF2018 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "landscape-to-natsu-no-teiri",
+    "title": "ランドスケープと夏の定理",
+    "titleKana": "らんどすけーぷとなつのていり",
+    "authorIds": [
+      "takashima-yuya"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "hard-sf",
+      "space-development",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "地球随一の天才物理学者である気の強い姉に、なにかにつけて振りまわされる「ぼく」。大学四年の夏に行われたあの実験から三年、ぼくはまたも姉に呼び出される。向かった先はラグランジュ点に浮かぶ国際研究施設だった。姉はそこで誰にも知られずに、宇宙論をめぐるとてつもない実験を準備していた。創元SF短編賞出身の著者による連作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "ベストSF2018 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "uso-to-seiten",
+    "title": "嘘と正典",
+    "titleKana": "うそとせいてん",
+    "authorIds": [
+      "ogawa-satoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "short-stories",
+      "alternate-history"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "稀代のマジシャンが本物の時間旅行に挑む「魔術師」、名馬スペシャルウィークを仰ぐ青春小説「ひとすじの光」など全六編を収める。歴史の分岐点に小さな嘘をひとつ置いてみせたときに何が変わるのかを、時代も国も異なる舞台でそれぞれ確かめていく。共産主義の起源をめぐる表題作を含め、直木賞候補にもなった著者初の短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "ベストSF2019 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "guzen-no-seichi",
+    "title": "偶然の聖地",
+    "titleKana": "ぐうぜんのせいち",
+    "authorIds": [
+      "miyauchi-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "parallel-world",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "地図にも検索にも出てこないイシュクト山。時空にかかった疾患のせいで説明のつかないバグが相次ぐ世界で、四組のわけありの旅人がその聖地をめざす。秋のあとに訪れる短い春〈旅春〉、世界を修復する〈世界医〉。国もジェンダーも境目が薄れた時代を舞台に、本文と並走する大量の注釈がもうひとつの物語を語っていく。旅そのものを主題にした長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "ベストSF2019 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hitoyo-no-nagai-yume",
+    "title": "ヒト夜の永い夢",
+    "titleKana": "ひとよのながいゆめ",
+    "authorIds": [
+      "shibata-katsuie"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "denki-sf",
+      "robot",
+      "alternate-history"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "紀伊が生んだ知の巨人、南方熊楠。彼と昭和考幽学会との出会いが、粘菌の宿った美しい自動人形を生み出すことになる。江戸川乱歩や海野十三ら実在の人物を配し、二・二六事件へ向かう昭和初期の日本を舞台に、粘菌と人形と国家をめぐる伝奇ロマンが展開する。史実と虚構を細かく織り交ぜながら、日本という国が見ていた夢の輪郭を描き出す長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "ベストSF2019 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mazeruna-kiken",
+    "title": "まぜるな危険",
+    "titleKana": "まぜるなきけん",
+    "authorIds": [
+      "takano-fumio"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "alternate-history",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "伊藤計劃と円城塔の『屍者の帝国』の世界観に、ドストエフスキーの『白痴』から映画『ブレードランナー』までを投入した「小ねずみと童貞と復活した女」。佐々木淳子の時間SF漫画とチェーホフを掛け合わせた「桜の園のリディヤ」。ロシア文学とSFという、混ぜてはいけないものを強引に掛け合わせた全六編を収める。元ネタを知らなくても読めるが、知っているほど可笑しさが増す作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "ベストSF2021 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "74-byo-no-senritsu",
+    "title": "七十四秒の旋律と孤独",
+    "titleKana": "ななじゅうよんびょうのせんりつとこどく",
+    "authorIds": [
+      "hisanaga-mikihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "ai",
+      "space-opera",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "宇宙空間で物体がワープする際に生じる、空白の七十四秒間。この時間の存在を認識し、襲撃者から宇宙船を守ることができるのは、船に乗り込んだ人工知性たちだけである。平穏のうちに一万年が過ぎ、滅びたはずの創造主と彼らは出会う。第8回創元SF短編賞受賞作を含む、優しさと痛切さに満ちたデビュー作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "ベストSF2021 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chizu-to-kobushi",
+    "title": "地図と拳",
+    "titleKana": "ちずとこぶし",
+    "authorIds": [
+      "ogawa-satoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "alternate-history",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "日本からの密偵に帯同して通訳として満洲へ渡った細川。ロシアの鉄道網拡大のために派遣された神父クラスニコフ。叔父に騙されて不毛の土地へ移住した孫悟空。地図に描かれた存在しない島を探して海を渡った須野。奉天の東にある李家鎮へ呼び寄せられた男たちが、燃える土をめぐる半世紀の殺戮を生きる。直木賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "ベストSF2022 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kemonotachi-no-umi",
+    "title": "獣たちの海",
+    "titleKana": "けものたちのうみ",
+    "authorIds": [
+      "ueda-sayuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "genetic-engineering",
+      "short-stories"
+    ],
+    "seriesName": "オーシャンクロニクル",
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "陸地がほぼ沈んだ二十五世紀。海に生きる海上民と、彼らとともにある〈魚舟〉や〈獣舟〉の、美しくも激しい生きざまを叙情的に描く。すべて書き下ろしの四編を収める作品集で、〈オーシャンクロニクル〉の世界を別の角度から照らし出している。人と獣の境目が溶けていく感触が全編に通っており、シリーズの入口としても読める一冊になっている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "ベストSF2022 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "anata-wa-getsumen-ni",
+    "title": "あなたは月面に倒れている",
+    "titleKana": "あなたはげつめんにたおれている",
+    "authorIds": [
+      "kurata-takashi"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "language-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "紙面を縦横無尽に埋め尽くす地球の形についての語り、言葉を話す猫とのしりとり、歩いてやってくる迷惑メール。スパムがヒトの姿を借りてある日玄関先に現れたらどうなるか。現実の少し先にあって、けれど決定的に変貌を遂げてしまった世界を描く九編を収める。文字組みそのものを仕掛けに使う編もあり、奇想と幻想と未来が入り混じる作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2023,
+        "result": "ベストSF2023 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
