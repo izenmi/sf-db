@@ -18916,5 +18916,315 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "all-clear",
+    "title": "オール・クリア",
+    "titleKana": "おーるくりあ",
+    "authorIds": [
+      "connie-willis"
+    ],
+    "translatorIds": [
+      "omori-nozomi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "disaster",
+      "near-future"
+    ],
+    "seriesName": "オックスフォード大学史学部",
+    "origin": "overseas",
+    "firstPublishedYear": 2010,
+    "jpPublishedYear": 2013,
+    "originalTitle": "All Clear",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "第二次大戦下のイギリスに取り残された三人の史学生。帰還の手立てを失った彼らは、歴史を変えてしまったのではないかという恐れを抱えたまま空襲下のロンドンで日々を送る。ダンワージー教授は救出に来てくれるのか。『ブラックアウト』と一体で構想された二部作の完結編であり、ヒューゴー賞とネビュラ賞を受けた。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "ベストSF2013 海外篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kraken",
+    "title": "クラーケン",
+    "titleKana": "くらーけん",
+    "authorIds": [
+      "china-mieville"
+    ],
+    "translatorIds": [
+      "higurashi-masamichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "denki-sf",
+      "sf-fantasy",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2010,
+    "jpPublishedYear": 2013,
+    "originalTitle": "Kraken",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "忽然と消えたダイオウイカの標本を求めてロンドンをさまようビリー・ハロウは、クラーケン神教会に保護される。ダイオウイカは伝説の海獣クラーケンの正体とも言われ、世界の終末の鍵として崇められていた。標本の担当者だったビリーは、複数のカルト勢力から付け狙われることになる。ジャンルを縦横に混ぜ合わせた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "ベストSF2013 海外篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dandelion-girl",
+    "title": "たんぽぽ娘",
+    "titleKana": "たんぽぽむすめ",
+    "authorIds": [
+      "robert-f-young"
+    ],
+    "translatorIds": [
+      "ito-norio"
+    ],
+    "publisherId": "fukkan-dot-com",
+    "themeIds": [
+      "time-travel",
+      "short-stories",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1961,
+    "jpPublishedYear": 2013,
+    "originalTitle": "The Dandelion Girl",
+    "status": "completed",
+    "synopsis": "たんぽぽ色の髪が風に舞う。未来から来たという女は言った。おとといは兎を見たわ、きのうは鹿、そして今日はあなた。生涯で約二百編の短編を残した著者の魅力を日本で初めて紹介した訳者の編で贈る傑作選である。永遠の名作と呼ばれる表題作の改訳決定版を含む全十三編を収める。甘く切なく美しいという評が、そのまま当てはまる一冊である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "ベストSF2013 海外篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "burning-paradise",
+    "title": "楽園炎上",
+    "titleKana": "らくえんえんじょう",
+    "authorIds": [
+      "robert-charles-wilson"
+    ],
+    "translatorIds": [
+      "mogi-ken"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "alternate-history",
+      "alien",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2013,
+    "jpPublishedYear": 2015,
+    "originalTitle": "Burning Paradise",
+    "status": "completed",
+    "synopsis": "通信技術を飛躍的に発達させた、地球を包む〈電波層〉の発見。だがその正体は、通信を操って人類を巧妙に支配する集合知性型の生物だった。真実に気づいた人々の秘密組織は、人間と見分けのつかない擬装人間に襲撃されて壊滅する。それから七年、ふたたび襲撃を受けた少女キャシーらが決死の逃避行に出る。人類史そのものが操作されてきたのではないかという疑いが、静かに広がっていく侵略SFである。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2015,
+        "result": "ベストSF2015 海外篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "eternal-flame",
+    "title": "エターナル・フレイム",
+    "titleKana": "えたーなるふれいむ",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto",
+      "nakamura-toru"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "alien",
+      "far-future"
+    ],
+    "seriesName": "直交三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2012,
+    "jpPublishedYear": 2016,
+    "originalTitle": "The Eternal Flame",
+    "status": "completed",
+    "synopsis": "故郷を滅亡から救うために〈弧絶〉が旅立ってから数世代。過酷な人口抑制を強いられる船内で、伝説のエネルギー源〈永遠の炎〉が見出される。だがそれは生殖のあり方そのものを揺るがす発見でもあった。異なる物理法則の宇宙を舞台に、科学の進展と社会の変化を並走させていく。女性の身体と生殖をめぐる問題が前面に出る、〈直交〉三部作の第二作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2016,
+        "result": "ベストSF2016 海外篇 第10位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "god-gun",
+    "title": "ゴッド・ガン",
+    "titleKana": "ごっどがん",
+    "authorIds": [
+      "barrington-bayley"
+    ],
+    "translatorIds": [
+      "omori-nozomi",
+      "nakamura-toru"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "far-future",
+      "religion-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1979,
+    "jpPublishedYear": 2016,
+    "originalTitle": "The God Gun",
+    "status": "completed",
+    "synopsis": "神を殺す銃をめぐる表題作をはじめ、著者の奇想が炸裂する単行本初収録の十編を収める。宇宙の構造そのものを一つの思いつきで引っくり返してみせる乱暴さと、それを大真面目に押し通す論理の強引さが同居している。ワイドスクリーン・バロックの書き手として知られる著者の、短い形式での仕事をまとめた一冊である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "ベストSF2017 海外篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sleeping-giants",
+    "title": "巨神計画",
+    "titleKana": "きょしんけいかく",
+    "authorIds": [
+      "sylvain-neuvel"
+    ],
+    "translatorIds": [
+      "sada-chiori"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "alien",
+      "robot",
+      "near-future"
+    ],
+    "seriesName": "巨神計画三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "jpPublishedYear": 2017,
+    "originalTitle": "Sleeping Giants",
+    "status": "completed",
+    "synopsis": "アメリカの片田舎で少女ローズが発見したのは、イリジウム合金でできた巨大な手と、謎の記号群が刻まれたパネルだった。それらは明らかに人類の遺物ではない。長じて物理学者となったローズの分析により、その手は六千年前に地球を訪れた何者かが遺した体高六十メートルの巨人の一部だと判明する。聞き取り記録の形式で進む長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "ベストSF2017 海外篇 第10位"
+      },
+      {
+        "awardId": "seiun",
+        "year": 2018,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "artemis",
+    "title": "アルテミス",
+    "titleKana": "あるてみす",
+    "authorIds": [
+      "andy-weir"
+    ],
+    "translatorIds": [
+      "onoda-kazuko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "hard-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2017,
+    "jpPublishedYear": 2018,
+    "originalTitle": "Artemis",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "人類初の月面都市アルテミスで暮らす女性ジャズは、運び屋として小遣いを稼ぐ日々を送っていた。ある日、彼女のもとに桁違いの報酬を提示する怪しい仕事の依頼が舞い込む。引き受けたその仕事は、やがて月の運命を左右する陰謀へとつながっていく。『火星の人』の著者による、月面都市の経済と工学を細かく作り込んだ犯罪SFである。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "ベストSF2018 海外篇 第8位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "stranger-in-olondria",
+    "title": "図書館島",
+    "titleKana": "としょかんじま",
+    "authorIds": [
+      "sofia-samatar"
+    ],
+    "translatorIds": [
+      "ichida-izumi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "sf-fantasy",
+      "denki-sf",
+      "language-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2013,
+    "jpPublishedYear": 2017,
+    "originalTitle": "A Stranger in Olondria",
+    "status": "completed",
+    "synopsis": "文字を持たない辺境の地に生まれ、書物に没頭して育った青年は、長じて憧れの帝都へ旅立つ。だが航海の途中で病に冒された娘と出会ったことから、彼の運命は大きく変わっていく。わたしの物語を書いてと、死せる天使は言った。あらゆる書物を収めた島に幽閉された青年を描く、世界幻想文学大賞など四冠に輝いたデビュー作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "ベストSF2018 海外篇 第9位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

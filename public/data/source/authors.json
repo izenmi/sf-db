@@ -3368,5 +3368,37 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "robert-f-young",
+    "name": "ロバート・F・ヤング",
+    "nameKana": "やんぐろばーとえふ",
+    "description": "アメリカの作家。生涯で約二百編の短編を残し、抒情的な作風で日本でも愛された。",
+    "birthYear": 1915,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロバート・F・ヤング"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sylvain-neuvel",
+    "name": "シルヴァン・ヌーヴェル",
+    "nameKana": "ぬーゔぇるしるゔぁん",
+    "description": "カナダの言語学者・作家。日本のロボットアニメの影響を公言している。",
+    "birthYear": 1973,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sofia-samatar",
+    "name": "ソフィア・サマター",
+    "nameKana": "さまたーそふぃあ",
+    "description": "アメリカの作家・研究者。デビュー作『図書館島』で複数の賞を制した。",
+    "birthYear": 1971,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
