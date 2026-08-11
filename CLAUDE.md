@@ -105,7 +105,8 @@ node scripts/generate-icons.mjs  # favicon.ico/apple-touch-icon.png再生成(手
 - JSON-LD: 作品詳細=`Book`、著者・翻訳者=`Person`、出版社=`Organization`、`BreadcrumbList`、トップ=`WebSite`+`SearchAction`
 - `scripts/prerender.mjs`(npm `postbuild`): `const BASE = "/sf-db"`の直書きがある(vite.config.tsとは独立)
 - 関連作品レコメンド: テーマタグのIDF重み付きコサイン類似度+著者共通ボーナス(+0.15)。spoilerタグはスコア計算から除外。同点はid昇順(ビルド決定性のため)
-- Google Analytics: `index.html`のGA4測定IDは`G-41ZC0016W0`(sf-db専用プロパティ、2026-08-11設定)。姉妹サイトのIDは流用禁止。Search Consoleへのsitemap登録はユーザー操作が必要
+- Google Analytics: `index.html`のGA4測定IDは`G-41ZC0016W0`(sf-db専用プロパティ、2026-08-11設定)。姉妹サイトのIDは流用禁止
+- Google Search Console: **sitemap登録済み**(2026-08-11、ユーザーが実施)
 
 ## 大量追加のツールチェーン(2026-08-11に整備)
 
