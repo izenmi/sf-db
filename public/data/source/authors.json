@@ -3088,5 +3088,63 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "michael-coney",
+    "name": "マイクル・コーニイ",
+    "nameKana": "こーにいまいくる",
+    "description": "イギリス出身でカナダに移住した作家。抒情的な異星世界の描写で知られる。",
+    "birthYear": 1932,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "frank-schatzing",
+    "name": "フランク・シェッツィング",
+    "nameKana": "しぇっつぃんぐふらんく",
+    "description": "ドイツの作家。海洋を舞台にした大部のサイエンス・スリラーで知られる。",
+    "birthYear": 1957,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フランク・シェッツィング"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nancy-kress",
+    "name": "ナンシー・クレス",
+    "nameKana": "くれすなんしー",
+    "description": "アメリカの作家。遺伝子工学と社会の関係を扱った〈ベガーズ〉三部作で知られる。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ナンシー・クレス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "max-brooks",
+    "name": "マックス・ブルックス",
+    "nameKana": "ぶるっくすまっくす",
+    "description": "アメリカの作家。ゾンビを題材にした疑似ドキュメンタリー作品で知られる。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マックス・ブルックス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "avram-davidson",
+    "name": "アヴラム・デイヴィッドスン",
+    "nameKana": "でいゔぃっどすんあゔらむ",
+    "description": "アメリカの作家。博識と諧謔を織り込んだ異色作で知られ、複数の賞を受けた。",
+    "birthYear": 1923,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アヴラム・デイヴィッドスン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

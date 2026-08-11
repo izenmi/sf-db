@@ -811,5 +811,23 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hamano-akio",
+    "name": "浜野アキオ",
+    "nameKana": "はまのあきお",
+    "description": "英語圏の小説を訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kitagawa-kazuyo",
+    "name": "北川和代",
+    "nameKana": "きたがわかずよ",
+    "description": "ドイツ語圏の小説を訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

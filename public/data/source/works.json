@@ -17429,5 +17429,343 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "olympos",
+    "title": "オリュンポス",
+    "titleKana": "おりゅんぽす",
+    "authorIds": [
+      "dan-simmons"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "space-colony",
+      "sf-fantasy"
+    ],
+    "seriesName": "イリアム/オリュンポス",
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2007,
+    "originalTitle": "Olympos",
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "地球化された火星の神殿に暮らす神々に対し、ギリシア神話の英雄たちがついに反旗をひるがえす。神々によって復活させられ、トロイア戦争を観察してきた学師ホッケンベリーの行動が戦いの局面を大きく変えた。地球と木星圏で並走していた三つの物語が、ここで一つに束ねられる。『イリアム』に続く完結編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "ベストSF2007 海外篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hello-summer-goodbye",
+    "title": "ハローサマー、グッドバイ",
+    "titleKana": "はろーさまーぐっどばい",
+    "authorIds": [
+      "michael-coney"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto"
+    ],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "alien",
+      "space-colony",
+      "juvenile"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1975,
+    "jpPublishedYear": 2008,
+    "originalTitle": "Hello Summer, Goodbye",
+    "status": "completed",
+    "synopsis": "戦争の影が次第に深まるなか、少年は港町で少女ブラウンアイズと再会を果たす。ぼくはこの少女を一生忘れない。たとえ惑星を揺るがす時が訪れようとも。人間によく似た異種族の少年少女のひと夏を、抒情的な筆致で描き切る。SF恋愛小説の最高峰と評され、完全新訳版で読み継がれている一作である。終盤で明かされるこの星の仕組みが、それまでの光景を一変させる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "ベストSF2008 海外篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "der-schwarm",
+    "title": "深海のYrr",
+    "titleKana": "しんかいのいーる",
+    "authorIds": [
+      "frank-schatzing"
+    ],
+    "translatorIds": [
+      "kitagawa-kazuyo"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "alien",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2004,
+    "jpPublishedYear": 2008,
+    "originalTitle": "Der Schwarm",
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "ノルウェー海で無数の異様な生物が見つかった。海洋生物学者ヨハンソンは、それらが海底のメタンハイドレート層を掘り続けていることを突き止める。カナダ西岸ではクジラやシャチの群れが船を襲いはじめ、研究者アナワクが調査に乗り出した。母なる海に何が起きているのか。三巻におよぶ海洋サイエンス・スリラーである。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "ベストSF2008 海外篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tap-egan",
+    "title": "TAP",
+    "titleKana": "たっぷ",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto"
+    ],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "language-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1995,
+    "jpPublishedYear": 2008,
+    "originalTitle": "TAP",
+    "status": "completed",
+    "synopsis": "脳に作用して究極の言語表現を可能にするインプラント、TAPの使用者が死んだ。その事件に秘められた真相とは何か。表題作をはじめ、技術によって変わりゆく世界と、そこに残るほろ苦い手ざわりを描く全十編を収める。長編とは別の角度から著者の主題を確かめられる一冊で、初期の代表的な中短編が揃っている。日本オリジナル編集の作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "ベストSF2009 海外篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "beggars-in-spain",
+    "title": "ベガーズ・イン・スペイン",
+    "titleKana": "べがーずいんすぺいん",
+    "authorIds": [
+      "nancy-kress"
+    ],
+    "translatorIds": [
+      "kaneko-tsukasa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "genetic-engineering",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1993,
+    "jpPublishedYear": 2009,
+    "originalTitle": "Beggars in Spain",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "遺伝子改変が現実のものとなり、社会がその帰結と向き合う近未来のアメリカ。眠る必要のない〈無眠人〉として生まれたリーシャたちは、圧倒的な時間と能力を手にする一方、眠る側の人間から憎悪を向けられる。持てる者は持たざる者に何を負っているのか。スペインの物乞いをめぐる寓話を軸に、能力の格差と共同体のあり方を正面から論じた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "ベストSF2009 海外篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "world-war-z",
+    "title": "WORLD WAR Z",
+    "titleKana": "わーるどうぉーぜっと",
+    "authorIds": [
+      "max-brooks"
+    ],
+    "translatorIds": [
+      "hamano-akio"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "post-apocalypse",
+      "disaster",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "jpPublishedYear": 2010,
+    "originalTitle": "World War Z",
+    "status": "completed",
+    "synopsis": "ゾンビ戦争が終わって十年後、国連戦後調査委員会の職員が世界を回り、生き延びた人々への聞き取りを重ねていく。中国の寒村での最初の発症、イスラエルの隔離政策、アメリカ軍の壊滅的な敗北。国ごとに異なる対応と失敗が、証言の積み重ねだけで浮かび上がってくる。物語の中心人物を置かず、聞き書きの体裁を最後まで徹底した長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "ベストSF2010 海外篇 第4位"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "looking-for-jake",
+    "title": "ジェイクをさがして",
+    "titleKana": "じぇいくをさがして",
+    "authorIds": [
+      "china-mieville"
+    ],
+    "translatorIds": [
+      "higurashi-masamichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "post-apocalypse",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2010,
+    "originalTitle": "Looking for Jake",
+    "status": "completed",
+    "synopsis": "ロンドンはどこからともなく現れた謎の存在イマーゴに幾度も蹂躙され、無秩序に陥っていた。わずかに残った数千人の市民はレジスタンスを組織して抵抗を続けるが、容赦ない攻撃の前になすすべもない。ローカス賞を受けた「鏡」ほか、終わりを迎えつつあるロンドンを舞台にした作品を集める。都市そのものが主役として立ち上がってくる短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "ベストSF2010 海外篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chronoliths",
+    "title": "クロノリス 時の碑",
+    "titleKana": "くろのりすときのひ",
+    "authorIds": [
+      "robert-charles-wilson"
+    ],
+    "translatorIds": [
+      "mogi-ken"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "time-travel",
+      "near-future",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2001,
+    "jpPublishedYear": 2011,
+    "originalTitle": "The Chronoliths",
+    "status": "completed",
+    "synopsis": "二十一世紀初頭のタイで、契約を終えたソフトウェア技術者スコット・ワーデンは、密林に突如出現した巨大な石碑を最初に目にする。それは未知の物質でできた記念碑で、十六年後の戦勝を刻んでいた。以後、世界各地に同じ碑が現れ、まだ起きていない勝利が人々の行動を先回りして縛りはじめる。未来からの通告が現在を作り変えていく長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2011,
+        "result": "ベストSF2011 海外篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "eszterhazy",
+    "title": "エステルハージ博士の事件簿",
+    "titleKana": "えすてるはーじはかせのじけんぼ",
+    "authorIds": [
+      "avram-davidson"
+    ],
+    "translatorIds": [
+      "ike-hiroaki"
+    ],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "alternate-history"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1975,
+    "jpPublishedYear": 2010,
+    "originalTitle": "The Enquiries of Doctor Eszterhazy",
+    "status": "completed",
+    "synopsis": "二十世紀初頭、架空の三重帝国で不可思議な事件が起きるたび、帝都ベラが誇る博覧強記のエステルハージ博士が動き出す。法学博士であり医学博士であり文学博士であり、ほかにも何でも博士である。ミステリ、幻想譚、怪奇小説、喜劇。ジャンルの壁が溶け合い、幽玄なベールに包まれたような読み心地が残る。世界幻想文学大賞を受けた異色連作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2011,
+        "result": "ベストSF2011 海外篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "axis-wilson",
+    "title": "連環宇宙",
+    "titleKana": "れんかんうちゅう",
+    "authorIds": [
+      "robert-charles-wilson"
+    ],
+    "translatorIds": [
+      "mogi-ken"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-colony",
+      "alien",
+      "far-future"
+    ],
+    "seriesName": "時間封鎖三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2007,
+    "jpPublishedYear": 2012,
+    "originalTitle": "Axis",
+    "status": "completed",
+    "synopsis": "『時間封鎖』の結末で示された新しい惑星が舞台となる。〈仮定的存在〉が人類のために整えたその世界は、インド洋にそびえる巨大なアーチによって地球とつながっていた。移住した人々は資源を激しく採掘しはじめる。空から降る灰と、そこに隠された意図をめぐって物語が動き出す。前作の巨大な仕掛けを別の角度から照らす、三部作の第二作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "ベストSF2012 海外篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
