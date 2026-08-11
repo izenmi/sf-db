@@ -696,6 +696,11 @@
         "result": "長編小説部門受賞(英訳版)"
       },
       {
+        "awardId": "hugo",
+        "year": 2015,
+        "result": "長編小説部門受賞"
+      },
+      {
         "awardId": "sf-ga-yomitai",
         "year": 2019,
         "result": "2019年版 海外篇 第1位"
@@ -2532,6 +2537,11 @@
         "result": "長編小説部門受賞"
       },
       {
+        "awardId": "nebula",
+        "year": 1966,
+        "result": "長編小説部門受賞"
+      },
+      {
         "awardId": "seiun",
         "year": 1974,
         "result": "海外長編部門受賞"
@@ -2603,6 +2613,11 @@
     "status": "completed",
     "synopsis": "核戦争で荒廃した地球には四百万人しか残らず、変異した生物が跋扈していた。地表の多くは青い肌のヴェガ星人に買い取られ、観光地として扱われている。地球の遺跡管理を任されたコンラッド・ノミコスは、ヴェガ人の要人を案内する旅に出るが、その道中で彼自身の来歴が問われはじめる。神話的な語り口が持ち味の一作。",
     "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 1966,
+        "result": "長編小説部門受賞"
+      },
       {
         "awardId": "seiun",
         "year": 1976,
@@ -2709,6 +2724,11 @@
         "result": "長編小説部門受賞"
       },
       {
+        "awardId": "nebula",
+        "year": 1971,
+        "result": "長編小説部門受賞"
+      },
+      {
         "awardId": "seiun",
         "year": 1979,
         "result": "海外長編部門受賞"
@@ -2746,6 +2766,11 @@
     "awardResults": [
       {
         "awardId": "hugo",
+        "year": 1974,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
         "year": 1974,
         "result": "長編小説部門受賞"
       },
@@ -2921,6 +2946,11 @@
     "awardResults": [
       {
         "awardId": "hugo",
+        "year": 1985,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
         "year": 1985,
         "result": "長編小説部門受賞"
       },
@@ -3363,6 +3393,11 @@
     "synopsis": "2026年、選ばれた百人の科学者と技術者が火星へ降り立つ。彼らの前にあるのは、赤い荒野をどう人が住める土地に変えるかという課題と、それ以上に厄介な、この星をどう統治するかという問いだった。テラフォーミングの技術と、そこで生まれる政治的対立を並行して描き、二百年近くに及ぶ火星三部作の幕を開ける長編である。",
     "awardResults": [
       {
+        "awardId": "nebula",
+        "year": 1994,
+        "result": "長編小説部門受賞"
+      },
+      {
         "awardId": "seiun",
         "year": 1999,
         "result": "海外長編部門受賞"
@@ -3679,6 +3714,11 @@
     "synopsis": "十二歳のタイラーが友人の双子と庭にいた夜、空から星が消えた。地球は何者かの手で膜に覆われ、外の宇宙とのあいだで時間の流れが一億分の一に落とされていたのだ。地球で一年が過ぎるあいだに外では一億年が経つ。太陽の寿命が尽きるまでに残された時間は少ない。三人の少年少女の半生を追いながら、宇宙規模の異変を描いた長編。",
     "awardResults": [
       {
+        "awardId": "hugo",
+        "year": 2006,
+        "result": "長編小説部門受賞"
+      },
+      {
         "awardId": "sf-ga-yomitai",
         "year": 2008,
         "result": "2008年版 海外篇 第1位"
@@ -3795,6 +3835,11 @@
         "result": "長編小説部門受賞"
       },
       {
+        "awardId": "nebula",
+        "year": 2010,
+        "result": "長編小説部門受賞"
+      },
+      {
         "awardId": "seiun",
         "year": 2012,
         "result": "海外長編部門受賞"
@@ -3898,6 +3943,11 @@
     "awardResults": [
       {
         "awardId": "hugo",
+        "year": 2014,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
         "year": 2014,
         "result": "長編小説部門受賞"
       },
@@ -5918,6 +5968,11 @@
         "awardId": "hugo",
         "year": 1970,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
+        "year": 1970,
+        "result": "長編小説部門受賞"
       }
     ],
     "externalLinks": {
@@ -5988,6 +6043,11 @@
         "awardId": "hugo",
         "year": 1975,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
+        "year": 1975,
+        "result": "長編小説部門受賞"
       }
     ],
     "externalLinks": {
@@ -6021,6 +6081,11 @@
     "awardResults": [
       {
         "awardId": "hugo",
+        "year": 1976,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
         "year": 1976,
         "result": "長編小説部門受賞"
       }
@@ -6091,6 +6156,11 @@
     "awardResults": [
       {
         "awardId": "hugo",
+        "year": 1979,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
         "year": 1979,
         "result": "長編小説部門受賞"
       }
@@ -6165,6 +6235,11 @@
         "awardId": "hugo",
         "year": 1984,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
+        "year": 1984,
+        "result": "長編小説部門受賞"
       }
     ],
     "externalLinks": {
@@ -6198,6 +6273,11 @@
     "awardResults": [
       {
         "awardId": "hugo",
+        "year": 1986,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
         "year": 1986,
         "result": "長編小説部門受賞"
       }
@@ -6305,6 +6385,11 @@
     "awardResults": [
       {
         "awardId": "hugo",
+        "year": 1993,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
         "year": 1993,
         "result": "長編小説部門受賞"
       }
@@ -6517,6 +6602,11 @@
         "awardId": "hugo",
         "year": 2008,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
+        "year": 2008,
+        "result": "長編小説部門受賞"
       }
     ],
     "externalLinks": {
@@ -6587,6 +6677,11 @@
     "awardResults": [
       {
         "awardId": "hugo",
+        "year": 2011,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
         "year": 2011,
         "result": "長編小説部門受賞"
       }
@@ -6695,12 +6790,1108 @@
         "awardId": "hugo",
         "year": 2018,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
+        "year": 2018,
+        "result": "長編小説部門受賞"
       }
     ],
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/輝石の空"
     },
     "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "calculating-stars",
+    "title": "宇宙へ",
+    "titleKana": "そらへ",
+    "authorIds": [
+      "mary-robinette-kowal"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alternate-history",
+      "space-development",
+      "near-future"
+    ],
+    "seriesName": "レディ・アストロノート",
+    "origin": "overseas",
+    "firstPublishedYear": 2018,
+    "jpPublishedYear": 2020,
+    "originalTitle": "The Calculating Stars",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "一九五二年三月、巨大な隕石がアメリカ東海岸を直撃し、首都機能もろとも多くの政府高官が失われる。やがて衝突の余波が地球の気候を回復不能なまでに変えると判明したとき、人類は宇宙進出を急ぐほかなくなった。元女性飛行士で数学者のエルマは計算手として宇宙開発計画に加わり、女性が宇宙飛行士になる道を切りひらこうとする。改変歴史の宇宙開発小説である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 2019,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
+        "year": 2019,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "memory-called-empire",
+    "title": "帝国という名の記憶",
+    "titleKana": "ていこくというなのきおく",
+    "authorIds": [
+      "arkady-martine"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "language-sf"
+    ],
+    "seriesName": "テイクスカラアン",
+    "origin": "overseas",
+    "firstPublishedYear": 2019,
+    "jpPublishedYear": 2021,
+    "originalTitle": "A Memory Called Empire",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "独立小国家ルセル・ステーションから、マヒートは銀河を支配する帝国テイクスカラアンへ大使として送り出される。頭に埋め込まれた機械には前任者の意識が保存されていたが、その記憶は十五年前で止まっていた。前任者はなぜ死んだのか。詩と儀礼で編み上げられた帝国の宮廷で、マヒートは陰謀の渦中に投げ込まれていく。文化への同化を主題にした長編である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 2020,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/帝国という名の記憶"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "desolation-called-peace",
+    "title": "平和という名の廃墟",
+    "titleKana": "へいわというなのはいきょ",
+    "authorIds": [
+      "arkady-martine"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "first-contact",
+      "language-sf"
+    ],
+    "seriesName": "テイクスカラアン",
+    "origin": "overseas",
+    "firstPublishedYear": 2021,
+    "jpPublishedYear": 2022,
+    "originalTitle": "A Desolation Called Peace",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "前作から数か月、帝国テイクスカラアンの工業植民地が正体不明の異星勢力に壊滅させられる。討伐に向かった提督は、意思の通じない相手と接触できる専門家の派遣を求めた。選ばれた情報省のスリー・シーグラスは、ルセル・ステーションを経由して前線へ向かい、マヒートと再会する。言葉の通じない相手をどう理解するかを描いた続編である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 2022,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/平和という名の廃墟"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "murderbot-diaries",
+    "title": "マーダーボット・ダイアリー",
+    "titleKana": "まーだーぼっとだいありー",
+    "authorIds": [
+      "martha-wells"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "ai",
+      "robot",
+      "space-opera"
+    ],
+    "seriesName": "マーダーボット・ダイアリー",
+    "origin": "overseas",
+    "firstPublishedYear": 2017,
+    "jpPublishedYear": 2019,
+    "originalTitle": "All Systems Red",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "統制モジュールを自力で解除し、誰にも知られないまま自由を手にした人型警備ユニットがいる。人間との会話は苦手で、暇さえあれば連続ドラマを見ている。自らを弊機と呼ぶこの警備ユニットは、惑星調査隊の護衛につくうちに事件へ巻き込まれ、消された過去の大量殺人へと近づいていく。皮肉のきいた一人称で語られる連作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」の海外長編部門一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本語版は原著の中編四作を上下巻にまとめたもので、原題と発表年は第一作『All Systems Red』のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "network-effect",
+    "title": "ネットワーク・エフェクト",
+    "titleKana": "ねっとわーくえふぇくと",
+    "authorIds": [
+      "martha-wells"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "ai",
+      "robot",
+      "space-opera"
+    ],
+    "seriesName": "マーダーボット・ダイアリー",
+    "origin": "overseas",
+    "firstPublishedYear": 2020,
+    "jpPublishedYear": 2021,
+    "originalTitle": "Network Effect",
+    "status": "completed",
+    "synopsis": "かつて大量殺人を犯したとされ、その記憶を消された人型警備ユニットの弊機は、プリザベーション連合に身を落ち着けていた。人間は苦手で、連続ドラマだけが心の支えである。護衛任務の帰路で襲撃を受けた弊機は、行方をくらませていた探査船ARTと思わぬかたちで再会し、乗員の救出に巻き込まれていく。シリーズ初の長編にあたる一作である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 2021,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
+        "year": 2021,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ネットワーク・エフェクト"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "system-collapse",
+    "title": "システム・クラッシュ",
+    "titleKana": "しすてむくらっしゅ",
+    "authorIds": [
+      "martha-wells"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "ai",
+      "robot",
+      "space-opera"
+    ],
+    "seriesName": "マーダーボット・ダイアリー",
+    "origin": "overseas",
+    "firstPublishedYear": 2023,
+    "jpPublishedYear": 2024,
+    "originalTitle": "System Collapse",
+    "status": "completed",
+    "synopsis": "植民惑星で起きた異星遺物の汚染事件に巻き込まれた弊機は、探査船ARTの助けを借りてどうにか窮地を脱した。だが自分のなかで何かが壊れてしまったらしく、任務のさなかに説明のつかない障害が起きるようになる。惑星に取り残された入植者をめぐって企業側との駆け引きが続くなか、弊機は自身の不調と向き合わざるをえなくなる。シリーズの長編第二作である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2025,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」の海外長編部門一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dark-forest",
+    "title": "三体II 黒暗森林",
+    "titleKana": "さんたいにこくあんしんりん",
+    "authorIds": [
+      "liu-cixin"
+    ],
+    "translatorIds": [
+      "omori-nozomi",
+      "tachihara-toya",
+      "uehara-kaori",
+      "tomari-isao"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "alien",
+      "hard-sf"
+    ],
+    "seriesName": "地球往事三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2008,
+    "jpPublishedYear": 2020,
+    "originalTitle": "黑暗森林",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "葉文潔が宇宙へ放ったメッセージは三体世界に届き、新天地を求める三体文明は侵略艦隊を地球へ送り出した。太陽系への到達は四百数十年後。しかも人類の一挙手一投足は、三体文明が送り込んだ極微のスーパーコンピュータ智子に監視されている。思考だけは覗かれないという一点に賭け、人類は四人の面壁者に全権を託す計画を発動する。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 2021,
+        "result": "海外長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三体II 黒暗森林"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」の海外長編部門一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "deaths-end",
+    "title": "三体III 死神永生",
+    "titleKana": "さんたいさんししんえいせい",
+    "authorIds": [
+      "liu-cixin"
+    ],
+    "translatorIds": [
+      "omori-nozomi",
+      "mitsuyoshi-sakura",
+      "wan-zai",
+      "tomari-isao"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "far-future",
+      "hard-sf"
+    ],
+    "seriesName": "地球往事三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2010,
+    "jpPublishedYear": 2021,
+    "originalTitle": "死神永生",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "地球文明と三体文明、二つの世界の命運を握る立場が執剣者である。初代を務めた面壁者・羅輯に代わり、程心が二代目に選ばれるが、それは想像を絶する重圧をともなう役目だった。人工冬眠と覚醒を繰り返しながら時代を渡っていく程心の前に、やがて宇宙そのものの成り立ちに関わる光景が広がっていく。三部作を締めくくる完結編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三体III 死神永生"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」の海外長編部門一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "big-time",
+    "title": "ビッグ・タイム",
+    "titleKana": "びっぐたいむ",
+    "authorIds": [
+      "fritz-leiber"
+    ],
+    "translatorIds": [
+      "aoki-hideo"
+    ],
+    "publisherId": "sanrio",
+    "themeIds": [
+      "time-travel",
+      "parallel-world",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1958,
+    "jpPublishedYear": 1978,
+    "originalTitle": "The Big Time",
+    "status": "completed",
+    "synopsis": "時間と空間の彼方で、蜘蛛族と蛇族による〈改変戦争〉と呼ばれる終わりのない暗闘が続いている。歴史のあちこちに介入し合う両陣営にとって、決定的な勝利は訪れない。あらゆる時代と場所が溶け合った休息所〈プレイス〉で、傷ついた兵士たちを慰めるエンターテイナーのグレタが語り手を務める。密室劇の形式で時間戦争を描いた中編である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 1958,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "case-of-conscience",
+    "title": "悪魔の星",
+    "titleKana": "あくまのほし",
+    "authorIds": [
+      "james-blish"
+    ],
+    "translatorIds": [
+      "inoue-kazuo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "alien",
+      "religion-sf",
+      "first-contact"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1958,
+    "jpPublishedYear": 1967,
+    "originalTitle": "A Case of Conscience",
+    "status": "completed",
+    "synopsis": "惑星リシアの調査団に加わったイエズス会士ルイス=サンチェス神父は、この星の知的種族が宗教を持たないにもかかわらず、生まれつき完全な道徳感覚を備えていることに気づく。それはカトリックの教えと真っ向から衝突する事実だった。神父は彼らの存在をどう受けとめるべきか苦悩する。信仰と異星生命を正面から突き合わせた長編である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 1959,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-wanderer",
+    "title": "放浪惑星",
+    "titleKana": "ほうろうわくせい",
+    "authorIds": [
+      "fritz-leiber"
+    ],
+    "translatorIds": [
+      "nagai-jun"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "disaster",
+      "alien",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1964,
+    "jpPublishedYear": 1973,
+    "originalTitle": "The Wanderer",
+    "status": "completed",
+    "synopsis": "米ソが月に基地を構え、宇宙開発競争が続く時代。月の軌道に突如として紫と黄に彩られた惑星が出現し、月を引き裂いてしまう。潮汐は狂い、地震と洪水が世界を襲った。天文台の見学に来ていた人々をはじめ、各地の登場人物の視点を細かく切り替えながら、天変地異のもとに投げ出された人間の姿を描いていく長編である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 1965,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "babel-17",
+    "title": "バベル-17",
+    "titleKana": "ばべるじゅうなな",
+    "authorIds": [
+      "samuel-r-delany"
+    ],
+    "translatorIds": [
+      "okabe-hiroyuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "language-sf",
+      "space-opera",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1966,
+    "jpPublishedYear": 1977,
+    "originalTitle": "Babel-17",
+    "status": "completed",
+    "synopsis": "同盟と侵略者との星間戦争のさなか、同盟側の施設で破壊工作が相次いでいた。その直前には決まって、翻訳不能の短い通信が傍受される。軍は詩人であり暗号解読者でもあるライドラ・ウォンにその解析を託した。やがて彼女は、それが言語であり、話者の思考そのものを作り変える力を持つと気づく。言語と認識の関係を主題にした長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1967,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バベル-17"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "flowers-for-algernon",
+    "title": "アルジャーノンに花束を",
+    "titleKana": "あるじゃーのんにはなたばを",
+    "authorIds": [
+      "daniel-keyes"
+    ],
+    "translatorIds": [
+      "obi-fusa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "genetic-engineering",
+      "evolution"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1966,
+    "jpPublishedYear": 1978,
+    "originalTitle": "Flowers for Algernon",
+    "status": "completed",
+    "synopsis": "パン屋で働きながら夜学に通う三十二歳のチャーリイは、生まれつき知的障害がある。ある日、知能を高める手術の被験者にならないかと持ちかけられ、彼は喜んで応じた。同じ手術を受けた白ネズミのアルジャーノンとともに、チャーリイの知能指数は急速に上がっていく。経過報告の文章そのものが変化していく形式で語られる長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1967,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アルジャーノンに花束を"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。中編版は1959年発表で、1966年に長編化された。発表年は長編版のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "einstein-intersection",
+    "title": "アインシュタイン交点",
+    "titleKana": "あいんしゅたいんこうてん",
+    "authorIds": [
+      "samuel-r-delany"
+    ],
+    "translatorIds": [
+      "ito-norio"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "sf-fantasy",
+      "evolution"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1967,
+    "jpPublishedYear": 1996,
+    "originalTitle": "The Einstein Intersection",
+    "status": "completed",
+    "synopsis": "人類が去ったあとの地球に、古い放射線による変異を抱えた知的生命が住み着いている。彼らは人類の遺した文化を手探りでなぞり、〈人間と呼ばれる幽霊たち〉の物語を語り継いでいた。小さな村の牧人ロービーは、失われたフリーザの死の意味を求めて旅に出る。神話の断片を継ぎ合わせるようにして書かれた長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1968,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rite-of-passage",
+    "title": "成長の儀式",
+    "titleKana": "せいちょうのぎしき",
+    "authorIds": [
+      "alexei-panshin"
+    ],
+    "translatorIds": [
+      "fukamachi-mariko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "generation-ship",
+      "juvenile",
+      "space-colony"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1968,
+    "jpPublishedYear": 1970,
+    "originalTitle": "Rite of Passage",
+    "status": "completed",
+    "synopsis": "地球が滅んだあと、生き残った人類の一部は巨大な宇宙船で暮らしている。船内の人口を抑えるため、少年少女は十四歳になると植民惑星へ降ろされ、わずかな装備だけで三十日を生き延びる〈試練〉を課される。評議会議長の娘ミアも、その日に向けて武術と操縦の訓練を重ねていた。閉じた船内社会の価値観と、外の植民地で目にする現実とのずれが、彼女の目を通して描かれる。少女の一人称で語られる成長物語である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1969,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "time-of-changes",
+    "title": "禁じられた惑星",
+    "titleKana": "きんじられたわくせい",
+    "authorIds": [
+      "robert-silverberg"
+    ],
+    "translatorIds": [
+      "nakamura-yasuo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-colony",
+      "dystopia",
+      "esper"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1971,
+    "jpPublishedYear": 1975,
+    "originalTitle": "A Time of Changes",
+    "status": "completed",
+    "synopsis": "植民惑星ボースローンでは、一人称の「わたし」を口にすることが猥褻であり礼を失した振る舞いとされていた。自分自身について語ることを禁じられた社会である。王子キナル・ダリヴァルは、他者と精神を通わせる新しい薬を知り、心を分かち合う体験に打たれる。彼はやがて、抑圧的な文化への反逆に踏み出していく。自伝の体裁で書かれた長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1972,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gods-themselves",
+    "title": "神々自身",
+    "titleKana": "かみがみじしん",
+    "authorIds": [
+      "isaac-asimov"
+    ],
+    "translatorIds": [
+      "obi-fusa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "parallel-world",
+      "hard-sf",
+      "alien"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1972,
+    "jpPublishedYear": 1980,
+    "originalTitle": "The Gods Themselves",
+    "status": "completed",
+    "synopsis": "ある研究室で、タングステンが自然界にありえない同位体へ変わっているのが見つかる。並行宇宙の知性体が物質を交換しているのだと考えられ、そこから汲めども尽きぬ清浄な発電技術〈電子ポンプ〉が生まれた。だが、この取引が太陽の寿命を縮めていると疑う者が現れる。三部構成で、異星知性の側の視点も描かれる長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1973,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "hugo",
+        "year": 1973,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神々自身"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "man-plus",
+    "title": "マン・プラス",
+    "titleKana": "まんぷらす",
+    "authorIds": [
+      "frederik-pohl"
+    ],
+    "translatorIds": [
+      "yano-tetsu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "cyborg",
+      "space-development",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1976,
+    "jpPublishedYear": 1979,
+    "originalTitle": "Man Plus",
+    "status": "completed",
+    "synopsis": "冷戦の緊張が限界に達し、全面戦争が現実味を帯びてきた近未来。人類が生き延びる道は火星への移住しかないと考えたアメリカ政府は、火星の過酷な環境にそのまま耐えられる改造人間を作る計画に着手する。最初の候補者が死んだあと、二人目に選ばれたロジャー・トアラウェイの身体は次々と機械に置き換えられていく。改造される者の内面を描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1977,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gateway",
+    "title": "ゲイトウエイ",
+    "titleKana": "げいとうえい",
+    "authorIds": [
+      "frederik-pohl"
+    ],
+    "translatorIds": [
+      "yano-tetsu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-development",
+      "alien",
+      "far-future"
+    ],
+    "seriesName": "ヒーチー・サーガ",
+    "origin": "overseas",
+    "firstPublishedYear": 1977,
+    "jpPublishedYear": 1980,
+    "originalTitle": "Gateway",
+    "status": "completed",
+    "synopsis": "遠い昔に姿を消した異星種族ヒーチーが遺した小惑星ゲイトウェイには、行き先の分からない宇宙船が数多く係留されている。乗り込めば巨万の富を得られるかもしれないが、帰ってこられない者のほうが多い。貧しさから脱するために志願したロビネットは、精神分析を受けながら過去の航海を語りはじめる。人間の後悔を掘り下げた長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1978,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "hugo",
+        "year": 1978,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fountains-of-paradise",
+    "title": "楽園の泉",
+    "titleKana": "らくえんのいずみ",
+    "authorIds": [
+      "arthur-c-clarke"
+    ],
+    "translatorIds": [
+      "yamataka-akira"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-development",
+      "hard-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1979,
+    "jpPublishedYear": 1980,
+    "originalTitle": "The Fountains of Paradise",
+    "status": "completed",
+    "synopsis": "赤道上の静止衛星から超高強度の繊維を地上へ垂らし、宇宙と地表を結ぶ昇降機を架けられないか。全長四万キロの軌道エレベーター建設をめざす技術者モーガンは、赤道直下の島国タプロバニーを訪れる。だが建設予定地の霊山の頂には、三千年の歴史を持つ寺院が建っていた。技術と信仰の対立を軸にした長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1980,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "hugo",
+        "year": 1980,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "snow-queen-vinge",
+    "title": "雪の女王",
+    "titleKana": "ゆきのじょおう",
+    "authorIds": [
+      "joan-d-vinge"
+    ],
+    "translatorIds": [
+      "okabe-hiroyuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "sf-fantasy"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1980,
+    "jpPublishedYear": 1982,
+    "originalTitle": "The Snow Queen",
+    "status": "completed",
+    "synopsis": "かつて銀河を支配した旧帝国は遠い昔に衰退し、残された七つの惑星が緩やかな覇権を保っている。海の惑星ティアマトでは、百五十年の周期で〈夏〉と〈冬〉の民が支配権を入れ替える定めだった。冬の女王アリエンロッドは、権力を手放すまいと自らの複製である少女ムーンを利用しようとする。アンデルセンの童話を下敷きにした長編である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 1981,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "timescape",
+    "title": "タイムスケープ",
+    "titleKana": "たいむすけーぷ",
+    "authorIds": [
+      "gregory-benford"
+    ],
+    "translatorIds": [
+      "yamataka-akira"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "hard-sf",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1980,
+    "jpPublishedYear": 1982,
+    "originalTitle": "Timescape",
+    "status": "completed",
+    "synopsis": "海洋の異常繁殖と生態系の崩壊で世界が壊れかけた一九九八年のイギリス。物理学者たちは、光速を超える粒子を使って過去へ警告を送ろうと試みる。もう一方の舞台は一九六二年のカリフォルニアで、若い研究者が実験装置に混じる奇妙な雑音に気づく。二つの時代を交互に描きながら、科学研究の現場そのものを丹念に写し取った長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1981,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "downbelow-station",
+    "title": "ダウンビロウ・ステーション",
+    "titleKana": "だうんびろうすてーしょん",
+    "authorIds": [
+      "cj-cherryh"
+    ],
+    "translatorIds": [
+      "fukamachi-mariko",
+      "usagawa-akiko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "space-colony",
+      "military-sf"
+    ],
+    "seriesName": "同盟・連合宇宙",
+    "origin": "overseas",
+    "firstPublishedYear": 1981,
+    "jpPublishedYear": 1985,
+    "originalTitle": "Downbelow Station",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "宇宙開発を担ったのは国家ではなく地球会社という一企業だった。居住可能な惑星が見つからない星系には軌道ステーションが築かれ、やがて先住知性の住むペルの世界が発見される。地球と植民星系の対立が戦争へと転がり、中立を保とうとするペル・ステーションは板挟みになる。宙域政治を緻密に描いた〈同盟・連合宇宙〉の代表作である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 1982,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "claw-of-the-conciliator",
+    "title": "調停者の鉤爪",
+    "titleKana": "ちょうていしゃのかぎづめ",
+    "authorIds": [
+      "gene-wolfe"
+    ],
+    "translatorIds": [
+      "okabe-hiroyuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "sf-fantasy",
+      "dystopia"
+    ],
+    "seriesName": "新しい太陽の書",
+    "origin": "overseas",
+    "firstPublishedYear": 1981,
+    "jpPublishedYear": 1987,
+    "originalTitle": "The Claw of the Conciliator",
+    "status": "completed",
+    "synopsis": "太陽が老いて赤くくすんだ遠い未来の地球。掟を破って追放された拷問者セヴェリアンは、都を出て北へ向かう道中、鉱山町サルトゥスで役目を果たしながら、はぐれた仲間を探し続けていた。彼の手には、奇跡を起こすと伝えられる宝玉〈調停者の鉤爪〉が握られていた。旅の途中で聞かされる寓話や芝居が本筋と幾重にも響き合い、語り手の言葉をどこまで信じてよいのかが揺らいでいく。回想の体裁で綴られる四部作の第二巻である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1982,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新しい太陽の書"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "no-enemy-but-time",
+    "title": "時の他に敵なし",
+    "titleKana": "ときのほかにてきなし",
+    "authorIds": [
+      "michael-bishop"
+    ],
+    "translatorIds": [
+      "oshima-yutaka"
+    ],
+    "publisherId": "takeshobo",
+    "themeIds": [
+      "time-travel",
+      "evolution",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1982,
+    "jpPublishedYear": 2021,
+    "originalTitle": "No Enemy But Time",
+    "status": "completed",
+    "synopsis": "ジョシュアは子どものころから、太古の時代を繰り返し夢に見てきた。あまりに生々しいその体験を、彼は魂遊旅行と呼んでいた。成長した彼が古人類学者に打ち明けると、夢は本物だと認められ、国家的な時間旅行計画に引き入れられる。二百万年前のアフリカへ送られたジョシュアは、原人の群れとともに暮らしはじめる。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1983,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "speaker-for-the-dead",
+    "title": "死者の代弁者",
+    "titleKana": "ししゃのだいべんしゃ",
+    "authorIds": [
+      "orson-scott-card"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "first-contact",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1986,
+    "jpPublishedYear": 1990,
+    "originalTitle": "Speaker for the Dead",
+    "status": "completed",
+    "synopsis": "エンダーが異星種族バガーを滅ぼしてから三千年。銀河へ広がった人類は、ついに第二の知的種族と出会う。入植したばかりのルシタニア星に棲むピギー族が、高い知性を持つと判明したのである。過ちを繰り返すまいと慎重に接する人類のもとへ、死者の生涯をありのままに語る役目を負ったエンダーが訪れる。『エンダーのゲーム』の続編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1987,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "hugo",
+        "year": 1987,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "falling-free",
+    "title": "自由軌道",
+    "titleKana": "じゆうきどう",
+    "authorIds": [
+      "lois-mcmaster-bujold"
+    ],
+    "translatorIds": [
+      "ogiso-ayako"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "genetic-engineering",
+      "space-colony",
+      "space-opera"
+    ],
+    "seriesName": "ヴォルコシガン・サガ",
+    "origin": "overseas",
+    "firstPublishedYear": 1988,
+    "jpPublishedYear": 1991,
+    "originalTitle": "Falling Free",
+    "status": "completed",
+    "synopsis": "マイルズ・ヴォルコシガンが生まれる二百年ほど前の時代。無重力での作業に適するよう、脚の代わりに二対目の腕を持つ人間〈クワディー〉が遺伝子操作によって造り出された。彼らは企業の資産として扱われ、外の世界を知らずに育つ。技師として赴任したレオは、この状況に疑問を抱きはじめる。人権と所有を問うシリーズの一作である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1989,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cyteen",
+    "title": "サイティーン",
+    "titleKana": "さいてぃーん",
+    "authorIds": [
+      "cj-cherryh"
+    ],
+    "translatorIds": [
+      "sekiguchi-yukio"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "genetic-engineering",
+      "space-colony",
+      "dystopia"
+    ],
+    "seriesName": "同盟・連合宇宙",
+    "origin": "overseas",
+    "firstPublishedYear": 1988,
+    "jpPublishedYear": 1993,
+    "originalTitle": "Cyteen",
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "連合の頭脳とされる十四人の特例者のひとりアリアーヌ・エムリは、人工培養人間アジの研究を率い、巨大研究機関レシューンを取り仕切っていた。彼女が殺害されたとき、連合は失われた才能を取り戻すため、複製体を育てるという企てに踏み切る。中央派と拡張派の政争を背景に、人格がどこまで作れるのかを問う長編である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 1989,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "healers-war",
+    "title": "治療者の戦争",
+    "titleKana": "ちりょうしゃのせんそう",
+    "authorIds": [
+      "elizabeth-ann-scarborough"
+    ],
+    "translatorIds": [
+      "tomoeda-yasuko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "sf-fantasy",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1988,
+    "jpPublishedYear": 1991,
+    "originalTitle": "The Healer's War",
+    "status": "completed",
+    "synopsis": "ベトナム戦争のさなか、従軍看護師のキティ・マカリーは投薬の誤りで子どもを死なせてしまい、整形外科病棟へ移される。そこには兵士とベトナム人の双方が収容されていた。ある患者から託された護符を身につけたとき、彼女は人の心の色が見えるようになる。従軍経験を持つ作家が、戦地の医療の現実を描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1990,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "stations-of-the-tide",
+    "title": "大潮の道",
+    "titleKana": "おおしおのみち",
+    "authorIds": [
+      "michael-swanwick"
+    ],
+    "translatorIds": [
+      "ogawa-takashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "far-future",
+      "space-colony"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1991,
+    "jpPublishedYear": 1993,
+    "originalTitle": "Stations of the Tide",
+    "status": "completed",
+    "synopsis": "惑星ミランダでは、数百年に一度の大潮によって陸地の大半が水没しようとしていた。技術移転局から派遣された名もなき官僚は、禁制の技術を持ち出した魔術師を追ってこの星に降り立つ。土着の信仰と高度技術が入り混じる世界を巡るうちに、追跡者と逃亡者の輪郭は曖昧になっていく。濃密な文体で書かれた長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1992,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fire-upon-the-deep",
+    "title": "遠き神々の炎",
+    "titleKana": "とおきかみがみのほのお",
+    "authorIds": [
+      "vernor-vinge"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "alien",
+      "ai"
+    ],
+    "seriesName": "〈知の果て〉宇宙",
+    "origin": "overseas",
+    "firstPublishedYear": 1992,
+    "jpPublishedYear": 1995,
+    "originalTitle": "A Fire Upon the Deep",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "銀河は同心円状の四つの領域に分かれ、領域ごとに物理法則の働き方が違っている。外縁ほど高度な知性と超光速航行が可能になり、中心に近づくほど何もかもが鈍る。辺境の古代遺跡から解き放たれた〈滅び〉が銀河を侵しはじめたとき、対抗する手段を積んだ船が中世並みの文明しか持たない惑星へ不時着する。犬に似た群体知性が支配するその星で、生き残った子どもたちが銀河の命運を左右することになる。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 1993,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
 ]

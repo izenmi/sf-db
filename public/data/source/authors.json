@@ -1427,5 +1427,207 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mary-robinette-kowal",
+    "name": "メアリ・ロビネット・コワル",
+    "nameKana": "こわるめありろびねっと",
+    "description": "〈レディ・アストロノート〉シリーズで知られるアメリカの作家。人形遣い・朗読者としても活動する。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/メアリ・ロビネット・コワル"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "arkady-martine",
+    "name": "アーカディ・マーティーン",
+    "nameKana": "まーてぃーんあーかでぃ",
+    "description": "ビザンツ史の研究者でもあるアメリカの作家。〈テイクスカラアン〉二部作でヒューゴー賞を二度受賞した。",
+    "birthYear": 1985,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アーカディ・マーティーン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "martha-wells",
+    "name": "マーサ・ウェルズ",
+    "nameKana": "うぇるずまーさ",
+    "description": "〈マーダーボット・ダイアリー〉で知られるアメリカの作家。ファンタジー作家としての経歴も長い。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マーサ・ウェルズ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fritz-leiber",
+    "name": "フリッツ・ライバー",
+    "nameKana": "らいばーふりっつ",
+    "description": "〈ファファード&グレイマウザー〉などで知られるアメリカの作家。SFとホラー、ヒロイックファンタジーを行き来した。",
+    "birthYear": 1910,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フリッツ・ライバー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "james-blish",
+    "name": "ジェイムズ・ブリッシュ",
+    "nameKana": "ぶりっしゅじぇいむず",
+    "description": "〈宇宙都市〉シリーズで知られるアメリカの作家。生物学の素養を背景に神学的な主題も扱った。",
+    "birthYear": 1921,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェイムズ・ブリッシュ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "samuel-r-delany",
+    "name": "サミュエル・R・ディレイニー",
+    "nameKana": "でぃれいにーさみゅえるあーる",
+    "description": "『バベル-17』『ダールグレン』などで知られるアメリカの作家。言語と記号を主題にした前衛的な作風で知られる。",
+    "birthYear": 1942,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サミュエル・R・ディレイニー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "daniel-keyes",
+    "name": "ダニエル・キイス",
+    "nameKana": "きいすだにえる",
+    "description": "『アルジャーノンに花束を』で知られるアメリカの作家。心理学を学び、多重人格を扱うノンフィクションも著した。",
+    "birthYear": 1927,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダニエル・キイス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "alexei-panshin",
+    "name": "アレクセイ・パンシン",
+    "nameKana": "ぱんしんあれくせい",
+    "description": "『成長の儀式』で知られるアメリカの作家・評論家。ハインライン論でも知られる。",
+    "birthYear": 1940,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アレクセイ・パンシン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "frederik-pohl",
+    "name": "フレデリック・ポール",
+    "nameKana": "ぽーるふれでりっく",
+    "description": "〈ヒーチー〉シリーズで知られるアメリカの作家・編集者。企業社会への皮肉を織り込んだ作風で知られる。",
+    "birthYear": 1919,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フレデリック・ポール"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "joan-d-vinge",
+    "name": "ジョーン・D・ヴィンジ",
+    "nameKana": "ゔぃんじじょーんでぃー",
+    "description": "『雪の女王』で知られるアメリカの作家。人類学の素養を背景に神話を下敷きにした長編を書いた。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョーン・D・ヴィンジ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gregory-benford",
+    "name": "グレゴリー・ベンフォード",
+    "nameKana": "べんふぉーどぐれごりー",
+    "description": "物理学者でもあるアメリカの作家。専門知識に裏打ちされたハードSFで知られる。",
+    "birthYear": 1941,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グレゴリー・ベンフォード"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cj-cherryh",
+    "name": "C・J・チェリイ",
+    "nameKana": "ちぇりいしーじぇー",
+    "description": "〈同盟・連合宇宙〉シリーズで知られるアメリカの作家。緻密な政治描写と異星文化の造形で知られる。",
+    "birthYear": 1942,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/C・J・チェリイ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gene-wolfe",
+    "name": "ジーン・ウルフ",
+    "nameKana": "うるふじーん",
+    "description": "〈新しい太陽の書〉で知られるアメリカの作家。信頼できない語り手を用いた重層的な作風で知られる。",
+    "birthYear": 1931,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジーン・ウルフ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "michael-bishop",
+    "name": "マイクル・ビショップ",
+    "nameKana": "びしょっぷまいくる",
+    "description": "現代SFとファンタジーの両分野で四十年にわたり作品を発表したアメリカの作家。",
+    "birthYear": 1945,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マイクル・ビショップ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "elizabeth-ann-scarborough",
+    "name": "エリザベス・アン・スカボロー",
+    "nameKana": "すかぼろーえりざべすあん",
+    "description": "『治療者の戦争』で知られるアメリカの作家。ベトナム戦争で従軍看護師を務めた経験を持つ。",
+    "birthYear": 1947,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "michael-swanwick",
+    "name": "マイクル・スワンウィック",
+    "nameKana": "すわんうぃっくまいくる",
+    "description": "『大潮の道』『大兵器少女』などで知られるアメリカの作家。密度の高い文体と奇想で知られる。",
+    "birthYear": 1950,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マイクル・スワンウィック"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "vernor-vinge",
+    "name": "ヴァーナー・ヴィンジ",
+    "nameKana": "ゔぃんじゔぁーなー",
+    "description": "計算機科学者でもあるアメリカの作家。技術的特異点という概念を広めたことでも知られる。",
+    "birthYear": 1944,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヴァーナー・ヴィンジ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

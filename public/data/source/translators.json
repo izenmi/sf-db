@@ -492,5 +492,89 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tachihara-toya",
+    "name": "立原透耶",
+    "nameKana": "たちはらとうや",
+    "description": "作家・中国語圏SFの研究者。中国SFの紹介と監修を数多く手がけている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/立原透耶"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "uehara-kaori",
+    "name": "上原かおり",
+    "nameKana": "うえはらかおり",
+    "description": "中国語圏の小説を訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tomari-isao",
+    "name": "泊功",
+    "nameKana": "とまりいさお",
+    "description": "中国文学の研究者・翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "aoki-hideo",
+    "name": "青木日出夫",
+    "nameKana": "あおきひでお",
+    "description": "アメリカ文学者・翻訳家。英米のSFやミステリを訳した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青木日出夫"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nagai-jun",
+    "name": "永井淳",
+    "nameKana": "ながいじゅん",
+    "description": "英米の小説を幅広く訳した翻訳家。フレデリック・フォーサイスなどの紹介で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/永井淳"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "usagawa-akiko",
+    "name": "宇佐川晶子",
+    "nameKana": "うさがわあきこ",
+    "description": "英米の小説を訳した翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇佐川晶子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sekiguchi-yukio",
+    "name": "関口幸男",
+    "nameKana": "せきぐちゆきお",
+    "description": "英米のSFを訳した翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/関口幸男"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ogawa-takashi",
+    "name": "小川隆",
+    "nameKana": "おがわたかし",
+    "description": "英米SFの翻訳家・評論家。サイバーパンクの紹介に関わった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小川隆 (翻訳家)"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
