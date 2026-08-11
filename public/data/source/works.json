@@ -11817,5 +11817,338 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「ローカス賞 SF長編部門」「ローカス賞 第一長編部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "eriko",
+    "title": "エリコ",
+    "titleKana": "えりこ",
+    "authorIds": [
+      "tani-koushuu"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "genetic-engineering",
+      "near-future",
+      "cyberpunk"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "警視庁の刑事・愛甲ヨハネは、エリコの遺伝子情報について衝撃的な事実を告げる。だが黒幇の奸計にはまった彼女は上海へ拉致され、そこで大幹部ラオタイ・ローと、そのクローンであるワイレンという男に対面する。自分の遺伝子情報を盗んだ相手を突き止めたエリコの前に、国家規模で秘密裏に進む遺伝子変換計画が姿を現す。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1999,
+        "result": "1999年版 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rekios",
+    "title": "レキオス",
+    "titleKana": "れきおす",
+    "authorIds": [
+      "ikegami-eiichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "denki-sf",
+      "near-future",
+      "esper"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "西暦二〇〇〇年の沖縄。米軍から返還された天久開放地の荒野に、巨大な魔法陣が出現する。千年の時を経て甦る伝説の地霊レキオスをめぐり、米軍も学者も女子高生もユタも入り乱れ、ついに封印は解かれてしまう。大いなる魔法が完成したとき人々は何を見るのか。沖縄の風土と信仰、米軍基地の現実、そして荒唐無稽な奇想を一つの鍋に放り込んだ、時空を超えて弾け飛ぶ物語である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "2000年版 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/レキオス"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tsuki-no-uragawa",
+    "title": "月の裏側",
+    "titleKana": "つきのうらがわ",
+    "authorIds": [
+      "onda-riku"
+    ],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "jojutsu-sf",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "九州の水郷都市・箭納倉で、三件の失踪事件が相次いだ。消えたのはいずれも掘割に面した日本家屋に住む老女だったが、しばらくするとひょっこり戻ってくる。しかも記憶を失ったままである。宇宙人の誘拐か、新興宗教の洗脳か。事件に興味を持った元大学教授の協一郎らは、戻ってきた老女たちが以前とどこか違うことに気づき、人間もどきの存在という仮説にたどり着く。静かな水郷の風景が不穏さを増していく長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "2000年版 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "choruigakusha-no-fantasia",
+    "title": "鳥類学者のファンタジア",
+    "titleKana": "ちょうるいがくしゃのふぁんたじあ",
+    "authorIds": [
+      "okuizumi-hikaru"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "time-travel",
+      "denki-sf",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "フォギーことジャズピアニストの池永希梨子は、演奏中に不思議な感覚にとらわれる。柱の陰に誰かがいる。それが時空を超える大冒険の始まりだった。謎の音階が引き起こす超常現象に導かれ、彼女はナチス支配下の一九四四年のドイツへ飛ばされてしまう。戦時下のドイツで彼女が出会うのは、音楽に取り憑かれた人々だった。ジャズの即興と物語の脱線がそのまま重なり合う、めくるめく長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "2001年版 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鳥類学者のファンタジア"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "grand-vacances",
+    "title": "グラン・ヴァカンス",
+    "titleKana": "ぐらんゔぁかんす",
+    "authorIds": [
+      "tobi-hirotaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "virtual-reality",
+      "ai",
+      "far-future"
+    ],
+    "seriesName": "廃園の天使",
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "仮想リゾート〈数値海岸〉の一区画、南欧の港町を模した〈夏の区界〉。ゲストである人間の訪問が途絶えてから千年、取り残された人工知能たちは終わらない夏を過ごしていた。だがある日、謎の存在〈蜘蛛〉の大群が現れ、街のすべてを無化しはじめる。わずかに生き残った人工知能たちの、絶望に満ちた一夜の攻防が始まる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "2002年版 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "umi-o-miru-hito",
+    "title": "海を見る人",
+    "titleKana": "うみをみるひと",
+    "authorIds": [
+      "kobayashi-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "short-stories",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "浜の一年はこちらの百年にあたる。場所によって時間の流れる速さが違う世界で、少年は夏祭りの夜に出会った少女と、一年後の再会というあまりに儚い約束を交わす。表題作のほか、円筒形の世界を旅する少年の成長を描く「時計の中のレンズ」など、冷徹な論理と奔放な想像力から生まれた六編を収める。物理法則を一つだけずらした世界を設計し、そこに生きる人の情感を丁寧にすくい取る短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "2002年版 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kami-wa-chinmoku-sezu",
+    "title": "神は沈黙せず",
+    "titleKana": "かみはちんもくせず",
+    "authorIds": [
+      "yamamoto-hiroshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "near-future",
+      "world-truth",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "幼い頃に災害で両親を失い、神に不信感を抱くようになった和久優歌。フリーライターとなった彼女は、UFOカルトの取材中にボルトの雨が降るという超常現象に遭遇する。それをきっかけにオカルトの取材を重ねるうち、世界のあちこちで起きる説明のつかない現象が、一つの巨大な仮説へと収束しはじめる。超常現象の博物誌としても読める大作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "2003年版 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hadae-no-shita",
+    "title": "膚の下",
+    "titleKana": "はだえのした",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "cyborg",
+      "space-colony",
+      "ai"
+    ],
+    "seriesName": "火星三部作(神林長平)",
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "われらはおまえたちを創った、おまえたちはなにを創るのか。訓練部隊の間明少佐が残した言葉を胸に、人工生命体アートルーパーの慧慈は実戦部隊へ配属され、地下都市・破沙へ赴く。強硬な火星移住策を進める国連軍への反感からアートルーパーは独立を宣言し、ナノテクによる地球復興を目論む一派との交渉が始まる。〈火星三部作〉の完結編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "2004年版 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fukkatsu-no-chi",
+    "title": "復活の地",
+    "titleKana": "ふっかつのち",
+    "authorIds": [
+      "ogawa-issui"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "disaster",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "volumeCount": 3,
+    "synopsis": "大地震で首都が壊滅した帝国。行方不明の高皇にかわって摂政となったスミルは、一官僚にすぎないセイオを帝国復興院の総裁に任命する。遠大な帝都再生計画を掲げるセイオの強引な手法は、政府だけでなく救うべき市民の反感も招いた。復興院解体の危機が迫るなか、星外の列強が混乱に乗じて干渉の手を伸ばしてくる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "2004年版 国内篇 第3位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/復活の地"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "descartes-no-misshitsu",
+    "title": "デカルトの密室",
+    "titleKana": "でかるとのみっしつ",
+    "authorIds": [
+      "sena-hideaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "ai",
+      "robot",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "ヒト型ロボットが実用化された社会。ロボット学者の祐輔と進化心理学者の玲奈は、ロボットのケンイチとともに暮らしている。三人が出席した人工知能のコンテストで起きた事件から、悪夢のような出来事が始まった。連続する殺人と、その背後に見え隠れする怜悧な意思。人間と機械の境目はどこにあるのかを問う長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2005,
+        "result": "2005年版 国内篇 第2位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shangri-la",
+    "title": "シャングリ・ラ",
+    "titleKana": "しゃんぐりら",
+    "authorIds": [
+      "ikegami-eiichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "加速する温暖化を止めるため、東京は都市機能を超高層建造物アトラスへ移し、地上を森林に戻そうとしていた。だが生まれたのは理想郷ではない。世界は炭素経済へ移行し、炭素を削減することが利益を生むようになる一方、森林化で東京には難民が続出していた。少年院から戻った反政府ゲリラの総帥・北条國子が動きはじめる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2005,
+        "result": "2005年版 国内篇 第3位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
