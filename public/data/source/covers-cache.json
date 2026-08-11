@@ -96,6 +96,15 @@
     "resolvedAt": "2026-08-11T22:36:19.579Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6743711/"
   },
+  "all-clear": {
+    "title": "オール・クリア",
+    "isbn": "9784150120382",
+    "matchedTitle": "オール・クリア 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0382/9784150120382.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13443379/",
+    "source": "rakuten-books",
+    "note": "自動取得が下巻を拾ったため上巻の書影に差し替え"
+  },
   "all-the-birds-in-the-sky": {
     "title": "空のあらゆる鳥を",
     "isbn": null,
@@ -235,6 +244,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T03:43:47.195Z"
+  },
+  "artemis": {
+    "title": "アルテミス",
+    "isbn": "9784150121648",
+    "matchedTitle": "アルテミス 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1648/9784150121648.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T23:51:50.899Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15240339/"
   },
   "asa-no-gaspard": {
     "title": "朝のガスパール",
@@ -383,6 +401,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T09:36:21.435Z"
   },
+  "bin-no-naka-no-shuki": {
+    "title": "壜の中の手記",
+    "isbn": "9784488121082",
+    "matchedTitle": "壜の中の手記",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1082/9784488121082_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T23:49:55.967Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18618434/"
+  },
   "blackout-willis": {
     "title": "ブラックアウト",
     "isbn": "9784150120207",
@@ -479,6 +506,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T04:38:22.642Z"
+  },
+  "burning-paradise": {
+    "title": "楽園炎上",
+    "isbn": null,
+    "matchedTitle": "楽園炎上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5341/2000003395341.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T23:51:43.196Z"
   },
   "calculating-stars": {
     "title": "宇宙へ",
@@ -762,6 +797,14 @@
     "source": "rakuten-kobo",
     "note": "上下巻のため上巻の書影を採用(紙が品切のため楽天Kobo版)"
   },
+  "dandelion-girl": {
+    "title": "たんぽぽ娘",
+    "isbn": null,
+    "matchedTitle": "たんぽぽ娘",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1120/2000002901120.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T23:51:39.726Z"
+  },
   "dare-ni-mishotote": {
     "title": "誰に見しょとて",
     "isbn": "9784152094124",
@@ -782,6 +825,18 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:43:57.137Z"
+  },
+  "das-jesus-video": {
+    "title": "イエスのビデオ",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T23:50:34.867Z"
+  },
+  "davy": {
+    "title": "デイヴィー 荒野の旅",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T23:49:54.739Z"
   },
   "death-doctor-island": {
     "title": "デス博士の島その他の物語",
@@ -1119,6 +1174,15 @@
     "resolvedAt": "2026-08-11T23:11:40.112Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17733852/"
   },
+  "eternal-flame": {
+    "title": "エターナル・フレイム",
+    "isbn": "9784153350281",
+    "matchedTitle": "エターナル・フレイム",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0281/9784153350281.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T23:51:44.367Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14355610/"
+  },
   "eversion": {
     "title": "反転領域",
     "isbn": "9784488627119",
@@ -1379,6 +1443,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4056/2000005614056.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T13:32:11.716Z"
+  },
+  "god-gun": {
+    "title": "ゴッド・ガン",
+    "isbn": "9784150121044",
+    "matchedTitle": "ゴッド・ガン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1044/9784150121044.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T23:51:45.525Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14532020/"
   },
   "gods-themselves": {
     "title": "神々自身",
@@ -1692,6 +1765,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T22:37:50.111Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16225109/"
+  },
+  "house-of-leaves": {
+    "title": "紙葉の家",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T23:50:19.296Z"
   },
   "how-to-live-safely": {
     "title": "SF的な宇宙で安全に暮らすっていうこと",
@@ -2108,6 +2187,12 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T22:35:42.139Z"
   },
+  "kiln-people": {
+    "title": "キルン・ピープル",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T23:51:03.340Z"
+  },
   "kioku-osen": {
     "title": "記憶汚染",
     "isbn": null,
@@ -2261,6 +2346,14 @@
     "resolvedAt": "2026-08-11T10:45:48.266Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16307191/"
   },
+  "kraken": {
+    "title": "クラーケン",
+    "isbn": null,
+    "matchedTitle": "クラーケン（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2347/2000000162347.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T23:51:36.258Z"
+  },
   "kugutsuko": {
     "title": "傀儡后",
     "isbn": null,
@@ -2351,6 +2444,12 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:31:18.141Z"
   },
+  "light-of-other-days": {
+    "title": "過ぎ去りし日々の光",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T23:49:37.400Z"
+  },
   "lightgene-no-isan": {
     "title": "ライトジーンの遺産",
     "isbn": "9784150309398",
@@ -2378,6 +2477,12 @@
     "resolvedAt": "2026-08-11T22:36:43.992Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11456569/"
   },
+  "little-brother": {
+    "title": "リトル・ブラザー",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T23:51:31.448Z"
+  },
   "looking-for-jake": {
     "title": "ジェイクをさがして",
     "isbn": null,
@@ -2391,6 +2496,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:31:01.850Z"
+  },
+  "magic-for-beginners": {
+    "title": "マジック・フォー・ビギナーズ",
+    "isbn": "9784151200687",
+    "matchedTitle": "マジック・フォー・ビギナーズ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0687/9784151200687.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T23:50:38.483Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11577930/"
   },
   "man-in-the-high-castle": {
     "title": "高い城の男",
@@ -2864,6 +2978,15 @@
     "resolvedAt": "2026-08-11T22:36:58.037Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16039611/"
   },
+  "old-mans-war": {
+    "title": "老人と宇宙",
+    "isbn": "9784150116002",
+    "matchedTitle": "老人と宇宙（そら）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1501/15011600.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T23:50:37.325Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4303931/"
+  },
   "olympos": {
     "title": "オリュンポス",
     "isbn": null,
@@ -2871,6 +2994,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4369/2000001954369.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T23:10:50.606Z"
+  },
+  "omon-ra": {
+    "title": "宇宙飛行士オモン・ラー",
+    "isbn": "9784903619231",
+    "matchedTitle": "宇宙飛行士オモン・ラー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9231/9784903619231.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T23:51:07.294Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6512629/"
   },
   "one-more-nuke": {
     "title": "ワン・モア・ヌーク",
@@ -2911,6 +3043,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9779/2000001639779.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T03:41:53.013Z"
+  },
+  "orgasmachine": {
+    "title": "オルガスマシン",
+    "isbn": "9784801924291",
+    "matchedTitle": "オルガスマシン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4291/9784801924291.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T23:49:15.100Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16385907/"
   },
   "orrery-maker": {
     "title": "オーラリメイカー",
@@ -2979,6 +3120,15 @@
     "resolvedAt": "2026-08-11T12:19:42.749Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12402867/"
   },
+  "pavane": {
+    "title": "パヴァーヌ",
+    "isbn": "9784480429964",
+    "matchedTitle": "パヴァーヌ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9964/9784480429964.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T23:48:49.978Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11894465/"
+  },
   "penguin-highway": {
     "title": "ペンギン・ハイウェイ",
     "isbn": "9784041005613",
@@ -3013,6 +3163,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7512/2000008857512.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T10:46:15.980Z"
+  },
+  "physiognomy": {
+    "title": "白い果実",
+    "isbn": "9784336046376",
+    "matchedTitle": "白い果実",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3360/33604637.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T23:50:36.165Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1703174/"
   },
   "player-of-games": {
     "title": "ゲーム・プレイヤー",
@@ -3522,6 +3681,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T04:32:31.054Z"
   },
+  "sleeping-giants": {
+    "title": "巨神計画",
+    "isbn": null,
+    "matchedTitle": "巨神計画　上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1201/2000005131201.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-11T23:51:49.613Z"
+  },
   "slow-river": {
     "title": "スロー・リバー",
     "isbn": null,
@@ -3694,6 +3861,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T09:30:43.512Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/133448/"
+  },
+  "stranger-in-olondria": {
+    "title": "図書館島",
+    "isbn": "9784488556044",
+    "matchedTitle": "図書館島",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6044/9784488556044.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T23:51:52.131Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17106278/"
   },
   "suisei-gari": {
     "title": "彗星狩り",
@@ -3886,6 +4062,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T13:05:08.468Z"
   },
+  "the-road": {
+    "title": "ザ・ロード",
+    "isbn": "9784151200601",
+    "matchedTitle": "ザ・ロード",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0601/9784151200601.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-11T23:51:06.105Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6489573/"
+  },
   "the-separation": {
     "title": "双生児",
     "isbn": null,
@@ -3968,6 +4153,12 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T04:35:37.739Z"
+  },
+  "timeline": {
+    "title": "タイムライン",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-11T23:49:13.653Z"
   },
   "timescape": {
     "title": "タイムスケープ",
