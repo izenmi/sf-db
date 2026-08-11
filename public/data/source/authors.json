@@ -1090,5 +1090,96 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "morimi-tomihiko",
+    "name": "森見登美彦",
+    "nameKana": "もりみとみひこ",
+    "description": "『夜は短し歩けよ乙女』などで知られる作家。京都を舞台にした作品が多い。",
+    "birthYear": 1979,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/森見登美彦"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ueda-sayuri",
+    "name": "上田早夕里",
+    "nameKana": "うえださゆり",
+    "description": "『華竜の宮』などで知られる作家。海洋と生物を主題にしたスケールの大きな作品を書く。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/上田早夕里"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tsukimura-ryoe",
+    "name": "月村了衛",
+    "nameKana": "つきむらりょうえ",
+    "description": "アニメ脚本家を経て小説家となった作家。『機龍警察』シリーズで知られる。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/月村了衛"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "torishima-denpow",
+    "name": "酉島伝法",
+    "nameKana": "とりしまでんぽう",
+    "description": "創元SF短編賞出身の作家・イラストレーター。造語を駆使した異形の世界描写で知られる。",
+    "birthYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/酉島伝法"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yamao-yuko",
+    "name": "山尾悠子",
+    "nameKana": "やまおゆうこ",
+    "description": "緻密な幻想小説で知られる作家。長い沈黙のあと復帰し、再評価された。",
+    "birthYear": 1955,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山尾悠子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "oda-masakuni",
+    "name": "小田雅久仁",
+    "nameKana": "おだまさくに",
+    "description": "『残月記』などで知られる作家。幻想と現実の境目を扱う。",
+    "birthYear": 1974,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "miyanishi-kenrei",
+    "name": "宮西建礼",
+    "nameKana": "みやにしけんれい",
+    "description": "創元SF短編賞出身の作家。天文と物理に基づくハードSFを書く。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ogawa-satoshi",
+    "name": "小川哲",
+    "nameKana": "おがわさとし",
+    "description": "『ゲームの王国』『地図と拳』などで知られる作家。歴史と思弁を組み合わせた大作を書く。",
+    "birthYear": 1986,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小川哲"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

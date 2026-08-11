@@ -4499,5 +4499,521 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。受賞年は同ページの回数と年の対応に拠る。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。表題作の初出は1988年だが、firstPublishedYearには受賞対象となった2004年の作品集の刊行年を採った(NDLサーチに1988年と2004年の両方の書誌がある)。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "penguin-highway",
+    "title": "ペンギン・ハイウェイ",
+    "titleKana": "ぺんぎんはいうぇい",
+    "authorIds": [
+      "morimi-tomihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "juvenile",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "小学四年生の「ぼく」が住む郊外の町に、ある日突然ペンギンの群れが現れた。研究熱心なぼくは、この珍事に歯科医院のお姉さんが関わっているらしいと気づき、ノートを取りながら謎の解明に乗り出す。町外れの草原に浮かぶ〈海〉と呼ばれる球体もまた、彼の研究対象になっていく。未知に出会うことの高揚を、少年の一夏として描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2010,
+        "result": "第31回受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ペンギン・ハイウェイ"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "karyu-no-miya",
+    "title": "華竜の宮",
+    "titleKana": "かりゅうのみや",
+    "authorIds": [
+      "ueda-sayuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "genetic-engineering",
+      "far-future"
+    ],
+    "seriesName": "オーシャンクロニクル",
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "ホットプルームの活性化による海底隆起で、陸地の多くが水没した二十五世紀。危機を乗り越えた人類は、残された土地と海上都市で高度な情報社会を営む陸上民と、遺伝子改変によって海に適応した海上民とに分かれていた。外交官の青澄誠司は、両者の利害を調停しながら、さらなる地殻変動の予兆に向き合うことになる。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2011,
+        "result": "第32回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/華竜の宮"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kiryu-keisatsu",
+    "title": "機龍警察",
+    "titleKana": "きりゅうけいさつ",
+    "authorIds": [
+      "tsukimura-ryoe"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "near-future",
+      "robot"
+    ],
+    "seriesName": "機龍警察",
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "volumeCount": 6,
+    "synopsis": "有人兵器〈機甲兵装〉が犯罪に用いられる時代。警視庁は対抗策として、外国製の次世代機〈龍機兵〉と、その操縦者である三人の傭兵を契約で迎え入れた。元テロリスト、元刑事、元少年兵という経歴を抱えた三人と、彼らを疎む組織との軋轢が物語を動かしていく。警察小説とロボットものを接続したシリーズの第1作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2012,
+        "result": "第33回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/機龍警察"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。受賞は第2作『自爆条項』に対するものだが、シリーズを1エントリとして登録し、firstPublishedYearには第1作の刊行年を採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "banjo-no-yoru",
+    "title": "盤上の夜",
+    "titleKana": "ばんじょうのよる",
+    "authorIds": [
+      "miyauchi-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "cyborg"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "四肢を失った女流棋士が、囲碁盤そのものを感覚器として世界を知覚するようになる——表題作をはじめ、チェッカー、麻雀、チャトランガなど、盤上遊戯と卓上遊戯を主題にした六編を収める。同じジャーナリストを語り手に据え、勝負の場に生じる異常な認識を淡々と記録していく。著者のデビュー作にあたる連作集である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2012,
+        "result": "第33回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/盤上の夜"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kaikin-no-to",
+    "title": "皆勤の徒",
+    "titleKana": "かいきんのと",
+    "authorIds": [
+      "torishima-denpow"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "far-future",
+      "alien",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "高さ百メートルの鉄柱に支えられた小さな甲板の上に〈会社〉は建っている。雇用主である社長は〈人間〉と呼ばれる不定形の大型生物だ。甲板とそれを取り巻く泥土の海だけが、語り手の知る世界のすべてである。徹底した造語と異形の生態描写で埋め尽くされ、読み進めるほどにこの世界の来歴が滲み出てくる連作集。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2013,
+        "result": "第34回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/皆勤の徒"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "johannesburg-no-tenshitachi",
+    "title": "ヨハネスブルグの天使たち",
+    "titleKana": "よはねすぶるぐのてんしたち",
+    "authorIds": [
+      "miyauchi-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "robot",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "同時多発テロの現場からアフガニスタンまで、暴力と絶望の渦巻く世界五都市を舞台に、日本製のホビーロボット「DX9」がただ落下し続ける。人形の目を通して人間の行為の輪郭を切り出す連作短編集で、直接の説明を避けながら現代史の傷を照らし出す。ポスト伊藤計劃と目された著者の代表作のひとつである。落ちる人形という一点のイメージだけで、五つの物語をつないでみせた構成が鮮やかである。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2013,
+        "result": "第34回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "my-humanity",
+    "title": "My Humanity",
+    "titleKana": "まいひゅーまにてぃ",
+    "authorIds": [
+      "hase-satoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "ai",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "擬似神経制御言語ITPによる経験の伝達と、個人が背負う文化的背景との衝突を描く「地には豊穣」。同じ技術で小児性愛者を矯正しようとした結果、グロテスクな結末に至る「allo, toi, toi」。人間性とは何をもって定義できるのかを、四つの中短編から多角的に問う作品集である。長編『あなたのための物語』と地続きの世界を持つ。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2014,
+        "result": "第35回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "columbia-zero",
+    "title": "コロンビア・ゼロ",
+    "titleKana": "ころんびあぜろ",
+    "authorIds": [
+      "tani-koushuu"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "military-sf",
+      "space-development"
+    ],
+    "seriesName": "航空宇宙軍史シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "圧倒的な軍事力で太陽系を制していた航空宇宙軍と、独立を求めた外惑星連合が戦った第一次外惑星動乱の終結から四十年。タイタンをはじめ太陽系各地で、新たな戦乱の予兆が静かに動きはじめる。ワープも慣性制御も持たない世界で、軌道と推進剤の制約だけを頼りに戦う。〈航空宇宙軍史〉を新たに書き継いだ連作集。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2015,
+        "result": "第36回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "toppen",
+    "title": "突変",
+    "titleKana": "とっぺん",
+    "authorIds": [
+      "morioka-hiroyuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "parallel-world",
+      "alien",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "関東某県の酒河市一帯が、ある日いきなり異世界へ転移した。「突変」と呼ばれるこの現象の行き先は、危険な異源生物がはびこる裏地球である。妻の末期癌を告げられた町内会長、家事代行会社のスタッフ、独身のスーパー店長。ごく普通の市民たちが、行政も物流も断たれた土地でどう生き延びるかを積み上げていく長編。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2015,
+        "result": "第36回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gessekai-shosetsu",
+    "title": "月世界小説",
+    "titleKana": "げっせかいしょうせつ",
+    "authorIds": [
+      "makino-osamu"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "language-sf",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "かつて私たちが話していたのは、神の力すら凌駕する「ニホン語」という言葉だったのではないか。言語が現実を作り替える力を持つ世界を舞台に、失われた言葉をめぐる探索が始まる。言葉と身体をめぐる主題を追い続けてきた著者が、月というもうひとつの舞台を得て書き上げた長編である。語ることそのものが世界を作り変えるという主題を、宗教と言語の両面から掘り下げていく。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2015,
+        "result": "第36回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "game-no-okoku",
+    "title": "ゲームの王国",
+    "titleKana": "げーむのおうこく",
+    "authorIds": [
+      "ogawa-satoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "ai",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "ポル・ポトの隠し子とされる少女ソリヤと、貧しい村に生まれた天才少年ムイタック。百万人以上の命を奪ったカンボジアの不条理は、この二人を見つめながら、まるでゲームのように進行していく。前半で現代史を、後半で脳波を用いた近未来の技術を扱い、二つの時代を一本に束ねてみせた著者のデビュー長編である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2017,
+        "result": "第38回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゲームの王国"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jisei-no-yume",
+    "title": "自生の夢",
+    "titleKana": "じせいのゆめ",
+    "authorIds": [
+      "tobi-hirotaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "short-stories",
+      "language-sf",
+      "virtual-reality"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "天才詩人アリス・ウォンが、〈忌字禍〉と呼ばれる謎の存在に倒れた。この怪物を滅ぼすため、かつて言葉の力だけで七十三人を殺害した稀代の殺人者が呼び戻される。言語が実体を持って人を害する世界を描く表題作をはじめ、著者の中短編を集めた作品集。星雲賞を受けた表題作と「海の指」を収める。言葉が実体を持って人を殺すという設定を、比喩ではなく物理として押し通している。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2017,
+        "result": "第38回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tobu-kujaku",
+    "title": "飛ぶ孔雀",
+    "titleKana": "とぶくじゃく",
+    "authorIds": [
+      "yamao-yuko"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "sf-fantasy",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "シブレ山の石切り場で起きた事故を境に、火が燃えにくくなった。その一事だけを軸に、茶会の庭、大蛇の出る水路、地下の遊興場といった風景が次々に立ち上がっては連結していく。筋を追う小説というより、精緻な文章が作り出す空間そのものを歩くような一冊。ジャンルの枠組みを超えて評価され、三つの賞を受けた。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2018,
+        "result": "第39回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/飛ぶ孔雀"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mojika",
+    "title": "文字渦",
+    "titleKana": "もじか",
+    "authorIds": [
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "language-sf",
+      "short-stories",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "「昔、文字は本当に生きていたのじゃないかと思わないかい」。始皇帝の陵墓づくりに始まり、道教、仏教、分子生物学、情報科学までを横断しながら、変化し続ける「文字」そのものを主役に据えた連作集。文字同士が闘い、増殖し、組版を突き破っていく。小説という形式が印刷物であることを逆手に取った実験作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2018,
+        "result": "第39回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/文字渦"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kanki-no-uta",
+    "title": "歓喜の歌 博物館惑星III",
+    "titleKana": "かんきのうたはくぶつかんわくせい",
+    "authorIds": [
+      "suga-hiroe"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "ai",
+      "short-stories"
+    ],
+    "seriesName": "博物館惑星シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "博物館惑星アフロディーテの創立五十周年記念フェスティバルの夜。自警団員の兵藤健は、国際的な贋作組織の摘発に臨む。美を守るとはどういうことか、鑑定とは誰のための行為かという問いを重ねてきたシリーズが、大団円を迎える第三作である。芸術と技術の交点を書き続けてきた著者の到達点といえる。人工知能に接続した学芸員たちの群像を、五十年分の時間とともに締めくくってみせる。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2020,
+        "result": "第41回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "zangetsuki",
+    "title": "残月記",
+    "titleKana": "ざんげつき",
+    "authorIds": [
+      "oda-masakuni"
+    ],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "near-future",
+      "dystopia",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "「月昂」と呼ばれる感染症が広がり、人々を不安に陥れている近未来の日本。一党独裁政権のもとで、感染者の青年・冬芽は独裁者の歪んだ願望によって、命を賭した闘いを強いられることになる。月をめぐる三つの中編を収め、幻想的な意匠と現実の政治とを重ね合わせた作品集である。感染症と独裁という現代的な素材を、月にまつわる古い想像力の型に流し込んでいる。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2022,
+        "result": "第43回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ginga-fuhanso",
+    "title": "銀河風帆走",
+    "titleKana": "ぎんがふうはんそう",
+    "authorIds": [
+      "miyanishi-kenrei"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "hard-sf",
+      "space-development",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "人類の存続を賭けて、別の銀河をめざす宇宙船たちが飛ぶ。その航海を襲う試練を描く表題作をはじめ、天文と物理の裏づけを丁寧に敷いた作品を集めた第一短編集である。第四回創元SF短編賞の受賞作も収録する。若い書き手によるハードSFの現在地を示す一冊として評価された。恒星間航行の困難を計算で示しながら、送り出す側の感情までを併せて描き切っている。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 2024,
+        "result": "第45回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
