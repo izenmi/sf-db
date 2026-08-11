@@ -1181,5 +1181,49 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "noa-azusa",
+    "name": "野阿梓",
+    "nameKana": "のああずさ",
+    "description": "『バベルの薫り』などで知られる作家。濃密な文体と幻想性で知られる。",
+    "birthYear": 1954,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sena-hideaki",
+    "name": "瀬名秀明",
+    "nameKana": "せなひであき",
+    "description": "『パラサイト・イヴ』でデビューした作家。薬学の素養を背景に科学と人間を描く。",
+    "birthYear": 1968,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/瀬名秀明"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tim-powers",
+    "name": "ティム・パワーズ",
+    "nameKana": "ぱわーずてぃむ",
+    "description": "『アヌビスの門』などで知られるアメリカの作家。歴史の隙間に幻想を埋め込む作風。",
+    "birthYear": 1952,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ティム・パワーズ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ian-mcdonald",
+    "name": "イアン・マクドナルド",
+    "nameKana": "まくどなるどいあん",
+    "description": "『火星夜想曲』『黎明の王 白昼の王』などで知られる北アイルランドの作家。",
+    "birthYear": 1960,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

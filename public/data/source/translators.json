@@ -315,5 +315,25 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ito-norio",
+    "name": "伊藤典夫",
+    "nameKana": "いとうのりお",
+    "description": "『SFマガジン』の編集にも関わった翻訳家。英米SFの紹介に大きな役割を果たした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/伊藤典夫"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "otomo-bokujin",
+    "name": "大伴墨人",
+    "nameKana": "おおともぼくじん",
+    "description": "英米SF・ファンタジーの翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

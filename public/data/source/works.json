@@ -171,6 +171,11 @@
     "awardResults": [
       {
         "awardId": "sf-ga-yomitai",
+        "year": 2007,
+        "result": "2007年版 国内篇 第1位"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
         "year": 2008,
         "result": "2008年版 国内篇 第1位"
       }
@@ -212,6 +217,11 @@
         "awardId": "seiun",
         "year": 2009,
         "result": "日本長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2009,
+        "result": "2009年版 国内篇 第1位"
       },
       {
         "awardId": "sf-ga-yomitai",
@@ -260,6 +270,11 @@
       },
       {
         "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "2008年版 国内篇 第1位"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
         "year": 2009,
         "result": "2009年版 国内篇 第1位"
       }
@@ -298,6 +313,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2003,
         "result": "第24回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "2003年版 国内篇 第1位"
       },
       {
         "awardId": "sf-ga-yomitai",
@@ -397,6 +417,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2014,
         "result": "第35回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2014,
+        "result": "2014年版 国内篇 第1位"
       }
     ]
   },
@@ -587,7 +612,14 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/あなたの人生の物語"
     },
     "sourceNote": "日本語版Wikipediaの表題作記事で、2002年に著者の短編集(Stories of Your Life and Others)として刊行されたこと・表題作が2000年ネビュラ賞中長編小説部門受賞・映画『メッセージ』(2016)の原作であることを確認。短編集の表題作単独の受賞のため受賞歴には登録せず、mediaMixのmovieは表題作の映画化を指す。邦訳はNDLサーチの書誌で浅倉久志ほか訳・早川書房・2003年を確認(公手成幸・嶋田洋一・古沢嘉通ほかとの共訳、翻訳者は代表して浅倉久志を登録)。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "2003年版 海外篇 第1位"
+      }
+    ]
   },
   {
     "id": "the-martian",
@@ -612,6 +644,11 @@
     "status": "completed",
     "synopsis": "有人火星ミッションの最中、砂嵐の事故で死んだと誤認され、ひとり火星に取り残された宇宙飛行士マーク・ワトニー。彼は残された物資と植物学・工学の知識を武器に、ユーモアを失わないまま生存への道を切り拓いていく。技術的なリアリティと軽快な語り口で世界的ベストセラーになったサバイバルSF。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2014,
+        "result": "2014年版 海外篇 第1位"
+      },
       {
         "awardId": "seiun",
         "year": 2015,
@@ -657,6 +694,11 @@
         "awardId": "hugo",
         "year": 2015,
         "result": "長編小説部門受賞(英訳版)"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "2019年版 海外篇 第1位"
       },
       {
         "awardId": "seiun",
@@ -1419,6 +1461,11 @@
     "synopsis": "宇宙に版図を広げる星間国家「アーヴによる人類帝国」。故郷の惑星が無血で接収され、貴族の身分を与えられた少年ジント・リンは、士官学校へ向かう旅の途上で皇女ラフィールと出会う。折しも帝国と諸国連合のあいだで戦端が開かれ、ふたりは敵地となった惑星からの脱出行を強いられる。人工言語まで設計された星間叙事詩の開幕編。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 1996,
+        "result": "1996年版 国内篇 第1位"
+      },
+      {
         "awardId": "seiun",
         "year": 1997,
         "result": "日本長編部門受賞"
@@ -1548,6 +1595,11 @@
     "synopsis": "地球の衛星軌道に浮かぶ巨大博物館アフロディーテ。全世界のあらゆる芸術品が収められたこの施設では、データベースに直接接続した学芸員たちが分析と鑑定を通じて美を追い続けている。持ち込まれる作品と人間の事情が絡み合う事件を、総合管轄部署の職員が解いていく連作長編。美術品と人間の物語を短編の連なりとして重ね、ひとつの長編に編み上げている。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "2000年版 国内篇 第1位"
+      },
+      {
         "awardId": "seiun",
         "year": 2001,
         "result": "日本長編部門受賞"
@@ -1606,6 +1658,11 @@
     "status": "completed",
     "synopsis": "2006年、水星から突如噴き上げられた鉱物資源が、太陽を取り巻く巨大なリングを形づくりはじめる。日照量は激減し、人類は破滅の淵に立たされた。いったい何者が、何のためにこれを造ったのか。異星文明への憧れを抱き続けるひとりの研究者を軸に、接触の困難さを正面から描いたハードSF。巨大構造物の物理と、理解の届かない相手に向き合う心情の両方を並べて描く。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "2002年版 国内篇 第1位"
+      },
       {
         "awardId": "seiun",
         "year": 2003,
@@ -1906,6 +1963,11 @@
         "result": "第33回受賞"
       },
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2012,
+        "result": "2012年版 国内篇 第1位"
+      },
+      {
         "awardId": "seiun",
         "year": 2013,
         "result": "日本長編部門受賞"
@@ -2057,6 +2119,11 @@
     "status": "completed",
     "synopsis": "惑星美縟に埋蔵された巨大楽器が、五百年ぶりに秘曲「零號琴」を奏でることになった。演奏に合わせて上演される大假面劇の夜、鳴り響く音は惑星の来歴そのものを暴きはじめる。特殊楽器の調律師と相棒が巻き込まれる祝祭を、絢爛な語彙と重層的な構造で描く長編。著者が十数年をかけて書き上げた、日本SFでも異彩を放つ一作である。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2018,
+        "result": "2018年版 国内篇 第1位"
+      },
       {
         "awardId": "seiun",
         "year": 2019,
@@ -3009,6 +3076,11 @@
     "synopsis": "五十人の男女を乗せた植民船レオノーラ・クリスチーネ号は、バサード・ラムジェットを推進機関としておとめ座ベータ星をめざしていた。光速には届かないものの、亜光速航行による時間の遅れが乗員を守るはずだった。ところが減速装置が故障し、船は加速をやめられなくなる。相対論的効果を物語の駆動力そのものに変えた、ハードSFの古典である。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 1992,
+        "result": "1992年版 海外篇 第1位"
+      },
+      {
         "awardId": "seiun",
         "year": 1993,
         "result": "海外長編部門受賞"
@@ -3082,6 +3154,11 @@
         "awardId": "seiun",
         "year": 1995,
         "result": "海外長編部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1995,
+        "result": "1995年版 海外篇 第1位(《ハイペリオン》2部作として)"
       }
     ],
     "externalLinks": {
@@ -3216,6 +3293,11 @@
     "status": "completed",
     "synopsis": "1891年、時間航行家はふたたび未来へ旅立った。最初の旅で出会ったエロイ族のウィーナを救うため、西暦80万2701年をめざしてマシンを再起動したのである。だが彼が辿り着いたのは、前と同じ未来ではなかった。ウェルズ『タイム・マシン』の公認続編として書かれ、多世界解釈まで取り込んで時間旅行の理屈を突き詰めた長編である。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1998,
+        "result": "1998年版 海外篇 第1位"
+      },
       {
         "awardId": "seiun",
         "year": 1999,
@@ -3418,6 +3500,11 @@
     "synopsis": "2055年、あらゆる自然法則を包み込む単一の理論——万物理論の完成が目前に迫っていた。国際理論物理学会の席上で三人の学者がそれぞれの理論を発表することになり、科学ジャーナリストのアンドルーが取材に向かう。だが学会の開かれる人工島には、理論の完成を阻もうとする者たちが集まっていた。認識と実在の関係を突き詰めた長編。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "2004年版 海外篇 第1位"
+      },
+      {
         "awardId": "seiun",
         "year": 2005,
         "result": "海外長編部門受賞"
@@ -3450,6 +3537,11 @@
     "status": "completed",
     "synopsis": "30世紀、人類の大半は肉体を捨て、人格と記憶をソフトウェアに移して〈ポリス〉と呼ばれる計算機内の都市で生きていた。生身にとどまる者、ロボット身体を選んだ者もわずかに残る。中性子星の衝突が引き起こす災厄を境に、彼らは宇宙の構造そのものを探る旅に出る。数学的な思考実験を物語の推進力にした代表作。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2005,
+        "result": "2005年版 海外篇 第1位"
+      },
       {
         "awardId": "seiun",
         "year": 2006,
@@ -3557,6 +3649,11 @@
     "synopsis": "十二歳のタイラーが友人の双子と庭にいた夜、空から星が消えた。地球は何者かの手で膜に覆われ、外の宇宙とのあいだで時間の流れが一億分の一に落とされていたのだ。地球で一年が過ぎるあいだに外では一億年が経つ。太陽の寿命が尽きるまでに残された時間は少ない。三人の少年少女の半生を追いながら、宇宙規模の異変を描いた長編。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2008,
+        "result": "2008年版 海外篇 第1位"
+      },
+      {
         "awardId": "seiun",
         "year": 2009,
         "result": "海外長編部門受賞"
@@ -3623,6 +3720,11 @@
     "status": "completed",
     "synopsis": "1349年、ドイツ黒森地方の小さな町アイフェルハイムが地図から消えた。黒死病で無人になったのだろうと片づけられてきたその出来事を、現代の歴史学者と物理学者が別々の角度から調べ直しはじめる。中世の村に不時着した異星人と、彼らを迎えた司祭の記録が、少しずつ浮かび上がってくる。信仰と科学を交差させた異色の接触もの。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "2010年版 海外篇 第1位"
+      },
       {
         "awardId": "seiun",
         "year": 2011,
@@ -4223,6 +4325,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 1990,
         "result": "第11回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1990,
+        "result": "1990年版 国内篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -4402,6 +4509,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2001,
         "result": "第22回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "2001年版 国内篇 第1位"
       }
     ],
     "externalLinks": {
@@ -4491,6 +4603,11 @@
     "synopsis": "惑星〈百合洋〉が謎の消失を遂げてから一年。近傍の惑星〈シジック〉の図像学者クドウ円は、百合洋の言語体系に隠された「見えない図形」の解明を依頼される。だがそれは、世界の認識そのものを揺るがす仕事だった。表題作を含む四編を収めた作品集で、寡作な著者の初期を代表する一冊である。言語と図像が世界の成り立ちに直結するという着想が、四編すべてに通底している。",
     "awardResults": [
       {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "2004年版 国内篇 第1位"
+      },
+      {
         "awardId": "nihon-sf-taisho",
         "year": 2005,
         "result": "第26回受賞"
@@ -4554,6 +4671,11 @@
     "status": "completed",
     "synopsis": "ホットプルームの活性化による海底隆起で、陸地の多くが水没した二十五世紀。危機を乗り越えた人類は、残された土地と海上都市で高度な情報社会を営む陸上民と、遺伝子改変によって海に適応した海上民とに分かれていた。外交官の青澄誠司は、両者の利害を調停しながら、さらなる地殻変動の予兆に向き合うことになる。",
     "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2010,
+        "result": "2010年版 国内篇 第1位"
+      },
       {
         "awardId": "nihon-sf-taisho",
         "year": 2011,
@@ -4653,6 +4775,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2013,
         "result": "第34回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2013,
+        "result": "2013年版 国内篇 第1位"
       }
     ],
     "externalLinks": {
@@ -4861,6 +4988,11 @@
         "awardId": "nihon-sf-taisho",
         "year": 2017,
         "result": "第38回受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2017,
+        "result": "2017年版 国内篇 第1位"
       }
     ],
     "externalLinks": {},
@@ -5014,6 +5146,354 @@
     ],
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「日本SF大賞」の受賞作一覧から機械抽出し、漫画・映像・評論の受賞作を除いて小説だけを採った。書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "babel-no-kaori",
+    "title": "バベルの薫り",
+    "titleKana": "ばべるのかおり",
+    "authorIds": [
+      "noa-azusa"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "esper",
+      "cyberpunk"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "二十二世紀、スペース・コロニーと月面をめぐって日本、アメリカ、ハノイ連邦が覇権を競っていた。人工衛星都市ミマナの心霊科学研究所に勤める稀代の霊能者・姉川孤悲は、心霊コンピュータの稼働に立ち会う。政治と超能力と情報技術が絡み合う舞台を、濃密な文体で描き切った長編である。日本SFのなかでも突出して装飾的な文章が特徴となっている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1991,
+        "result": "1991年版 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ランキング表から機械抽出した1位作品。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "paprika",
+    "title": "パプリカ",
+    "titleKana": "ぱぷりか",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "chuokoron-sha",
+    "themeIds": [
+      "esper",
+      "virtual-reality",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "精神医学研究所に勤める千葉敦子は、ノーベル賞級の研究者にしてサイコセラピストである。だが彼女にはもうひとつの顔があった。他人の夢と同調して無意識の領域へ入り込む夢探偵パプリカである。夢を覗く装置が盗まれたとき、現実と夢の境界が溶けはじめる。人格の多重性と無意識を主題にした代表作。夢という私的な領域が、そのまま権力闘争の場になっていく展開が読みどころである。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1993,
+        "result": "1993年版 国内篇 第1位"
+      }
+    ],
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パプリカ (小説)"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ランキング表から機械抽出した1位作品。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ada-yamada",
+    "title": "エイダ",
+    "titleKana": "えいだ",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "parallel-world",
+      "denki-sf",
+      "ai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "計算機の原型である階差機械を構想したバベッジと、その協力者で詩人バイロンの娘である数学者エイダ。二人をめぐる歴史の隙間に、メアリー・シェリーやコナン・ドイルまでが呼び込まれていく。十九世紀ロンドンを舞台に、計算機と幽霊と文学とを一本の線でつないでみせた改変歴史長編である。実在の人物と架空の事件をつなぐ手つきに、著者の伝奇作家としての力量がよく出ている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1994,
+        "result": "1994年版 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ランキング表から機械抽出した1位作品。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "lightgene-no-isan",
+    "title": "ライトジーンの遺産",
+    "titleKana": "らいとじーんのいさん",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "cyborg",
+      "near-future",
+      "genetic-engineering"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "体内の臓器が突然崩壊する現象が頻発する未来社会。かつて人工臓器の市場を独占していた巨大メーカー・ライトジーン社が消えたいま、臓器をめぐる奇怪な事件と犯罪が相次いでいた。都市の暗部を歩く主人公が、身体と所有をめぐる問いに突き当たっていく連作長編である。人工臓器という一点から、身体はどこまで自分のものかという問いを掘り下げていく。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1997,
+        "result": "1997年版 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ランキング表から機械抽出した1位作品。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "brain-valley",
+    "title": "BRAIN VALLEY",
+    "titleKana": "ぶれいんゔぁれー",
+    "authorIds": [
+      "sena-hideaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "near-future",
+      "evolution",
+      "ai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "脳の研究のため、各分野の気鋭の学者が巨大施設ブレインテックに集められた。脳科学者・孝岡護弘がそこで遭遇する奇怪な現象は、宗教体験や臨死体験とも重なっていく。このプロジェクトの真の目的は何なのか。脳科学の最前線と、神を見るという古い経験とを同じ土俵に載せた長編である。作中に膨大な参考文献を織り込み、思弁小説としての強度を確保している点も特徴である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1998,
+        "result": "1998年版 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/BRAIN VALLEY"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ランキング表から機械抽出した1位作品。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rou-vaux-no-wakusei",
+    "title": "老ヴォールの惑星",
+    "titleKana": "ろうゔぉーるのわくせい",
+    "authorIds": [
+      "ogawa-issui"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "hard-sf",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "偵察機の墜落によって、おれは惑星パラーザの海に着水した。救援要請は徒労に終わる。陸地を持たず夜も訪れない、表面積八億平方キロの海原で、自分の位置を特定することすらできない。極限状況に置かれた生命を描く四つの中短編を収めた作品集である。異環境の生態を一から組み上げる著者の持ち味が濃く出ている。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2005,
+        "result": "2005年版 国内篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ランキング表から機械抽出した1位作品。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ten-thousand-light-years",
+    "title": "故郷から10000光年",
+    "titleKana": "こきょうからいちまんこうねん",
+    "authorIds": [
+      "james-tiptree-jr"
+    ],
+    "translatorIds": [
+      "ito-norio"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "alien",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1973,
+    "jpPublishedYear": 1991,
+    "originalTitle": "Ten Thousand Light-Years from Home",
+    "status": "completed",
+    "synopsis": "粒子加速研究所の大惨事が地球を壊滅させ、ひとりの男を時間の乱流へ押し流す——そんな一編をはじめ、覆面作家として鮮烈に登場した著者の初期短編十五編を収める。異星生命との接触、性と死、認識のずれといった主題が、乾いた語り口で次々に差し出される。著者の名を決定づけた第一短編集である。作者の正体が伏せられていた時期の作品群であり、その事情もまた作品の読まれ方を左右した。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1991,
+        "result": "1991年版 海外篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ランキング表から機械抽出した1位作品。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "anubis-gates",
+    "title": "アヌビスの門",
+    "titleKana": "あぬびすのもん",
+    "authorIds": [
+      "tim-powers"
+    ],
+    "translatorIds": [
+      "otomo-bokujin"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "denki-sf",
+      "parallel-world"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1983,
+    "jpPublishedYear": 1993,
+    "originalTitle": "The Anubis Gates",
+    "status": "completed",
+    "synopsis": "1801年、エジプトを支配下に置いたイギリスは古代神の信仰を弾圧していた。魔術師の一団は、神々がまだ力を持っていた時代から彼らを現代へ呼び寄せ、イギリスを追い払おうと企てる。その術の余波で開いた時の門を通り、二十世紀の学者が十九世紀のロンドンへ落ちていく。歴史の隙間を埋める幻想の作り込みが見事な長編。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1993,
+        "result": "1993年版 海外篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ランキング表から機械抽出した1位作品。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "desolation-road",
+    "title": "火星夜想曲",
+    "titleKana": "かせいやそうきょく",
+    "authorIds": [
+      "ian-mcdonald"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "far-future",
+      "sf-fantasy"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1988,
+    "jpPublishedYear": 1997,
+    "originalTitle": "Desolation Road",
+    "status": "completed",
+    "synopsis": "テラフォーミングされた火星の砂漠を歩いていた科学者アリマンタンド博士は、時間を旅してきたという緑の人と出会う。彼が水を掘り当てた場所に、やがて「荒涼道路」と呼ばれる町が生まれる。町に流れ着いた風変わりな人々の来歴を、南米文学めいた語り口で編み上げていく連作長編である。火星という舞台を、開拓史ではなく土着的な神話の生成として描いた点が新しかった。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1997,
+        "result": "1997年版 海外篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ランキング表から機械抽出した1位作品。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "quarantine-egan",
+    "title": "宇宙消失",
+    "titleKana": "うちゅうしょうしつ",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "hard-sf",
+      "near-future",
+      "virtual-reality"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1992,
+    "jpPublishedYear": 1999,
+    "originalTitle": "Quarantine",
+    "status": "completed",
+    "synopsis": "2034年、地球の夜空から一夜にして星々が消えた。正体不明の暗黒の球体が太陽系を包み込んだのである。世界は恐慌に陥り、球体をめぐる仮説が乱れ飛ぶなか、脳にナノマシンを組み込んだ私立探偵が失踪人の捜索にあたる。量子力学の観測問題を物語の中心に据えた、著者のデビュー長編である。探偵小説の枠を使いながら、観測が世界を決めるという主題へ一直線に向かっていく。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1999,
+        "result": "1999年版 海外篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ランキング表から機械抽出した1位作品。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rise-of-endymion",
+    "title": "エンディミオンの覚醒",
+    "titleKana": "えんでぃみおんのかくせい",
+    "authorIds": [
+      "dan-simmons"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "military-sf"
+    ],
+    "seriesName": "ハイペリオン四部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "jpPublishedYear": 1999,
+    "originalTitle": "The Rise of Endymion",
+    "status": "completed",
+    "synopsis": "青年エンディミオンが少女アイネイアーを守り、地球にたどり着いてから四年。アイネイアーは救世主としての務めを果たすため、パクスの支配領域へ帰ることを決意する。〈時間の墓標〉から始まった長い物語が、宗教と人工知能と人類の未来をめぐる決着へと向かう。四部作を締めくくる完結編である。宗教組織パクスと〈テクノコア〉の思惑が、ここで一つに束ねられる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "2000年版 海外篇 第1位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ランキング表から機械抽出した1位作品。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
 ]
