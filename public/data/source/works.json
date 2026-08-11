@@ -10111,5 +10111,562 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「ハヤカワ・SFコンテスト」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mgh",
+    "title": "M.G.H. 楽園の鏡像",
+    "titleKana": "えむじーえいちらくえんのきょうぞう",
+    "authorIds": [
+      "mikumo-gakuto"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "space-development",
+      "near-future",
+      "space-colony"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "日本初の多目的宇宙ステーション〈白鳳〉で、不可解な死体が見つかる。無重力の空間をゆっくり漂うその遺体は、まるで数十メートルの高さから墜落したかのようだった。従姉妹の計略で偽装結婚をして見学に訪れていた若い研究者・鷲見崎凌が、事故か事件かを確かめようと動きはじめる。第1回日本SF新人賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 1999,
+        "result": "第1回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "immune",
+    "title": "イミューン ぼくたちの敵",
+    "titleKana": "いみゅーんぼくたちのてき",
+    "authorIds": [
+      "aoki-kazu"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "near-future",
+      "genetic-engineering",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "高校に入ったばかりの小南佑は、鳶色の髪の少年・堺不動と出会う。中学時代にいじめを受けていた佑は、その行動力に惹かれて親友と呼べる関係を築いていった。五月、佑の母が汚染され異様な姿となって死ぬ。人間に寄生して増える〈敵〉の存在を知った二人は、それに呼応するかのように変わりはじめる。第1回日本SF新人賞佳作受賞作。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 1999,
+        "result": "第1回佳作"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "perrault-the-cat",
+    "title": "ペロー・ザ・キャット全仕事",
+    "titleKana": "ぺろーざきゃっとぜんしごと",
+    "authorIds": [
+      "yoshikawa-ryotaro"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "near-future",
+      "cyberpunk",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "大いなる犯罪者パパ・フラノが支配する、欺瞞と安寧の街パレ・フラノ。その夜の裏側をすり抜け、闇のなかで起きることをすべて見ている一匹の猫がいた。近未来のフランスを舞台に、猫の視点から街の犯罪と人間模様を眺めていく連作である。誰にも属さず誰の秘密も知っている観察者を語り手に据えることで、街そのものの肖像が浮かび上がる。第2回日本SF新人賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2000,
+        "result": "第2回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dogfight",
+    "title": "ドッグファイト",
+    "titleKana": "どっぐふぁいと",
+    "authorIds": [
+      "taniguchi-hiroki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "space-colony",
+      "military-sf",
+      "esper"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "地球統合府の統治軍に占拠された植民惑星ピジョン。軍用ロボットに対抗できたのは、入植の初期から特殊な適応を重ね、犬と精神を通わせる力を得たテレパス〈犬飼い〉だけだった。犬飼いの少年ユスは、幼なじみのクルスやキューズとともに統治軍へ抗うパルチザンを結成する。愛する犬たちと生死をともにする戦いを描いた、第2回日本SF新人賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2000,
+        "result": "第2回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "marble-sodoki",
+    "title": "マーブル騒動記",
+    "titleKana": "まーぶるそうどうき",
+    "authorIds": [
+      "inoue-tsuyoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "satire-sf",
+      "near-future",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "ある日突然、牛たちが人間並みの知性を獲得した。テレビプロデューサーの御手洗は、我々を食べるなと訴える牛を担当番組に出演させる。世論は大きく動き、やがて牛の権利を定める法律まで制定されるが、社会は思わぬ方向へ転がっていく。食べることと権利をめぐる問いを、テレビ業界の内側から笑いを交えて突きつける風刺劇である。第3回日本SF新人賞受賞作。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2001,
+        "result": "第3回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yumemiru-neko",
+    "title": "夢見る猫は、宇宙に眠る",
+    "titleKana": "ゆめみるねこはうちゅうにねむる",
+    "authorIds": [
+      "yasugi-masayoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "near-future",
+      "space-development",
+      "genetic-engineering"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "火星が突然に緑化したのは、ひとりの女性の無意識がもたらしたものだった。医療ナノマシン機器の会社に勤めるキョウイチは、仕事で訪れたカウンセリング施設で、研修生のユンとその恋人マークに出会う。互いがクローンであると知るところから、地球と火星をまたぐ物語が動き出す。第5回日本SF新人賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2003,
+        "result": "第5回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rudolf-caillois",
+    "title": "ルドルフ・カイヨワの憂鬱",
+    "titleKana": "るどるふかいよわのゆううつ",
+    "authorIds": [
+      "kitakuni-koji"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "near-future",
+      "genetic-engineering",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "新生児に先天的な脳障害を引き起こすゲノム・ウイルスが広まり、合衆国は甚大な被害を受けた。被害者が胎児であるという点に、この事件のもっとも重い側面がある。弁護士カイヨワは訴訟の調査を進めるうちに、巨大な陰謀に突き当たる。近未来のハードボイルドとして書かれた、第5回日本SF新人賞佳作受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2003,
+        "result": "第5回佳作"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shumatsu-no-umi",
+    "title": "終末の海 Mysterious Ark",
+    "titleKana": "しゅうまつのうみ",
+    "authorIds": [
+      "henri-makoto"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "post-apocalypse",
+      "disaster",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "核戦争によって現代社会が崩壊したあと、少年・圭太は父やその仲間とともに大型漁船で日本を脱出し、南太平洋に浮かぶ海上基地フロート・ナインをめざしていた。だが航海のさなか、乗員が一人また一人と姿を消していく。この船はいったい何なのか。少年少女の視点で描かれた、第5回日本SF新人賞佳作受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2003,
+        "result": "第5回佳作"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "imaike-denpa",
+    "title": "今池電波聖ゴミマリア",
+    "titleKana": "いまいけでんぱせいごみまりあ",
+    "authorIds": [
+      "machii-toshio"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki-jimusho",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "財政の破綻と少子高齢化が行き着いた先の日本。ゴミ集積場は機能を止めて久しく、街は不法投棄の山に埋もれている。老人は放り出されて死に、若者は奪い合い、生まれるはずの子は解体されて売られていく。名古屋・今池を舞台に、荒みきった近未来をむき出しの暴力とともに描く。目を背けたくなる細部を積み上げながら、そこで生きる者の意地を書き込んだ第2回小松左京賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "komatsu-sakyo-sho",
+        "year": 2001,
+        "result": "第2回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kamisama-no-puzzle",
+    "title": "神様のパズル",
+    "titleKana": "かみさまのぱずる",
+    "authorIds": [
+      "kimoto-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki-jimusho",
+    "themeIds": [
+      "hard-sf",
+      "near-future",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "留年寸前の大学生である僕が担当教授から命じられたのは、不登校の女子学生・穂瑞沙羅華をゼミに参加させるという無理難題だった。天才ゆえに大学側も持て余している彼女に、宇宙を作ることはできるのかという問いをぶつけてみると、彼女はあっさりゼミに現れる。物理学を正面から扱った第3回小松左京賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "komatsu-sakyo-sho",
+        "year": 2002,
+        "result": "第3回受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神様のパズル"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kasei-dark-ballad",
+    "title": "火星ダーク・バラード",
+    "titleKana": "かせいだーくばらーど",
+    "authorIds": [
+      "ueda-sayuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki-jimusho",
+    "themeIds": [
+      "space-colony",
+      "near-future",
+      "esper"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "火星治安管理局の水島は、相棒の神月璃奈とともに凶悪犯ジョエル・タニを列車で護送していたが、奇妙な現象に巻き込まれて意識を失う。目覚めるとジョエルは逃亡し、璃奈は射殺されていた。相棒殺しの疑いをかけられた水島は独自に捜査を始め、アデリーンという名の少女と出会う。火星という舞台で人が人であることの条件を問う、第4回小松左京賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "komatsu-sakyo-sho",
+        "year": 2003,
+        "result": "第4回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "murder-iron",
+    "title": "マーダー・アイアン 絶対鋼鉄",
+    "titleKana": "まーだーあいあんぜったいこうてつ",
+    "authorIds": [
+      "tatatsu-shinichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "cyborg",
+      "near-future",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "前世紀末の好景気をそのまま引き延ばし、歪んだ経済大国として繁栄を続ける日本。だが先進国で唯一、自前のサイボーグ部隊を持たないために外交上の不利を強いられていた。そこへハロウィンの夜、死と破滅の叫びが響き渡る。上っ調子な世界の横面をひっぱたく破天荒な主人公たちを描いた、第7回日本SF新人賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2005,
+        "result": "第7回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jean-jacques",
+    "title": "ジャン=ジャックの自意識の場合",
+    "titleKana": "じゃんじゃっくのじいしきのばあい",
+    "authorIds": [
+      "kabayama-mitsuhide"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "denki-sf",
+      "parallel-world",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "一九六八年、日本人の青年医師にルソーの魂が降臨する。彼は『エミール』の理想を現実にしようと決意し、孤児院を創設した。集められた子どもたちは、世界の救い主を作り出すための実験体だった。天使が舞い、混沌が支配する濃密な幻想として書かれており、啓蒙思想の理想が実験の名のもとに歪んでいく過程が描かれる。第8回日本SF新人賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2006,
+        "result": "第8回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kurojuji-sanatorium",
+    "title": "黒十字サナトリウム",
+    "titleKana": "くろじゅうじさなとりうむ",
+    "authorIds": [
+      "nakazato-yuka"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "denki-sf",
+      "near-future",
+      "sf-fantasy"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "黒十字サナトリウムに収容された患者は、誰もが自分を吸血鬼だと思い込んでいる。天国にも地獄にもいない自分を持て余しながら、彼らは知覚が千切れていく瞬間の残像に甘美な幸福を見出していた。耽美な文体で、療養所という閉じた場所の内側と、そこに囚われた者たちの矜持を描いていく。吸血鬼という思い込みが何に由来するのかが物語を牽引する。第9回日本SF新人賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2007,
+        "result": "第9回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "uchu-saibo",
+    "title": "宇宙細胞",
+    "titleKana": "うちゅうさいぼう",
+    "authorIds": [
+      "kuroha-masato"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "disaster",
+      "alien",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "動物を食らい、人を食らい、皮だけを残して内側を満たす粘体が現れた。あらゆる場所に棲みつき、増殖を続けるその生物は、一粒でも残れば全滅させることができない。吸収と成長を重ねた粘体は東京を、日本を、そして世界を壊滅させていく。生態系の頂点が入れ替わる過程を淡々と積み上げる筆致が持ち味で、奇想を極限まで押し進めた第9回日本SF新人賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2007,
+        "result": "第9回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "keiba-no-owari",
+    "title": "競馬の終わり",
+    "titleKana": "けいばのおわり",
+    "authorIds": [
+      "sugiyama-toshihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "near-future",
+      "cyborg",
+      "genetic-engineering"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "人間の機械化が現実味を帯びてきた近未来、競馬界ではサラブレッドのサイボーグ化が決定した。生身の馬で行われる最後のダービーに向けて、調教師も騎手も馬主も、それぞれの思いを賭けて動きはじめる。競馬という文化が終わる瞬間を、そこに人生を賭けてきた男たちの側から描いている。競馬小説としても成立する精度で書かれた、第10回日本SF新人賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2008,
+        "result": "第10回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jukan-wakusei",
+    "title": "樹環惑星 ダイビング・オパリア",
+    "titleKana": "じゅかんわくせいだいびんぐおぱりあ",
+    "authorIds": [
+      "ino-takayuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "alien",
+      "hard-sf",
+      "space-colony"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "惑星オパリアの森は、自ら産み出す多様な化学物質によって会話をしている。有毒な雲をいただく低地帯と、断崖で隔てられた高地。この星で起きる異常は必ず森に原因がある。新型の森林熱症候群が広がり患者が急増するなか、生態学者シギーラは二十年ぶりにこの星へ降り立つ。第11回日本SF新人賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2009,
+        "result": "第11回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "singularity-conquest",
+    "title": "シンギュラリティ・コンクェスト 女神の誓約",
+    "titleKana": "しんぎゅらりてぃこんくぇすとめがみのせいやく",
+    "authorIds": [
+      "yamaguchi-suguru-sf"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "ai",
+      "near-future",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "二〇三〇年代、宇宙と地球の夜空が濃青から紫へと変わった。全天紫外可視光輻射現象と名づけられたそれに、人々は不安と狂騒を募らせる。研究の結果として脅威の正体が明らかになり、各国は地球軌道上の基地エデンで人工知能を開発して対処すると決めた。そこへ防衛網を破って戦闘機が現れる。第11回日本SF新人賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-shinjin",
+        "year": 2009,
+        "result": "第11回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ankoku-no-shiro",
+    "title": "暗黒の城",
+    "titleKana": "あんこくのしろ",
+    "authorIds": [
+      "arimura-toru"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki-jimusho",
+    "themeIds": [
+      "virtual-reality",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "仮想現実を使ったホラーゲーム〈ダークキャッスル3〉の制作中に、主要スタッフが相次いで変死する。ひとりは激突死、もうひとりはロシアンルーレットと、まるで自ら死を望んでいたかのような最期だった。スタッフの早川優作は、恋人でもある同僚までが死へ引き寄せられていくのを目にする。第5回小松左京賞受賞作である。",
+    "awardResults": [
+      {
+        "awardId": "komatsu-sakyo-sho",
+        "year": 2004,
+        "result": "第5回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

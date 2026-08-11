@@ -2128,5 +2128,217 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mikumo-gakuto",
+    "name": "三雲岳斗",
+    "nameKana": "みくもがくと",
+    "description": "第1回日本SF新人賞でデビューした作家。SFミステリからライトノベルまで幅広く手がける。",
+    "birthYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三雲岳斗"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "aoki-kazu",
+    "name": "青木和",
+    "nameKana": "あおきかず",
+    "description": "神戸市在住の小説家。第1回日本SF新人賞佳作でデビューした。",
+    "birthYear": 1961,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/青木和"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yoshikawa-ryotaro",
+    "name": "吉川良太郎",
+    "nameKana": "よしかわりょうたろう",
+    "description": "第2回日本SF新人賞でデビューした作家。フランスを舞台にした洒脱な作風で知られる。",
+    "birthYear": 1976,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉川良太郎"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "taniguchi-hiroki",
+    "name": "谷口裕貴",
+    "nameKana": "たにぐちひろき",
+    "description": "第2回日本SF新人賞でデビューした作家。〈犬飼い〉ものの連作で知られる。",
+    "birthYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/谷口裕貴"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "inoue-tsuyoshi",
+    "name": "井上剛",
+    "nameKana": "いのうえつよし",
+    "description": "第3回日本SF新人賞でデビューしたSF作家。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/井上剛 (SF作家)"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yasugi-masayoshi",
+    "name": "八杉将司",
+    "nameKana": "やすぎまさよし",
+    "description": "第5回日本SF新人賞でデビューした作家。意識や認知を主題にした作品を書く。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/八杉将司"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kitakuni-koji",
+    "name": "北國浩二",
+    "nameKana": "きたくにこうじ",
+    "description": "小説家・推理作家・SF作家。第5回日本SF新人賞佳作でデビューした。",
+    "birthYear": 1964,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/北國浩二"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "henri-makoto",
+    "name": "片理誠",
+    "nameKana": "へんりまこと",
+    "description": "東京都出身の小説家・SF作家。第5回日本SF新人賞佳作でデビューした。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/片理誠"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hiraya-yoshiki",
+    "name": "平谷美樹",
+    "nameKana": "ひらやよしき",
+    "description": "岩手県出身の作家。第1回小松左京賞を『エリ・エリ』で受賞した。歴史小説も手がける。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/平谷美樹"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "machii-toshio",
+    "name": "町井登志夫",
+    "nameKana": "まちいとしお",
+    "description": "第2回小松左京賞を『今池電波聖ゴミマリア』で受賞した作家。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/町井登志夫"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kimoto-shinji",
+    "name": "機本伸司",
+    "nameKana": "きもとしんじ",
+    "description": "第3回小松左京賞を『神様のパズル』で受賞した作家。物理学を題材にした作品で知られる。",
+    "birthYear": 1956,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/機本伸司"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tatatsu-shinichi",
+    "name": "タタツシンイチ",
+    "nameKana": "たたつしんいち",
+    "description": "第7回日本SF新人賞を『マーダー・アイアン 絶対鋼鉄』で受賞した作家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kabayama-mitsuhide",
+    "name": "樺山三英",
+    "nameKana": "かばやまみつひで",
+    "description": "東京都出身の小説家・SF作家。第8回日本SF新人賞でデビューした。",
+    "birthYear": 1977,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/樺山三英"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nakazato-yuka",
+    "name": "中里友香",
+    "nameKana": "なかざとゆか",
+    "description": "小説家・SF作家・推理作家・翻訳家。第9回日本SF新人賞でデビューした。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中里友香"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kuroha-masato",
+    "name": "黒葉雅人",
+    "nameKana": "くろはまさと",
+    "description": "第9回日本SF新人賞を『宇宙細胞』で受賞した作家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sugiyama-toshihiko",
+    "name": "杉山俊彦",
+    "nameKana": "すぎやまとしひこ",
+    "description": "第10回日本SF新人賞を『競馬の終わり』で受賞した作家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ino-takayuki",
+    "name": "伊野隆之",
+    "nameKana": "いのたかゆき",
+    "description": "タイ王国在住のSF作家。第11回日本SF新人賞でデビューした。",
+    "birthYear": 1961,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/伊野隆之"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yamaguchi-suguru-sf",
+    "name": "山口優",
+    "nameKana": "やまぐちすぐる",
+    "description": "第11回日本SF新人賞を『シンギュラリティ・コンクェスト 女神の誓約』で受賞した作家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "arimura-toru",
+    "name": "有村とおる",
+    "nameKana": "ありむらとおる",
+    "description": "第5回小松左京賞を『暗黒の城』で受賞した作家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
