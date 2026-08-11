@@ -70,5 +70,40 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kawade-shobo-shinsha",
+    "name": "河出書房新社",
+    "nameKana": "かわでしょぼうしんしゃ",
+    "description": "文芸書を幅広く手がける出版社。SFでは『屍者の帝国』などを刊行。",
+    "foundedYear": 1886,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/河出書房新社"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tokuma-shoten",
+    "name": "徳間書店",
+    "nameKana": "とくましょてん",
+    "description": "徳間文庫・トクマ・ノベルズを擁する出版社。『銀河英雄伝説』を最初に世に出した。",
+    "foundedYear": 1954,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/徳間書店"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sankei-shuppan",
+    "name": "サンケイ出版",
+    "nameKana": "さんけいしゅっぱん",
+    "description": "産経新聞社系の出版社。1980年代に小松左京『さよならジュピター』などを刊行した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サンケイ出版"
+    },
+    "sourceNote": "1980年代に活動した出版社で現存しない(後の扶桑社にあたる)。NDLサーチの書誌で初刊版元として確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

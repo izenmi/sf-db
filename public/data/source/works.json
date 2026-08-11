@@ -666,5 +666,561 @@
     },
     "sourceNote": "日本語版Wikipediaの作品記事で2006〜07年連載・2008年単行本化・2019年7月早川書房刊(大森望・光吉さくら・ワン・チャイ訳、立原透耶監修)を確認。ヒューゴー賞長編小説部門(2015年、ケン・リュウ英訳版)は同記事および一般報道で、第51回星雲賞海外長編部門はWikipedia「星雲賞」の一覧で確認。ドラマ化(2023年中国版・2024年Netflix版)・コミック版あり。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "reichourui-minami-e",
+    "title": "霊長類南へ",
+    "titleKana": "れいちょうるいみなみへ",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "post-apocalypse",
+      "disaster",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1969,
+    "status": "completed",
+    "synopsis": "日本と韓国の米軍基地に原爆が落ちた。たったそれだけの発端から核の応酬は歯止めを失い、世界は連鎖的な破滅へと転げ落ちていく。新聞記者の澱口は恋人とともに、南へ南へと逃げまどう群衆のひとりになる。冷戦下の均衡がひとたび崩れたら何が起きるのかを、笑いと絶望を同居させた筆致で突き詰めた終末長編。逃避行の果てに人類がどこへ行き着くのかを、感傷を排した目で見届ける。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1970,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/霊長類南へ"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tsugu-nowa-dareka",
+    "title": "継ぐのは誰か?",
+    "titleKana": "つぐのはだれか",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "evolution",
+      "ai",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1970,
+    "status": "completed",
+    "synopsis": "世界各地の大学で「誰それを殺す」という奇妙な予告が相次ぎ、そのとおりに学生が死んでいく。ヴァージニア大学でも優秀な学生チャーリイが研究中に感電死した。巨大化し複雑化した情報社会を舞台に、若者たちが連続殺人の謎を追ううち、問いはやがて「人類の次に来るものは何か」という一点へと収束していく。推理小説の形式を借りながら人類進化という主題へ踏み込んでいく構成が読みどころ。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1971,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/継ぐのは誰か?"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ishi-no-ketsumyaku",
+    "title": "石の血脈",
+    "titleKana": "いしのけつみゃく",
+    "authorIds": [
+      "hanmura-ryo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "denki-sf",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1971,
+    "status": "completed",
+    "synopsis": "古代アトランティスの謎を秘めるという壺の展示会を境に、奇怪な出来事が続発する。人妻の失踪、人間離れした力を振るう狼男、美男美女ばかりの秘密結社。巨石文明と不死者の伝承をひとつの仮説で結び直し、日本の伝奇SFという領域を切り拓いた記念碑的長編。現代の事件と超古代史を地続きにしてみせる手つきは、後続の作家に大きな影響を与えた。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1972,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/石の血脈"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kagami-no-kuni-no-alice",
+    "title": "鏡の国のアリス",
+    "titleKana": "かがみのくにのありす",
+    "authorIds": [
+      "hirose-tadashi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1972,
+    "status": "completed",
+    "synopsis": "美容整形外科医のもとを、木崎浩一と名乗る青年が訪ねてくる。自分の身体を女性のものにできないか、という奇妙な相談だった。理由を問うと木崎は、自分はこの世界と左右が逆転した世界から来たのだと語りはじめる。鏡像という一点の着想を論理的に押し進めた、著者の遺作にあたる長編。反転した世界の物理と社会をどこまで詰め切れるかに賭けた、論理の小説でもある。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1973,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鏡の国のアリス (広瀬正)"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは日本語版Wikipediaの当該記事を下敷きに独自要約した。刊行年は日本語版Wikipediaの「1972年6月に河出書房新社より書き下ろしで発刊」の記述を採り、NDLにある1970年の同名書誌は採らなかった。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ore-no-chi-wa-tanin-no-chi",
+    "title": "おれの血は他人の血",
+    "titleKana": "おれのちはたにんのち",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "esper",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1974,
+    "status": "completed",
+    "synopsis": "ふだんは小心なサラリーマンの「おれ」は、いったん怒りに火がつくと意識を失い、怪力を発揮して暴れ出す。三人のやくざを一度に叩きのめした腕を見込まれ、おれの日常は思わぬ方向へ転がっていく。暴力への衝動と小市民的な自意識のあいだで揺れる男を、ブラックユーモアで描いた長編。筒井作品のなかでも、暴力への衝動を正面から扱った一編として知られる。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1975,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nanase-futatabi",
+    "title": "七瀬ふたたび",
+    "titleKana": "ななせふたたび",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "esper",
+      "near-future"
+    ],
+    "seriesName": "七瀬三部作",
+    "origin": "jp",
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "人の心を読んでしまうテレパス、火田七瀬。家政婦を辞めた彼女は旅の途中で、予知能力を持つ少年や、時を渡る青年といった同類たちと出会う。異能ゆえに社会から隠れて生きる者たちのささやかな連帯と、それを許さない世間の圧力を描く、著者の代表的な超能力連作。『家族八景』の続編にあたり、のちに『エディプスの恋人』へと引き継がれていく。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1976,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "drama": true,
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/七瀬ふたたび"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。『家族八景』に続くシリーズ第2作にあたることを日本語版Wikipediaで確認した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "saikoro-tokkotai",
+    "title": "サイコロ特攻隊",
+    "titleKana": "さいころとっこうたい",
+    "authorIds": [
+      "kanbe-musashi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "near-future",
+      "ai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1976,
+    "status": "completed",
+    "synopsis": "近未来、戦争に突入した日本は海上を封鎖され、追い詰められていく。打開策を求められたコンピュータが最良の作戦としてはじき出した答えは、よりによって「特攻」だった。合理性の極みであるはずの機械が最も不合理な結論に達するという皮肉を軸に、組織と個人を風刺した長編。短編として書いたものを長編へ書き改めたという成立の経緯を持つ。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1977,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shometsu-no-korin",
+    "title": "消滅の光輪",
+    "titleKana": "しょうめつのこうりん",
+    "authorIds": [
+      "mayumura-taku"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "disaster"
+    ],
+    "seriesName": "司政官シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "植民惑星ラクザーンの太陽が近く新星化する。派遣された司政官マセはその事実を公表して緊急指揮権を握るが、全住民の脱出計画は初手から難航した。移住先を決める住民投票、宇宙船の手配、避難費用の徴収。破局そのものではなく、破局に対処する行政の手続きを克明に描いた「司政官」シリーズの代表作。破局を前にした人間の集団の描き方が、この長編の主題になっている。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1979,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/司政官"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hoseki-dorobo",
+    "title": "宝石泥棒",
+    "titleKana": "ほうせきどろぼう",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1980,
+    "status": "completed",
+    "synopsis": "甲虫を守護神とする少年戦士ジローは、禁忌を破って従姉妹のランを愛してしまう。その想いを遂げるため、彼は女呪術師ザルアーや「狂人」チャクラとともに、失われた宝石「月」を求めて旅に出る。異形の生きものが跋扈する変容した世界を舞台に、神話的な語りで綴られる遠未来の冒険譚。絢爛たるイメージを次々に繰り出す、著者の初期を代表する一作である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1980,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kaseijin-senshi",
+    "title": "火星人先史",
+    "titleKana": "かせいじんせんし",
+    "authorIds": [
+      "kawamata-chiaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "evolution",
+      "genetic-engineering"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "火星への入植にあたり、人類は単純労働力として、また非常時の蛋白源として、高度に進化させたカンガルーを大量に送り込んでいた。だがカンガルーたちはしだいに自我を育て、人間よりもはるかに深く火星の土地になじんでいく。「先住者」とは誰かを問い直す植民惑星もの。人類が持ち込んだ生態系がやがて人類を追い越していく過程を、静かな筆致で描く。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1981,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kirikirijin",
+    "title": "吉里吉里人",
+    "titleKana": "きりきりじん",
+    "authorIds": [
+      "inoue-hisashi"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "near-future",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "東北の一寒村が突如「吉里吉里国」として日本からの独立を宣言した。政府は仰天して自衛隊を出動させ、国民の目はテレビに釘付けになる。木炭バスを改造した国会議事堂車が巡回し、独自の言語と通貨と医療が動きだす。言葉遊びを詰め込みながら国家とは何かを問う、大部の風刺長編。東北の言葉による独立宣言そのものが、この作品の最大の武器になっている。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1982,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉里吉里人"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sayonara-jupiter",
+    "title": "さよならジュピター",
+    "titleKana": "さよならじゅぴたー",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "sankei-shuppan",
+    "themeIds": [
+      "space-development",
+      "hard-sf",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "synopsis": "火星で見つかった地上絵に隠された宇宙からのメッセージの解読が進むなか、木星を第二の太陽に変える計画の主任・本田は、太陽系開発機構から戦慄すべき報告を受け取る。二年後、ブラックホールが太陽を直撃する恐れがあるというのだ。太陽系規模の危機と巨大工学を描いたハードSF。木星を燃やすという発想の大きさと、それを支える技術描写の細かさが読みどころ。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1983,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/さよならジュピター"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。1984年に著者自身が製作・脚本を手がけた同名映画が公開されている。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "teki-wa-kaizoku-kaizokuban",
+    "title": "敵は海賊・海賊版",
+    "titleKana": "てきはかいぞくかいぞくばん",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "ai"
+    ],
+    "seriesName": "敵は海賊シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1983,
+    "status": "completed",
+    "synopsis": "著述支援用の人工知能CAWシステムが出力したという体裁で、悪名高い宇宙海賊・匋冥の物語が語られる。火星の砂漠の町サベイジのバー「軍神」を舞台に、海賊課の刑事たちと海賊の追いつ追われつが始まる。饒舌な語りと理屈っぽいギャグで押し切る、長寿シリーズの一冊。人工知能が語り手を務めるという枠組み自体が、この作品の仕掛けになっている。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1984,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/敵は海賊"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dirty-pair-no-daigyakuten",
+    "title": "ダーティペアの大逆転",
+    "titleKana": "だーてぃぺあのだいぎゃくてん",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera"
+    ],
+    "seriesName": "ダーティペアシリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "鉱業惑星チャクラで起きた鉱山技師の負傷事件を調べるため、トラブルコンサルタントのケイとユリが派遣される。だが現場では鉱山のオーナー、市長、宗教集団の長という三者の思惑が交錯していた。行く先々を破壊しつくす名コンビの活躍を描く、日本製スペースオペラの代表シリーズ第2作。破壊の規模と当人たちの無自覚さの落差が、このシリーズの持ち味である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1986,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダーティペア"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "prism-kambayashi",
+    "title": "プリズム",
+    "titleKana": "ぷりずむ",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "ai",
+      "dystopia",
+      "esper"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "高度三万メートルに浮かび、人間の生活のあらゆる面を管理する超コンピュータ「浮遊都市制御体」。完璧に見えるその体制のなかで、ただひとり制御体と意思を通わせられない少年がいた。五芒星形の瞳を持つ彼は、この世界では存在を許されないはずだった。管理社会と個の断絶を描く長編。言葉と意識をめぐる著者の主題が、もっとも明瞭な形で現れた一作といえる。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1987,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ginga-eiyu-densetsu",
+    "title": "銀河英雄伝説",
+    "titleKana": "ぎんがえいゆうでんせつ",
+    "authorIds": [
+      "tanaka-yoshiki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "space-opera",
+      "military-sf"
+    ],
+    "seriesName": "銀河英雄伝説",
+    "origin": "jp",
+    "firstPublishedYear": 1982,
+    "status": "completed",
+    "volumeCount": 10,
+    "synopsis": "人類が銀河へ広がって数世紀。専制の銀河帝国と民主共和政の自由惑星同盟は、百五十年におよぶ戦争を続けていた。帝国に現れた若き天才ラインハルトと、同盟の「不敗の魔術師」ヤン・ウェンリー。二人の指揮官を軸に、戦術と政治と思想が絡み合う興亡の叙事詩が展開する。敗れる側にも十分な理を与える筆致が、長く読み継がれてきた理由になっている。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1988,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "anime": true,
+      "comic": true,
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀河英雄伝説"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。本伝全10巻のシリーズに対する受賞のため、シリーズを1エントリとして登録した。初刊は徳間書店(トクマ・ノベルズ)で、NDLサーチの最古書誌が1982年であることを確認した。現在は創元SF文庫版が流通している。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "babylonia-wave",
+    "title": "バビロニア・ウェーブ",
+    "titleKana": "ばびろにあうぇーぶ",
+    "authorIds": [
+      "hori-akira"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "hard-sf",
+      "space-development"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "銀河面を垂直に貫く、直径千二百万キロ・全長五千三百八十光年におよぶ巨大レーザー光束バビロニア・ウェーブ。太陽系から三光日の距離に発見されたこの構造が、いつから、なぜ存在するのかは誰にもわからない。無尽蔵のエネルギー源と化した謎の光束をめぐるハードSFの代表作。人類の技術では到底届かない規模の構造物を前にした、認識の物語でもある。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1989,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jogen-no-tsuki-wo-taberu-shishi",
+    "title": "上弦の月を喰べる獅子",
+    "titleKana": "じょうげんのつきをたべるしし",
+    "authorIds": [
+      "yumemakura-baku"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "evolution",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "螺旋を蒐集することに取り憑かれた男と、岩手の詩人。二人はそれぞれの問いを抱えて、宇宙の階梯を昇る旅に出る。曼荼羅めいた構造と螺旋のイメージを積み重ね、生命と宇宙の根源を問う長大な物語。著者みずから代表作と語る、宗教的な色彩の濃い長編SFである。詩と図像を本文に織り込んだ、造本そのものが凝った一冊としても知られる。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1990,
+        "result": "日本長編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/上弦の月を喰べる獅子"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

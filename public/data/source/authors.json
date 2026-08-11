@@ -208,5 +208,137 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hanmura-ryo",
+    "name": "半村良",
+    "nameKana": "はんむらりょう",
+    "description": "『石の血脈』『産霊山秘録』などで伝奇SFという領域を切り拓いた作家。",
+    "birthYear": 1933,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/半村良"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hirose-tadashi",
+    "name": "広瀬正",
+    "nameKana": "ひろせただし",
+    "description": "『マイナス・ゼロ』『鏡の国のアリス』など、時間と論理を扱う作品を残した作家。没後に評価が高まった。",
+    "birthYear": 1924,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/広瀬正"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kanbe-musashi",
+    "name": "かんべむさし",
+    "nameKana": "かんべむさし",
+    "description": "関西を拠点に、風刺とユーモアの効いたSFを書き続ける作家。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/かんべむさし"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mayumura-taku",
+    "name": "眉村卓",
+    "nameKana": "まゆむらたく",
+    "description": "「司政官」シリーズやジュブナイルSFで知られる作家。組織と個人の関係を描き続けた。",
+    "birthYear": 1934,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/眉村卓"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yamada-masaki",
+    "name": "山田正紀",
+    "nameKana": "やまだまさき",
+    "description": "『神狩り』でデビューし、SFからミステリまで旺盛に書き分ける作家。",
+    "birthYear": 1950,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山田正紀"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kawamata-chiaki",
+    "name": "川又千秋",
+    "nameKana": "かわまたちあき",
+    "description": "『火星人先史』『幻詩狩り』などで知られる作家・SF評論家。",
+    "birthYear": 1948,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/川又千秋"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "inoue-hisashi",
+    "name": "井上ひさし",
+    "nameKana": "いのうえひさし",
+    "description": "戯曲・小説の両面で活躍した作家。『吉里吉里人』で星雲賞と日本SF大賞を受賞した。",
+    "birthYear": 1934,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/井上ひさし"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "takachiho-haruka",
+    "name": "高千穂遙",
+    "nameKana": "たかちほはるか",
+    "description": "『クラッシャージョウ』『ダーティペア』でスペースオペラを日本に定着させた作家。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高千穂遙"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tanaka-yoshiki",
+    "name": "田中芳樹",
+    "nameKana": "たなかよしき",
+    "description": "『銀河英雄伝説』『アルスラーン戦記』で知られる作家。歴史小説的な語りを持ち味とする。",
+    "birthYear": 1952,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田中芳樹"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hori-akira",
+    "name": "堀晃",
+    "nameKana": "ほりあきら",
+    "description": "ハードSFの書き手として知られる作家。『太陽風交点』『バビロニア・ウェーブ』など。",
+    "birthYear": 1944,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/堀晃"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yumemakura-baku",
+    "name": "夢枕獏",
+    "nameKana": "ゆめまくらばく",
+    "description": "『陰陽師』『キマイラ』シリーズなど、伝奇・格闘小説を中心に幅広く書く作家。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夢枕獏"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

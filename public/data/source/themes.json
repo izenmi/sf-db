@@ -156,5 +156,15 @@
     "name": "語り手の正体",
     "description": "語り手が何者かということ自体が仕掛けになっている作品。",
     "spoiler": true
+  },
+  {
+    "id": "denki-sf",
+    "name": "伝奇SF",
+    "description": "古代文明・伝承・オカルトをSF的な仮説で読み替える、日本独自の系譜。"
+  },
+  {
+    "id": "satire-sf",
+    "name": "風刺SF",
+    "description": "現実の社会や制度を戯画化して批評する作品。"
   }
 ]
