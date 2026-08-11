@@ -576,5 +576,63 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "miki-yoko",
+    "name": "幹遥子",
+    "nameKana": "みきようこ",
+    "description": "英米のSFを訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kaneko-tsukasa",
+    "name": "金子司",
+    "nameKana": "かねこつかさ",
+    "description": "英米のSFを訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ichida-izumi",
+    "name": "市田泉",
+    "nameKana": "いちだいずみ",
+    "description": "英米のSF・ファンタジーを訳した翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/市田泉"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "misumi-kazuyo",
+    "name": "三角和代",
+    "nameKana": "みすみかずよ",
+    "description": "英米の小説を訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ito-makoto",
+    "name": "伊藤真",
+    "nameKana": "いとうまこと",
+    "description": "英語圏の小説を訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "saito-eiji",
+    "name": "斎藤英治",
+    "nameKana": "さいとうえいじ",
+    "description": "英文学者・翻訳家・映画評論家。マーガレット・アトウッドの紹介で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/斎藤英治 (英文学者)"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

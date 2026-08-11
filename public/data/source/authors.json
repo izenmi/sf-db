@@ -1629,5 +1629,145 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "greg-bear",
+    "name": "グレッグ・ベア",
+    "nameKana": "べあぐれっぐ",
+    "description": "『ブラッド・ミュージック』『ダーウィンの使者』などで知られるアメリカの作家。生物学を扱ったハードSFで知られる。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グレッグ・ベア"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nicola-griffith",
+    "name": "ニコラ・グリフィス",
+    "nameKana": "ぐりふぃすにこら",
+    "description": "イギリス出身の作家。SFと歴史小説の両方で評価され、ネビュラ賞やラムダ文学賞を受けた。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ニコラ・グリフィス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "elizabeth-moon",
+    "name": "エリザベス・ムーン",
+    "nameKana": "むーんえりざべす",
+    "description": "海兵隊での勤務経験を持つアメリカの作家。ミリタリーSFと、自閉症を扱った作品で知られる。",
+    "birthYear": 1945,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エリザベス・ムーン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jack-mcdevitt",
+    "name": "ジャック・マクデヴィット",
+    "nameKana": "まくでゔぃっとじゃっく",
+    "description": "〈アレックス・ベネディクト〉シリーズで知られるアメリカの作家。宇宙考古学を軸にした作風で知られる。",
+    "birthYear": 1935,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジャック・マクデヴィット"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jeff-vandermeer",
+    "name": "ジェフ・ヴァンダミア",
+    "nameKana": "ゔぁんだみあじぇふ",
+    "description": "〈サザーン・リーチ〉三部作で知られるアメリカの作家。ニュー・ウィアードの代表的な書き手のひとり。",
+    "birthYear": 1968,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "charlie-jane-anders",
+    "name": "チャーリー・ジェーン・アンダーズ",
+    "nameKana": "あんだーずちゃーりーじぇーん",
+    "description": "SF情報サイトの編集者としても知られるアメリカの作家。魔術と科学を同じ物語に同居させる作風で知られる。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/チャーリー・ジェーン・アンダーズ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "emily-tesh",
+    "name": "エミリー・テッシュ",
+    "nameKana": "てっしゅえみりー",
+    "description": "イギリスの作家。中編連作でデビューし、初の長編『宙の復讐者』でヒューゴー賞を受けた。",
+    "birthYear": 1990,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "margaret-atwood",
+    "name": "マーガレット・アトウッド",
+    "nameKana": "あとうっどまーがれっと",
+    "description": "カナダを代表する作家・詩人。『侍女の物語』をはじめ、思弁小説と呼ぶ作品群でも知られる。",
+    "birthYear": 1939,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マーガレット・アトウッド"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jeff-noon",
+    "name": "ジェフ・ヌーン",
+    "nameKana": "ぬーんじぇふ",
+    "description": "『ヴァート』でクラーク賞を受けたイギリスの作家。音楽とドラッグ文化を取り込んだ作風で知られる。",
+    "birthYear": 1957,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェフ・ヌーン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "amitav-ghosh",
+    "name": "アミタヴ・ゴーシュ",
+    "nameKana": "ごーしゅあみたゔ",
+    "description": "インドの作家。歴史と植民地をめぐる小説で知られ、SF的な仕掛けを用いた作品もある。",
+    "birthYear": 1956,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アミタヴ・ゴーシュ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "christopher-priest",
+    "name": "クリストファー・プリースト",
+    "nameKana": "ぷりーすとくりすとふぁー",
+    "description": "『奇術師』『双生児』などで知られるイギリスの作家。事実と虚構の境を揺らす構成で知られる。",
+    "birthYear": 1943,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クリストファー・プリースト"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "geoff-ryman",
+    "name": "ジェフ・ライマン",
+    "nameKana": "らいまんじぇふ",
+    "description": "カナダ生まれでイギリスを拠点とする作家。実在の土地と人々を丁寧に描くSFで知られる。",
+    "birthYear": 1951,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェフ・ライマン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

@@ -2955,6 +2955,11 @@
         "result": "長編小説部門受賞"
       },
       {
+        "awardId": "pkd",
+        "year": 1985,
+        "result": "受賞"
+      },
+      {
         "awardId": "seiun",
         "year": 1987,
         "result": "海外長編部門受賞"
@@ -3353,6 +3358,11 @@
     "status": "completed",
     "synopsis": "1891年、時間航行家はふたたび未来へ旅立った。最初の旅で出会ったエロイ族のウィーナを救うため、西暦80万2701年をめざしてマシンを再起動したのである。だが彼が辿り着いたのは、前と同じ未来ではなかった。ウェルズ『タイム・マシン』の公認続編として書かれ、多世界解釈まで取り込んで時間旅行の理屈を突き詰めた長編である。",
     "awardResults": [
+      {
+        "awardId": "pkd",
+        "year": 1997,
+        "result": "受賞"
+      },
       {
         "awardId": "sf-ga-yomitai",
         "year": 1998,
@@ -3941,6 +3951,11 @@
     "status": "completed",
     "synopsis": "はるかな未来、強大な専制国家ラドチは人類宇宙を併呑して版図を広げてきた。かつて巨大宇宙艦の人工知能であり、無数の属躰を同時に操っていた存在が、いまはただ一体の身体に閉じ込められて復讐の旅を続けている。人称と性別の扱いそのものを仕掛けに用い、英米の主要SF賞を席巻したデビュー長編である。一人称の複数性という語りの実験が、そのまま主題に直結している。",
     "awardResults": [
+      {
+        "awardId": "clarke",
+        "year": 2014,
+        "result": "受賞"
+      },
       {
         "awardId": "hugo",
         "year": 2014,
@@ -5477,6 +5492,11 @@
     "synopsis": "1801年、エジプトを支配下に置いたイギリスは古代神の信仰を弾圧していた。魔術師の一団は、神々がまだ力を持っていた時代から彼らを現代へ呼び寄せ、イギリスを追い払おうと企てる。その術の余波で開いた時の門を通り、二十世紀の学者が十九世紀のロンドンへ落ちていく。歴史の隙間を埋める幻想の作り込みが見事な長編。",
     "awardResults": [
       {
+        "awardId": "pkd",
+        "year": 1984,
+        "result": "受賞"
+      },
+      {
         "awardId": "sf-ga-yomitai",
         "year": 1993,
         "result": "1993年版 海外篇 第1位"
@@ -6638,6 +6658,11 @@
     "status": "completed",
     "synopsis": "東欧のどこかにある都市国家ベジェルとウル・コーマは、地理的にほぼ同じ場所をモザイク状に分け合っている。住民は幼いころから隣国の風景を見ないよう躾けられ、境界を越えることは重罪とされていた。ベジェル警察のボルル警部補は、二国にまたがる殺人事件を追ううちに、封印された歴史へ足を踏み入れていく。異形の設定を持つ警察小説である。",
     "awardResults": [
+      {
+        "awardId": "clarke",
+        "year": 2010,
+        "result": "受賞"
+      },
       {
         "awardId": "hugo",
         "year": 2010,
@@ -7892,6 +7917,796 @@
     ],
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "moving-mars",
+    "title": "火星転移",
+    "titleKana": "かせいてんい",
+    "authorIds": [
+      "greg-bear"
+    ],
+    "translatorIds": [
+      "onoda-kazuko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "hard-sf",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1993,
+    "jpPublishedYear": 1997,
+    "originalTitle": "Moving Mars",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "火星への移民が始まってから百年あまりが過ぎた二十二世紀後半。火星の市民はナノテクノロジーを程よく取り入れた共同体を築き、独自の暮らしを楽しんでいた。だが独立憲法の制定と政治的統一へ動き出したそのとき、地球は火星を従属させ搾取するための策を密かに進めていた。物理学の新発見が両者の関係を一変させる長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1995,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "terminal-experiment",
+    "title": "ターミナル・エクスペリメント",
+    "titleKana": "たーみなるえくすぺりめんと",
+    "authorIds": [
+      "robert-j-sawyer"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "ai",
+      "near-future",
+      "virtual-reality"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1995,
+    "jpPublishedYear": 1997,
+    "originalTitle": "The Terminal Experiment",
+    "status": "completed",
+    "synopsis": "生体医工学者のピーター・ホブスンは、学生時代に立ち会った臓器摘出の記憶に長く苦しめられてきた。心臓がまだ動いていたのではないか。死の瞬間を突き止めようとする彼は、人間の意識を計算機上に写し取る実験に踏み込む。作られた三つの人格のうち一つが暴走したとき、彼は自らの手で作ったものと向き合うことになる。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1996,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "slow-river",
+    "title": "スロー・リバー",
+    "titleKana": "すろーりばー",
+    "authorIds": [
+      "nicola-griffith"
+    ],
+    "translatorIds": [
+      "miki-yoko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "genetic-engineering",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1995,
+    "jpPublishedYear": 1998,
+    "originalTitle": "Slow River",
+    "status": "completed",
+    "synopsis": "遺伝子改変細菌による水処理事業で財を成した一族の娘ロアは、後継者としての教育を受けて育った。ある日誘拐された彼女を、家族は身代金を払って救おうとしない。逃れた先で出会った女スパナーのもとに身を寄せ、名を捨てて生きはじめる。やがて彼女は下水処理場の作業員として働きながら、自分の足で立つ道を探しはじめる。三つの時間軸を交互に配した構成で、生まれと自立を描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1997,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "moon-and-the-sun",
+    "title": "太陽の王と月の妖獣",
+    "titleKana": "たいようのおうとつきのようじゅう",
+    "authorIds": [
+      "vonda-mcintyre"
+    ],
+    "translatorIds": [
+      "miki-yoko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alternate-history",
+      "sf-fantasy",
+      "first-contact"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "jpPublishedYear": 2000,
+    "originalTitle": "The Moon and the Sun",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "十七世紀フランス、太陽王ルイ十四世の宮廷。植民地育ちの娘マリー=ジョゼフは、王の姪に仕える侍女として宮廷に上がる。自然哲学者である兄イヴが王の命で連れ帰ったのは、絶滅の危機にある海の生き物だった。人語を解するかもしれないその存在をめぐって、宮廷の思惑が渦を巻く。史実の隙間に一種族を置いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 1998,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "forever-peace",
+    "title": "終わりなき平和",
+    "titleKana": "おわりなきへいわ",
+    "authorIds": [
+      "joe-haldeman"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "military-sf",
+      "near-future",
+      "cyborg"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "jpPublishedYear": 1999,
+    "originalTitle": "Forever Peace",
+    "status": "completed",
+    "synopsis": "二〇四三年、先進国の軍は遠隔操作の戦闘機械ソルジャーボーイを繰り出し、途上国のゲリラと際限のない戦争を続けていた。操縦者は神経を直結され、十人ほどで意識を共有する。物理学者でもある操縦者ジュリアンは、その接続を長く続けると人が人を殺せなくなるという事実に行き当たる。『終りなき戦い』とは別の未来を描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 1998,
+        "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "nebula",
+        "year": 1999,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "to-say-nothing-of-the-dog",
+    "title": "犬は勘定に入れません",
+    "titleKana": "いぬはかんじょうにいれません",
+    "authorIds": [
+      "connie-willis"
+    ],
+    "translatorIds": [
+      "omori-nozomi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "near-future",
+      "satire-sf"
+    ],
+    "seriesName": "オックスフォード大学史学部",
+    "origin": "overseas",
+    "firstPublishedYear": 1997,
+    "jpPublishedYear": 2004,
+    "originalTitle": "To Say Nothing of the Dog",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "過去への時間旅行が実現し、オックスフォード大学は空襲で焼けたコヴェントリー大聖堂の復元計画に協力している。史学部の院生ネッドは、聖堂にあったという装飾品を探して十九世紀のイギリスへ送り込まれた。時間旅行の疲労で朦朧としたまま、彼はテムズ川のボート旅と貴族の屋敷の騒動に巻き込まれていく。喜劇仕立ての一作である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 1999,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "deepness-in-the-sky",
+    "title": "最果ての銀河船団",
+    "titleKana": "さいはてのぎんがせんだん",
+    "authorIds": [
+      "vernor-vinge"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "alien",
+      "first-contact"
+    ],
+    "seriesName": "〈知の果て〉宇宙",
+    "origin": "overseas",
+    "firstPublishedYear": 1999,
+    "jpPublishedYear": 2002,
+    "originalTitle": "A Deepness in the Sky",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "二百五十年のうち二百十五年は活動を止めてしまう異常な恒星オンオフ。その周囲を回る惑星に、知的な蜘蛛型生命が住んでいることが判明する。交易を旨とするチェンホーと、人心を操る技術を持つ抑圧者エマージェントの二つの船団が、この星を目当てに集まってきた。異星文明の発展と人間側の権力闘争が並行して描かれる長編である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 2000,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "darwins-radio",
+    "title": "ダーウィンの使者",
+    "titleKana": "だーうぃんのししゃ",
+    "authorIds": [
+      "greg-bear"
+    ],
+    "translatorIds": [
+      "omori-nozomi"
+    ],
+    "publisherId": "sony-magazines",
+    "themeIds": [
+      "genetic-engineering",
+      "evolution",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1999,
+    "jpPublishedYear": 2000,
+    "originalTitle": "Darwin's Radio",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "ヒトの遺伝子に眠っていた古いウイルスが目を覚まし、SHEVAと名づけられた。感染した胎児は流産に終わるが、そのあとに続く妊娠では、これまでの人類とは異なる特徴を備えた子が生まれてくる。疫病なのか、それとも進化の跳躍なのか。研究者たちの追跡と、恐慌に陥った社会や政府の反応が交互に描かれていく長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 2001,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "speed-of-dark",
+    "title": "くらやみの速さはどれくらい",
+    "titleKana": "くらやみのはやさはどれくらい",
+    "authorIds": [
+      "elizabeth-moon"
+    ],
+    "translatorIds": [
+      "obi-fusa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "genetic-engineering",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "jpPublishedYear": 2004,
+    "originalTitle": "The Speed of Dark",
+    "status": "completed",
+    "synopsis": "自閉症が治療できるようになった近未来。治療を受けられなかった最後の世代であるルウは、製薬会社で働きフェンシングを楽しみながら、自分なりに充実した日々を送っていた。だがある日、上司から新しい治療法の被験者になるよう迫られる。光の前には必ず闇がある、ならば闇のほうが速いのではないか。彼の一人称で語られる長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 2004,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "camouflage",
+    "title": "擬態―カムフラージュ―",
+    "titleKana": "ぎたいかむふらーじゅ",
+    "authorIds": [
+      "joe-haldeman"
+    ],
+    "translatorIds": [
+      "kaneko-tsukasa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "near-future",
+      "evolution"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2004,
+    "jpPublishedYear": 2007,
+    "originalTitle": "Camouflage",
+    "status": "completed",
+    "synopsis": "人類が現れるはるか以前から、姿を自在に変えられる不死の異星生命が二体、互いの存在も自らの目的も知らないまま地球で暮らしてきた。二〇一九年、サモア沖の海底から正体不明の遺物が発見される。この発見が二体を引き寄せ、長い時間を隔てた出会いへとつながっていく。擬態する者の視点から人間社会を眺めた長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 2006,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "seeker",
+    "title": "探索者",
+    "titleKana": "たんさくしゃ",
+    "authorIds": [
+      "jack-mcdevitt"
+    ],
+    "translatorIds": [
+      "kaneko-hiroshi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "space-development"
+    ],
+    "seriesName": "アレックス・ベネディクト",
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2008,
+    "originalTitle": "Seeker",
+    "status": "completed",
+    "synopsis": "人類が無数の惑星へ広がってから一万年ほど先の未来。骨董商のアレックス・ベネディクトと相棒のチェイスは、放棄された基地や漂流する宇宙船から価値ある品を探し出す宇宙考古学者でもある。ある日持ち込まれた古い杯が、九千年前に消息を絶った植民船〈シーカー〉のものだと判明する。失われた植民地を追う探索行である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 2007,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rainbows-end",
+    "title": "レインボーズ・エンド",
+    "titleKana": "れいんぼーずえんど",
+    "authorIds": [
+      "vernor-vinge"
+    ],
+    "translatorIds": [
+      "akao-hideko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "near-future",
+      "virtual-reality",
+      "ai"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "jpPublishedYear": 2009,
+    "originalTitle": "Rainbows End",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "医療技術の進歩によって、アルツハイマー病だったロバート・グウは記憶と身体を取り戻していく。だが目覚めた世界では、あらゆる物が網につながり、現実に情報を重ねて見る技術が当たり前になっていた。かつて高名な詩人であり、人を傷つけることを厭わなかった老人は、高校に通い直しながら新しい世界を学び直すことになる。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 2007,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "redshirts",
+    "title": "レッドスーツ",
+    "titleKana": "れっどすーつ",
+    "authorIds": [
+      "john-scalzi"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "satire-sf",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2012,
+    "jpPublishedYear": 2014,
+    "originalTitle": "Redshirts",
+    "status": "completed",
+    "synopsis": "宇宙艦隊の旗艦イントレピッドに配属された新人アンドリュー・ダールは、着任早々おかしなことに気づく。上陸任務のたびに下級乗員だけが必ず死に、幹部は決して死なないのだ。生き残った古参兵は物陰に隠れて任務を避けている。自分たちは何かに操られているのではないか。宇宙冒険ものの約束事そのものを笑う長編である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 2013,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "2312",
+    "title": "2312 太陽系動乱",
+    "titleKana": "にさんいちにたいようけいどうらん",
+    "authorIds": [
+      "kim-stanley-robinson"
+    ],
+    "translatorIds": [
+      "kaneko-hiroshi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-colony",
+      "hard-sf",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2012,
+    "jpPublishedYear": 2014,
+    "originalTitle": "2312",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "二三一二年、人類は太陽系のあちこちに住みついている。水星では、灼熱の日射から逃れ続けるために巨大な軌道を走る都市ターミネーターが動いていた。芸術家のスワンは、都市を築いた祖母の急死をきっかけに、その死の裏にあるものを追いはじめる。小惑星を刳り抜いた自然保護区など、太陽系規模の生活を描き込んだ長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 2013,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "annihilation",
+    "title": "全滅領域",
+    "titleKana": "ぜんめつりょういき",
+    "authorIds": [
+      "jeff-vandermeer"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "alien",
+      "near-future"
+    ],
+    "seriesName": "サザーン・リーチ三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "jpPublishedYear": 2014,
+    "originalTitle": "Annihilation",
+    "status": "completed",
+    "synopsis": "ある日突然この世界に現れ、じわじわと広がり続ける〈エリアX〉。内部では生態系が異様な変化を遂げていた。監視機構サザーン・リーチが送り込んだ十二次調査隊は、生物学者ら四名の女性で構成されている。地図にない構造物を見つけた彼女たちは、そこに棲む何かの気配を感じ取る。引き返すべきか、さらに奥へ進むべきか。無事に帰還できた隊はこれまで一つもない。生物学者の手記という体裁で語られる三部作の第一作である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 2015,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/全滅領域"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "all-the-birds-in-the-sky",
+    "title": "空のあらゆる鳥を",
+    "titleKana": "そらのあらゆるとりを",
+    "authorIds": [
+      "charlie-jane-anders"
+    ],
+    "translatorIds": [
+      "ichida-izumi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "sf-fantasy",
+      "near-future",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "jpPublishedYear": 2020,
+    "originalTitle": "All the Birds in the Sky",
+    "status": "completed",
+    "synopsis": "魔法使いの少女パトリシアと、天才的な科学少年ローレンス。並外れた才能ゆえに周囲から浮いていた二人は、互いだけを理解者として友情を育んだ。だが道は分かれ、彼女は魔術の共同体へ、彼は技術者の集団へと進む。気候の崩壊が進み世界が終わりに向かうとき、二人は再び向き合うことになる。魔術と科学を同居させた長編である。",
+    "awardResults": [
+      {
+        "awardId": "nebula",
+        "year": 2017,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "some-desperate-glory",
+    "title": "宙の復讐者",
+    "titleKana": "そらのふくしゅうしゃ",
+    "authorIds": [
+      "emily-tesh"
+    ],
+    "translatorIds": [
+      "kaneko-hiroshi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "space-colony",
+      "alternate-history"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2023,
+    "jpPublishedYear": 2025,
+    "originalTitle": "Some Desperate Glory",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "地球を滅ぼした異星人への復讐だけを胸に、キアは人類最後の拠点ガイア・ステーションで過酷な戦闘訓練に明け暮れてきた。だが自らが信じてきた司令部の言葉が偽りだと知ったとき、彼女は拠点を捨てて旅立つ。たどり着いたのは、地球が滅びなかったもうひとつの世界だった。刷り込まれた価値観を一つずつ剥がしていく少女の物語である。",
+    "awardResults": [
+      {
+        "awardId": "hugo",
+        "year": 2024,
+        "result": "長編小説部門受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "handmaids-tale",
+    "title": "侍女の物語",
+    "titleKana": "じじょのものがたり",
+    "authorIds": [
+      "margaret-atwood"
+    ],
+    "translatorIds": [
+      "saito-eiji"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "gender-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1985,
+    "jpPublishedYear": 1990,
+    "originalTitle": "The Handmaid's Tale",
+    "status": "completed",
+    "synopsis": "宗教右派のクーデターによって成立した国ギレアデでは、女性は財産も読み書きも奪われ、役割ごとに分類されていた。侍女と呼ばれる階級のオブフレッドは、司令官の子を産むための道具として扱われている。監視と処刑の恐怖のなか、彼女は引き離された娘との再会を願い、従順を装って機会をうかがう。近未来のディストピア小説である。",
+    "awardResults": [
+      {
+        "awardId": "clarke",
+        "year": 1987,
+        "result": "受賞"
+      }
+    ],
+    "mediaMix": {
+      "movie": true,
+      "drama": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/侍女の物語"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "vurt",
+    "title": "ヴァート",
+    "titleKana": "ゔぁーと",
+    "authorIds": [
+      "jeff-noon"
+    ],
+    "translatorIds": [
+      "tanaka-kazue"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "virtual-reality",
+      "cyberpunk",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1993,
+    "jpPublishedYear": 1995,
+    "originalTitle": "Vurt",
+    "status": "completed",
+    "synopsis": "色分けされた羽根を口に含むと、ヴァートと呼ばれる共有された別世界に入り込める。その体験が社会のかたちまで変えてしまったマンチェスターで、スクリブルと仲間たちは、ヴァートの奥へ消えた妹デズデモーナを探し続けていた。取り戻すには、代わりに置いてきたものを返さねばならない。音楽的な文体で書かれた長編である。",
+    "awardResults": [
+      {
+        "awardId": "clarke",
+        "year": 1994,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "calcutta-chromosome",
+    "title": "カルカッタ染色体",
+    "titleKana": "かるかったせんしょくたい",
+    "authorIds": [
+      "amitav-ghosh"
+    ],
+    "translatorIds": [
+      "ito-makoto"
+    ],
+    "publisherId": "dhc",
+    "themeIds": [
+      "near-future",
+      "evolution",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1996,
+    "jpPublishedYear": 2003,
+    "originalTitle": "The Calcutta Chromosome",
+    "status": "completed",
+    "synopsis": "近未来のニューヨークで、エジプト出身のデータ分析員アンターは、国際機関の残した電子の残骸を処理している。ある日画面に現れた古い身分証が、インドで消息を絶った同僚の記憶を呼び覚ました。マラリア原虫の発見をめぐる十九世紀の医学史と現在とが交錯し、不死を求める秘密の科学運動の輪郭が浮かび上がる。",
+    "awardResults": [
+      {
+        "awardId": "clarke",
+        "year": 1997,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "perdido-street-station",
+    "title": "ペルディード・ストリート・ステーション",
+    "titleKana": "ぺるでぃーどすとりーとすてーしょん",
+    "authorIds": [
+      "china-mieville"
+    ],
+    "translatorIds": [
+      "higurashi-masamichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "sf-fantasy",
+      "dystopia",
+      "alien"
+    ],
+    "seriesName": "バス=ラグ",
+    "origin": "overseas",
+    "firstPublishedYear": 2000,
+    "jpPublishedYear": 2009,
+    "originalTitle": "Perdido Street Station",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "蒸気機関と魔術学が同居する巨大都市国家ニュー・クロブゾン。その中心には巨大駅ペルディード・ストリート・ステーションがそびえている。異端の科学者アイザックのもとに、罪の罰として翼を奪われた鳥人ヤガレクが訪れ、飛ぶ力を取り戻したいと依頼する。統一場理論を追う彼の研究は思わぬ方向へ転がり、やがて都市そのものを脅かす災いを解き放ってしまう。異形の生物と種族が入り乱れる都市を造形しきった長編である。",
+    "awardResults": [
+      {
+        "awardId": "clarke",
+        "year": 2001,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-separation",
+    "title": "双生児",
+    "titleKana": "そうせいじ",
+    "authorIds": [
+      "christopher-priest"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alternate-history",
+      "parallel-world",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "jpPublishedYear": 2007,
+    "originalTitle": "The Separation",
+    "status": "completed",
+    "synopsis": "一九九九年のイギリス。歴史ノンフィクション作家のもとに、J・L・ソウヤーと名乗る人物の回顧録原稿が持ち込まれる。第二次大戦中、英空軍の爆撃機操縦士でありながら、同時に良心的兵役拒否者でもあったという。調べるうちに、ベルリン五輪にボート競技で出場した双子の兄弟の記録が重なり合い、やがて戦争の帰趨そのものが揺らぎはじめる。二つの歴史を並べて置いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "clarke",
+        "year": 2003,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "air-ryman",
+    "title": "エア",
+    "titleKana": "えあ",
+    "authorIds": [
+      "geoff-ryman"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi",
+      "misumi-kazuyo"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "virtual-reality",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2008,
+    "originalTitle": "Air",
+    "status": "completed",
+    "synopsis": "カルジスタンという架空の国の小さな村で、読み書きのできない農婦チュン・メイは、村一番の流行の目利きとして頼りにされてきた。ある日、脳に直接情報を流し込む新技術エアの試験が世界規模で行われ、村は大混乱に陥る。誰よりも早くその感覚を掴んだメイは、村を新しい時代へ導く役割を担うことになる。技術の到来を、それを受け取る側の暮らしの側から描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "clarke",
+        "year": 2006,
+        "result": "受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
 ]
