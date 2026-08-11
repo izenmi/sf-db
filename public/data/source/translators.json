@@ -862,5 +862,70 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "otani-mayumi",
+    "name": "大谷真弓",
+    "nameKana": "おおたにまゆみ",
+    "description": "英米の小説を訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kang-banghwa",
+    "name": "カン・バンファ",
+    "nameKana": "かんばんふぁ",
+    "description": "韓国語の小説を訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yun-jiyoung",
+    "name": "ユン・ジヨン",
+    "nameKana": "ゆんじよん",
+    "description": "韓国語の小説を訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kato-kaori",
+    "name": "加藤かおり",
+    "nameKana": "かとうかおり",
+    "description": "フランス語の小説を訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fujii-hikaru",
+    "name": "藤井光",
+    "nameKana": "ふじいひかる",
+    "description": "アメリカ文学者・翻訳家。同志社大学教授。現代アメリカ文学の紹介で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤井光 (アメリカ文学者)"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tachibana-akemi",
+    "name": "橘明美",
+    "nameKana": "たちばなあけみ",
+    "description": "フランス語の小説を訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hida-keiji",
+    "name": "日田慶治",
+    "nameKana": "ひだけいじ",
+    "description": "英米の小説を訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

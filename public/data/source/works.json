@@ -8063,6 +8063,11 @@
         "awardId": "nebula",
         "year": 1983,
         "result": "長編小説部門受賞"
+      },
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "ベストSF2021 海外篇 第6位"
       }
     ],
     "externalLinks": {},
@@ -18066,6 +18071,340 @@
         "awardId": "sf-ga-yomitai",
         "year": 2018,
         "result": "ベストSF2018 海外篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "umarekawari",
+    "title": "生まれ変わり",
+    "titleKana": "うまれかわり",
+    "authorIds": [
+      "ken-liu"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi",
+      "otani-mayumi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "alien",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "jpPublishedYear": 2019,
+    "originalTitle": "Reborn",
+    "status": "completed",
+    "synopsis": "悪い記憶を切除する異星の訪問者にまつわる事件を描く表題作をはじめ、第三短編集の単行本版から十二編を収める。記憶を書き換えられた者は、それでも同じ人間だと言えるのか。技術が個人の連続性を揺さぶるさまを、静かな筆致で積み上げていく。歴史や移民の記憶を扱った編も収められた、日本オリジナル編集の作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "ベストSF2019 海外篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "paradox-men",
+    "title": "パラドックス・メン",
+    "titleKana": "ぱらどっくすめん",
+    "authorIds": [
+      "charles-l-harness"
+    ],
+    "translatorIds": [
+      "nakamura-toru"
+    ],
+    "publisherId": "takeshobo",
+    "themeIds": [
+      "time-travel",
+      "far-future",
+      "space-opera"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 2019,
+    "originalTitle": "The Paradox Men",
+    "status": "completed",
+    "synopsis": "時は二一七七年、舞台はアメリカ帝国。物語はひとりの男が権力者の寝室に忍び込むところから始まる。その男こそ〈盗賊〉アラール、記憶も名前も失い、不時着した正体不明の宇宙船から現れた人物である。悪しき宰相ヘイズ=ゴーントを討てる唯一の男として、帝国警察に追われながら疾走する。古典的な超絶技巧の長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2019,
+        "result": "ベストSF2019 海外篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hikari-no-hayasa",
+    "title": "わたしたちが光の速さで進めないなら",
+    "titleKana": "わたしたちがひかりのはやさですすめないなら",
+    "authorIds": [
+      "kim-choyeop"
+    ],
+    "translatorIds": [
+      "kang-banghwa",
+      "yun-jiyoung"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "space-development",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2019,
+    "jpPublishedYear": 2020,
+    "originalTitle": "우리가 빛의 속도로 갈 수 없다면",
+    "status": "completed",
+    "synopsis": "廃止が決まった宇宙停留所に、家族の住む星へ帰るため長年出航を待ち続ける老婆がいた。冷凍睡眠による別れを描き韓国科学文学賞佳作を受けた表題作、同賞の中短編大賞を受けた「館内紛失」など七編を収める。疎外される側に寄り添う女性視点の物語が並ぶ。派手な事件を描かずに、制度からこぼれ落ちる人の心情を丁寧にすくい取っていく、韓国SFの代表的な短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "ベストSF2021 海外篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "uchu-no-haru",
+    "title": "宇宙の春",
+    "titleKana": "うちゅうのはる",
+    "authorIds": [
+      "ken-liu"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "far-future",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2018,
+    "jpPublishedYear": 2021,
+    "originalTitle": "Cosmic Spring",
+    "status": "completed",
+    "synopsis": "いま宇宙は真冬であり、わたしは宇宙最後かもしれない星に向かっている。宇宙をさまよう放浪者が滅びゆく美しさを想う表題作など十編を収める。中国SFの英訳者・紹介者としても知られる短編の名手による、日本オリジナル編集の短編集第四弾である。歴史と記憶を主題にした編が多く、静かな抒情が全体を包んでいる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2021,
+        "result": "ベストSF2021 海外篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "anomalie",
+    "title": "異常 アノマリー",
+    "titleKana": "いじょうあのまりー",
+    "authorIds": [
+      "herve-le-tellier"
+    ],
+    "translatorIds": [
+      "kato-kaori"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "parallel-world",
+      "near-future",
+      "world-truth"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2020,
+    "jpPublishedYear": 2022,
+    "originalTitle": "L'Anomalie",
+    "status": "completed",
+    "synopsis": "殺し屋、売れない作家、軍人の妻、癌を告知された男。彼らが同じ便に乗り合わせたのは偶然なのか、それとも誰かの選択なのか。エールフランス006便がニューヨークへ向けて降下を始めたとき、異常な乱気流に巻き込まれる。そして約三か月後、同じ便がふたたび現れた。誰ひとり欠けることなく、まったく同じ乗客を乗せて。ゴンクール賞を受けた思弁小説である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "ベストSF2022 海外篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "bloodchild",
+    "title": "血を分けた子ども",
+    "titleKana": "ちをわけたこども",
+    "authorIds": [
+      "octavia-butler"
+    ],
+    "translatorIds": [
+      "fujii-hikaru"
+    ],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "short-stories",
+      "alien",
+      "genetic-engineering"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1995,
+    "jpPublishedYear": 2022,
+    "originalTitle": "Bloodchild and Other Stories",
+    "status": "completed",
+    "synopsis": "強大な力と高い知性を持つ節足生物トリクが支配する地で、その保護のもとに暮らす人間たち。人間はトリクの卵を男性の体内に宿し、育て上げるという役割を担っていた。究極の男性妊娠小説と呼ばれる表題作から集大成まで、異星人、伝染病、生殖をめぐって宿命と光を描いていく。後続の作家たちが繰り返し名前を挙げる、伝説的な作家の代表的短編集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "ベストSF2022 海外篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nsa-eschbach",
+    "title": "NSA",
+    "titleKana": "えぬえすあー",
+    "authorIds": [
+      "andreas-eschbach"
+    ],
+    "translatorIds": [
+      "akao-hideko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alternate-history",
+      "dystopia",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2018,
+    "jpPublishedYear": 2022,
+    "originalTitle": "NSA – Nationales Sicherheits-Amt",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "計算機と通信網が第二次大戦前から発達していた世界のドイツ。国家保安局で監視プログラムを作成するヘレーネは、脱走兵の恋人をひそかにかくまっていた。彼が当局に見つからないよう、彼女は局のデータに手を加えていく。全体主義の国家が現代並みの監視技術を手にしていたらどうなるか。その問いを冷徹に外挿してみせた、恐るべき歴史改変SFである。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2022,
+        "result": "ベストSF2022 海外篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "civilizations",
+    "title": "文明交錯",
+    "titleKana": "ぶんめいこうさく",
+    "authorIds": [
+      "laurent-binet"
+    ],
+    "translatorIds": [
+      "tachibana-akemi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "alternate-history",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2019,
+    "jpPublishedYear": 2023,
+    "originalTitle": "Civilizations",
+    "status": "completed",
+    "synopsis": "インカ帝国があっけなく滅びたのは、鉄と銃と馬、そして病原菌への免疫を持たなかったからである。ではインカの人々がそれらを持っていたとしたら。スペインがインカを征服するのではなく、インカがスペインを征服する。『HHhH』の著者が大胆に組み替えてみせた、アカデミー・フランセーズ小説大賞受賞の歴史改変小説である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2023,
+        "result": "ベストSF2023 海外篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "beautiful-blood",
+    "title": "美しき血 竜のグリオールシリーズ",
+    "titleKana": "うつくしきちりゅうのぐりおーるしりーず",
+    "authorIds": [
+      "lucius-shepard"
+    ],
+    "translatorIds": [
+      "uchida-masayuki",
+      "hida-keiji"
+    ],
+    "publisherId": "takeshobo",
+    "themeIds": [
+      "sf-fantasy",
+      "denki-sf",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "jpPublishedYear": 2023,
+    "originalTitle": "Beautiful Blood",
+    "status": "completed",
+    "synopsis": "動かぬ巨竜グリオール。テオシンテ市に横たわるその体には川が流れ村があり、体内では四季が巡る。竜の血液を研究していたロザッハーは、黄金色にきらめく血が混沌とした快感をもたらすことを発見した。四年後、彼はその血から精製した麻薬で巨大な富を築いていた。動かない竜が街の運命を握り続けるという構図が、連作の中核をなす長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2023,
+        "result": "ベストSF2023 海外篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ship-who-sang",
+    "title": "歌う船 完全版",
+    "titleKana": "うたうふねかんぜんばん",
+    "authorIds": [
+      "anne-mccaffrey"
+    ],
+    "translatorIds": [
+      "shimada-yoichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "cyborg",
+      "space-opera",
+      "short-stories"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1969,
+    "jpPublishedYear": 2024,
+    "originalTitle": "The Ship Who Sang",
+    "status": "completed",
+    "synopsis": "この世に生まれ出た彼女の頭脳は申し分なかった。だが身体のほうは機械の助けなしには生きられない状態だった。そこで中央諸世界は彼女に宇宙船の身体を与える。優秀なサイボーグ宇宙船となったヘルヴァの活躍と成長を描く連作である。旧版の六編に、のちに書かれた短編二編を加えた新訳完全版として刊行された。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2024,
+        "result": "ベストSF2024 海外篇 第5位"
       }
     ],
     "externalLinks": {},

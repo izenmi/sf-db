@@ -3192,5 +3192,87 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "charles-l-harness",
+    "name": "チャールズ・L・ハーネス",
+    "nameKana": "はーねすちゃーるずえる",
+    "description": "特許弁護士としても働いたアメリカの作家。緻密な仕掛けと超絶的な展開で知られる。",
+    "birthYear": 1915,
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kim-choyeop",
+    "name": "キム・チョヨプ",
+    "nameKana": "きむちょよぷ",
+    "description": "韓国の作家。生化学を学んだ経歴を持ち、疎外される者に寄り添う視点で知られる。",
+    "birthYear": 1993,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/キム・チョヨプ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "herve-le-tellier",
+    "name": "エルヴェ・ル・テリエ",
+    "nameKana": "るてりええるゔぇ",
+    "description": "フランスの作家。実験文学集団ウリポの会長を務め、ゴンクール賞を受けた。",
+    "birthYear": 1957,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エルヴェ・ル・テリエ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "octavia-butler",
+    "name": "オクテイヴィア・E・バトラー",
+    "nameKana": "ばとらーおくていゔぃあいー",
+    "description": "アメリカの作家。黒人女性作家として初めてSFの主要な賞を制し、後続に大きな影響を与えた。",
+    "birthYear": 1947,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オクテイヴィア・E・バトラー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "andreas-eschbach",
+    "name": "アンドレアス・エシュバッハ",
+    "nameKana": "えしゅばっはあんどれあす",
+    "description": "ドイツの作家。技術と社会の関係を扱う大部の作品で知られる。",
+    "birthYear": 1959,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンドレアス・エシュバッハ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "laurent-binet",
+    "name": "ローラン・ビネ",
+    "nameKana": "びねろーらん",
+    "description": "フランスの作家。歴史を素材にした実験的な小説で知られる。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ローラン・ビネ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "anne-mccaffrey",
+    "name": "アン・マキャフリー",
+    "nameKana": "まきゃふりーあん",
+    "description": "アメリカ生まれでアイルランドに住んだ作家。〈パーンの竜騎士〉や〈歌う船〉で知られる。",
+    "birthYear": 1926,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アン・マキャフリー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
