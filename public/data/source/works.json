@@ -14105,5 +14105,271 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yume-no-ki-ga-tsugetanara",
+    "title": "夢の樹が接げたなら",
+    "titleKana": "ゆめのきがつげたなら",
+    "authorIds": [
+      "morioka-hiroyuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "language-sf",
+      "short-stories",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "独自の言語を設計する言語デザイナーである主人公が、これまでとはまったく構造の異なる言語に出会う。言語の理解と人間の認識能力、そしてその行方を描き、第17回ハヤカワ・SFコンテストに入選した表題作をはじめ、著者のSFとしての資質を凝縮した八編を収める。〈星界〉シリーズ以前の仕事を見渡せる作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1999,
+        "result": "ベストSF1999 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "henshitsu-no-hoko",
+    "title": "偏執の芳香 アロマパラノイド",
+    "titleKana": "へんしつのほうこうあろまぱらのいど",
+    "authorIds": [
+      "makino-osamu"
+    ],
+    "translatorIds": [],
+    "publisherId": "ascii",
+    "themeIds": [
+      "denki-sf",
+      "near-future",
+      "esper"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1999,
+    "status": "completed",
+    "synopsis": "十七年前のパリで、猟奇的な連続殺人が起きた。残虐な手口からパリの切り裂きジャックと恐れられた犯人は、じつは日本人だった。ノンフィクションライターの八辻由紀子は、犯人が殺人を告白した限定本『レビアタンの顎』を手に入れる。人並み外れた嗅覚を持ち、血の芳香に魅せられて殺人を重ねた男の記録が、彼女自身を侵しはじめる。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 1999,
+        "result": "ベストSF1999 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hachigatsu-no-hakubutsukan",
+    "title": "八月の博物館",
+    "titleKana": "はちがつのはくぶつかん",
+    "authorIds": [
+      "sena-hideaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "time-travel",
+      "parallel-world",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "あの夏、巡りあった奇妙な洋館には無数の扉があり、そのどれもがあらゆる博物館へ通じていた。作家志望の少年・亨は、案内役の少女美宇と黒猫のジャックとともに扉を開き、時空を超える冒険へ踏み出す。やがて古代エジプトの聖牛アピスの復活に巻き込まれていく。世界を救う鍵は物語の力にあると説く長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2000,
+        "result": "ベストSF2000 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ginga-teikoku-no-kobo",
+    "title": "銀河帝国の弘法も筆の誤り",
+    "titleKana": "ぎんがていこくのこうぼうもふでのあやまり",
+    "authorIds": [
+      "tanaka-hirofumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "satire-sf",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "ブラックホールの中にホトケはいるかおらぬか、そもさん。史上初めて傍受された知的生命体からのメッセージは、なぜか敵意むきだしの禅問答だった。人類圏存亡の危機に立ち向かう伝説の高僧・弘法大師を描く表題作、大量のゲロとともに銀河を遍歴した男の記録「嘔吐した宇宙飛行士」など、おぞましくも愉快な作品を収める。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2001,
+        "result": "ベストSF2001 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ouroboros-no-hado",
+    "title": "ウロボロスの波動",
+    "titleKana": "うろぼろすのはどう",
+    "authorIds": [
+      "hayashi-joji"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "space-development",
+      "space-colony"
+    ],
+    "seriesName": "AADD",
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "西暦二一〇〇年、太陽系の外縁でブラックホールが発見された。その軌道を変え、周囲に人工降着円盤を築いて全太陽系を網羅するエネルギー転送網を作る。一世紀におよぶ巨大計画のためAADDが創設されたが、その社会構造と価値観の違いは地球との深刻な対立を生もうとしていた。変貌する太陽系社会を描く連作である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2002,
+        "result": "ベストSF2002 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "bokyaku-no-fune",
+    "title": "忘却の船に流れは光",
+    "titleKana": "ぼうきゃくのふねにながれはひかり",
+    "authorIds": [
+      "tanaka-hirofumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "world-truth",
+      "far-future",
+      "religion-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "かつて世界は悪魔に滅ぼされた。主は五階層の閉鎖都市を創造し、聖なる力で悪魔の侵入を食い止めたという。幾星霜を経て、都市を統べる聖職者ブルーは、悪魔崇拝者の摘発ののち、世界の真理を探究する修学者ヘーゲルと出会い、厳格な支配に疑問を抱く。神と悪魔をめぐる狂乱劇の果てに、この世界の成り立ちが姿を現す。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "ベストSF2003 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "soundtrack",
+    "title": "サウンドトラック",
+    "titleKana": "さうんどとらっく",
+    "authorIds": [
+      "furukawa-hideo"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "near-future",
+      "disaster",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "東京は異常な街に変貌していた。ヒートアイランド現象で熱帯と化し、スコールが降りそそぐ。外国人が急増し、彼らへの排斥運動も激化していた。そんな街に戻ってきた青年トウタと中学生ヒツジコ。二人は幼いころ海難事故に遭い、漂着した無人島の過酷な環境を生き延びてきたのだった。疾走する言葉で紡がれる長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2003,
+        "result": "ベストSF2003 国内篇 第6位"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サウンドトラック"
+    },
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "karakuri-immoral",
+    "title": "からくりアンモラル",
+    "titleKana": "からくりあんもらる",
+    "authorIds": [
+      "mori-natsuko"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "robot",
+      "short-stories",
+      "gender-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "初潮を迎えた自分の身体に苛立つ秋月は、妹になつくロボットのヨハネが子犬をかわいがる様子を見て、ちょっとした悪戯を思いつく。ペットロボットを介した性と生の目覚めを描く表題作、時間旅行した少女が自我を獲得する「あたしを愛したあたしたち」、セクサロイドが語る波瀾の生涯「レプリカント色ざんげ」など九編を収める。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2004,
+        "result": "ベストSF2004 国内篇 第5位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hydunan",
+    "title": "ハイドゥナン",
+    "titleKana": "はいどぅなん",
+    "authorIds": [
+      "fujisaki-shingo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "岳志が見つけた十四番目の御嶽への祈りを通して、柚は大地の炎が琉球を焼き尽くすという神の予言を聞く。同じころ水深六千メートルの南西諸島海溝では、深海調査艇の武田洋平が巨大な人工構造物を発見していた。二つの発見はどこかでつながっているのか。琉球の信仰と地球科学を一本の線でつなぎ、迫りくる地殻変動を食い止めようとする人々を描いた長編である。",
+    "awardResults": [
+      {
+        "awardId": "sf-ga-yomitai",
+        "year": 2005,
+        "result": "ベストSF2005 国内篇 第4位"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

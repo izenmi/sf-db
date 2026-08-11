@@ -2748,5 +2748,41 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tanaka-hirofumi",
+    "name": "田中啓文",
+    "nameKana": "たなかひろふみ",
+    "description": "駄洒落と悪趣味を武器にする作家。本格SFから時代小説まで幅広く手がける。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田中啓文"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fujisaki-shingo",
+    "name": "藤崎慎吾",
+    "nameKana": "ふじさきしんご",
+    "description": "海洋科学の記者を経て作家となった。海と地球科学を題材にしたSFで知られる。",
+    "birthYear": 1962,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/藤崎慎吾"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mori-natsuko",
+    "name": "森奈津子",
+    "nameKana": "もりなつこ",
+    "description": "性愛を正面から扱うSF・ファンタジーで知られる作家。",
+    "birthYear": 1966,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/森奈津子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
