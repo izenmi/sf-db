@@ -10769,7 +10769,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/神様のパズル"
     },
     "sourceNote": "候補は日本語版Wikipedia「日本SF新人賞」「小松左京賞」の受賞作一覧から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "穂瑞沙羅華"
   },
   {
     "id": "kasei-dark-ballad",
@@ -24924,6 +24925,275 @@
     "status": "completed",
     "synopsis": "人工知能もロボットも当たり前になった世界で、それでも人間にしかできない魔法がある。孤独な青年ヒカルは、レストランの卓をひとつずつ巡り、見知らぬ客に手品を贈り続けていた。傍らにいるのは、何も知らない少年型のロボット、ミチルである。機械があふれる少し不思議な近未来で、心と再生を問い直していく長編である。",
     "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yosei-haikyu-gaisha",
+    "title": "妖精配給会社",
+    "titleKana": "ようせいはいきゅうがいしゃ",
+    "authorIds": [
+      "hoshi-shinichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "alien",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "他の星から流れ着いた妖精は従順で遠慮深く、慰め上手で褒め上手、愛玩動物としては最適だった。半官半民の配給会社もでき、たちまち普及していく。だが会社が使命を終え、社史編集の仕事を残すだけになったとき、過去の記録を調べていた老社員の頭をひとつの疑惑がよぎった。諷刺と戦慄の表題作ほか、三十五編を収める。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "onozomi-no-ketsumatsu",
+    "title": "おのぞみの結末",
+    "titleKana": "おのぞみのけつまつ",
+    "authorIds": [
+      "hoshi-shinichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "inner-trip-sha",
+    "themeIds": [
+      "short-stories",
+      "robot",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "家事万能のロボットを手に入れたら。世界平和をめざす秘密組織が実権を握ったら。安逸と平穏を望みながら、退屈な日々には飽き足らず、精神と肉体の新しい冒険を求めてしまう人間。どれほど超現代になっても相変わらず滑稽で愛すべき心の動きを、鮮やかな着想と意外な結末で描いていく。願いが叶ったその先に何が待っているのかを、いつも一枚めくって見せてくれる十一編を収める。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "n-shi-no-yuenchi",
+    "title": "エヌ氏の遊園地",
+    "titleKana": "えぬしのゆうえんち",
+    "authorIds": [
+      "hoshi-shinichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "san-ichi-shobo",
+    "themeIds": [
+      "short-stories",
+      "satire-sf",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1966,
+    "status": "completed",
+    "synopsis": "エヌ博士の研究室を襲った強盗が、金の儲かる薬を盗んだのはよかったけれど。女性が苦手な名探偵のもとに届いた大きな箱の中身は。別荘で休暇を過ごすエヌ氏にかかってきた電話は、なんと江戸時代の霊魂からだった。卓抜な着想と奇想天外なおかしみで、不思議な世界へ招き入れるショートショート三十一編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dokoka-no-jiken",
+    "title": "どこかの事件",
+    "titleKana": "どこかのじけん",
+    "authorIds": [
+      "hoshi-shinichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "平凡な会社員が、寝言で妻に漏らしてしまった見知らぬ男への殺意。寝言のなかの殺人計画は次第に具体化していく。それは夢の中の出来事なのか、それとも本当のことなのか。他人には信じてもらえない不思議な事件は、いつもどこかで起きている。日常の時間と空間を少しだけ超えたところに広がる非現実を、機知に富んだ語り口で切り取っていく。夢と緊張感に満ちた二十一編を収める。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "anzen-no-card",
+    "title": "安全のカード",
+    "titleKana": "あんぜんのかーど",
+    "authorIds": [
+      "hoshi-shinichi"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "short-stories",
+      "satire-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "休日に青年の部屋を訪れた販売員が鞄から取り出したのは、名刺ほどの大きさをした金属製のカードだった。なんとこれは、絶対的な安全を保障するという不思議なカードだという。平凡に過ぎていく日々、なんとなくつまらない毎日。そんなときにこそ開きたい一冊である。安全とは何か、幸福とは何かという問いを、数枚の紙数で裏返してみせる。悪夢と浪漫が交錯する奇妙な味の十六編を収める。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "messiah-no-shohosen",
+    "title": "メシアの処方箋",
+    "titleKana": "めしあのしょほうせん",
+    "authorIds": [
+      "kimoto-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki-jimusho",
+    "themeIds": [
+      "world-truth",
+      "alien",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "ヒマラヤで氷河湖が決壊した。長らく閉ざされていた下流のダム湖に浮かび上がったのは、古代の方舟だった。こんな高地になぜ文明の跡があるのか。いぶかる調査隊をさらに驚かせたのは、内部から見つかった大量の木簡である。どれにも不思議な蓮華模様が刻まれ、文字とも絵ともつかないが、何かを伝えているのは確かだった。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "bokutachi-no-shumatsu",
+    "title": "僕たちの終末",
+    "titleKana": "ぼくたちのしゅうまつ",
+    "authorIds": [
+      "kimoto-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki-jimusho",
+    "themeIds": [
+      "disaster",
+      "space-development",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "二〇五〇年、太陽活動の異常によって人類に滅亡の危機が迫るなか、通信網の上に宇宙船をつくりませんかという怪しげな呼びかけが現れた。詐欺としか思えないその首謀者に接触するため職員に応募した瀬河那由は、相手が天文学者の神崎だと知る。無謀な計画に巻き込まれた彼女は、父と神崎とともに世界の終わりへの旅に出る。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "puzzle-no-kiseki",
+    "title": "パズルの軌跡",
+    "titleKana": "ぱずるのきせき",
+    "authorIds": [
+      "kimoto-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki-jimusho",
+    "themeIds": [
+      "ai",
+      "near-future",
+      "hard-sf"
+    ],
+    "seriesName": "穂瑞沙羅華",
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "ようやく就職した綿貫基一のもとに、ネオ・ピグマリオンという怪しげな会社から接触を求める便りが届いた。渋々会ってみると、資産家の子息の失踪事件の調査を、量子計算機を開発した天才少女の穂瑞沙羅華に頼んでほしいという。普通の女子高生に戻ろうとしている彼女を、綿貫はどう説得するのか。計算の速さだけでは解けない問いの前で、二人は少しずつ距離を縮めていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kyukyoku-no-dogma",
+    "title": "究極のドグマ",
+    "titleKana": "きゅうきょくのどぐま",
+    "authorIds": [
+      "kimoto-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki-jimusho",
+    "themeIds": [
+      "ai",
+      "near-future",
+      "world-truth"
+    ],
+    "seriesName": "穂瑞沙羅華",
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "量子計算機を使って依頼を解決する会社に就職した綿貫基一は、その設計者である天才女子高生の穂瑞沙羅華を訪ねていた。やる気のない彼女を説得するのが彼の仕事である。ところが沙羅華が選んだのは、多額の謝礼が支払われるという猫探しだった。なぜ一匹の猫にそれほどの金額が積まれるのか。その猫と依頼主には、驚くべき秘密が隠されていた。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kanojo-no-rhapsody",
+    "title": "彼女の狂詩曲",
+    "titleKana": "かのじょのらぷそでぃ",
+    "authorIds": [
+      "kimoto-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki-jimusho",
+    "themeIds": [
+      "hard-sf",
+      "ai",
+      "near-future"
+    ],
+    "seriesName": "穂瑞沙羅華",
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "未知の素粒子を見つけるために建造された巨大加速器〈むげん〉。だが竣工後に成果を出せないことから、事業を仕分けされるという噂が流れはじめた。恩師から相談を受けた綿貫基一は、設計者である天才少女の穂瑞沙羅華を訪ねる。新しい発見は難しいと言いながらも、彼女は〈むげん〉のために一肌脱いでくれるらしい。自分の設計した量子計算機を使って、沙羅華が導き出す答えとは何か。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "juryoku-alchemic",
+    "title": "重力アルケミック",
+    "titleKana": "じゅうりょくあるけみっく",
+    "authorIds": [
+      "isukari-yuba"
+    ],
+    "translatorIds": [],
+    "publisherId": "seikaisha",
+    "themeIds": [
+      "hard-sf",
+      "alternate-history",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "重力を司る重素の採り過ぎで地球が膨張し、東京と大阪のあいだが五千キロを超えた西暦二〇一三年。理工学部重素工学科に入学した湯川航は、古書店で一冊の本と出会う。百年前に構想されながら実現せず忘れられた、重素を使わずに空を飛ぶ技術を説いた『飛行機理論』である。世界で最初の飛行機を作ろう。平凡な理系大学生の無謀な挑戦がはじまる。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yoseiden",
+    "title": "妖星伝",
+    "titleKana": "ようせいでん",
+    "authorIds": [
+      "hanmura-ryo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "denki-sf",
+      "esper",
+      "alternate-history"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "神道とともに生まれ、超常の能力を持って歴史の闇に潜み暗躍してきた異端の集団、鬼道衆。彼らが現れるところには必ず戦乱と流血が交錯する。最も忌み嫌った徳川政権は徹底した弾圧を繰り返してきたが、八代将軍吉宗が退いたいま、鬼道衆がふたたび跳梁をはじめた。民族と宗教を超え、人類の破壊と再生を描く大河伝奇である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/妖星伝"
+    },
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }

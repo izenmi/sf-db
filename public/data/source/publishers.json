@@ -609,5 +609,29 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "san-ichi-shobo",
+    "name": "三一書房",
+    "nameKana": "さんいちしょぼう",
+    "description": "1945年創業の出版社。",
+    "foundedYear": 1945,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/三一書房"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "inner-trip-sha",
+    "name": "いんなあとりっぷ社",
+    "nameKana": "いんなあとりっぷしゃ",
+    "description": "1970年代に文芸書を刊行した出版社。",
+    "foundedYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/いんなあとりっぷ社"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
