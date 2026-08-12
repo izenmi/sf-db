@@ -23,6 +23,15 @@
     "resolvedAt": "2026-08-11T21:31:04.118Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12704260/"
   },
+  "2034-a-novel": {
+    "title": "2034 米中戦争",
+    "isbn": "9784576211220",
+    "matchedTitle": "2034　米中戦争",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1220/9784576211220_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T12:19:53.194Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16773017/"
+  },
   "74-byo-no-senritsu": {
     "title": "七十四秒の旋律と孤独",
     "isbn": "9784488797010",
@@ -48,6 +57,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3683/2000007333683.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-12T11:49:23.850Z"
+  },
+  "a-course": {
+    "title": "Aコース",
+    "isbn": "9784344405806",
+    "matchedTitle": "Aコース",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3444/34440580.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T12:19:50.831Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1716320/"
   },
   "a-darkling-plain": {
     "title": "廃墟都市の復活",
@@ -285,6 +303,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7502/2000004227502.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T12:20:41.401Z"
+  },
+  "android-oyuki": {
+    "title": "アンドロイドお雪",
+    "isbn": null,
+    "matchedTitle": "アンドロイドお雪",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3002/2000006993002.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T12:19:48.476Z"
   },
   "androids-dream": {
     "title": "アンドロイドの夢の羊",
@@ -967,6 +993,14 @@
     "resolvedAt": "2026-08-11T12:23:02.411Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4306780/"
   },
+  "chiryoto-wakusei": {
+    "title": "治療塔惑星",
+    "isbn": null,
+    "matchedTitle": "治療塔惑星",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3162/2000002583162.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T12:19:18.945Z"
+  },
   "chizu-to-kobushi": {
     "title": "地図と拳",
     "isbn": "9784087718010",
@@ -1441,6 +1475,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T04:38:05.007Z"
   },
+  "die-wolke": {
+    "title": "みえない雲",
+    "isbn": "9784094081312",
+    "matchedTitle": "みえない雲〔小学館文庫〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1312/9784094081312_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T12:19:22.499Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4174465/"
+  },
   "dinner-at-deviants-palace": {
     "title": "奇人宮の宴",
     "isbn": null,
@@ -1862,6 +1905,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T12:23:38.593Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14979985/"
+  },
+  "f-course": {
+    "title": "Fコース",
+    "isbn": "9784344406681",
+    "matchedTitle": "Fコース",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3444/34440668.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T12:19:52.019Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/3578665/"
   },
   "face-au-drapeau": {
     "title": "悪魔の発明",
@@ -2507,6 +2559,20 @@
     "resolvedAt": "2026-08-11T01:58:04.585Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/149542/"
   },
+  "hatsukoi-loss-time": {
+    "title": "初恋ロスタイム",
+    "isbn": null,
+    "matchedTitle": "初恋ロスタイム　（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1697/2000007681697.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T12:19:43.749Z"
+  },
+  "hausers-memory": {
+    "title": "ハウザーの記憶",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T12:19:40.173Z"
+  },
   "have-space-suit-will-travel": {
     "title": "大宇宙の少年",
     "isbn": "9784488618148",
@@ -3004,6 +3070,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4374/2000001894374.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T22:35:33.967Z"
+  },
+  "iron-widow": {
+    "title": "鋼鉄紅女",
+    "isbn": "9784150124083",
+    "matchedTitle": "鋼鉄紅女",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4083/9784150124083_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T12:19:54.371Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17455685/"
   },
   "ishi-no-ketsumyaku": {
     "title": "石の血脈",
@@ -5429,6 +5504,15 @@
     "resolvedAt": "2026-08-11T12:24:00.608Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16488966/"
   },
+  "ryusei-calling": {
+    "title": "流星コーリング",
+    "isbn": "9784591172568",
+    "matchedTitle": "流星コーリング",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2568/9784591172568_1_17.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T12:19:21.300Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17016162/"
+  },
   "saigo-ni-shite-saisho-no-idol": {
     "title": "最後にして最初のアイドル",
     "isbn": "9784150313142",
@@ -5729,6 +5813,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T04:09:13.678Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17148461/"
+  },
+  "shin-senkan-takachiho": {
+    "title": "新戦艦高千穂",
+    "isbn": "9784880096063",
+    "matchedTitle": "新戦艦高千穂",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6063/9784880096063.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T12:19:20.122Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12558467/"
   },
   "shinju-seisen": {
     "title": "神獣聖戦 Perfect Edition",
@@ -7075,6 +7168,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T04:40:42.262Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16450761/"
+  },
+  "togio": {
+    "title": "トギオ",
+    "isbn": "9784796680103",
+    "matchedTitle": "トギオ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0103/9784796680103.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T12:19:44.949Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6992459/"
   },
   "tojiso": {
     "title": "冬至草",
