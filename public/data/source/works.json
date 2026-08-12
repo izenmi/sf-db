@@ -29186,5 +29186,102 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hatsukoi-loss-time",
+    "title": "初恋ロスタイム",
+    "titleKana": "はつこいろすたいむ",
+    "authorIds": [
+      "nishina-yuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "time-travel",
+      "juvenile",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "僕の青春は、人よりも少しだけ長いらしい。ある日、自分以外の時間が止まったのだ。平凡な高校生活を送る相葉孝司に、唐突に訪れた特別すぎる青春。午後一時三十五分、毎日決まった時刻に一時間だけ訪れる奇妙なロスタイム。そのなかで彼は、同じ景色を見ている琥珀色の瞳の少女に恋をする。止まった世界だけで進む恋を描く長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/初恋ロスタイム"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "togio",
+    "title": "トギオ",
+    "titleKana": "とぎお",
+    "authorIds": [
+      "taro-soshiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "捨て子の白を拾ったために、主人公の人生は大きく狂いはじめる。村八分に遭い、同級生からも陰湿な仕打ちを受けた彼は村を出て港町に流れつき、やがて大都会の東暁を目指す。悪事に手を染め、殺伐とした街で地べたを這いつくばって生きる彼が、唯一気にかけていたのは村に置いてきた白のことだった。選考委員を驚愕させた問題作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トギオ"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "android-oyuki",
+    "title": "アンドロイドお雪",
+    "titleKana": "あんどろいどおゆき",
+    "authorIds": [
+      "hirai-kazumasa"
+    ],
+    "translatorIds": [],
+    "publisherId": "rippu-shobo",
+    "themeIds": [
+      "robot",
+      "ai",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1969,
+    "status": "completed",
+    "synopsis": "麻薬の元締めだった老人が、貧乏刑事の野坂に遺した遺産は特A級のアンドロイドだった。人間と見分けのつかない外観を備え、すべて注文に応じて造られる人型ロボットのお雪は、百万ドル以上の価値を持つ。家事をかいがいしくこなす彼女には、しかし大きな秘密があった。限りなく人間に近づいた機械に魂はあるのかを問う長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンドロイドお雪"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "a-course",
+    "title": "Aコース",
+    "titleKana": "えーこーす",
+    "authorIds": [
+      "yamada-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "virtual-reality",
+      "juvenile",
+      "near-future"
+    ],
+    "seriesName": "コース",
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "バーチャワールドという新感覚の遊戯に挑んだ高校生五人組。だが女性患者の自殺を目撃したところから、遊戯には本来ないはずの筋書きが進行しはじめる。彼らがこの遊戯に挑んだことは、はたして偶然だったのか。仮想の世界と現実の境目が崩れていく過程を、若い読者に向けて描いた長編である。続編に『Fコース』があり、二作で一つの企みが明かされる構成になっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Aコース"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

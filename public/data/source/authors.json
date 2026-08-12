@@ -4090,5 +4090,27 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nishina-yuki",
+    "name": "仁科裕貴",
+    "nameKana": "にしなゆうき",
+    "description": "日本の小説家。時間を主題にした青春小説を書く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/仁科裕貴"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "taro-soshiro",
+    "name": "太朗想史郎",
+    "nameKana": "たろうそうしろう",
+    "description": "日本の小説家。『トギオ』で『このミステリーがすごい!』大賞を受けた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/太朗想史郎"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
