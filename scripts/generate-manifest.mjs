@@ -264,6 +264,25 @@ const seriesGenerated = [...worksBySeries.entries()]
   }))
   .sort((a, b) => b.workCount - a.workCount || a.name.localeCompare(b.name, "ja"));
 
+// ---- generated/recommend-index.json ----
+// 「好みからおすすめ」(/recommend)専用の軽量索引。テーマ選択チップとスコア計算に必要な分だけ。
+// themes.json / works.json を選択前に読ませないためにこれがある。
+// **読み手は /recommend だけ。ページを消すならこの生成も消すこと**(横断検索を消したとき、
+// 専用の search-index.json が読み手のいないまま残りかけた)。
+//
+// spoiler テーマは選択肢からも作品側の集計からも外す。関連作品のスコア計算(relatedIdsFor)が
+// spoiler を除いているのと同じ理由で、タグの重なりから真相が透けるのを避ける。
+const recommendTagIds = new Set(themes.filter((t) => !t.spoiler).map((t) => t.id));
+const recommendIndex = {
+  tags: themesGenerated
+    .filter((t) => t.workCount > 0 && recommendTagIds.has(t.id))
+    .map((t) => ({ id: t.id, name: t.name, count: t.workCount })),
+  items: works.map((w) => ({
+    id: w.id,
+    tagIds: w.themeIds.filter((t) => recommendTagIds.has(t)),
+  })),
+};
+
 // ---- generated/work-texts.json ----
 // 作品詳細ページだけが読む長文(あらすじ・出典メモ)。キーは作品id。
 const workTexts = Object.fromEntries(
@@ -331,6 +350,7 @@ writeFileSync(path.join(outDir, "translators.json"), JSON.stringify(translatorsG
 writeFileSync(path.join(outDir, "publishers.json"), JSON.stringify(publishersGenerated), "utf-8");
 writeFileSync(path.join(outDir, "themes.json"), JSON.stringify(themesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated), "utf-8");
+writeFileSync(path.join(outDir, "recommend-index.json"), JSON.stringify(recommendIndex), "utf-8");
 writeFileSync(path.join(outDir, "work-texts.json"), JSON.stringify(workTexts), "utf-8");
 writeFileSync(path.join(outDir, "series.json"), JSON.stringify(seriesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
@@ -355,6 +375,7 @@ const sitemapEntries = [
   urlEntry("/works"),
   ...works.map((w) => urlEntry(`/works/${w.id}`, w.updatedAt?.slice(0, 10))),
   urlEntry("/themes"),
+  urlEntry("/recommend"),
   ...themes.map((t) => urlEntry(`/themes/${t.id}`)),
   urlEntry("/authors"),
   ...authors.map((a) => urlEntry(`/authors/${a.id}`, a.updatedAt?.slice(0, 10))),

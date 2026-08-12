@@ -38,6 +38,7 @@ const routes = [
   "/",
   "/works",
   ...works.map((w) => `/works/${w.id}`),
+  "/recommend",
   "/themes",
   ...themes.map((t) => `/themes/${t.id}`),
   "/series",
