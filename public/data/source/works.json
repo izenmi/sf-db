@@ -3867,7 +3867,8 @@
     ],
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "老人と宇宙シリーズ"
   },
   {
     "id": "eifelheim",
@@ -6571,7 +6572,8 @@
     ],
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "ヴォルコシガン・サガ"
   },
   {
     "id": "barrayar",
@@ -6739,7 +6741,8 @@
     ],
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは英語版Wikipediaのplot節を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "ヴォルコシガン・サガ"
   },
   {
     "id": "diamond-age",
@@ -8971,7 +8974,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/侍女の物語"
     },
     "sourceNote": "候補は日本語版Wikipedia「ヒューゴー賞 長編小説部門」「ネビュラ賞 長編小説部門」「アーサー・C・クラーク賞」の受賞作一覧から機械抽出した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認し、原著発表年は英語版Wikipediaで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "侍女の物語"
   },
   {
     "id": "vurt",
@@ -18756,7 +18760,8 @@
     ],
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "老人と宇宙シリーズ"
   },
   {
     "id": "magic-for-beginners",
@@ -23083,6 +23088,216 @@
     "synopsis": "地獄の扉が開き、希代の犯罪者たちが逃げ出したとき、ヒトラーはただ薔薇を描き続けていた。地獄へ落ちる者とそうでない者を分けているのは、いったい何なのか。表題作をはじめ、本邦初訳を含む全十三編を収める。怒りと語りの熱量でSFの枠を押し広げてきた著者の、日本で編まれた短編集である。神話や地獄といった古い道具立てを、現代の暴力と結びつけ直す手つきが一貫している。",
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-ghost-brigades",
+    "title": "遠すぎた星",
+    "titleKana": "とおすぎたほし",
+    "authorIds": [
+      "john-scalzi"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "cyborg",
+      "space-opera"
+    ],
+    "seriesName": "老人と宇宙シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "jpPublishedYear": 2008,
+    "originalTitle": "The Ghost Brigades",
+    "status": "completed",
+    "synopsis": "コロニー防衛軍のなかでも勇猛で知られるゴースト部隊は、入隊を志願しながら軍務につく前に死んだ地球人のクローンで編成されている。新たに配属されたジェレド・ディラックは、異星種族と手を組んで裏切った天才科学者ブーティンの遺伝子から作られたクローンだった。裏切り者の記憶を引き出すために生まれた男の、熾烈な戦いと数奇な運命を描く。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "zoes-tale",
+    "title": "ゾーイの物語",
+    "titleKana": "ぞーいのものがたり",
+    "authorIds": [
+      "john-scalzi"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "juvenile",
+      "military-sf"
+    ],
+    "seriesName": "老人と宇宙シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2008,
+    "jpPublishedYear": 2010,
+    "originalTitle": "Zoe's Tale",
+    "status": "completed",
+    "synopsis": "波瀾に満ちた幼年時代を送った少女ゾーイは、コロニー防衛軍を退役したジョンと、ゴースト部隊出身のジェーンの養女となり、植民惑星ハックルベリーで穏やかな日々を送っていた。やがて両親とともに新しい植民惑星を目指すが、宇宙船は目的の星に着かない。『最後の星戦』の出来事を彼女の視点から語り直し、その裏側にあった冒険を明かす一作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-human-division",
+    "title": "戦いの虚空",
+    "titleKana": "たたかいのこくう",
+    "authorIds": [
+      "john-scalzi"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "military-sf",
+      "near-future"
+    ],
+    "seriesName": "老人と宇宙シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2013,
+    "jpPublishedYear": 2013,
+    "originalTitle": "The Human Division",
+    "status": "completed",
+    "synopsis": "コロニー連合は、兵士と植民者の供給を頼ってきた地球から関係を断たれた。このままでは技術力に乏しい地球も含め、人類の惑星は三十年で絶滅する。そのころコロニー防衛軍のハリー・ウィルスンは、外交団の一員として厄介な任務に追われていた。彼の奮闘で関係修復に光が見えたとき、正体不明の敵が攻撃を仕掛けてくる。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-end-of-all-things",
+    "title": "終わりなき戦火",
+    "titleKana": "おわりなきせんか",
+    "authorIds": [
+      "john-scalzi"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "cyborg",
+      "space-opera"
+    ],
+    "seriesName": "老人と宇宙シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 2015,
+    "jpPublishedYear": 2017,
+    "originalTitle": "The End of All Things",
+    "status": "completed",
+    "synopsis": "脳だけを船に接続され、兵器として使われていた男が、決死の反撃に出る。コロニー連合と地球、そして異星人たちのあいだに争乱を起こそうと企む謎の一派との、最終的な対決が描かれる。植民地の政治と外交を軸に据えてきたシリーズが、ここでひとつの区切りを迎える。〈老人と宇宙〉の物語の第六作にあたる長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "lock-in",
+    "title": "ロックイン 統合捜査",
+    "titleKana": "ろっくいんとうごうそうさ",
+    "authorIds": [
+      "john-scalzi"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "robot",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "jpPublishedYear": 2016,
+    "originalTitle": "Lock In",
+    "status": "completed",
+    "synopsis": "世界的な流行病の後遺症により、意識はあるのに体をまったく動かせない人々が急増した世界。そのひとりであるシェインは、ロボットの体を遠隔で操る捜査官として現場に立つ。ある殺人事件を追ううちに、彼は当事者の体と法をめぐる巨大な利害の対立へ踏み込んでいく。障害と技術の関係を推理小説の形で扱った長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gentleman-jole",
+    "title": "女総督コーデリア",
+    "titleKana": "おんなそうとくこーでりあ",
+    "authorIds": [
+      "lois-mcmaster-bujold"
+    ],
+    "translatorIds": [
+      "ogiso-ayako"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "gender-sf",
+      "space-colony"
+    ],
+    "seriesName": "ヴォルコシガン・サガ",
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "jpPublishedYear": 2020,
+    "originalTitle": "Gentleman Jole and the Red Queen",
+    "status": "completed",
+    "synopsis": "惑星セルギアールに女総督コーデリアが帰ってきた。年に一度の報告のため、六週間ほどバラヤーへ出かけていたのだ。留守を預かっていたオリヴァー・ジョール提督の心中は複雑だった。長年、彼とアラールはコーデリア公認の恋人同士だったからである。アラールを失ったいま、二人の関係はどうなるのか。だが彼女の行動は予想をはるかに超えていた。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-testaments",
+    "title": "誓願",
+    "titleKana": "せいがん",
+    "authorIds": [
+      "margaret-atwood"
+    ],
+    "translatorIds": [
+      "konosu-yukiko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "dystopia",
+      "gender-sf",
+      "near-future"
+    ],
+    "seriesName": "侍女の物語",
+    "origin": "overseas",
+    "firstPublishedYear": 2019,
+    "jpPublishedYear": 2020,
+    "originalTitle": "The Testaments",
+    "status": "completed",
+    "synopsis": "専制国家ギレアデの中枢に食い込む女、司令官の娘、そして隣国で育った少女。立場も年齢も違う三人が、それぞれの理由から戦うことを選んだとき、強大な国家がその足もとから揺らぎはじめる。『侍女の物語』から十五年あまり後を舞台に、体制の内側にいた者の証言という形で書かれた続編である。ブッカー賞を受けた長編でもある。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hyakunen-buntsu",
+    "title": "百年文通",
+    "titleKana": "ひゃくねんぶんつう",
+    "authorIds": [
+      "hanna-ren"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "juvenile",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "女子中学生の小櫛一琉は、引き出しに入れたものが百年前へ送られる不思議な机を見つける。その机を通じて手紙を寄こしてきたのは、大正時代を生きる少女の日向静だった。文通を重ねて仲を深めていく二人の前に、やがて時代そのものの荒波が立ちはだかる。二つの時間を越えて交わされる往復書簡を描く長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
 ]
