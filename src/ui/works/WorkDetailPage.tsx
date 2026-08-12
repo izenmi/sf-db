@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import { Link, useParams } from "react-router-dom";
-import { getWork, getWorks } from "../../data/manifest";
+import { getWork, getWorkTexts, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { WorkCard } from "../common/WorkCard";
@@ -14,7 +14,7 @@ const STATUS_LABEL: Record<string, string> = {
   unknown: "不明",
 };
 
-function workJsonLd(id: string, w: WorkGenerated) {
+function workJsonLd(id: string, w: WorkGenerated, synopsis: string) {
   return [
     {
       "@context": "https://schema.org",
@@ -30,7 +30,7 @@ function workJsonLd(id: string, w: WorkGenerated) {
       // Spoiler tags are left out of the structured data too — search snippets are exactly the
       // place a reader would meet them without having chosen to.
       genre: w.themeIds.filter((tid) => !w.spoilerThemeIds.includes(tid)).map((tid) => w.themeNames[w.themeIds.indexOf(tid)]),
-      description: w.synopsis,
+      description: synopsis,
       ...(w.coverUrl && { image: w.coverUrl }),
       ...(w.awardSummaries.length > 0 && {
         award: w.awardSummaries.map((a) => `${a.awardName} ${a.result}(${a.year})`),
@@ -48,6 +48,11 @@ export function WorkDetailPage() {
   const { id } = useParams<{ id: string }>();
   const state = useAsyncData(() => getWork(id!), [id]);
   const work = state.status === "ready" ? state.data : undefined;
+
+  // あらすじと出典メモは work-texts.json(このページ専用)から取る。works.json に入れていたときは
+  // 一覧やトップまでこの長文を払っていた。
+  const textsState = useAsyncData(getWorkTexts, []);
+  const texts = textsState.status === "ready" && id ? textsState.data[id] : undefined;
   // Deliberately component-local and not persisted: every visit to a work page starts with the
   // spoiler tags hidden, even if the reader revealed them on a different work a moment ago.
   const [spoilersShown, setSpoilersShown] = useState(false);
@@ -66,22 +71,29 @@ export function WorkDetailPage() {
   useSeo({
     title: work?.title,
     description: work
-      ? `${work.title}(${work.authorNames.join("・")}/${work.publisherName})のあらすじ・刊行年・受賞歴・テーマをまとめて紹介。${work.synopsis.slice(0, 60)}…`
+      ? `${work.title}(${work.authorNames.join("・")}/${work.publisherName})のあらすじ・刊行年・受賞歴・テーマをまとめて紹介。${(texts?.synopsis ?? "").slice(0, 60)}…`
       : undefined,
     image: work?.coverUrl ?? DEFAULT_OG_IMAGE,
-    jsonLd: work ? workJsonLd(id!, work) : undefined,
+    jsonLd: work ? workJsonLd(id!, work, texts?.synopsis ?? "") : undefined,
   });
 
   const openThemes = work ? work.themeIds.filter((tid) => !work.spoilerThemeIds.includes(tid)) : [];
   const spoilerThemes = work ? work.spoilerThemeIds : [];
   const themeName = (tid: string) => work!.themeNames[work!.themeIds.indexOf(tid)];
 
+  // あらすじが揃うまでは「読み込み中」のままにする。prerender.mjs は本文から「読み込み中」が
+  // 消えるのを待って静的HTMLを書き出すので、先に描き始めるとあらすじ抜きのHTMLと
+  // meta description が焼き付く。
+  const loading = state.status === "loading" || textsState.status === "loading";
+  const ready = state.status === "ready" && textsState.status === "ready";
+
   return (
     <div className="page">
-      {state.status === "loading" && <Loading />}
+      {loading && <Loading />}
       {state.status === "error" && <ErrorState error={state.error} />}
-      {state.status === "ready" && !state.data && <EmptyState text="見つかりませんでした。" />}
-      {state.status === "ready" && state.data && (
+      {textsState.status === "error" && <ErrorState error={textsState.error} />}
+      {ready && !state.data && <EmptyState text="見つかりませんでした。" />}
+      {ready && state.data && (
         <>
           <div className="work-detail__hero">
             <div className="work-detail__hero-cover">
@@ -192,7 +204,7 @@ export function WorkDetailPage() {
             </div>
           </div>
 
-          <p>{state.data.synopsis}</p>
+          <p>{texts?.synopsis}</p>
 
           {state.data.externalLinks.wikipediaUrl && (
             <p>
@@ -221,7 +233,7 @@ export function WorkDetailPage() {
             </div>
           )}
 
-          <p className="source-note">{state.data.sourceNote}</p>
+          <p className="source-note">{texts?.sourceNote}</p>
         </>
       )}
     </div>

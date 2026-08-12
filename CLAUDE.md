@@ -30,6 +30,23 @@
   - 全Workの`authorIds`(空配列不可)/`translatorIds`/`publisherId`/`themeIds`/`awardResults[].awardId` の参照整合性
   - **`origin` の整合性**: `"overseas"` なら `translatorIds` が1件以上あり `originalTitle` があること / `"jp"` なら `translatorIds`・`originalTitle`・`jpPublishedYear` がいずれも空であること
 
+### 転送量の設計(2026-08-12。**作品をフル展開して埋め込まない**)
+
+著者・翻訳者・出版社・テーマ・シリーズの各生成ファイルは作品を **`workIds`(id配列、刊行年の古い順)**
+で持ち、表示側は `getWorksByIds()`(works.json の取得済みキャッシュ)から引き直す。
+あらすじと出典メモは作品詳細でしか使わないので **`work-texts.json`** に分けてある。
+
+以前は作品をフル展開して埋め込んでいたため、1作品が平均8つのリストに重複して入り
+`themes.json` が gzip 1.1MB あった。現在は gzip で works 180KB / work-texts 223KB /
+themes 17KB / authors 39KB / publishers 13KB / translators 13KB / series 4KB。
+
+- **新しい生成ファイルに作品を埋め込みたくなったら、まずidで足りないかを疑う**
+- **作品詳細ページはあらすじが揃うまで「読み込み中」を出し続ける**こと。`prerender.mjs` は本文から
+  「読み込み中」が消えるのを待って静的HTMLを書き出すので、先に描くとあらすじ抜きのHTMLと
+  meta description が焼き付く
+- **`useMemo` の依存配列に注意**。`state`(エンティティ)だけを見ていると、後から解決する作品配列で
+  再計算されず一覧が空になる(実際にテーマ詳細で踏んだ)
+
 ## データモデル上の判断(mystery-dbから継承)
 
 - **1作品(1タイトル)単位**で登録する(ranobe-dbのシリーズ単位と対照)。表紙取得がタイトル完全一致で効く

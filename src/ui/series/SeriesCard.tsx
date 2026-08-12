@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import type { SeriesGenerated } from "../../types";
+import type { SeriesGenerated, WorkGenerated } from "../../types";
 import { WorkCover } from "../common/WorkCover";
 import { colorForYear } from "../common/yearColor";
 
@@ -10,10 +10,9 @@ const AUTHOR_COUNT = 2;
 /** シリーズ一覧のカード。名前と件数だけの行だと、シリーズが何の話なのか一覧から分からない。
  *  トップの「ピックアップ作品」と同じ密度になるよう、書影・刊行年・著者・テーマまで出す。
  *
- *  表示する値はすべて `series.works`(build時に刊行年の古い順で入っている)から導出していて、
+ *  表示する値はすべて渡された作品(刊行年の古い順)から導出していて、
  *  シリーズ側に持たせた項目はない。作品を足せば書影も年も自動で更新される。 */
-export function SeriesCard({ series }: { series: SeriesGenerated }) {
-  const works = series.works;
+export function SeriesCard({ series, works }: { series: SeriesGenerated; works: WorkGenerated[] }) {
   const years = works.map((w) => w.firstPublishedYear);
   const from = Math.min(...years);
   const to = Math.max(...years);

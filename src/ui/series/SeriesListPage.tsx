@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { getSeriesList } from "../../data/manifest";
+import { getSeriesList, getWorks } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { useSeo } from "../common/useSeo";
@@ -10,6 +10,13 @@ import { SeriesCard } from "./SeriesCard";
  *  続刊がまだ登録されていないだけのものが大半で、そのまま並べると一覧が薄まるため。 */
 export function SeriesListPage() {
   const state = useAsyncData(getSeriesList, []);
+  // カードの書影・著者・テーマは works.json 側にある(SeriesGenerated は workIds しか持たない)。
+  const worksState = useAsyncData(getWorks, []);
+  const worksById = new Map(
+    (worksState.status === "ready" ? worksState.data : []).map((w) => [w.id, w]),
+  );
+  const worksOf = (ids: string[]) =>
+    ids.map((id) => worksById.get(id)).filter((w) => w !== undefined);
   const [showSingles, setShowSingles] = useState(false);
   const [q, setQ] = useState("");
 
@@ -50,7 +57,7 @@ export function SeriesListPage() {
           {multi.length === 0 && singles.length === 0 && <EmptyState />}
           <div className="series-grid">
             {multi.map((s) => (
-              <SeriesCard series={s} key={s.id} />
+              <SeriesCard series={s} works={worksOf(s.workIds)} key={s.id} />
             ))}
           </div>
           {singles.length > 0 && (
@@ -66,7 +73,7 @@ export function SeriesListPage() {
               {showSingles && (
                 <div className="series-grid">
                   {singles.map((s) => (
-                    <SeriesCard series={s} key={s.id} />
+                    <SeriesCard series={s} works={worksOf(s.workIds)} key={s.id} />
                   ))}
                 </div>
               )}

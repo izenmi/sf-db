@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { getSeries } from "../../data/manifest";
+import { getSeries, getWorksByIds } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { useWorkFilter } from "../common/useWorkFilter";
@@ -14,7 +14,13 @@ export function SeriesDetailPage() {
   const name = id ? decodeURIComponent(id) : "";
   const state = useAsyncData(() => getSeries(name), [name]);
   const series = state.status === "ready" ? state.data : undefined;
-  const { sorted, controls, coverView } = useWorkFilter(series?.works, "year-asc");
+  // 作品の実データは works.json 側にある(SeriesGenerated.workIds 参照)。
+  const worksState = useAsyncData(
+    () => (series ? getWorksByIds(series.workIds) : Promise.resolve([])),
+    [series],
+  );
+  const seriesWorks = worksState.status === "ready" ? worksState.data : undefined;
+  const { sorted, controls, coverView } = useWorkFilter(seriesWorks, "year-asc");
 
   useSeo({
     title: series?.name,
@@ -40,10 +46,10 @@ export function SeriesDetailPage() {
           <h1>{series.name}</h1>
           <p className="page-subtitle">
             {(() => {
-              const years = series.works.map((w) => w.firstPublishedYear);
+              const years = (seriesWorks ?? []).map((w) => w.firstPublishedYear);
               const from = Math.min(...years);
               const to = Math.max(...years);
-              const authors = [...new Set(series.works.flatMap((w) => w.authorNames))];
+              const authors = [...new Set((seriesWorks ?? []).flatMap((w) => w.authorNames))];
               return (
                 <>
                   <span className={`winner-year winner-year--${colorForYear(from)}`}>
