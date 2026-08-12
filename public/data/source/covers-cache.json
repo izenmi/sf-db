@@ -41,6 +41,14 @@
     "source": "rakuten-books",
     "note": "ハヤカワepi文庫〔完全版〕の書影を採用"
   },
+  "a-closed-and-common-orbit": {
+    "title": "銀河核へ",
+    "isbn": null,
+    "matchedTitle": "銀河核へ　上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3683/2000007333683.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T11:49:23.850Z"
+  },
   "a-darkling-plain": {
     "title": "廃墟都市の復活",
     "isbn": null,
@@ -192,6 +200,15 @@
     "resolvedAt": "2026-08-12T02:32:06.512Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18667274/"
   },
+  "all-you-need-is-kill": {
+    "title": "All You Need Is Kill",
+    "isbn": "9784086302197",
+    "matchedTitle": "All You Need Is Kill",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2197/9784086302197_1_2.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1744287/",
+    "source": "rakuten-books",
+    "note": "小説版の書影を採用(自動取得が漫画版を拾ったため)"
+  },
   "all-you-zombies": {
     "title": "輪廻の蛇",
     "isbn": "9784150119898",
@@ -209,6 +226,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T09:48:52.848Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16007572/"
+  },
+  "ame-no-hi-no-iris": {
+    "title": "雨の日のアイリス",
+    "isbn": null,
+    "matchedTitle": "雨の日のアイリス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5171/2000002035171.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T11:49:16.854Z"
   },
   "american-buddha": {
     "title": "アメリカン・ブッダ",
@@ -602,6 +627,12 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T23:11:23.499Z"
   },
+  "berserker": {
+    "title": "バーサーカー",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T11:50:15.053Z"
+  },
   "bianca-overstudy": {
     "title": "ビアンカ・オーバースタディ",
     "isbn": null,
@@ -720,6 +751,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T01:58:16.447Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/138209/"
+  },
+  "boku-wa-robot-goshi": {
+    "title": "僕はロボットごしの君に恋をする",
+    "isbn": "9784309026107",
+    "matchedTitle": "僕はロボットごしの君に恋をする",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6107/9784309026107_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T11:49:18.022Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15087291/"
   },
   "bokura-wa-toshi-o-aishiteita": {
     "title": "ぼくらは都市を愛していた",
@@ -1309,6 +1349,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T23:49:54.739Z"
   },
+  "dawn-hirano": {
+    "title": "ドーン",
+    "isbn": "9784062772631",
+    "matchedTitle": "ドーン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2631/9784062772631.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T11:49:20.359Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11690751/"
+  },
   "death-doctor-island": {
     "title": "デス博士の島その他の物語",
     "isbn": "9784336047366",
@@ -1582,6 +1631,12 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T04:34:08.693Z"
+  },
+  "dreamcatcher": {
+    "title": "ドリームキャッチャー",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T11:49:52.468Z"
   },
   "dreamsnake": {
     "title": "夢の蛇",
@@ -3829,6 +3884,24 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:31:18.141Z"
   },
+  "les-particules-elementaires": {
+    "title": "素粒子",
+    "isbn": "9784480421777",
+    "matchedTitle": "素粒子",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1777/9784480421777.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T11:49:30.941Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/3717851/"
+  },
+  "leve-future": {
+    "title": "未来のイヴ",
+    "isbn": "9784334753849",
+    "matchedTitle": "未来のイヴ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3849/9784334753849.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15618398/",
+    "source": "rakuten-books",
+    "note": "光文社古典新訳文庫版の書影を採用(自動取得が岩波文庫の下巻を拾ったため)"
+  },
   "light-of-other-days": {
     "title": "過ぎ去りし日々の光",
     "isbn": null,
@@ -4446,6 +4519,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T21:31:11.117Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11577928/"
+  },
+  "natsu-e-no-tunnel": {
+    "title": "夏へのトンネル、さよならの出口",
+    "isbn": "9784094518023",
+    "matchedTitle": "夏へのトンネル、さよならの出口",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8023/9784094518023_1_5.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15935289/",
+    "source": "rakuten-books",
+    "note": "小説版の書影を採用(自動取得が漫画版を拾ったため)"
   },
   "nazo-no-tenkosei": {
     "title": "なぞの転校生",
@@ -6476,6 +6558,12 @@
     "resolvedAt": "2026-08-12T01:56:06.242Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16876994/"
   },
+  "the-iron-dream": {
+    "title": "鉄の夢",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T11:50:37.383Z"
+  },
   "the-island-of-doctor-moreau": {
     "title": "モロー博士の島",
     "isbn": null,
@@ -6847,6 +6935,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-12T01:55:45.701Z"
   },
+  "thrice-upon-a-time": {
+    "title": "未来からのホットライン",
+    "isbn": null,
+    "matchedTitle": "未来からのホットライン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4105/2000003124105.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T11:49:27.380Z"
+  },
   "tigris-to-euphrates": {
     "title": "チグリスとユーフラテス",
     "isbn": null,
@@ -6866,6 +6962,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-12T07:57:02.057Z"
+  },
+  "time-leap": {
+    "title": "タイム・リープ あしたはきのう",
+    "isbn": null,
+    "matchedTitle": "新装版 タイム・リープ〈上〉　あしたはきのう",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1520/2000012031520.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rk/c8dd6376abb83f37a866d2a1039dec9c/",
+    "source": "rakuten-kobo",
+    "note": "新装版上巻の電子版書影を採用"
   },
   "time-migration": {
     "title": "時間移民",
