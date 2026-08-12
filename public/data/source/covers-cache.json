@@ -1270,6 +1270,15 @@
     "resolvedAt": "2026-08-11T10:46:17.139Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16731656/"
   },
+  "dokeshi-no-cho": {
+    "title": "道化師の蝶",
+    "isbn": "9784062930079",
+    "matchedTitle": "道化師の蝶",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0079/9784062930079.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:35:39.375Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13044287/"
+  },
   "dolroy-no-arashi": {
     "title": "ドルロイの嵐",
     "isbn": "9784150311179",
@@ -1816,6 +1825,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T03:36:48.817Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13215789/"
+  },
+  "genei-no-kosei": {
+    "title": "幻影の構成",
+    "isbn": "9784093525176",
+    "matchedTitle": "幻影の構成",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5176/9784093525176_1_20.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:35:18.177Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18278718/"
   },
   "genesis-machine": {
     "title": "創世記機械",
@@ -2482,6 +2500,15 @@
     "resolvedAt": "2026-08-12T02:32:05.359Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18594993/"
   },
+  "ikyo-henge": {
+    "title": "異郷変化",
+    "isbn": "9784093525312",
+    "matchedTitle": "異郷変化",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5312/9784093525312_1_31.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:35:22.788Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18506500/"
+  },
   "ilium": {
     "title": "イリアム",
     "isbn": null,
@@ -2686,6 +2713,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T10:46:55.229Z"
   },
+  "jun-b-kyu-shimin": {
+    "title": "準B級市民",
+    "isbn": "9784093525350",
+    "matchedTitle": "準B級市民",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5350/9784093525350_1_59.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:35:19.328Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18565753/"
+  },
   "jurassic-park": {
     "title": "ジュラシック・パーク",
     "isbn": null,
@@ -2887,6 +2923,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T04:40:26.813Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1708019/"
+  },
+  "katamuita-chiheisen": {
+    "title": "傾いた地平線",
+    "isbn": "9784093525107",
+    "matchedTitle": "傾いた地平線",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5107/9784093525107_1_36.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:35:21.632Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18185771/"
   },
   "kazoku-hakkei": {
     "title": "家族八景",
@@ -4262,6 +4307,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T21:30:40.569Z"
   },
+  "private-seikan-senso": {
+    "title": "プライベートな星間戦争",
+    "isbn": null,
+    "matchedTitle": "プライベートな星間戦争",
+    "coverUrl": "https://c.bookwalker.jp/1009437/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-12T04:35:37.036Z"
+  },
   "project-hail-mary": {
     "title": "プロジェクト・ヘイル・メアリー",
     "isbn": "9784150125066",
@@ -4633,6 +4686,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T03:44:06.512Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15540829/"
+  },
+  "seisoken-no-bohyo": {
+    "title": "成層圏の墓標",
+    "isbn": "9784334106263",
+    "matchedTitle": "成層圏の墓標",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6263/9784334106263_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:35:16.986Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18206224/"
   },
   "sekai-no-owari-no-kabegiwa-de": {
     "title": "世界の終わりの壁際で",
@@ -6187,6 +6249,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:45:36.204Z"
   },
+  "waga-sexoid": {
+    "title": "わがセクソイド",
+    "isbn": "9784093525398",
+    "matchedTitle": "わがセクソイド",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5398/9784093525398_1_37.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:35:20.476Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18640675/"
+  },
   "wakusei-kazan-no-sakura": {
     "title": "惑星カザンの桜",
     "isbn": "9784488617110",
@@ -6304,6 +6375,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T22:38:08.522Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17926363/"
+  },
+  "yasashii-rengoku": {
+    "title": "優しい煉獄",
+    "isbn": "9784198939847",
+    "matchedTitle": "優しい煉獄",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9847/9784198939847.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:35:38.216Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13224667/"
   },
   "yiddish-policemens-union": {
     "title": "ユダヤ警官同盟",
