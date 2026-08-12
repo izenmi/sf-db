@@ -3756,7 +3756,8 @@
     },
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版WikipediaまたはWikidataのP577で確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "移動都市クロニクル"
   },
   {
     "id": "brightness-falls-from-the-air",
@@ -26583,6 +26584,193 @@
     "synopsis": "大統領選挙に敗れ、失意の日々を送る元大統領ジミー・カーター。だが気がかりな夢からさめてみると、なんとそこは火星だった。赤色人や緑色人がうろつく宮殿のなかで、彼は火星の大元帥カーターと対面することになる。抱腹絶倒の表題作のほか、老いた宇宙飛行士と若い密航者の心理の襞を描く一編などを収める作品集である。",
     "externalLinks": {},
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "predators-gold",
+    "title": "掠奪都市の黄金",
+    "titleKana": "りゃくだつとしのおうごん",
+    "authorIds": [
+      "philip-reeve"
+    ],
+    "translatorIds": [
+      "anno-rei"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "post-apocalypse",
+      "juvenile",
+      "space-development"
+    ],
+    "seriesName": "移動都市クロニクル",
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "jpPublishedYear": 2007,
+    "originalTitle": "Predator's Gold",
+    "status": "completed",
+    "synopsis": "古代兵器の暴走によってロンドンが炎上してから二年あまり、元ロンドンの見習い史学士トムは、ヘスターとともに飛行船を飛ばしていた。だが戦闘飛行船に攻撃されて不時着した北の氷原で、移動都市アンカレジに拾われたことから二人の運命は急転する。都市を支配する少女とトムの仲に嫉妬し、ひとり飛び立ったヘスターを待つものとは。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "infernal-devices-reeve",
+    "title": "氷上都市の秘宝",
+    "titleKana": "ひょうじょうとしのひほう",
+    "authorIds": [
+      "philip-reeve"
+    ],
+    "translatorIds": [
+      "anno-rei"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "post-apocalypse",
+      "juvenile",
+      "robot"
+    ],
+    "seriesName": "移動都市クロニクル",
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2010,
+    "originalTitle": "Infernal Devices",
+    "status": "completed",
+    "synopsis": "レン・ナッツワーシー十五歳は、死の大陸の片すみに眠る、かつての氷上都市アンカレジに住んでいる。平和な日常に物足りなさを感じていた彼女の心の隙につけこんだのが、盗賊ロストボーイたちだった。狙いはアンカレジの図書館にある一冊の本である。口車に乗ってこっそり持ち出したあげく、彼女は彼らの本拠地へ連れていかれてしまう。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "a-darkling-plain",
+    "title": "廃墟都市の復活",
+    "titleKana": "はいきょとしのふっかつ",
+    "authorIds": [
+      "philip-reeve"
+    ],
+    "translatorIds": [
+      "anno-rei"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "post-apocalypse",
+      "juvenile",
+      "military-sf"
+    ],
+    "seriesName": "移動都市クロニクル",
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "jpPublishedYear": 2018,
+    "originalTitle": "A Darkling Plain",
+    "status": "completed",
+    "synopsis": "ヘスターは機械仕掛けの兵士シュライクに助けられたものの、いまさらトムやレンのもとへ戻ることもできず、賞金稼ぎとして暮らしていた。だが娘レンと親しかった青年セオを偶然助けたことから、忘れたはずの過去が彼女につきまといはじめる。移動都市との和平を進めようとする勢力の内紛と、戦争の行方が交錯する完結編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-two-faces-of-tomorrow",
+    "title": "未来の二つの顔",
+    "titleKana": "みらいのふたつのかお",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "kosumi-rei"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "ai",
+      "hard-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1979,
+    "jpPublishedYear": 1983,
+    "originalTitle": "The Two Faces of Tomorrow",
+    "status": "completed",
+    "synopsis": "レイモンド・ダイアー博士はニューヨーク市立大学で人工知能を研究していたが、月面の工事現場で起きた重大な事件のために中断を申し渡された。計算機が誤った判断を下したせいで、五人が危うく殺されるところだったのである。人工知能研究の重要性を信じるダイアーは、軌道上に隔離した環境で機械と人間が本気で戦う実験を提案する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/未来の二つの顔"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "provenance",
+    "title": "動乱星系",
+    "titleKana": "どうらんせいけい",
+    "authorIds": [
+      "ann-leckie"
+    ],
+    "translatorIds": [
+      "akao-hideko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "ai",
+      "space-colony"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2017,
+    "jpPublishedYear": 2018,
+    "originalTitle": "Provenance",
+    "status": "completed",
+    "synopsis": "人工知能の独立と内戦に揺れるラドチ圏から遠く離れた、辺境の星系国家。有力政治家の娘イングレイは、兄との後継争いを大逆転するため、政敵の秘密を握る人物を流刑地から脱走させる。ところが引き渡されたのは、まったくの別人だった。流刑囚の脱獄と隣国有力者の殺人事件が絡み合い、異星種族まで巻き込む一触即発の事態へ発展していく。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "end-of-an-era",
+    "title": "さよならダイノサウルス",
+    "titleKana": "さよならだいのさうるす",
+    "authorIds": [
+      "robert-j-sawyer"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "evolution",
+      "hard-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1994,
+    "jpPublishedYear": 1996,
+    "originalTitle": "End of an Era",
+    "status": "completed",
+    "synopsis": "古生物学者のブランドンとマイルズは、時間旅行の装置に乗って白亜紀へ送り込まれた。恐竜が絶滅した理由をその目で確かめるためである。だが到着した過去の地球では、重力が現在よりもはるかに小さかった。なぜ恐竜はあれほど巨大になれたのか、そしてなぜ短期間で滅びたのか。二つの謎を一本の着想で結んでみせた長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "unaccompanied-sonata",
+    "title": "無伴奏ソナタ",
+    "titleKana": "むばんそうそなた",
+    "authorIds": [
+      "orson-scott-card"
+    ],
+    "translatorIds": [
+      "noguchi-yukio"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "dystopia",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1979,
+    "jpPublishedYear": 1985,
+    "originalTitle": "Unaccompanied Sonata",
+    "status": "completed",
+    "synopsis": "他人の音楽をいっさい聴かせず、純粋な才能のままに育てられた作曲家クリスチャン・ハロルドセン。だが禁を破って他人の音楽に触れてしまったとき、彼から才能そのものが取り上げられる。表題作をはじめ、のちに長編化される「エンダーのゲーム」など全十一編を収める。管理と才能をめぐる問いが通奏低音のように流れる短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
 ]
