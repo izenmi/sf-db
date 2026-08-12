@@ -245,6 +245,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T03:43:47.195Z"
   },
+  "arrows-of-time": {
+    "title": "アロウズ・オブ・タイム",
+    "isbn": null,
+    "matchedTitle": "アロウズ・オブ・タイム",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2350/2000004982350.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T00:30:09.503Z"
+  },
   "artemis": {
     "title": "アルテミス",
     "isbn": "9784150121648",
@@ -619,6 +627,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T23:11:38.889Z"
   },
+  "chronos-jaunter": {
+    "title": "クロノス・ジョウンターの伝説",
+    "isbn": null,
+    "matchedTitle": "クロノス･ジョウンターの伝説",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6206/2000002886206.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T00:30:14.239Z"
+  },
   "chryse-no-sakana": {
     "title": "クリュセの魚",
     "isbn": "9784309414737",
@@ -749,6 +765,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:49:15.504Z"
+  },
+  "crossfire": {
+    "title": "クロスファイア",
+    "isbn": "9784334749736",
+    "matchedTitle": "クロスファイア（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9736/9784334749736.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T00:29:58.815Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11231361/"
   },
   "cryptonomicon": {
     "title": "クリプトノミコン",
@@ -1165,6 +1190,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T12:22:28.375Z"
   },
+  "espy": {
+    "title": "エスパイ",
+    "isbn": null,
+    "matchedTitle": "エスパイ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1718/2000002741718.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T00:29:21.336Z"
+  },
   "eszterhazy": {
     "title": "エステルハージ博士の事件簿",
     "isbn": "9784309467962",
@@ -1409,6 +1442,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T04:39:46.110Z"
   },
+  "gentle-giants-of-ganymede": {
+    "title": "ガニメデの優しい巨人",
+    "isbn": "9784488663322",
+    "matchedTitle": "ガニメデの優しい巨人【新版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3322/9784488663322_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T00:29:30.000Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17553315/"
+  },
   "gessekai-shosetsu": {
     "title": "月世界小説",
     "isbn": "9784150311988",
@@ -1477,6 +1519,15 @@
     "resolvedAt": "2026-08-11T03:43:15.653Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1400064/"
   },
+  "gordias-no-musubime": {
+    "title": "ゴルディアスの結び目",
+    "isbn": "9784894563919",
+    "matchedTitle": "ゴルディアスの結び目",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3919/9784894563919.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T00:29:22.487Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/965528/"
+  },
   "goto-san-no-koto": {
     "title": "後藤さんのこと",
     "isbn": "9784150310622",
@@ -1509,6 +1560,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:33:58.457Z"
+  },
+  "green-requiem": {
+    "title": "グリーン・レクイエム",
+    "isbn": "9784065225394",
+    "matchedTitle": "グリーン・レクイエム　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5394/9784065225394.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T00:29:28.819Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16665727/"
   },
   "guin-saga": {
     "title": "グイン・サーガ",
@@ -1832,6 +1892,15 @@
     "resolvedAt": "2026-08-11T04:35:13.127Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1208016/"
   },
+  "i-robot": {
+    "title": "われはロボット",
+    "isbn": "9784150114855",
+    "matchedTitle": "われはロボット　決定版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4855/9784150114855_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T00:29:12.959Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1698770/"
+  },
   "i-will-fear-no-evil": {
     "title": "悪徳なんかこわくない",
     "isbn": null,
@@ -1990,6 +2059,12 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7513/2000008857513.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T10:46:55.229Z"
+  },
+  "jurassic-park": {
+    "title": "ジュラシック・パーク",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T00:29:53.819Z"
   },
   "kagami-no-kuni-no-alice": {
     "title": "鏡の国のアリス",
@@ -2161,6 +2236,15 @@
     "resolvedAt": "2026-08-11T04:40:26.813Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1708019/"
   },
+  "kazoku-hakkei": {
+    "title": "家族八景",
+    "isbn": "9784101171012",
+    "matchedTitle": "家族八景",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10117101.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T00:29:23.637Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/3592082/"
+  },
   "keiba-no-owari": {
     "title": "競馬の終わり",
     "isbn": "9784087456110",
@@ -2309,6 +2393,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T10:45:59.794Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17756300/"
+  },
+  "kono-mune-ippai": {
+    "title": "この胸いっぱいの愛を",
+    "isbn": null,
+    "matchedTitle": "この胸いっぱいの愛を",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8284/2000000258284.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T00:30:19.232Z"
   },
   "kore-wa-pen-desu": {
     "title": "これはペンです",
@@ -2792,6 +2884,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T23:12:15.037Z"
   },
+  "naked-sun": {
+    "title": "はだかの太陽",
+    "isbn": "9784150120078",
+    "matchedTitle": "はだかの太陽〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0078/9784150120078.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T00:29:14.207Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13233055/"
+  },
   "nameraka-na-sekai": {
     "title": "なめらかな世界と、その敵",
     "isbn": "9784150315184",
@@ -2828,6 +2929,15 @@
     "resolvedAt": "2026-08-11T21:31:11.117Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11577928/"
   },
+  "nazo-no-tenkosei": {
+    "title": "なぞの転校生",
+    "isbn": "9784062777544",
+    "matchedTitle": "なぞの転校生",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7544/9784062777544.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T00:29:27.117Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12563060/"
+  },
   "neji-no-kaiten": {
     "title": "ねじの回転",
     "isbn": "9784087478891",
@@ -2844,6 +2954,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4904/2000001894904.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T22:35:21.078Z"
+  },
+  "nerawareta-gakuen": {
+    "title": "ねらわれた学園",
+    "isbn": "9784062771689",
+    "matchedTitle": "ねらわれた学園",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1689/9784062771689.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T00:29:25.960Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11854328/"
   },
   "nettai-morimi": {
     "title": "熱帯",
@@ -2871,6 +2990,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T04:34:14.692Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18265413/"
+  },
+  "nine-billion-names": {
+    "title": "90億の神の御名",
+    "isbn": null,
+    "matchedTitle": "９０億の神の御名",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5935/2000008005935.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T00:29:17.675Z"
   },
   "ninefox-gambit": {
     "title": "ナインフォックスの覚醒",
@@ -2968,6 +3095,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T12:23:57.056Z"
+  },
+  "oedipus-no-koibito": {
+    "title": "エディプスの恋人",
+    "isbn": "9784101171135",
+    "matchedTitle": "エディプスの恋人改版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1135/9784101171135.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T00:29:24.790Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1532847/"
   },
   "okina-tori-ni-sarawarenai-yo": {
     "title": "大きな鳥にさらわれないよう",
@@ -3549,6 +3685,15 @@
     "source": "rakuten-kobo",
     "note": "自動取得が下巻を拾ったため電子版上巻の書影に差し替え"
   },
+  "shadow-of-the-hegemon": {
+    "title": "シャドウ・オブ・ヘゲモン",
+    "isbn": null,
+    "matchedTitle": "シャドウ・オブ・ヘゲモン（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3040/2000003153040.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rk/d2d3cd5b91cf3baeb335d96a3c14d282/",
+    "source": "rakuten-kobo",
+    "note": "自動取得が下巻を拾ったため電子版上巻の書影に差し替え"
+  },
   "shangri-la": {
     "title": "シャングリ・ラ",
     "isbn": "9784043647040",
@@ -3802,6 +3947,14 @@
     "resolvedAt": "2026-08-11T10:45:54.048Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16957143/"
   },
+  "starman-jones": {
+    "title": "スターマン・ジョーンズ",
+    "isbn": null,
+    "matchedTitle": "スターマン・ジョーンズ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9975/2000008669975.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T00:30:05.943Z"
+  },
   "starship-and-haiku": {
     "title": "スターシップと俳句",
     "isbn": null,
@@ -3924,6 +4077,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8919/2000004438919.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T23:11:00.198Z"
+  },
+  "tasogare-ni-kaeru": {
+    "title": "たそがれに還る",
+    "isbn": "9784150300036",
+    "matchedTitle": "たそがれに還る",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0036/9784150300036_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T00:30:10.657Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/149526/"
   },
   "tau-zero": {
     "title": "タウ・ゼロ",
@@ -4265,6 +4427,15 @@
     "resolvedAt": "2026-08-11T10:45:49.412Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16457464/"
   },
+  "tsubaki-tokitobi": {
+    "title": "つばき、時跳び",
+    "isbn": "9784582767032",
+    "matchedTitle": "つばき、時跳び",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7032/9784582767032.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T00:30:15.426Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6511029/"
+  },
   "tsugu-nowa-dareka": {
     "title": "継ぐのは誰か?",
     "isbn": "9784198947651",
@@ -4364,6 +4535,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T21:30:57.016Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11112046/"
+  },
+  "under-the-dome": {
+    "title": "アンダー・ザ・ドーム",
+    "isbn": null,
+    "matchedTitle": "アンダー・ザ・ドーム（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0356/2000002970356.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T00:29:57.594Z"
   },
   "underground-railroad": {
     "title": "地下鉄道",
