@@ -28703,5 +28703,185 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "all-you-need-is-kill",
+    "title": "All You Need Is Kill",
+    "titleKana": "おーるゆーにーどいずきる",
+    "authorIds": [
+      "sakurazaka-hiroshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "time-loop",
+      "military-sf",
+      "alien"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "近未来、異星から来た敵と人類が戦う戦場で、初年兵のキリヤは死んでは同じ朝に戻ることを繰り返していた。何度も殺され、何度も目覚めるうちに、彼の戦闘技術だけが積み上がっていく。同じ戦場には、鉈を振るう女准尉リタがいた。反復のなかで強くなることの意味を問う、日本発の時間ループSFの代表作である。",
+    "mediaMix": {
+      "movie": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/All You Need Is Kill"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "time-leap",
+    "title": "タイム・リープ あしたはきのう",
+    "titleKana": "たいむりーぷあしたはきのう",
+    "authorIds": [
+      "takahata-kyoichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "media-works",
+    "themeIds": [
+      "time-travel",
+      "juvenile",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "高校二年生の鹿島翔香は、ある日、昨日の記憶を失っていることに気づく。日記には自分の筆跡で、見覚えのない文章が書かれていた。あなたは今、混乱している、若松くんに相談なさい。同級生の秀才に助けを求めた彼女は、自分がただの記憶喪失ではなく、あるきまりに従って時を移動していることを知る。時間跳躍ものの金字塔である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/タイム・リープ あしたはきのう"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "natsu-e-no-tunnel",
+    "title": "夏へのトンネル、さよならの出口",
+    "titleKana": "なつへのとんねるさよならのでぐち",
+    "authorIds": [
+      "yatsuki-mei"
+    ],
+    "translatorIds": [],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "time-travel",
+      "juvenile",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "海に面した田舎町の香崎。夏の日の朝、高校二年の塔野カオルは、ウラシマトンネルという都市伝説を耳にする。そこに入れば欲しいものがなんでも手に入るが、ただでは帰してくれないという。失ったものを取り戻したい少年と、この町から出たい少女。二人はトンネルの検証をはじめる。過ぎていく時間そのものを賭けた青春SFである。",
+    "mediaMix": {
+      "anime": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夏へのトンネル、さよならの出口"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ame-no-hi-no-iris",
+    "title": "雨の日のアイリス",
+    "titleKana": "あめのひのあいりす",
+    "authorIds": [
+      "matsuyama-go"
+    ],
+    "translatorIds": [],
+    "publisherId": "ascii-media-works",
+    "themeIds": [
+      "robot",
+      "ai",
+      "post-apocalypse"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "ここにロボットの残骸がある。彼女の名はアイリス・レイン・アンヴレラ。ロボット研究者の家にいた家政婦型のロボットだった。主人から家族同然に愛され、不自由なく暮らしていたはずの彼女が、なぜこのような姿になってしまったのか。残された精神回路から取り出した記録を再構成する形で、その半生が語られていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/雨の日のアイリス"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "boku-wa-robot-goshi",
+    "title": "僕はロボットごしの君に恋をする",
+    "titleKana": "ぼくはろぼっとごしのきみにこいをする",
+    "authorIds": [
+      "yamada-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "robot",
+      "near-future",
+      "ai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "二〇五〇年の東京。オリンピックの警備を担うロボットの開発に携わる健は、遠隔操作する機体越しに、想いを寄せる相手を守ろうとする。だが計画には裏があった。機械の身体を借りて人と関わるとはどういうことなのか。近未来の東京を舞台に、隔たりを抱えたまま伸ばされる手を描いた長編である。本当の結末を描いたという番外編も併せて収められている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/僕はロボットごしの君に恋をする"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dawn-hirano",
+    "title": "ドーン",
+    "titleKana": "どーん",
+    "authorIds": [
+      "hirano-keiichiro"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "space-development",
+      "near-future",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "人類初の火星探査に成功し、一躍英雄となった宇宙飛行士の佐野明日人。だが闇に葬られたはずの火星での出来事が、アメリカ大統領選挙を揺るがす醜聞へと発展していく。あらゆる行動が記録され照合される社会で、人はいくつもの顔を使い分けて生きている。分人という概念を提唱した、近未来を舞台にした長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドーン (小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "a-closed-and-common-orbit",
+    "title": "銀河核へ",
+    "titleKana": "ぎんがかくへ",
+    "authorIds": [
+      "becky-chambers"
+    ],
+    "translatorIds": [
+      "hosomi-yoko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "alien",
+      "first-contact"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "jpPublishedYear": 2019,
+    "originalTitle": "The Long Way to a Small, Angry Planet",
+    "status": "completed",
+    "synopsis": "銀河共同体に加盟することになった未知の種族トレミ・カ。貴重な資源を産出する彼らの宙域と共同体の中心領域を結ぶ、超光速航行用のトンネル建設という大仕事を、宇宙船ウェイフェアラーが受注した。一年に及ぶ長旅を、種族も生い立ちもばらばらな乗員たちが共に過ごす。共同体の作り方そのものを主題にした王道の宇宙叙事詩である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀河核へ"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

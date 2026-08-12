@@ -3913,5 +3913,86 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sakurazaka-hiroshi",
+    "name": "桜坂洋",
+    "nameKana": "さくらざかひろし",
+    "description": "日本のSF作家。ゲーム的な反復構造を用いた作風で知られる。",
+    "birthYear": 1970,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/桜坂洋"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "takahata-kyoichiro",
+    "name": "高畑京一郎",
+    "nameKana": "たかはたきょういちろう",
+    "description": "日本の小説家。緻密に構成されたタイムトラベルものを書いた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/高畑京一郎"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yatsuki-mei",
+    "name": "八目迷",
+    "nameKana": "やつきめい",
+    "description": "日本の小説家。青春と幻想を組み合わせた作風で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/八目迷"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "matsuyama-go",
+    "name": "松山剛",
+    "nameKana": "まつやまごう",
+    "description": "日本の小説家。ロボットと人間の関係を主題にした作品を書く。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/松山剛"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yamada-yusuke",
+    "name": "山田悠介",
+    "nameKana": "やまだゆうすけ",
+    "description": "日本の小説家。若い読者に向けたサスペンスで支持を集めた。",
+    "birthYear": 1981,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山田悠介"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hirano-keiichiro",
+    "name": "平野啓一郎",
+    "nameKana": "ひらのけいいちろう",
+    "description": "日本の小説家。芥川賞受賞作『日蝕』でデビューし、分人という概念を提唱した。",
+    "birthYear": 1975,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/平野啓一郎"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "becky-chambers",
+    "name": "ベッキー・チェンバーズ",
+    "nameKana": "ちぇんばーずべっきー",
+    "description": "アメリカの作家。個人出版から出発し、優しさを主調にしたスペースオペラで評価された。",
+    "birthYear": 1985,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ベッキー・チェンバーズ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
