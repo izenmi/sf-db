@@ -28160,5 +28160,295 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "robur-the-conqueror",
+    "title": "征服者ロビュール",
+    "titleKana": "せいふくしゃろびゅーる",
+    "authorIds": [
+      "jules-verne"
+    ],
+    "translatorIds": [
+      "tezuka-shinichi"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "hard-sf",
+      "space-development",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1886,
+    "jpPublishedYear": 1967,
+    "originalTitle": "Robur le Conquérant",
+    "status": "completed",
+    "synopsis": "高空から降り注ぐ最後の審判のラッパのような音、そして各地の尖塔の頂きにくくりつけられた旗。世界中で起きたこの怪現象に各国が騒然とするなか、フィラデルフィアの気球愛好家の集会にひとりの男が現れ、ロビュールと名乗って大空を征服したと宣言した。飛行機械による自由奔放な空の旅を描く、円熟期の冒険譚である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/征服者ロビュール"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "face-au-drapeau",
+    "title": "悪魔の発明",
+    "titleKana": "あくまのはつめい",
+    "authorIds": [
+      "jules-verne"
+    ],
+    "translatorIds": [
+      "eguchi-kiyoshi"
+    ],
+    "publisherId": "mikasa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "military-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1896,
+    "jpPublishedYear": 1959,
+    "originalTitle": "Face au drapeau",
+    "status": "completed",
+    "synopsis": "天才発明家のトマ・ロック博士は新しい発明に没頭していた。なかでも、一発で一国の艦隊を全滅させられるというロック式電光弾は恐るべきものだった。厳重な警戒にもかかわらず、それは海賊ケル・カラージュの手に奪われてしまう。大西洋の諸国は連合艦隊を編成して根拠地へ向かうが。科学知識の裏付けをもって未来を予見した長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/悪魔の発明"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-star-stealers",
+    "title": "太陽強奪",
+    "titleKana": "たいようごうだつ",
+    "authorIds": [
+      "edmond-hamilton"
+    ],
+    "translatorIds": [
+      "fukamachi-mariko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "short-stories",
+      "military-sf"
+    ],
+    "seriesName": "星間パトロール",
+    "origin": "overseas",
+    "firstPublishedYear": 1929,
+    "jpPublishedYear": 1972,
+    "originalTitle": "The Star Stealers",
+    "status": "completed",
+    "synopsis": "太陽とすれ違うはずだった銀河系内の赤色巨星アルトが、突如として針路を変え、太陽系めざして接近をはじめた。このまま進めば衝突は一年以内である。八星連合の最高評議会から派遣されたジャン・トール配下の遠征隊は、やがてアルトの周囲に一個の惑星を発見した。人類を含む多数の異星種族からなる星間パトロールが活躍する五編を収める。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/太陽強奪"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "outside-the-universe",
+    "title": "銀河大戦",
+    "titleKana": "ぎんがたいせん",
+    "authorIds": [
+      "edmond-hamilton"
+    ],
+    "translatorIds": [
+      "fukamachi-mariko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "military-sf",
+      "alien"
+    ],
+    "seriesName": "星間パトロール",
+    "origin": "overseas",
+    "firstPublishedYear": 1929,
+    "jpPublishedYear": 1971,
+    "originalTitle": "Outside the Universe",
+    "status": "completed",
+    "synopsis": "銀河系のはるか外側、漆黒の闇のなかで島宇宙のへりに沿って飛行を続けていた星間パトロールの一隊が、どこからともなく飛来した宇宙船団の攻撃を受けて壊滅的な打撃をこうむった。相手は死に瀕した宇宙から逃れ、新たな居住地を求める侵略者である。彼らは銀河系のカニ座大星団を襲い、征服の橋頭堡を確保した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀河大戦"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-skylark-of-space",
+    "title": "宇宙のスカイラーク",
+    "titleKana": "うちゅうのすかいらーく",
+    "authorIds": [
+      "ee-smith"
+    ],
+    "translatorIds": [
+      "nakamura-yoshimi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "hard-sf",
+      "alien"
+    ],
+    "seriesName": "スカイラーク",
+    "origin": "overseas",
+    "firstPublishedYear": 1928,
+    "jpPublishedYear": 1967,
+    "originalTitle": "The Skylark of Space",
+    "status": "completed",
+    "synopsis": "リチャード・シートンは、未知の金属Xの溶液を触媒にして、銅の原子から直接エネルギーを引き出す装置を発明した。こうして完成したのが超光速船スカイラーク号である。いっぽう若い科学者マーク・デュケーンは、X金属を奪おうと企む。人質をとった彼の宇宙船が手違いで大気圏外へ飛び出したことから、追跡がはじまる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇宙のスカイラーク"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sinister-barrier",
+    "title": "超生命ヴァイトン",
+    "titleKana": "ちょうせいめいゔぁいとん",
+    "authorIds": [
+      "eric-frank-russell"
+    ],
+    "translatorIds": [
+      "yano-tetsu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "world-truth",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1939,
+    "jpPublishedYear": 1964,
+    "originalTitle": "Sinister Barrier",
+    "status": "completed",
+    "synopsis": "スウェーデンの科学者が急死し、急性の心臓病と診断された。次いでイギリスの博士が、舗道で友人と話している最中に倒れて死ぬ。やはり心臓病だった。二つの怪死は謎のままだったが、ある工場の大爆発をきっかけに、正体不明の奇怪な光球生物が撮影されていたことが判明する。人類は誰かに飼われているのではないか。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/超生命ヴァイトン"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "close-to-critical",
+    "title": "テネブラ救援隊",
+    "titleKana": "てねぶらきゅうえんたい",
+    "authorIds": [
+      "hal-clement"
+    ],
+    "translatorIds": [
+      "yoshida-seiichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "hard-sf",
+      "alien",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1964,
+    "jpPublishedYear": 1970,
+    "originalTitle": "Close to Critical",
+    "status": "completed",
+    "synopsis": "惑星テネブラの環境は臨界の状態にあった。水は液体と気体の境目で揺らぎ、地表の条件は人間の生存をまるで許さない。そこへ調査用の艇が不時着し、乗っていた者たちに危機が迫る。救出に向かえるのは、この星で人類が育ててきた現地の知的生命だけだった。原題の一語に、惑星の臨界と乗員の危機という二つの意味を掛けた長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/テネブラ救援隊"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "little-fuzzy",
+    "title": "リトル・ファジー",
+    "titleKana": "りとるふぁじー",
+    "authorIds": [
+      "h-beam-piper"
+    ],
+    "translatorIds": [
+      "sako-mariko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-colony",
+      "alien",
+      "first-contact"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1962,
+    "jpPublishedYear": 1984,
+    "originalTitle": "Little Fuzzy",
+    "status": "completed",
+    "synopsis": "超光速航行を手にした地球人類が入植した、西部劇の時代にも似た植民星。そこで見つかった小さな毛むくじゃらの生き物は、愛らしいだけの動物なのか、それとも法の保護を受けるべき人間なのか。判定しだいで惑星の権益そのものが動く。知的生物とそうでない生物を分ける知性のありようを、法廷の枠組みで問う長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リトル・ファジー"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "donovans-brain",
+    "title": "ドノヴァンの脳髄",
+    "titleKana": "どのゔぁんののうずい",
+    "authorIds": [
+      "curt-siodmak"
+    ],
+    "translatorIds": [
+      "nakada-koji"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "denki-sf",
+      "near-future",
+      "world-truth"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1943,
+    "jpPublishedYear": 1957,
+    "originalTitle": "Donovan's Brain",
+    "status": "completed",
+    "synopsis": "航空機事故で瀕死となった大富豪ドノヴァンの脳を、科学者パトリック・コリイは体から取り出して生かし続けることに成功した。だが培養液のなかで肥大していく脳は、やがて研究者自身の意志を侵しはじめる。肉体を失った意志が他人を操りはじめたとき、どちらが本人なのか。頭部の移植と脳の保存を扱った古典であり、後続のマッドサイエンティストものの型を作った長編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドノヴァンの脳髄"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-maze-runner",
+    "title": "メイズ・ランナー",
+    "titleKana": "めいずらんなー",
+    "authorIds": [
+      "james-dashner"
+    ],
+    "translatorIds": [
+      "tauchi-shimon"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "dystopia",
+      "juvenile",
+      "near-future"
+    ],
+    "seriesName": "メイズ・ランナー",
+    "origin": "overseas",
+    "firstPublishedYear": 2009,
+    "jpPublishedYear": 2015,
+    "originalTitle": "The Maze Runner",
+    "status": "completed",
+    "synopsis": "記憶を失った状態で、巨大な迷路の中心にある広場へ送り込まれた少年トーマス。そこには同じように記憶を奪われた少年たちが、独自の掟を作って暮らしていた。夜になると閉じる壁、走者と呼ばれる迷路の探索者、そして誰かが仕組んだ実験の気配。脱出に挑む彼らを描く、若い読者に向けたSFスリラーである。なぜ自分たちがここにいるのかという問いが、迷路の攻略と並んで最後まで引っぱられていく。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/メイズ・ランナー"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

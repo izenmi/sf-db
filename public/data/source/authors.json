@@ -3745,5 +3745,77 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ee-smith",
+    "name": "E・E・スミス",
+    "nameKana": "すみすいーいー",
+    "description": "アメリカの作家・化学者。〈レンズマン〉〈スカイラーク〉でスペースオペラを確立した。",
+    "birthYear": 1890,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/E・E・スミス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hal-clement",
+    "name": "ハル・クレメント",
+    "nameKana": "くれめんとはる",
+    "description": "アメリカの作家・化学教師。異常環境の惑星を科学的に組み立てるハードSFで知られる。",
+    "birthYear": 1922,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハル・クレメント"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "h-beam-piper",
+    "name": "H・ビーム・パイパー",
+    "nameKana": "ぱいぱーえいちびーむ",
+    "description": "アメリカの作家。植民星を舞台にした作品を多く残した。",
+    "birthYear": 1904,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/H・ビーム・パイパー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "curt-siodmak",
+    "name": "カート・シオドマク",
+    "nameKana": "しおどまくかーと",
+    "description": "ドイツ出身のアメリカの作家・脚本家。怪奇映画の脚本でも知られる。",
+    "birthYear": 1902,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カート・シオドマク"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "james-dashner",
+    "name": "ジェイムズ・ダシュナー",
+    "nameKana": "だしゅなーじぇいむず",
+    "description": "アメリカの作家。若い読者に向けたSFスリラーで人気を得た。",
+    "birthYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェイムズ・ダシュナー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "eric-frank-russell",
+    "name": "エリック・フランク・ラッセル",
+    "nameKana": "らっせるえりっくふらんく",
+    "description": "イギリスの作家。皮肉と諧謔を効かせた作風で知られる。",
+    "birthYear": 1905,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エリック・フランク・ラッセル"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
