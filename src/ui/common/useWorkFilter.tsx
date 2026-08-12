@@ -67,6 +67,21 @@ export function themeOptionsOf(works: WorkGenerated[] | undefined, exclude?: str
     .map(([value, e]) => ({ value, label: `${e.label}(${e.n})` }));
 }
 
+/** 作品リストに実際に付いているシリーズだけを、件数の多い順に返す。
+ *  1作しかないものは絞り込んでも件数が変わらないので落とす。
+ *  `exclude` はシリーズ詳細ページ用(そのページ自身のシリーズは全作品が持つので意味がない)。 */
+export function seriesOptionsOf(works: WorkGenerated[] | undefined, exclude?: string) {
+  const counts = new Map<string, number>();
+  for (const w of works ?? []) {
+    if (!w.seriesName || w.seriesName === exclude) continue;
+    counts.set(w.seriesName, (counts.get(w.seriesName) ?? 0) + 1);
+  }
+  return [...counts.entries()]
+    .filter(([, n]) => n > 1)
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ja"))
+    .map(([value, n]) => ({ value, label: `${value}(${n})` }));
+}
+
 export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = "year-desc") {
   const [params, setParams] = useSearchParams();
   const { coverView, gridClassName, toggle } = useCoverView();
@@ -74,8 +89,10 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
   const status = params.get("status") ?? "";
   const mediaMix = params.get("mediaMix") ?? "";
   const theme = params.get("theme") ?? "";
+  const series = params.get("series") ?? "";
   const sort = params.get("sort") ?? defaultSort;
   const options = useMemo(() => themeOptionsOf(works), [works]);
+  const seriesOptions = useMemo(() => seriesOptionsOf(works), [works]);
 
   const filtered = useMemo(() => {
     if (!works) return [];
@@ -89,9 +106,10 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
       if (mediaMix === "comic" && !w.mediaMix?.comic) return false;
       if (mediaMix === "none" && (w.mediaMix?.movie || w.mediaMix?.drama || w.mediaMix?.anime || w.mediaMix?.comic)) return false;
       if (theme && !w.themeIds.includes(theme)) return false;
+      if (series && w.seriesName !== series) return false;
       return true;
     });
-  }, [works, q, status, mediaMix, theme]);
+  }, [works, q, status, mediaMix, theme, series]);
 
   const sorted = useMemo(() => {
     if (sort === "year-asc") return [...filtered].sort((a, b) => a.firstPublishedYear - b.firstPublishedYear);
@@ -108,7 +126,7 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
     setParams(next, { replace: true });
   }
 
-  const hasActiveFilters = Boolean(q || status || mediaMix || theme);
+  const hasActiveFilters = Boolean(q || status || mediaMix || theme || series);
 
   const controls = (
     <div className="filter-row">
@@ -145,6 +163,16 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
           ))}
         </select>
       )}
+      {seriesOptions.length > 0 && (
+        <select value={series} onChange={(e) => updateParam("series", e.target.value)}>
+          <option value="">シリーズで絞り込み</option>
+          {seriesOptions.map((o) => (
+            <option value={o.value} key={o.value}>
+              {o.label}
+            </option>
+          ))}
+        </select>
+      )}
       <select
         value={sort}
         onChange={(e) => updateParam("sort", e.target.value === defaultSort ? "" : e.target.value)}
@@ -161,7 +189,7 @@ export function useWorkFilter(works: WorkGenerated[] | undefined, defaultSort = 
           className="filter-clear-btn"
           onClick={() => {
             const next = new URLSearchParams(params);
-            ["q", "status", "mediaMix", "theme"].forEach((k) => next.delete(k));
+            ["q", "status", "mediaMix", "theme", "series"].forEach((k) => next.delete(k));
             setParams(next, { replace: true });
           }}
         >

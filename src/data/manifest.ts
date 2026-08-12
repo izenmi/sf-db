@@ -2,6 +2,7 @@ import type {
   AwardGenerated,
   Counts,
   PersonOrPublisherGenerated,
+  SeriesGenerated,
   ThemeGenerated,
   WorkGenerated,
 } from "../types";
@@ -30,6 +31,7 @@ export const getTranslators = () => fetchJson<PersonOrPublisherGenerated[]>("tra
 export const getPublishers = () => fetchJson<PersonOrPublisherGenerated[]>("publishers.json");
 export const getThemes = () => fetchJson<ThemeGenerated[]>("themes.json");
 export const getAwards = () => fetchJson<AwardGenerated[]>("awards.json");
+export const getSeriesList = () => fetchJson<SeriesGenerated[]>("series.json");
 export const getCounts = () => fetchJson<Counts>("counts.json");
 
 export async function getWork(workId: string): Promise<WorkGenerated | undefined> {
@@ -60,4 +62,9 @@ export async function getTheme(themeId: string): Promise<ThemeGenerated | undefi
 export async function getAward(awardId: string): Promise<AwardGenerated | undefined> {
   const awards = await getAwards();
   return awards.find((a) => a.id === awardId);
+}
+
+export async function getSeries(seriesId: string): Promise<SeriesGenerated | undefined> {
+  const list = await getSeriesList();
+  return list.find((s) => s.id === seriesId);
 }

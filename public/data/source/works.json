@@ -128,7 +128,7 @@
       "ai",
       "alien"
     ],
-    "seriesName": "雪風シリーズ",
+    "seriesName": "戦闘妖精・雪風",
     "origin": "jp",
     "firstPublishedYear": 1984,
     "status": "completed",
@@ -289,7 +289,7 @@
       "ai",
       "cyborg"
     ],
-    "seriesName": "マルドゥック・シリーズ",
+    "seriesName": "マルドゥック",
     "origin": "jp",
     "firstPublishedYear": 2003,
     "status": "completed",
@@ -549,7 +549,7 @@
       "space-development",
       "alien"
     ],
-    "seriesName": "巨人たちの星シリーズ",
+    "seriesName": "巨人たちの星",
     "origin": "overseas",
     "firstPublishedYear": 1977,
     "jpPublishedYear": 1980,
@@ -932,7 +932,7 @@
       "space-colony",
       "disaster"
     ],
-    "seriesName": "司政官シリーズ",
+    "seriesName": "司政官",
     "origin": "jp",
     "firstPublishedYear": 1979,
     "status": "completed",
@@ -1089,7 +1089,7 @@
       "space-opera",
       "ai"
     ],
-    "seriesName": "敵は海賊シリーズ",
+    "seriesName": "敵は海賊",
     "origin": "jp",
     "firstPublishedYear": 1983,
     "status": "completed",
@@ -1120,7 +1120,7 @@
     "themeIds": [
       "space-opera"
     ],
-    "seriesName": "ダーティペアシリーズ",
+    "seriesName": "ダーティペア",
     "origin": "jp",
     "firstPublishedYear": 1985,
     "status": "completed",
@@ -1343,7 +1343,7 @@
       "military-sf",
       "space-development"
     ],
-    "seriesName": "航空宇宙軍史シリーズ",
+    "seriesName": "航空宇宙軍史",
     "origin": "jp",
     "firstPublishedYear": 1993,
     "status": "completed",
@@ -1411,7 +1411,7 @@
       "space-colony",
       "far-future"
     ],
-    "seriesName": "司政官シリーズ",
+    "seriesName": "司政官",
     "origin": "jp",
     "firstPublishedYear": 1988,
     "status": "completed",
@@ -1443,7 +1443,7 @@
       "space-opera",
       "military-sf"
     ],
-    "seriesName": "星界シリーズ",
+    "seriesName": "星界",
     "origin": "jp",
     "firstPublishedYear": 1996,
     "status": "completed",
@@ -1485,7 +1485,7 @@
       "space-opera",
       "ai"
     ],
-    "seriesName": "敵は海賊シリーズ",
+    "seriesName": "敵は海賊",
     "origin": "jp",
     "firstPublishedYear": 1997,
     "status": "completed",
@@ -1518,7 +1518,7 @@
       "hard-sf",
       "near-future"
     ],
-    "seriesName": "星のパイロットシリーズ",
+    "seriesName": "星のパイロット",
     "origin": "jp",
     "firstPublishedYear": 1998,
     "status": "completed",
@@ -1549,7 +1549,7 @@
       "ai",
       "alien"
     ],
-    "seriesName": "雪風シリーズ",
+    "seriesName": "戦闘妖精・雪風",
     "origin": "jp",
     "firstPublishedYear": 1999,
     "status": "completed",
@@ -1587,7 +1587,7 @@
       "ai",
       "short-stories"
     ],
-    "seriesName": "博物館惑星シリーズ",
+    "seriesName": "博物館惑星",
     "origin": "jp",
     "firstPublishedYear": 2000,
     "status": "completed",
@@ -1835,7 +1835,7 @@
       "near-future",
       "dystopia"
     ],
-    "seriesName": "図書館戦争シリーズ",
+    "seriesName": "図書館戦争",
     "origin": "jp",
     "firstPublishedYear": 2006,
     "status": "completed",
@@ -2579,7 +2579,7 @@
       "space-colony",
       "alien"
     ],
-    "seriesName": "デューン・シリーズ",
+    "seriesName": "デューン",
     "origin": "overseas",
     "firstPublishedYear": 1965,
     "jpPublishedYear": 1974,
@@ -2998,7 +2998,7 @@
       "virtual-reality",
       "ai"
     ],
-    "seriesName": "スプロール・シリーズ",
+    "seriesName": "スプロール三部作",
     "origin": "overseas",
     "firstPublishedYear": 1984,
     "jpPublishedYear": 1986,
@@ -3151,7 +3151,7 @@
       "genetic-engineering",
       "evolution"
     ],
-    "seriesName": "知性化シリーズ",
+    "seriesName": "知性化",
     "origin": "overseas",
     "firstPublishedYear": 1987,
     "jpPublishedYear": 1990,
@@ -3235,7 +3235,7 @@
       "virtual-reality",
       "hard-sf"
     ],
-    "seriesName": "巨人たちの星シリーズ",
+    "seriesName": "巨人たちの星",
     "origin": "overseas",
     "firstPublishedYear": 1991,
     "jpPublishedYear": 1993,
@@ -3615,7 +3615,7 @@
       "space-opera",
       "evolution"
     ],
-    "seriesName": "知性化シリーズ",
+    "seriesName": "知性化",
     "origin": "overseas",
     "firstPublishedYear": 1998,
     "jpPublishedYear": 2003,
@@ -3732,7 +3732,7 @@
       "juvenile",
       "far-future"
     ],
-    "seriesName": "移動都市シリーズ",
+    "seriesName": "移動都市クロニクル",
     "origin": "overseas",
     "firstPublishedYear": 2001,
     "jpPublishedYear": 2006,
@@ -3857,7 +3857,7 @@
       "space-colony",
       "alien"
     ],
-    "seriesName": "老人と宇宙シリーズ",
+    "seriesName": "老人と宇宙",
     "origin": "overseas",
     "firstPublishedYear": 2007,
     "jpPublishedYear": 2009,
@@ -5150,7 +5150,7 @@
       "military-sf",
       "space-development"
     ],
-    "seriesName": "航空宇宙軍史シリーズ",
+    "seriesName": "航空宇宙軍史",
     "origin": "jp",
     "firstPublishedYear": 2015,
     "status": "completed",
@@ -5379,7 +5379,7 @@
       "ai",
       "short-stories"
     ],
-    "seriesName": "博物館惑星シリーズ",
+    "seriesName": "博物館惑星",
     "origin": "jp",
     "firstPublishedYear": 2020,
     "status": "completed",
@@ -6473,7 +6473,7 @@
       "alien",
       "genetic-engineering"
     ],
-    "seriesName": "知性化シリーズ",
+    "seriesName": "知性化",
     "origin": "overseas",
     "firstPublishedYear": 1983,
     "jpPublishedYear": 1985,
@@ -9461,7 +9461,7 @@
       "far-future",
       "short-stories"
     ],
-    "seriesName": "ジーリー・シークエンス",
+    "seriesName": "ジーリー・クロニクル",
     "origin": "overseas",
     "firstPublishedYear": 1997,
     "jpPublishedYear": 2002,
@@ -11297,7 +11297,7 @@
       "space-colony",
       "sf-fantasy"
     ],
-    "seriesName": "イリアム/オリュンポス",
+    "seriesName": "イリアム・オリュンポス",
     "origin": "overseas",
     "firstPublishedYear": 2003,
     "jpPublishedYear": 2006,
@@ -15756,7 +15756,7 @@
       "religion-sf",
       "near-future"
     ],
-    "seriesName": "神狩り",
+    "seriesName": "神シリーズ",
     "origin": "jp",
     "firstPublishedYear": 2005,
     "status": "completed",
@@ -17474,7 +17474,7 @@
       "space-colony",
       "sf-fantasy"
     ],
-    "seriesName": "イリアム/オリュンポス",
+    "seriesName": "イリアム・オリュンポス",
     "origin": "overseas",
     "firstPublishedYear": 2005,
     "jpPublishedYear": 2007,
@@ -18754,7 +18754,7 @@
       "space-colony",
       "cyborg"
     ],
-    "seriesName": "老人と宇宙シリーズ",
+    "seriesName": "老人と宇宙",
     "origin": "overseas",
     "firstPublishedYear": 2005,
     "jpPublishedYear": 2007,
@@ -19839,7 +19839,7 @@
       "robot",
       "post-apocalypse"
     ],
-    "seriesName": "火星三部作",
+    "seriesName": "火星三部作(神林長平)",
     "origin": "jp",
     "firstPublishedYear": 1983,
     "status": "completed",
@@ -19864,7 +19864,7 @@
       "cyberpunk",
       "near-future"
     ],
-    "seriesName": "火星三部作",
+    "seriesName": "火星三部作(神林長平)",
     "origin": "jp",
     "firstPublishedYear": 1990,
     "status": "completed",
@@ -23036,7 +23036,7 @@
       "far-future",
       "cyborg"
     ],
-    "seriesName": "人類補完機構全短篇",
+    "seriesName": "人類補完機構",
     "origin": "overseas",
     "firstPublishedYear": 1950,
     "jpPublishedYear": 2016,
@@ -23064,7 +23064,7 @@
       "far-future",
       "short-stories"
     ],
-    "seriesName": "人類補完機構全短篇",
+    "seriesName": "人類補完機構",
     "origin": "overseas",
     "firstPublishedYear": 1966,
     "jpPublishedYear": 2017,
@@ -23119,7 +23119,7 @@
       "cyborg",
       "space-opera"
     ],
-    "seriesName": "老人と宇宙シリーズ",
+    "seriesName": "老人と宇宙",
     "origin": "overseas",
     "firstPublishedYear": 2006,
     "jpPublishedYear": 2008,
@@ -23146,7 +23146,7 @@
       "juvenile",
       "military-sf"
     ],
-    "seriesName": "老人と宇宙シリーズ",
+    "seriesName": "老人と宇宙",
     "origin": "overseas",
     "firstPublishedYear": 2008,
     "jpPublishedYear": 2010,
@@ -23173,7 +23173,7 @@
       "military-sf",
       "near-future"
     ],
-    "seriesName": "老人と宇宙シリーズ",
+    "seriesName": "老人と宇宙",
     "origin": "overseas",
     "firstPublishedYear": 2013,
     "jpPublishedYear": 2013,
@@ -23200,7 +23200,7 @@
       "cyborg",
       "space-opera"
     ],
-    "seriesName": "老人と宇宙シリーズ",
+    "seriesName": "老人と宇宙",
     "origin": "overseas",
     "firstPublishedYear": 2015,
     "jpPublishedYear": 2017,

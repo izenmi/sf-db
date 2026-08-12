@@ -141,7 +141,13 @@ export function WorkDetailPage() {
                 {state.data.mediaMix?.anime && " / アニメ化"}
                 {state.data.mediaMix?.comic && " / コミカライズ"}
               </p>
-              {state.data.seriesName && <p className="page-subtitle">{state.data.seriesName}</p>}
+              {state.data.seriesName && (
+                <p className="page-subtitle">
+                  <Link to={`/series/${encodeURIComponent(state.data.seriesName)}`}>
+                    {state.data.seriesName}
+                  </Link>
+                </p>
+              )}
 
               {openThemes.length > 0 && (
                 <div className="chip-row">

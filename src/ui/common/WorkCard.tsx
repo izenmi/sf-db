@@ -51,7 +51,11 @@ export function WorkCard({ work }: { work: WorkGenerated }) {
           {work.volumeCount && work.volumeCount > 1 && ` / 全${work.volumeCount}巻 / ${STATUS_LABEL[work.status]}`}
           {mediaMixLabel(work) && ` / ${mediaMixLabel(work)}`}
         </div>
-        {work.seriesName && <div className="work-card__series">{work.seriesName}</div>}
+        {work.seriesName && (
+          <div className="work-card__series">
+            <Link to={`/series/${encodeURIComponent(work.seriesName)}`}>{work.seriesName}</Link>
+          </div>
+        )}
         {work.awardSummaries.length > 0 && (
           <div className="work-card__awards">
             {work.awardSummaries.slice(0, 2).map((a) => (

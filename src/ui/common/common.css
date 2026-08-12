@@ -314,6 +314,10 @@ h1 {
   line-height: 1.4;
 }
 
+.work-card__series a {
+  color: inherit;
+}
+
 .work-card__awards {
   display: flex;
   flex-wrap: wrap;

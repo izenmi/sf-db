@@ -5,6 +5,8 @@ import { HomePage } from "./ui/home/HomePage";
 import { WorkListPage } from "./ui/works/WorkListPage";
 import { WorkDetailPage } from "./ui/works/WorkDetailPage";
 import { ThemeListPage } from "./ui/themes/ThemeListPage";
+import { SeriesListPage } from "./ui/series/SeriesListPage";
+import { SeriesDetailPage } from "./ui/series/SeriesDetailPage";
 import { ThemeDetailPage } from "./ui/themes/ThemeDetailPage";
 import { PersonListPage } from "./ui/common/PersonListPage";
 import { PersonDetailPage } from "./ui/common/PersonDetailPage";
@@ -25,6 +27,8 @@ export function App() {
         <Route path="/works/:id" element={<WorkDetailPage />} />
         <Route path="/themes" element={<ThemeListPage />} />
         <Route path="/themes/:id" element={<ThemeDetailPage />} />
+        <Route path="/series" element={<SeriesListPage />} />
+        <Route path="/series/:id" element={<SeriesDetailPage />} />
         <Route path="/authors" element={<PersonListPage kind="author" />} />
         <Route path="/authors/:id" element={<PersonDetailPage kind="author" />} />
         <Route path="/translators" element={<PersonListPage kind="translator" />} />

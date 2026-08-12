@@ -142,6 +142,16 @@ export interface ThemeGenerated extends ThemeSource {
   works: WorkGenerated[];
 }
 
+/** シリーズはエンティティではなく works.json の `seriesName`(自由文)から build 時に組み立てる。
+ *  作品側で名前を直せばそのままページになるので、シリーズ用のソースファイルは持たない。
+ *  `id` は名前そのもの。URLに載せるときだけ encodeURIComponent する。 */
+export interface SeriesGenerated {
+  id: string;
+  name: string;
+  workCount: number;
+  works: WorkGenerated[];
+}
+
 export interface AwardWinner {
   workId: string;
   workTitle: string;
@@ -163,4 +173,5 @@ export interface Counts {
   publishers: number;
   themes: number;
   awards: number;
+  series: number;
 }

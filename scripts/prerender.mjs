@@ -32,6 +32,7 @@ const translators = readData("translators");
 const publishers = readData("publishers");
 const themes = readData("themes");
 const awards = readData("awards");
+const series = readData("series");
 
 const routes = [
   "/",
@@ -39,6 +40,10 @@ const routes = [
   ...works.map((w) => `/works/${w.id}`),
   "/themes",
   ...themes.map((t) => `/themes/${t.id}`),
+  "/series",
+  // シリーズ名は日本語。ルート文字列はエンコードしておき、出力先のディレクトリ名だけデコードする
+  // (dist/series/<日本語>/index.html)。GitHub Pages はUTF-8のパスをそのまま配信できる。
+  ...series.map((x) => `/series/${encodeURIComponent(x.id)}`),
   "/authors",
   ...authors.map((a) => `/authors/${a.id}`),
   "/translators",
@@ -52,7 +57,12 @@ const routes = [
 
 function outPathFor(route) {
   if (route === "/") return path.join(distDir, "index.html");
-  return path.join(distDir, route.replace(/^\//, ""), "index.html");
+  const rel = route
+    .replace(/^\//, "")
+    .split("/")
+    .map((seg) => decodeURIComponent(seg))
+    .join("/");
+  return path.join(distDir, rel, "index.html");
 }
 
 async function waitForServer(url, timeoutMs = 30000) {

@@ -254,6 +254,21 @@ const themesGenerated = themes
   })
   .sort((a, b) => b.workCount - a.workCount || a.name.localeCompare(b.name, "ja"));
 
+// ---- generated/series.json ----
+// シリーズはエンティティではなく works.json の seriesName(自由文)から組み立てる。
+// 1作しかないシリーズもページは作る(続刊が入ったときに同じURLがそのまま育つ)が、
+// 一覧の既定表示と絞り込みの選択肢には2作以上のものだけを出す。
+const worksBySeries = groupWorksBy((w) => (w.seriesName ? [w.seriesName] : []));
+const seriesGenerated = [...worksBySeries.entries()]
+  .map(([name, theirWorks]) => ({
+    id: name,
+    name,
+    workCount: theirWorks.length,
+    // シリーズ内は刊行順で読むものなので、他のページと違って古い順に固定する。
+    works: theirWorks.map(fullWork).sort((a, b) => a.firstPublishedYear - b.firstPublishedYear),
+  }))
+  .sort((a, b) => b.workCount - a.workCount || a.name.localeCompare(b.name, "ja"));
+
 // ---- generated/awards.json ----
 // 受賞歴の result は「2013年版 国内編 第1位」「大賞」「第5位」のような自由文なので、
 // 並べ替え用の順位をここで一度だけ取り出す。順位を持たない賞(大賞・特別賞など)は
@@ -303,6 +318,9 @@ const counts = {
   publishers: publishers.length,
   themes: themes.length,
   awards: awards.length,
+  // トップのバッジは /series の既定表示(2作以上)と数を揃える。
+  // 1作だけのシリーズもページは持つが、一覧では畳んでいるため。
+  series: seriesGenerated.filter((x) => x.workCount > 1).length,
 };
 
 mkdirSync(outDir, { recursive: true });
@@ -312,10 +330,11 @@ writeFileSync(path.join(outDir, "translators.json"), JSON.stringify(translatorsG
 writeFileSync(path.join(outDir, "publishers.json"), JSON.stringify(publishersGenerated), "utf-8");
 writeFileSync(path.join(outDir, "themes.json"), JSON.stringify(themesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "awards.json"), JSON.stringify(awardsGenerated), "utf-8");
+writeFileSync(path.join(outDir, "series.json"), JSON.stringify(seriesGenerated), "utf-8");
 writeFileSync(path.join(outDir, "counts.json"), JSON.stringify(counts), "utf-8");
 
 console.log(
-  `generate-manifest: wrote ${works.length} works, ${authors.length} authors, ${translators.length} translators, ${publishers.length} publishers, ${themes.length} themes, ${awards.length} awards`
+  `generate-manifest: wrote ${works.length} works, ${authors.length} authors, ${translators.length} translators, ${publishers.length} publishers, ${themes.length} themes, ${awards.length} awards, ${seriesGenerated.length} series`
 );
 
 
@@ -343,6 +362,9 @@ const sitemapEntries = [
   ...publishers.map((p) => urlEntry(`/publishers/${p.id}`, p.updatedAt?.slice(0, 10))),
   urlEntry("/awards"),
   ...awards.map((a) => urlEntry(`/awards/${a.id}`, a.updatedAt?.slice(0, 10))),
+  urlEntry("/series"),
+  // シリーズ名は日本語なので、sitemap に載せるURLはパーセントエンコードする
+  ...seriesGenerated.map((x) => urlEntry(`/series/${encodeURIComponent(x.id)}`)),
   urlEntry("/about"),
 ];
 

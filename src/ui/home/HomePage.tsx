@@ -14,6 +14,7 @@ const BADGES: { key: keyof Awaited<ReturnType<typeof getCounts>>; label: string;
   { key: "translators", label: "翻訳者", to: "/translators", color: "mint" },
   { key: "publishers", label: "出版社", to: "/publishers", color: "yellow" },
   { key: "themes", label: "テーマ", to: "/themes", color: "purple" },
+  { key: "series", label: "シリーズ", to: "/series", color: "mint" },
   { key: "awards", label: "アワード", to: "/awards", color: "peach" },
 ];
 
