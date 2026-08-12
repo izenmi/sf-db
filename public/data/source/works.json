@@ -29054,5 +29054,137 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chiryoto-wakusei",
+    "title": "治療塔惑星",
+    "titleKana": "ちりょうとうわくせい",
+    "authorIds": [
+      "oe-kenzaburo"
+    ],
+    "translatorIds": [],
+    "publisherId": "iwanami-shoten",
+    "themeIds": [
+      "space-colony",
+      "post-apocalypse",
+      "religion-sf"
+    ],
+    "seriesName": "治療塔",
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "地球に帰還した選ばれた者である朔ちゃんと、残留して落ちこぼれとなった私とのあいだに、子どものタイくんが生まれた。しかし地球環境の悪化はさらに進んでいく。世界宗教、宇宙ミドリ蟹、新しい地球、予戒、酸素供給の仕組み、そして向こう側の知性体。著者初のSFである『治療塔』に続く、圧倒的な規模を持つ長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/治療塔惑星"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shin-senkan-takachiho",
+    "title": "新戦艦高千穂",
+    "titleKana": "しんせんかんたかちほ",
+    "authorIds": [
+      "hirata-shinsaku"
+    ],
+    "translatorIds": [],
+    "publisherId": "dainippon-yubenkai-kodansha",
+    "themeIds": [
+      "military-sf",
+      "juvenile",
+      "alternate-history"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1936,
+    "status": "completed",
+    "synopsis": "飛行機を搭載した戦艦高千穂が活躍する、虚実の入り混じった少年向けの海洋軍事小説である。北極秘密境をめぐる三国の領土争奪戦に、ともに旧備前藩士である小川家と勝山家の対立を重ね、小川寛とヒロインの勝山一枝の活躍を描く。戦前の日本で少年たちに広く読まれた、未来戦記ものの代表格にあたる一冊である。当時まだ実現していなかった航空戦力と巨大戦艦の組み合わせを、細かく作り込んで見せている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/新戦艦高千穂"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ryusei-calling",
+    "title": "流星コーリング",
+    "titleKana": "りゅうせいこーりんぐ",
+    "authorIds": [
+      "kawabe-toru"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "time-travel",
+      "juvenile",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "東京の大学へ行くことを皆に言えずにいた高校三年生のりょうは、広島で人工の流星が流れることを知る。それを眺めたあと、同じ天文部の恋人である詩織に進路と思いを伝えようと決心する。だがその日から奇妙なことが起こりはじめた。奇跡の一夜の先に待つ事実と、題の意味を知ったとき、温かな感動が押し寄せる長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/流星コーリング"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "die-wolke",
+    "title": "みえない雲",
+    "titleKana": "みえないくも",
+    "authorIds": [
+      "gudrun-pausewang"
+    ],
+    "translatorIds": [
+      "takada-yumiko"
+    ],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "disaster",
+      "juvenile",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1987,
+    "jpPublishedYear": 2006,
+    "originalTitle": "Die Wolke",
+    "status": "completed",
+    "synopsis": "ドイツのある原子力発電所で爆発事故が起きた。町は混乱に陥り、なんの罪もない市民が巻き込まれていく。被曝した十四歳の少女の目を通して、社会の混乱と身体に現れる異常が具体的に描かれる。チェルノブイリの事故を受けて書かれ、ドイツの児童文学賞を受けた作品である。原子力を扱った小説の代表格にあたる。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/みえない雲"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hausers-memory",
+    "title": "ハウザーの記憶",
+    "titleKana": "はうざーのきおく",
+    "authorIds": [
+      "curt-siodmak"
+    ],
+    "translatorIds": [
+      "yano-tetsu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "denki-sf",
+      "near-future",
+      "world-truth"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1968,
+    "jpPublishedYear": 1969,
+    "originalTitle": "Hauser's Memory",
+    "status": "completed",
+    "synopsis": "亡命した東側の科学者ハウザーの脳から抽出した物質を、自らに注射した研究者がいた。他人の記憶を化学的に移し替えられるという仮説を確かめるためである。だが実験は成功しすぎた。彼のなかでハウザーの記憶が目を覚まし、人格そのものを侵食しはじめる。『ドノヴァンの脳髄』に続く、マッドサイエンティストものの古典である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ハウザーの記憶"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

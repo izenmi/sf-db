@@ -4042,5 +4042,53 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "oe-kenzaburo",
+    "name": "大江健三郎",
+    "nameKana": "おおえけんざぶろう",
+    "description": "日本の小説家。1994年にノーベル文学賞を受けた。",
+    "birthYear": 1935,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大江健三郎"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hirata-shinsaku",
+    "name": "平田晋策",
+    "nameKana": "ひらたしんさく",
+    "description": "日本の軍事評論家・作家。戦前に少年向けの海洋軍事小説を書いた。",
+    "birthYear": 1904,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/平田晋策"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kawabe-toru",
+    "name": "河邉徹",
+    "nameKana": "かわべとおる",
+    "description": "音楽家・小説家。バンドWEAVERの鼓手として活動しながら小説を書く。",
+    "birthYear": 1988,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/河邉徹"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gudrun-pausewang",
+    "name": "グードルン・パウゼヴァング",
+    "nameKana": "ぱうぜゔぁんぐぐーどるん",
+    "description": "ドイツの児童文学作家。核と戦争を主題にした作品で知られる。",
+    "birthYear": 1928,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グードルン・パウゼヴァング"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
