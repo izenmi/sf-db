@@ -4112,5 +4112,41 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "elliot-ackerman",
+    "name": "エリオット・アッカーマン",
+    "nameKana": "あっかーまんえりおっと",
+    "description": "アメリカの作家・元海兵隊員。従軍経験をもとにした小説を書く。",
+    "birthYear": 1980,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エリオット・アッカーマン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "james-stavridis",
+    "name": "ジェイムズ・スタヴリディス",
+    "nameKana": "すたゔりでぃすじぇいむず",
+    "description": "アメリカ海軍の元大将。NATO欧州連合軍最高司令官を務めた。",
+    "birthYear": 1955,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジェイムズ・スタヴリディス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "xiran-jay-zhao",
+    "name": "シーラン・ジェイ・ジャオ",
+    "nameKana": "じゃおしーらんじぇい",
+    "description": "中国生まれのカナダの作家。中国史を下敷きにしたSFで注目された。",
+    "birthYear": 1996,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シーラン・ジェイ・ジャオ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

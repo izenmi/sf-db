@@ -29308,5 +29308,63 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "2034-a-novel",
+    "title": "2034 米中戦争",
+    "titleKana": "にせんさんじゅうよんべいちゅうせんそう",
+    "authorIds": [
+      "elliot-ackerman",
+      "james-stavridis"
+    ],
+    "translatorIds": [
+      "kumagai-chitoshi"
+    ],
+    "publisherId": "futami-shobo",
+    "themeIds": [
+      "military-sf",
+      "near-future",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2021,
+    "jpPublishedYear": 2021,
+    "originalTitle": "2034: A Novel of the Next World War",
+    "status": "completed",
+    "synopsis": "二〇三四年三月、南シナ海で航行の自由作戦にあたっていた米海軍の駆逐艦三隻が、船籍不明の炎上するトロール船に遭遇する。同じころホルムズ海峡では飛行中の米軍機が異変に見舞われていた。南シナ海から中東、そして台湾へと移る米中の対立に、インドやロシアが絡んでいく。国益という魔物が戦争回避の思考を鈍らせていく近未来の物語である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/2034 米中戦争"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "iron-widow",
+    "title": "鋼鉄紅女",
+    "titleKana": "こうてつこうじょ",
+    "authorIds": [
+      "xiran-jay-zhao"
+    ],
+    "translatorIds": [
+      "nakahara-naoya"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "robot",
+      "alternate-history"
+    ],
+    "seriesName": "鋼鉄紅女",
+    "origin": "overseas",
+    "firstPublishedYear": 2021,
+    "jpPublishedYear": 2023,
+    "originalTitle": "Iron Widow",
+    "status": "completed",
+    "synopsis": "中世の中国を未来的に読み替えた華夏では、少女たちが巨大な変形兵器の副操縦士として消費されていた。姉を奪われた則天は復讐のために志願し、相棒の男性操縦士を逆に喰らって生き延びる。鋼鉄紅女と呼ばれるようになった彼女は、世界の仕組みそのものへ牙を剥く。中国の女帝の台頭を人型兵器で語り直したアクションSFである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鋼鉄紅女"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチと楽天ブックスで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
