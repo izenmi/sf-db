@@ -52,7 +52,7 @@ export function SeriesCard({ series }: { series: SeriesGenerated }) {
         <div className="work-card__meta">
           <span className={`winner-year winner-year--${colorForYear(from)}`}>
             {from === to ? `${from}` : `${from}–${to}`}
-          </span>
+          </span>{" "}
           {authors.slice(0, AUTHOR_COUNT).join("・")}
           {authors.length > AUTHOR_COUNT && ` ほか${authors.length - AUTHOR_COUNT}名`}
         </div>

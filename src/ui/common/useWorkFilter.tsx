@@ -76,8 +76,10 @@ export function seriesOptionsOf(works: WorkGenerated[] | undefined, exclude?: st
     if (!w.seriesName || w.seriesName === exclude) continue;
     counts.set(w.seriesName, (counts.get(w.seriesName) ?? 0) + 1);
   }
+  // 一覧の全作品が同じシリーズのとき(シリーズ詳細ページ)は、選んでも結果が変わらないので出さない。
+  const total = works?.length ?? 0;
   return [...counts.entries()]
-    .filter(([, n]) => n > 1)
+    .filter(([, n]) => n > 1 && n < total)
     .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ja"))
     .map(([value, n]) => ({ value, label: `${value}(${n})` }));
 }

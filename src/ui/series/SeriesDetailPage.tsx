@@ -48,7 +48,7 @@ export function SeriesDetailPage() {
                 <>
                   <span className={`winner-year winner-year--${colorForYear(from)}`}>
                     {from === to ? `${from}` : `${from}–${to}`}
-                  </span>
+                  </span>{" "}
                   {series.workCount}作品（刊行順） / {authors.join("・")}
                 </>
               );
