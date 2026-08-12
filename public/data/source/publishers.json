@@ -537,5 +537,17 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fujimi-shobo",
+    "name": "富士見書房",
+    "nameKana": "ふじみしょぼう",
+    "description": "富士見ファンタジア文庫などを擁した出版社。現在はKADOKAWAのブランド。",
+    "foundedYear": 1972,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/富士見書房"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
