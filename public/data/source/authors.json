@@ -3817,5 +3817,101 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "matsumoto-seicho",
+    "name": "松本清張",
+    "nameKana": "まつもとせいちょう",
+    "description": "日本の小説家。社会派推理小説を確立し、歴史・古代史にも広く筆を伸ばした。",
+    "birthYear": 1909,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/松本清張"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kageyama-tamio",
+    "name": "景山民夫",
+    "nameKana": "かげやまたみお",
+    "description": "日本の作家・放送作家。『遠い海から来たCOO』で直木賞を受けた。",
+    "birthYear": 1947,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/景山民夫"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "inui-rokuro",
+    "name": "乾緑郎",
+    "nameKana": "いぬいろくろう",
+    "description": "日本の小説家・劇作家。『このミステリーがすごい!』大賞を受けてデビューした。",
+    "birthYear": 1971,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乾緑郎"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "matsuo-yumi",
+    "name": "松尾由美",
+    "nameKana": "まつおゆみ",
+    "description": "日本の小説家。SFとミステリの手法を織り交ぜた作風で知られる。",
+    "birthYear": 1960,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/松尾由美"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kyogoku-natsuhiko",
+    "name": "京極夏彦",
+    "nameKana": "きょうごくなつひこ",
+    "description": "日本の小説家・意匠家。妖怪を主題にした伝奇ミステリで知られる。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/京極夏彦"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "robert-louis-stevenson",
+    "name": "ロバート・ルイス・スティーヴンソン",
+    "nameKana": "すてぃーゔんそんろばーとるいす",
+    "description": "イギリスの作家。『宝島』『ジキル博士とハイド氏』を残した。",
+    "birthYear": 1850,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロバート・ルイス・スティーヴンソン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "pd-james",
+    "name": "P・D・ジェイムズ",
+    "nameKana": "じぇいむずぴーでぃー",
+    "description": "イギリスの作家。警視ダルグリッシュものの推理小説で知られる。",
+    "birthYear": 1920,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/P・D・ジェイムズ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "david-mitchell",
+    "name": "デイヴィッド・ミッチェル",
+    "nameKana": "みっちぇるでいゔぃっど",
+    "description": "イギリスの作家。時代も語り口も異なる断章を組み合わせる構成で知られる。",
+    "birthYear": 1969,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/デイヴィッド・ミッチェル"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

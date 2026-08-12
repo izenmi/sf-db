@@ -1510,5 +1510,43 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "iijima-yoshihide",
+    "name": "飯島淳秀",
+    "nameKana": "いいじまよしひで",
+    "description": "英米文学の翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "aoki-hisae",
+    "name": "青木久恵",
+    "nameKana": "あおきひさえ",
+    "description": "英米の小説を訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nakagawa-chiho",
+    "name": "中川千帆",
+    "nameKana": "なかがわちほ",
+    "description": "英米文学研究者・翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hoshi-shinichi-tr",
+    "name": "星新一",
+    "nameKana": "ほししんいち",
+    "description": "ショートショートの第一人者。翻訳もいくつか手がけており、本項はその訳業の登録である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星新一"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

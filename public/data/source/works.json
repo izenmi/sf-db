@@ -28450,5 +28450,258 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kami-to-yaju-no-hi",
+    "title": "神と野獣の日",
+    "titleKana": "かみとやじゅうのひ",
+    "authorIds": [
+      "matsumoto-seicho"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "disaster",
+      "near-future",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1963,
+    "status": "completed",
+    "synopsis": "重大事態発生。官邸の総理大臣に、統幕議長がうわずった声で伝えた。Z国から東京に向けて誤射された核弾頭ミサイルが五基。着弾まで、あと四十三分。避難も迎撃も間に合わないと分かったとき、政府の首脳陣と人々はどうふるまうのか。推理小説で知られる著者が、SF的な設定に初めて挑んだ異色の長編である。破局そのものではなく、破局を前にした四十三分間の人間模様だけを描き切る構成になっている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神と野獣の日"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "too-umi-kara-kita-coo",
+    "title": "遠い海から来たCOO",
+    "titleKana": "とおいうみからきたくー",
+    "authorIds": [
+      "kageyama-tamio"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "denki-sf",
+      "juvenile",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "六千万年以上も昔に絶滅したはずのプレシオザウルスの子を、南太平洋の島で少年の洋助が見つけた。クーと名づけられた奇跡の恐竜と少年の、きらめくような至福の日々がはじまる。だがその存在は、やがて島の外のさまざまな思惑を引き寄せてしまう。核実験、密猟、報道。人と生き物の距離をめぐる問いを、南の島の光のなかで描いていく。直木賞に輝いた感動の冒険譚である。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/遠い海から来たCOO"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kanzennaru-kubinagaryu",
+    "title": "完全なる首長竜の日",
+    "titleKana": "かんぜんなるくびながりゅうのひ",
+    "authorIds": [
+      "inui-rokuro"
+    ],
+    "translatorIds": [],
+    "publisherId": "takarajimasha",
+    "themeIds": [
+      "virtual-reality",
+      "world-truth",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "植物状態になった患者と意思を通わせられる医療器具、SCインターフェースが開発された。少女漫画家の淳美は、自殺未遂で意識の戻らない弟の浩市と対話を続けている。なぜ自殺を図ったのかという問いに弟は答えないまま月日が過ぎた。弟の記憶を探るうち、淳美の周囲で不可思議な出来事が起こりはじめる。意識のなかへ入っていくという技術を、静謐な筆致で扱った長編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/完全なる首長竜の日"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kugatsu-no-koi",
+    "title": "九月の恋と出会うまで",
+    "titleKana": "くがつのこいとであうまで",
+    "authorIds": [
+      "matsuo-yumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "time-travel",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "ある夜、北村志織は部屋の壁の穴から、一年後の今日を生きているという平野に話しかけられた。平野は同じ建物に住む顔見知りである。翌日の新聞の見出しを次々と言い当てる彼から、志織はひとつの願いを託される。未来の平野には、どうしても果たしたい目的があった。時空を越えて交わされる、ささやかな奇跡の物語である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/九月の恋と出会うまで"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "loup-garou",
+    "title": "ルー=ガルー 忌避すべき狼",
+    "titleKana": "るーがるーきひすべきおおかみ",
+    "authorIds": [
+      "kyogoku-natsuhiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "歴史的な感染症の流行で人口が激減した近未来。それを機に定められた法により、人類は端末を通じて監視される社会に暮らしていた。完全に管理されたはずの世界で、次々と殺人事件が起きる。画面越しの出来事でしかなかったはずの事件が少女たちの現実を侵しはじめたとき、忌避すべき狼が目を覚ます。管理された社会で育った子どもたちが、身体をもって世界に触れ直す長編である。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ルー=ガルー 忌避すべき狼"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dr-jekyll-and-mr-hyde",
+    "title": "ジキル博士とハイド氏",
+    "titleKana": "じきるはかせとはいどし",
+    "authorIds": [
+      "robert-louis-stevenson"
+    ],
+    "translatorIds": [
+      "iijima-yoshihide"
+    ],
+    "publisherId": "akane-shobo",
+    "themeIds": [
+      "genetic-engineering",
+      "denki-sf",
+      "world-truth"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1886,
+    "jpPublishedYear": 1965,
+    "originalTitle": "Strange Case of Dr Jekyll and Mr Hyde",
+    "status": "completed",
+    "synopsis": "深夜のロンドンの街角で、エンフィールド青年は奇怪な光景を目撃する。十字路で少女を平然と踏みつけ、高名な医師ジキル博士の屋敷へ悠々と入っていく異様な男ハイド。彼はいったい何者なのか。アタスン弁護士の疑念を裏付けるように、続いて殺人事件が起きる。人格を薬で分けるという着想を近代文学に持ち込んだ古典である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジキル博士とハイド氏"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-kraken-wakes",
+    "title": "海竜めざめる",
+    "titleKana": "かいりゅうめざめる",
+    "authorIds": [
+      "john-wyndham"
+    ],
+    "translatorIds": [
+      "hoshi-shinichi-tr"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "disaster",
+      "post-apocalypse"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 1966,
+    "originalTitle": "The Kraken Wakes",
+    "status": "completed",
+    "synopsis": "深海に落下していく謎の火球が、世界各地で目撃された。やがて船が次々と沈み、海面は理由もなく上昇をはじめる。宇宙から飛来した知的な何かが海底に住み着き、そこから地上への侵略に取りかかったのだ。人類は相手の姿を見ることすらできないまま、じわじわと追い詰められていく。静かに進行する終末を描いた長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/海竜めざめる"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-children-of-men",
+    "title": "人類の子供たち",
+    "titleKana": "じんるいのこどもたち",
+    "authorIds": [
+      "pd-james"
+    ],
+    "translatorIds": [
+      "aoki-hisae"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "genetic-engineering"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1992,
+    "jpPublishedYear": 1993,
+    "originalTitle": "The Children of Men",
+    "status": "completed",
+    "synopsis": "一九九五年を最後に、地球上のどこでも子どもが生まれなくなった。二十五年後のイギリスは、老いていくばかりの人口を抱え、独裁者の統治のもとで静かに衰えている。歴史学者のセオは、体制に異を唱える小さな集団と関わることになった。人類に未来がないと決まったとき、人はどう生きるのか。映画『トゥモロー・ワールド』の原作である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/人類の子供たち"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cloud-atlas",
+    "title": "クラウド・アトラス",
+    "titleKana": "くらうどあとらす",
+    "authorIds": [
+      "david-mitchell"
+    ],
+    "translatorIds": [
+      "nakagawa-chiho"
+    ],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "far-future",
+      "post-apocalypse",
+      "parallel-world"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2004,
+    "jpPublishedYear": 2013,
+    "originalTitle": "Cloud Atlas",
+    "status": "completed",
+    "synopsis": "十九世紀の南太平洋を船で旅する公証人。第二次大戦前のベルギーで天才作曲家に師事する若い音楽家。一九七〇年代の西海岸で原発の不正を追う記者。現代のロンドンで出版社を営む老編集者。近未来の韓国で給仕として生きる人造人間。そして遠い未来のハワイで文明の終わりに立ち会う守り手。六つの物語が入れ子状に重なっていく。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クラウド・アトラス"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
