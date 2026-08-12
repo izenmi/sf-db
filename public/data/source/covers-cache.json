@@ -1051,6 +1051,14 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-12T10:55:07.028Z"
   },
+  "cloud-atlas": {
+    "title": "クラウド・アトラス",
+    "isbn": null,
+    "matchedTitle": "クラウド・アトラス（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5661/2000000135661.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T11:05:43.761Z"
+  },
   "code-buddha": {
     "title": "コード・ブッダ 機械仏教史縁起",
     "isbn": "9784163918945",
@@ -1553,6 +1561,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:40:16.600Z"
+  },
+  "dr-jekyll-and-mr-hyde": {
+    "title": "ジキル博士とハイド氏",
+    "isbn": "9784488590017",
+    "matchedTitle": "ジキル博士とハイド氏",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4885/48859001.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T11:05:09.537Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1368341/"
   },
   "dragon-masters": {
     "title": "竜を駆る種族",
@@ -3164,6 +3181,15 @@
     "resolvedAt": "2026-08-11T21:31:31.651Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14234067/"
   },
+  "kami-to-yaju-no-hi": {
+    "title": "神と野獣の日",
+    "isbn": "9784041227626",
+    "matchedTitle": "神と野獣の日",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7626/9784041227626_1_13.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T11:05:01.062Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5669557/"
+  },
   "kami-wa-chinmoku-sezu": {
     "title": "神は沈黙せず",
     "isbn": "9784044601133",
@@ -3258,6 +3284,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T22:38:07.376Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17801457/"
+  },
+  "kanzennaru-kubinagaryu": {
+    "title": "完全なる首長竜の日",
+    "isbn": "9784796687874",
+    "matchedTitle": "完全なる首長竜の日",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7874/9784796687874.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T11:05:03.377Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11474669/"
   },
   "kao-no-nai-kamigami": {
     "title": "顔のない神々",
@@ -3668,6 +3703,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-12T06:45:34.533Z"
   },
+  "kugatsu-no-koi": {
+    "title": "九月の恋と出会うまで",
+    "isbn": "9784575518702",
+    "matchedTitle": "九月の恋と出会うまで",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8702/9784575518702.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T11:05:04.612Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13678236/"
+  },
   "kugutsuko": {
     "title": "傀儡后",
     "isbn": null,
@@ -3852,6 +3896,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:31:01.850Z"
+  },
+  "loup-garou": {
+    "title": "ルー=ガルー 忌避すべき狼",
+    "isbn": null,
+    "matchedTitle": "ルー＝ガルー　忌避すべき狼　完全版（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4601/2000005404601.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T11:05:08.354Z"
   },
   "love-is-the-plan": {
     "title": "愛はさだめ、さだめは死",
@@ -6267,6 +6319,12 @@
     "source": "kobo",
     "resolvedAt": "2026-08-12T06:22:22.091Z"
   },
+  "the-children-of-men": {
+    "title": "人類の子供たち",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T11:05:40.192Z"
+  },
   "the-city-and-the-stars": {
     "title": "都市と星",
     "isbn": null,
@@ -6434,6 +6492,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T13:06:15.987Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12402859/"
+  },
+  "the-kraken-wakes": {
+    "title": "海竜めざめる",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T11:05:17.530Z"
   },
   "the-last-colony": {
     "title": "最後の星戦",
@@ -6959,6 +7023,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T12:24:05.334Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17618029/"
+  },
+  "too-umi-kara-kita-coo": {
+    "title": "遠い海から来たCOO",
+    "isbn": "9784041736067",
+    "matchedTitle": "遠い海から来たCOO",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6067/9784041736067_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T11:05:02.219Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/522044/"
   },
   "toppen": {
     "title": "突変",
