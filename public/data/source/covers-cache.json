@@ -570,6 +570,15 @@
     "resolvedAt": "2026-08-11T23:49:55.967Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18618434/"
   },
+  "black-velvet": {
+    "title": "ブラック・ベルベット",
+    "isbn": "9784575521160",
+    "matchedTitle": "ブラック・ベルベット",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1160/9784575521160.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T05:21:35.831Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15472426/"
+  },
   "blackout-willis": {
     "title": "ブラックアウト",
     "isbn": "9784150120207",
@@ -1494,6 +1503,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9587/2000000159587.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T12:20:37.856Z"
+  },
+  "end-game-tokono": {
+    "title": "エンド・ゲーム 常野物語",
+    "isbn": "9784087464320",
+    "matchedTitle": "エンド・ゲーム 常野物語",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4320/9784087464320_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T05:21:34.638Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6066548/"
   },
   "enders-game": {
     "title": "エンダーのゲーム",
@@ -4707,6 +4725,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:37:53.168Z"
   },
+  "rokujikan-go-ni": {
+    "title": "6時間後に君は死ぬ",
+    "isbn": "9784062766524",
+    "matchedTitle": "6時間後に君は死ぬ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6524/9784062766524.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T05:21:33.438Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6479316/"
+  },
   "rou-vaux-no-wakusei": {
     "title": "老ヴォールの惑星",
     "isbn": "9784150308094",
@@ -5590,6 +5617,15 @@
     "resolvedAt": "2026-08-11T03:44:05.361Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6189607/"
   },
+  "tenshi-no-saezuri": {
+    "title": "天使の囀り",
+    "isbn": "9784041979051",
+    "matchedTitle": "天使の囀り",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9051/9784041979051_1_22.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T05:21:32.258Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1212279/"
+  },
   "tentai-no-kaiten": {
     "title": "天体の回転について",
     "isbn": null,
@@ -6045,6 +6081,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T12:18:14.805Z"
+  },
+  "titania": {
+    "title": "タイタニア",
+    "isbn": "9784062761512",
+    "matchedTitle": "タイタニア1　疾風篇",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1512/9784062761512.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T05:21:29.850Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5845106/"
   },
   "to-say-nothing-of-the-dog": {
     "title": "犬は勘定に入れません",
@@ -6509,6 +6554,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-12T01:55:31.698Z"
   },
+  "wareware-wa-mina-kodoku": {
+    "title": "我々は、みな孤独である",
+    "isbn": "9784758413619",
+    "matchedTitle": "我々は、みな孤独である",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3619/9784758413619.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T05:21:31.064Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16433552/"
+  },
   "watashi-wa-kodoku-na-hoshi": {
     "title": "わたしは孤独な星のように",
     "isbn": "9784152103284",
@@ -6721,6 +6775,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7518/2000008857518.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T10:46:24.059Z"
+  },
+  "yurei-o-shinjinai": {
+    "title": "幽霊を信じない理系大学生、霊媒師のバイトをする",
+    "isbn": "9784101802879",
+    "matchedTitle": "幽霊を信じない理系大学生、霊媒師のバイトをする",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2879/9784101802879_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T05:21:37.008Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17882548/"
   },
   "zangetsuki": {
     "title": "残月記",
