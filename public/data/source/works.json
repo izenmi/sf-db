@@ -22131,5 +22131,183 @@
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "plastic-no-koibito",
+    "title": "プラスチックの恋人",
+    "titleKana": "ぷらすちっくのこいびと",
+    "authorIds": [
+      "yamamoto-hiroshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "robot",
+      "near-future",
+      "gender-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "拡張現実と人工の意識が実現し、性的な用途のために作られたアンドロイド、オルタマシンが普及した社会。なかでも未成年の姿をした機体の使用は、賛否の激しい議論を呼んでいた。実態を取材するライターの長谷部美里は、十二歳の姿をしたミーフと出会い、当事者として関わっていく。技術が倫理をどこまで動かせるのかを正面から扱った長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "schrodinger-no-chocolate-parfait",
+    "title": "シュレディンガーのチョコパフェ",
+    "titleKana": "しゅれでぃんがーのちょこぱふぇ",
+    "authorIds": [
+      "yamamoto-hiroshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "parallel-world",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "買い物に付き合ってくれる裕美子は、俺にとって最高の恋人だ。だが今日のデートはどうにも気が乗らない。久しぶりに再会した旧友の科学者が、この世界を壊そうと企んでいるらしいのだ。表題作のほか、SFマガジン読者賞を受けた言語SF「メデューサの呪文」、孤独なサイボーグの見えざる激闘を描く一編など、全七編を収める短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "toki-no-hate-no-february",
+    "title": "時の果てのフェブラリー",
+    "titleKana": "ときのはてのふぇぶらりー",
+    "authorIds": [
+      "yamamoto-hiroshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "hard-sf",
+      "esper",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "地球のいくつかの地点に、突然、謎の重力異常地帯が現れた。周辺では激しい暴風雨が吹き荒れ、軍隊でさえ容易に近づけない。前例のない異常気象と、そこから予想される食糧難によって地球は危機に陥る。原因の究明が難航するなか、超感覚知覚を持つ少女フェブラリーが招かれ、調査隊とともに旅立っていく。長く入手困難だったハードSFの長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shiseikan",
+    "title": "司政官",
+    "titleKana": "しせいかん",
+    "authorIds": [
+      "mayumura-taku"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "robot",
+      "short-stories"
+    ],
+    "seriesName": "司政官",
+    "origin": "jp",
+    "firstPublishedYear": 1974,
+    "status": "completed",
+    "synopsis": "人類が星々へ進出した時代。連邦軍による植民惑星の統治が各地で軋轢を生んだため、連邦経営機構は新しい制度を発足させた。それが司政官の制度である。官僚ロボットのSQ1だけを従え、人類の理解を超える現地種族に単身で向き合う若い司政官たちの群像を描く。二冊の短編集に収められていた全七編を、作中の年代順に編み直した決定版である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shizukana-shumatsu",
+    "title": "静かな終末",
+    "titleKana": "しずかなしゅうまつ",
+    "authorIds": [
+      "mayumura-taku"
+    ],
+    "translatorIds": [],
+    "publisherId": "takeshobo",
+    "themeIds": [
+      "short-stories",
+      "satire-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "大きな戦争が起きて、どうやら世界は終わるらしい。しかしそんな知らせはどこにも流れてこない。噂はでたらめだったのだろうか。不気味な日常を描く表題作をはじめ、無駄を省いて効率を突き詰めた企業の行き着く先を描く一編、クイズ番組に人生を賭ける者たちの戦いを描く一編など、初収録を多く含む短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kosakukan-mamiya",
+    "title": "工作艦間宮の戦争",
+    "titleKana": "こうさくかんまみやのせんそう",
+    "authorIds": [
+      "tani-koushuu"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "space-development",
+      "hard-sf"
+    ],
+    "seriesName": "新・航空宇宙軍史",
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "外惑星連合と航空宇宙軍の対立がふたたび動きだすなか、備蓄基地の攻防、戦略爆撃隊の作戦、行方の知れない艦隊の影といった出来事が、それぞれの現場から積み上げられていく。表題作では、戦闘艦ではなく工作艦が主役に据えられる。『コロンビア・ゼロ』に続く〈新・航空宇宙軍史〉の第二作にあたる連作集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hoshi-wa-subaru",
+    "title": "星は、昴",
+    "titleKana": "ほしはすばる",
+    "authorIds": [
+      "tani-koushuu"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "space-development",
+      "hard-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "君の国ではあの星をすばると呼んでいるのか。イギリス人のターナー博士の声が、遠い宇宙空間から流れてくる。博士と私は、遠く隔たった観測基地にいる研究者である。孤独のなかで通信を交わすうちに友情が芽生えたが、やがて私は、規則正しかった受信の時刻が少しずつずれていくことに気づく。表題作ほかを収める短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "wakusei-kazan-no-sakura",
+    "title": "惑星カザンの桜",
+    "titleKana": "わくせいかざんのさくら",
+    "authorIds": [
+      "hayashi-joji"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "first-contact",
+      "hard-sf",
+      "space-development"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "一万光年先の惑星カザンで、文明の急激な成長と滅亡が観測された。ワープ航法を手にしていた人類は急ぎ調査隊七百五十名を送り込んだが、到着後まもなく完全に消息を絶つ。カザンの文明はどのように滅び、先遣隊はなぜ遭難したのか。厳戒態勢で送り出された第二次調査隊が、広漠とした地表で待つものと向き合っていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
