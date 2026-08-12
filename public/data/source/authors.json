@@ -3496,5 +3496,113 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nevil-shute",
+    "name": "ネヴィル・シュート",
+    "nameKana": "しゅーとねゔぃる",
+    "description": "イギリス出身の作家・航空技術者。晩年はオーストラリアで執筆した。",
+    "birthYear": 1899,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ネヴィル・シュート"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "john-wyndham",
+    "name": "ジョン・ウィンダム",
+    "nameKana": "うぃんだむじょん",
+    "description": "イギリスの作家。日常が静かに崩れていく破滅ものを得意とした。",
+    "birthYear": 1903,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョン・ウィンダム"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "richard-matheson",
+    "name": "リチャード・マシスン",
+    "nameKana": "ましすんりちゃーど",
+    "description": "アメリカの作家・脚本家。SFとホラーの境界で数々の型を作った。",
+    "birthYear": 1926,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リチャード・マシスン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kazuo-ishiguro",
+    "name": "カズオ・イシグロ",
+    "nameKana": "いしぐろかずお",
+    "description": "長崎生まれのイギリスの作家。2017年にノーベル文学賞を受けた。",
+    "birthYear": 1954,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カズオ・イシグロ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "karel-capek",
+    "name": "カレル・チャペック",
+    "nameKana": "ちゃぺっくかれる",
+    "description": "チェコの作家・ジャーナリスト。戯曲でロボットという語を世に出した。",
+    "birthYear": 1890,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カレル・チャペック"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "douglas-adams",
+    "name": "ダグラス・アダムス",
+    "nameKana": "あだむすだぐらす",
+    "description": "イギリスの作家・脚本家。諧謔に満ちたSFコメディで知られる。",
+    "birthYear": 1952,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ダグラス・アダムス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ae-van-vogt",
+    "name": "A・E・ヴァン・ヴォークト",
+    "nameKana": "ゔぁんゔぉーくとえーいー",
+    "description": "カナダ出身のアメリカの作家。黄金期のSFを代表する書き手のひとり。",
+    "birthYear": 1912,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/A・E・ヴァン・ヴォークト"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fredric-brown",
+    "name": "フレドリック・ブラウン",
+    "nameKana": "ぶらうんふれどりっく",
+    "description": "アメリカの作家。奇想の効いた短編とユーモアSFで愛された。",
+    "birthYear": 1906,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フレドリック・ブラウン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "abe-kobo",
+    "name": "安部公房",
+    "nameKana": "あべこうぼう",
+    "description": "日本の小説家・劇作家。前衛的な手法で人間の疎外を描き続けた。",
+    "birthYear": 1924,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安部公房"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

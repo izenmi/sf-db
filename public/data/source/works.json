@@ -27332,5 +27332,300 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "on-the-beach",
+    "title": "渚にて",
+    "titleKana": "なぎさにて",
+    "authorIds": [
+      "nevil-shute"
+    ],
+    "translatorIds": [
+      "kinoshita-hideo"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "post-apocalypse",
+      "disaster",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1957,
+    "jpPublishedYear": 1958,
+    "originalTitle": "On the Beach",
+    "status": "completed",
+    "synopsis": "第三次世界大戦が勃発し、放射能に覆われた北半球の諸国は次々と死滅していった。かろうじて生き残った合衆国の原潜スコーピオンは、汚染帯を避けてオーストラリアへ退避してくる。ここはまだ無事だった。だが放射性物質は確実に南下している。残された時間をどう生きるかだけが問われる、静かな終末を描いた長編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/渚にて (小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-day-of-the-triffids",
+    "title": "トリフィド時代",
+    "titleKana": "とりふぃどじだい",
+    "authorIds": [
+      "john-wyndham"
+    ],
+    "translatorIds": [
+      "nakamura-toru"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "post-apocalypse",
+      "disaster",
+      "alien"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1951,
+    "jpPublishedYear": 1963,
+    "originalTitle": "The Day of the Triffids",
+    "status": "completed",
+    "synopsis": "その夜、地球が緑色の大流星群のなかを通過し、誰もが世紀の景観を見上げた。ところが翌朝、流星を見た者は全員が視力を失ってしまう。世界を狂乱と混沌が襲い、いまや流星を見られなかったわずかな人々だけが文明の担い手だった。折も折、植物油を採るために栽培されていた三本足の動く植物トリフィドが野に放たれ、人間を襲いはじめる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/トリフィド時代"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "i-am-legend",
+    "title": "地球最後の男",
+    "titleKana": "ちきゅうさいごのおとこ",
+    "authorIds": [
+      "richard-matheson"
+    ],
+    "translatorIds": [
+      "tanaka-komimasa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "post-apocalypse",
+      "disaster",
+      "evolution"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1954,
+    "jpPublishedYear": 1971,
+    "originalTitle": "I Am Legend",
+    "status": "completed",
+    "synopsis": "疫病によって人類がことごとく吸血鬼と化した世界で、ロバート・ネヴィルはただひとり感染を免れて生き残った。昼は彼らの巣を潰して回り、夜は自宅に立てこもって襲撃に耐える日々。孤独に耐えながら病の正体を科学的に突き止めようとする彼は、やがて自分がこの世界で何者なのかを知ることになる。吸血鬼像を一変させた長編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/地球最後の男"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-shrinking-man",
+    "title": "縮みゆく人間",
+    "titleKana": "ちぢみゆくにんげん",
+    "authorIds": [
+      "richard-matheson"
+    ],
+    "translatorIds": [
+      "yoshida-seiichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "disaster",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1956,
+    "jpPublishedYear": 1977,
+    "originalTitle": "The Shrinking Man",
+    "status": "completed",
+    "synopsis": "核実験によるスコールと、街中で噴霧された殺虫剤を浴びたスコット・ケアリーは、肉体が縮んでいくという恐るべき事態に直面する。あらゆる治療の甲斐なく一日に七分の一インチずつ縮んでいく彼は、やがて地下室に落とされ、猛毒を持つ黒い蜘蛛と対峙することになった。人間の世界から隔絶された別世界で、孤独な生存競争が続いていく。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/縮みゆく人間"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "never-let-me-go",
+    "title": "わたしを離さないで",
+    "titleKana": "わたしをはなさないで",
+    "authorIds": [
+      "kazuo-ishiguro"
+    ],
+    "translatorIds": [
+      "tsuchiya-masao"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "genetic-engineering",
+      "dystopia",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2006,
+    "originalTitle": "Never Let Me Go",
+    "status": "completed",
+    "synopsis": "優秀な介護人キャシー・Hは、提供者と呼ばれる人々の世話をしている。生まれ育った施設ヘールシャムの親友トミーやルースも、また提供者だった。キャシーは施設での奇妙な日々に思いをめぐらせる。図画工作に力を入れた授業、毎週の健康診断、保護官と呼ばれる教師たちのぎこちない態度。回想はやがて、ヘールシャムの残酷な真実を明かしていく。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/わたしを離さないで"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "war-with-the-newts",
+    "title": "山椒魚戦争",
+    "titleKana": "さんしょううおせんそう",
+    "authorIds": [
+      "karel-capek"
+    ],
+    "translatorIds": [
+      "kinoshita-setsu"
+    ],
+    "publisherId": "sekaibunkasha",
+    "themeIds": [
+      "satire-sf",
+      "evolution",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1936,
+    "jpPublishedYear": 1953,
+    "originalTitle": "Válka s mloky",
+    "status": "completed",
+    "synopsis": "赤道直下のタナ・マサ島の魔の入江には、二本足で子どものような手を持つ真っ黒な生き物がたくさん棲んでいた。不気味な姿に似合わずおとなしい性質で、やがて人間の指図のままにさまざまな労働を肩代わりしはじめる。だが数が増え、知恵をつけたとき何が起きるのか。科学技術の発達が人類に何をもたらすかを問う古典的傑作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山椒魚戦争"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hitchhikers-guide",
+    "title": "銀河ヒッチハイク・ガイド",
+    "titleKana": "ぎんがひっちはいくがいど",
+    "authorIds": [
+      "douglas-adams"
+    ],
+    "translatorIds": [
+      "kazami-jun",
+      "yasuhara-kazumi"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "space-opera",
+      "satire-sf",
+      "alien"
+    ],
+    "seriesName": "銀河ヒッチハイク・ガイド",
+    "origin": "overseas",
+    "firstPublishedYear": 1979,
+    "jpPublishedYear": 1982,
+    "originalTitle": "The Hitchhiker's Guide to the Galaxy",
+    "status": "completed",
+    "synopsis": "銀河バイパス建設のため、ある日突然、地球が消滅した。地球最後の生き残りであるアーサー・デントは、実は宇宙人だった友人のフォードとともに、銀河でヒッチハイクをするはめになる。手にしているのは、あらゆる事柄が載っているという電子書籍『銀河ヒッチハイク・ガイド』ただ一冊。抱腹絶倒のSF喜劇の第一作である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀河ヒッチハイク・ガイド"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-voyage-of-the-space-beagle",
+    "title": "宇宙船ビーグル号の冒険",
+    "titleKana": "うちゅうせんびーぐるごうのぼうけん",
+    "authorIds": [
+      "ae-van-vogt"
+    ],
+    "translatorIds": [
+      "numazawa-koji"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "alien",
+      "first-contact"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1950,
+    "jpPublishedYear": 1964,
+    "originalTitle": "The Voyage of the Space Beagle",
+    "status": "completed",
+    "synopsis": "ダーウィンが進化論を深めるきっかけとなったビーグル号の航海にちなみ、銀河系の彼方を旅する超光速宇宙船ビーグル号を描く。乗り込んでいるのは各分野の科学者たちである。次元を超越する不気味な存在との遭遇を、四つの挿話で連ねていく。総合科学の専門家グローヴナーが、狭量な専門家たちを説き伏せていく構図も見どころである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇宙船ビーグル号の冒険"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "what-mad-universe",
+    "title": "発狂した宇宙",
+    "titleKana": "はっきょうしたうちゅう",
+    "authorIds": [
+      "fredric-brown"
+    ],
+    "translatorIds": [
+      "sato-toshihiko",
+      "inaba-akio"
+    ],
+    "publisherId": "gengensha",
+    "themeIds": [
+      "parallel-world",
+      "satire-sf",
+      "space-opera"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1949,
+    "jpPublishedYear": 1956,
+    "originalTitle": "What Mad Universe",
+    "status": "completed",
+    "synopsis": "SF雑誌の編集者キース・ウィントンは、月へ向けて打ち上げられたロケットの事故に巻き込まれ、気がつくとよく似た別の宇宙にいた。そこでは地球が異星人と戦争の最中で、雑誌に載せていた与太話がすべて現実になっている。多元宇宙の面白さと技法を全部詰め込み、この主題を確立させてしまった処女長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/発狂した宇宙"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dai-yon-kanpyoki",
+    "title": "第四間氷期",
+    "titleKana": "だいよんかんぴょうき",
+    "authorIds": [
+      "abe-kobo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "near-future",
+      "ai",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1958,
+    "status": "completed",
+    "synopsis": "現在にとって未来とは何か。文明の行き着く先に現れるのは天国か地獄か。万能の電子頭脳に平凡な中年男の未来を予言させようとしたことに端を発して、事態は急転直下、次々と意外な方向へ展開していく。やがて機械は、人類の苛酷な未来を語りだすのだった。薔薇色の未来を盲信して現在に安住する者を痛烈に告発する長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/第四間氷期"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

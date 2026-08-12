@@ -1354,5 +1354,76 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kinoshita-hideo",
+    "name": "木下秀夫",
+    "nameKana": "きのしたひでお",
+    "description": "英米文学の翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tanaka-komimasa",
+    "name": "田中小実昌",
+    "nameKana": "たなかこみまさ",
+    "description": "小説家・翻訳家。直木賞と谷崎潤一郎賞を受けた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/田中小実昌"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tsuchiya-masao",
+    "name": "土屋政雄",
+    "nameKana": "つちやまさお",
+    "description": "翻訳家。カズオ・イシグロの訳者として知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/土屋政雄"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kinoshita-setsu",
+    "name": "樹下節",
+    "nameKana": "きのしたせつ",
+    "description": "チェコ文学・ドイツ文学の翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yasuhara-kazumi",
+    "name": "安原和見",
+    "nameKana": "やすはらかずみ",
+    "description": "英米の小説を訳す翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/安原和見"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sato-toshihiko",
+    "name": "佐藤俊彦",
+    "nameKana": "さとうとしひこ",
+    "description": "英米SFの翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "inaba-akio",
+    "name": "稲葉明雄",
+    "nameKana": "いなばあきお",
+    "description": "翻訳家。英米のミステリとSFを幅広く訳した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/稲葉明雄"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
