@@ -387,6 +387,14 @@
     "resolvedAt": "2026-08-11T04:39:56.518Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15133664/"
   },
+  "ashita-dorobo": {
+    "title": "明日泥棒",
+    "isbn": null,
+    "matchedTitle": "明日泥棒",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1783/2000002741783.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:45:30.986Z"
+  },
   "ashita-no-omoide": {
     "title": "未来のおもいで",
     "isbn": "9784198948115",
@@ -570,6 +578,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T09:36:21.435Z"
   },
+  "bigeiko": {
+    "title": "美藝公",
+    "isbn": "9784882934783",
+    "matchedTitle": "筒井康隆コレクション6美藝公",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4783/9784882934783.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T06:45:41.639Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14789774/"
+  },
   "bin-no-naka-no-shuki": {
     "title": "壜の中の手記",
     "isbn": "9784488121082",
@@ -718,6 +735,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5341/2000003395341.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T23:51:43.196Z"
+  },
+  "buso-shimada-soko": {
+    "title": "武装島田倉庫",
+    "isbn": null,
+    "matchedTitle": "武装島田倉庫（１）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4817/2000001804817.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:46:22.533Z"
   },
   "calculating-stars": {
     "title": "宇宙へ",
@@ -1172,6 +1197,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T23:50:34.867Z"
+  },
+  "dasso-to-tsuiseki-no-samba": {
+    "title": "脱走と追跡のサンバ",
+    "isbn": null,
+    "matchedTitle": "脱走と追跡のサンバ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2524/2000002832524.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:45:45.188Z"
   },
   "davy": {
     "title": "デイヴィー 荒野の旅",
@@ -2102,6 +2135,14 @@
     "resolvedAt": "2026-08-12T00:29:22.487Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/965528/"
   },
+  "gosenzo-sama-banzai": {
+    "title": "御先祖様万歳",
+    "isbn": null,
+    "matchedTitle": "御先祖様万歳",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8172/2000003578172.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:45:27.457Z"
+  },
   "goto-san-no-koto": {
     "title": "後藤さんのこと",
     "isbn": "9784150310622",
@@ -2964,6 +3005,15 @@
     "resolvedAt": "2026-08-12T03:08:25.310Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17137659/"
   },
+  "kamigari": {
+    "title": "神狩り",
+    "isbn": "9784150309947",
+    "matchedTitle": "神狩り",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9947/9784150309947.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T06:45:47.596Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6421583/"
+  },
   "kamigari-2": {
     "title": "神狩り2 リッパー",
     "isbn": null,
@@ -3032,6 +3082,14 @@
     "resolvedAt": "2026-08-11T22:38:07.376Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17801457/"
   },
+  "kao-no-nai-kamigami": {
+    "title": "顔のない神々",
+    "isbn": null,
+    "matchedTitle": "顔のない神々　（上）",
+    "coverUrl": "https://c.bookwalker.jp/185947/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-12T06:46:04.680Z"
+  },
   "karakuri-immoral": {
     "title": "からくりアンモラル",
     "isbn": "9784150308964",
@@ -3066,6 +3124,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T10:46:36.738Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5875937/"
+  },
+  "kasei-no-daitoryo-carter": {
+    "title": "火星の大統領カーター",
+    "isbn": null,
+    "matchedTitle": "火星の大統領カーター",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9873/2000005169873.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:46:28.782Z"
   },
   "kasei-no-joou": {
     "title": "火星の女王",
@@ -3278,6 +3344,14 @@
     "resolvedAt": "2026-08-11T21:31:28.167Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13461283/"
   },
+  "kochira-nippon": {
+    "title": "こちらニッポン…",
+    "isbn": null,
+    "matchedTitle": "こちらニッポン・・・（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0357/2000003370357.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:45:23.917Z"
+  },
   "koko-kara-saki-wa": {
     "title": "ここから先は何もない",
     "isbn": "9784309025865",
@@ -3312,6 +3386,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T03:08:29.920Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18299187/"
+  },
+  "konron-yugekitai": {
+    "title": "崑崙遊撃隊",
+    "isbn": null,
+    "matchedTitle": "崑崙遊撃隊",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0022/2000002320022.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:45:51.114Z"
   },
   "kore-wa-pen-desu": {
     "title": "これはペンです",
@@ -3358,6 +3440,14 @@
     "resolvedAt": "2026-08-12T01:55:28.161Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11206551/"
   },
+  "koyoi-ginga-o-sakazuki-ni": {
+    "title": "今宵、銀河を杯にして",
+    "isbn": null,
+    "matchedTitle": "今宵、銀河を杯にして",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0549/2000000220549.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:46:15.413Z"
+  },
   "koyubi-no-saki-no-tenshi": {
     "title": "小指の先の天使",
     "isbn": "9784150308414",
@@ -3383,6 +3473,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2347/2000000162347.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T23:51:36.258Z"
+  },
+  "kuchu-toshi-008": {
+    "title": "空中都市008",
+    "isbn": null,
+    "matchedTitle": "空中都市００８　アオゾラ市のものがたり",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0804/2000002500804.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:45:34.533Z"
   },
   "kugutsuko": {
     "title": "傀儡后",
@@ -3433,6 +3531,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T04:28:23.106Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/549138/"
+  },
+  "kyomu-kairo": {
+    "title": "虚無回廊",
+    "isbn": "9784758448444",
+    "matchedTitle": "（新装版）虚無回廊",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8444/9784758448444.gif?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18739421/",
+    "source": "rakuten-books",
+    "note": "新装版の書影を採用(自動取得が第2巻を拾ったため)"
   },
   "kyonen-wa-ii-toshi": {
     "title": "去年はいい年になるだろう",
@@ -3783,6 +3890,15 @@
     "resolvedAt": "2026-08-11T10:46:09.022Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16731658/"
   },
+  "minus-zero": {
+    "title": "マイナス・ゼロ",
+    "isbn": "9784087463248",
+    "matchedTitle": "マイナス・ゼロ 広瀬正・小説全集・1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3248/9784087463248_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T06:45:46.396Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5799904/"
+  },
   "mirai-kara-no-dasshutsu": {
     "title": "未来からの脱出",
     "isbn": "9784041128138",
@@ -3976,6 +4092,14 @@
     "resolvedAt": "2026-08-12T03:36:58.227Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1442669/"
   },
+  "musubi-no-yama-hiroku": {
+    "title": "産霊山秘録",
+    "isbn": null,
+    "matchedTitle": "産霊山秘録",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7263/2000000217263.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:46:11.900Z"
+  },
   "my-ghostly-friend": {
     "title": "マイ・ゴーストリー・フレンド",
     "isbn": "9784152104052",
@@ -4037,6 +4161,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T22:38:15.439Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13251724/"
+  },
+  "nana-toshi-monogatari": {
+    "title": "七都市物語",
+    "isbn": "9784150313029",
+    "matchedTitle": "七都市物語〔新版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3029/9784150313029.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T06:46:25.192Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15169851/"
   },
   "nanase-futatabi": {
     "title": "七瀬ふたたび",
@@ -5198,6 +5331,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T03:43:58.038Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11787231/"
+  },
+  "shishite-saku-hana": {
+    "title": "死して咲く花、実のある夢",
+    "isbn": null,
+    "matchedTitle": "死して咲く花、実のある夢",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9000/2000000169000.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:46:18.981Z"
   },
   "shizukana-shumatsu": {
     "title": "静かな終末",
@@ -6880,6 +7021,15 @@
     "resolvedAt": "2026-08-11T22:36:12.586Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5531863/"
   },
+  "yojohan-time-machine-blues": {
+    "title": "四畳半タイムマシンブルース",
+    "isbn": "9784041095638",
+    "matchedTitle": "四畳半タイムマシンブルース",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5638/9784041095638.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T06:46:23.704Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16364201/"
+  },
   "yokohama-eki-sf": {
     "title": "横浜駅SF",
     "isbn": "9784040721576",
@@ -6934,6 +7084,14 @@
     "resolvedAt": "2026-08-12T05:07:17.373Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1001282/"
   },
+  "yubae-sakusen": {
+    "title": "夕ばえ作戦",
+    "isbn": null,
+    "matchedTitle": "夕ばえ作戦",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3305/2000002293305.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:46:08.360Z"
+  },
   "yugami-shinju": {
     "title": "歪み真珠",
     "isbn": "9784480435798",
@@ -6986,6 +7144,15 @@
     "resolvedAt": "2026-08-11T04:40:52.647Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16890210/"
   },
+  "zanzo-ni-kuchibeni-o": {
+    "title": "残像に口紅を",
+    "isbn": "9784122022874",
+    "matchedTitle": "残像に口紅を",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2874/9784122022874.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T06:45:36.908Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/721594/"
+  },
   "zettai-neko-kara-ugokanai": {
     "title": "絶対猫から動かない",
     "isbn": "9784041128268",
@@ -7003,6 +7170,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T04:08:37.656Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6693008/"
+  },
+  "zokubutsu-zukan": {
+    "title": "俗物図鑑",
+    "isbn": null,
+    "matchedTitle": "俗物図鑑（新潮文庫）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2853/2000006662853.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:45:40.456Z"
   },
   "zoo-city": {
     "title": "ZOO CITY",
