@@ -49,6 +49,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-12T06:55:55.946Z"
   },
+  "a-medicine-for-melancholy": {
+    "title": "メランコリイの妙薬",
+    "isbn": "9784152087652",
+    "matchedTitle": "メランコリイの妙薬",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1520/15208765.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T10:54:35.857Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4154812/"
+  },
   "a-princess-of-mars": {
     "title": "火星のプリンセス",
     "isbn": null,
@@ -1036,6 +1045,12 @@
     "resolvedAt": "2026-08-11T23:12:10.266Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13523272/"
   },
+  "close-to-critical": {
+    "title": "テネブラ救援隊",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T10:55:07.028Z"
+  },
   "code-buddha": {
     "title": "コード・ブッダ 機械仏教史縁起",
     "isbn": "9784163918945",
@@ -1478,6 +1493,12 @@
     "resolvedAt": "2026-08-12T04:09:20.770Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12337110/"
   },
+  "donovans-brain": {
+    "title": "ドノヴァンの脳髄",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T10:55:36.250Z"
+  },
   "donuts": {
     "title": "どーなつ",
     "isbn": null,
@@ -1769,6 +1790,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T12:23:38.593Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14979985/"
+  },
+  "face-au-drapeau": {
+    "title": "悪魔の発明",
+    "isbn": null,
+    "matchedTitle": "悪魔の発明",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2959/2000002902959.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T10:54:45.155Z"
   },
   "face-zero": {
     "title": "フェイス・ゼロ",
@@ -3795,6 +3824,12 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T23:51:31.448Z"
   },
+  "little-fuzzy": {
+    "title": "リトル・ファジー",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T10:55:28.174Z"
+  },
   "lock-in": {
     "title": "ロックイン 統合捜査",
     "isbn": "9784153350250",
@@ -4753,6 +4788,14 @@
     "resolvedAt": "2026-08-12T02:31:07.779Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/774777/"
   },
+  "outside-the-universe": {
+    "title": "銀河大戦",
+    "isbn": null,
+    "matchedTitle": "銀河大戦",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1570/2000002911570.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T10:54:52.117Z"
+  },
   "owarinaki-sakuteki": {
     "title": "終わりなき索敵",
     "isbn": null,
@@ -5063,6 +5106,15 @@
     "resolvedAt": "2026-08-12T03:37:33.625Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15062765/"
   },
+  "r-is-for-rocket": {
+    "title": "ウは宇宙船のウ",
+    "isbn": "9784488612092",
+    "matchedTitle": "ウは宇宙船のウ【新訳版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2092/9784488612092_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T10:54:34.697Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18288522/"
+  },
   "ragged-girl": {
     "title": "ラギッド・ガール 廃園の天使II",
     "isbn": null,
@@ -5199,6 +5251,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-12T06:22:56.739Z"
+  },
+  "robur-the-conqueror": {
+    "title": "征服者ロビュール",
+    "isbn": null,
+    "matchedTitle": "征服者ロビュール（ジュール・ヴェルヌ・コレクション）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5455/2000001795455.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T10:54:41.709Z"
   },
   "rokujikan-go-ni": {
     "title": "6時間後に君は死ぬ",
@@ -5676,6 +5736,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T12:22:22.486Z"
+  },
+  "sinister-barrier": {
+    "title": "超生命ヴァイトン",
+    "isbn": null,
+    "matchedTitle": "超生命ヴァイトン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4535/2000003404535.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T10:54:59.082Z"
   },
   "sirens-of-titan": {
     "title": "タイタンの妖女",
@@ -6306,6 +6374,14 @@
     "resolvedAt": "2026-08-12T04:08:38.806Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12486169/"
   },
+  "the-illustrated-man": {
+    "title": "刺青の男",
+    "isbn": null,
+    "matchedTitle": "刺青の男",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8710/2000000138710.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T10:54:33.535Z"
+  },
   "the-immortality-option": {
     "title": "造物主の選択",
     "isbn": "9784488663209",
@@ -6434,6 +6510,12 @@
     "resolvedAt": "2026-08-12T07:58:39.419Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6554632/"
   },
+  "the-maze-runner": {
+    "title": "メイズ・ランナー",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T10:56:01.037Z"
+  },
   "the-memoranda": {
     "title": "記憶の書",
     "isbn": "9784336048127",
@@ -6535,6 +6617,31 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T01:55:59.942Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15169849/"
+  },
+  "the-skylark-of-space": {
+    "title": "宇宙のスカイラーク",
+    "isbn": null,
+    "matchedTitle": "宇宙のスカイラーク",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0778/2000000180778.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T10:54:55.584Z"
+  },
+  "the-star-kings": {
+    "title": "スターキング",
+    "isbn": "9784488637248",
+    "matchedTitle": "スター・キング【新版】",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7248/9784488637248.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T10:54:38.221Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16470664/"
+  },
+  "the-star-stealers": {
+    "title": "太陽強奪",
+    "isbn": null,
+    "matchedTitle": "太陽強奪",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1584/2000002911584.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T10:54:48.621Z"
   },
   "the-starry-rift": {
     "title": "たったひとつの冴えたやりかた",
