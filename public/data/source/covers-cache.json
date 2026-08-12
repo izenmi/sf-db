@@ -32,6 +32,15 @@
     "resolvedAt": "2026-08-11T21:31:43.211Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17686359/"
   },
+  "a-scanner-darkly": {
+    "title": "スキャナー・ダークリー",
+    "isbn": "9784150115388",
+    "matchedTitle": "スキャナー・ダークリー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1501/15011538.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:55:50.435Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/3690545/"
+  },
   "accelerando": {
     "title": "アッチェレランド",
     "isbn": null,
@@ -130,6 +139,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T12:23:58.229Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16369882/"
+  },
+  "anata-no-tamashii-ni-yasuragi-are": {
+    "title": "あなたの魂に安らぎあれ",
+    "isbn": "9784150302153",
+    "matchedTitle": "あなたの魂に安らぎあれ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2153/9784150302153.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:55:21.116Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/213732/"
   },
   "anata-wa-getsumen-ni": {
     "title": "あなたは月面に倒れている",
@@ -766,6 +784,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:49:15.504Z"
   },
+  "counter-clock-world": {
+    "title": "逆まわりの世界",
+    "isbn": "9784150122898",
+    "matchedTitle": "逆まわりの世界〔改訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2898/9784150122898.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:56:02.654Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16343655/"
+  },
   "crossfire": {
     "title": "クロスファイア",
     "isbn": "9784334749736",
@@ -1264,6 +1291,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:40:52.551Z"
   },
+  "fiasco": {
+    "title": "大失敗",
+    "isbn": "9784336045027",
+    "matchedTitle": "大失敗",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3360/33604502.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:56:03.859Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4280878/"
+  },
   "fifth-head-of-cerberus": {
     "title": "ケルベロス第五の首",
     "isbn": null,
@@ -1290,6 +1326,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T23:10:06.707Z"
+  },
+  "flow-my-tears": {
+    "title": "流れよわが涙、と警官は言った",
+    "isbn": null,
+    "matchedTitle": "流れよわが涙、と警官は言った",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/3706/2000000193706.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T01:55:49.244Z"
   },
   "flowers-for-algernon": {
     "title": "アルジャーノンに花束を",
@@ -1373,6 +1417,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T03:43:20.332Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11749071/"
+  },
+  "galactic-pot-healer": {
+    "title": "銀河の壺なおし",
+    "isbn": "9784150121501",
+    "matchedTitle": "銀河の壺なおし〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1501/9784150121501.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:55:58.758Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15121225/"
   },
   "game-no-okoku": {
     "title": "ゲームの王国",
@@ -1934,6 +1987,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T04:37:37.067Z"
   },
+  "imaginary-magnitude": {
+    "title": "虚数",
+    "isbn": "9784336035936",
+    "matchedTitle": "虚数",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3360/33603593.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:56:14.579Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/952618/"
+  },
   "imaike-denpa": {
     "title": "今池電波聖ゴミマリア",
     "isbn": null,
@@ -2008,6 +2070,15 @@
     "resolvedAt": "2026-08-11T22:38:06.218Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17743596/"
   },
+  "izayoi-no-tsuki": {
+    "title": "猶予の月",
+    "isbn": "9784150305536",
+    "matchedTitle": "猶予（いざよい）の月（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/809292/",
+    "source": "rakuten-books",
+    "note": "上巻の書影を採用(自動取得が下巻を拾ったため)"
+  },
   "jean-jacques": {
     "title": "ジャン=ジャックの自意識の場合",
     "isbn": null,
@@ -2065,6 +2136,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-12T00:29:53.819Z"
+  },
+  "kafuka-toshi": {
+    "title": "過負荷都市",
+    "isbn": null,
+    "matchedTitle": "過負荷都市",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1503/2000000101503.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T01:55:35.207Z"
   },
   "kagami-no-kuni-no-alice": {
     "title": "鏡の国のアリス",
@@ -2174,6 +2253,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T22:36:56.867Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15389885/"
+  },
+  "kanpekina-namida": {
+    "title": "完璧な涙",
+    "isbn": "9784150303228",
+    "matchedTitle": "完璧な涙",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3228/9784150303228.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:55:25.827Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/412927/"
   },
   "kansho-phantasmagoria": {
     "title": "感傷ファンタスマゴリィ",
@@ -2359,6 +2447,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T21:31:07.603Z"
   },
+  "kitsune-to-odore": {
+    "title": "狐と踊れ",
+    "isbn": "9784150309954",
+    "matchedTitle": "狐と踊れ新版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9954/9784150309954.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:55:41.003Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6421584/"
+  },
   "know": {
     "title": "know",
     "isbn": null,
@@ -2428,6 +2525,24 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T12:23:45.637Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15062774/"
+  },
+  "kototsubo": {
+    "title": "言壺",
+    "isbn": "9784150310370",
+    "matchedTitle": "言壺",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0370/9784150310370.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:55:28.161Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11206551/"
+  },
+  "koyubi-no-saki-no-tenshi": {
+    "title": "小指の先の天使",
+    "isbn": "9784150308414",
+    "matchedTitle": "小指の先の天使",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1503/15030841.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:55:39.851Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/3985069/"
   },
   "kozo-soshi": {
     "title": "構造素子",
@@ -2676,6 +2791,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T12:21:59.559Z"
   },
+  "martian-time-slip": {
+    "title": "火星のタイム・スリップ",
+    "isbn": "9784150103965",
+    "matchedTitle": "火星のタイム・スリップ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1501/15010396.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:55:42.164Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15239/"
+  },
   "mazeruna-kiken": {
     "title": "まぜるな危険",
     "isbn": "9784152100382",
@@ -2701,6 +2825,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T04:39:21.709Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15362857/"
+  },
+  "memoirs-found-in-a-bathtub": {
+    "title": "浴槽で発見された手記",
+    "isbn": "9784336071330",
+    "matchedTitle": "捜査・浴槽で発見された手記",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1330/9784336071330_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:56:13.376Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17779400/"
   },
   "memories-of-my-mother": {
     "title": "母の記憶に",
@@ -3063,6 +3196,15 @@
     "resolvedAt": "2026-08-11T04:34:15.869Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6179819/"
   },
+  "now-wait-for-last-year": {
+    "title": "去年を待ちながら",
+    "isbn": "9784150121457",
+    "matchedTitle": "去年を待ちながら〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1457/9784150121457.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:55:57.561Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15096616/"
+  },
   "nsa-eschbach": {
     "title": "NSA",
     "isbn": null,
@@ -3198,6 +3340,15 @@
     "resolvedAt": "2026-08-11T10:45:50.557Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17510641/"
   },
+  "our-friends-from-frolix-8": {
+    "title": "フロリクス8から来た友人",
+    "isbn": "9784150122454",
+    "matchedTitle": "フロリクス8から来た友人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2454/9784150122454.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:56:01.467Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15974984/"
+  },
   "ouroboros-no-hado": {
     "title": "ウロボロスの波動",
     "isbn": null,
@@ -3264,6 +3415,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T23:48:49.978Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11894465/"
+  },
+  "peace-on-earth": {
+    "title": "地球の平和",
+    "isbn": "9784336071361",
+    "matchedTitle": "地球の平和",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1361/9784336071361_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:56:08.613Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16927042/"
   },
   "penguin-highway": {
     "title": "ペンギン・ハイウェイ",
@@ -4070,6 +4230,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T13:04:22.466Z"
   },
+  "tamashii-no-kudotai": {
+    "title": "魂の駆動体",
+    "isbn": "9784150306342",
+    "matchedTitle": "魂の駆動体",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1503/15030634.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:55:26.991Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1138164/"
+  },
   "tap-egan": {
     "title": "TAP",
     "isbn": null,
@@ -4092,6 +4261,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T04:35:09.662Z"
+  },
+  "teio-no-kara": {
+    "title": "帝王の殻",
+    "isbn": null,
+    "matchedTitle": "帝王の殻",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9778/2000000179778.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T01:55:24.661Z"
   },
   "teito-monogatari": {
     "title": "帝都物語",
@@ -4184,6 +4361,33 @@
     "resolvedAt": "2026-08-11T13:06:22.914Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15140735/"
   },
+  "the-cyberiad": {
+    "title": "宇宙創世記ロボットの旅",
+    "isbn": "9784336071354",
+    "matchedTitle": "電脳の歌",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1354/9784336071354_1_2.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18223964/",
+    "source": "rakuten-books",
+    "note": "完訳版『電脳の歌』(国書刊行会)の書影を採用"
+  },
+  "the-investigation-lem": {
+    "title": "捜査",
+    "isbn": "9784336071330",
+    "matchedTitle": "捜査・浴槽で発見された手記",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1330/9784336071330_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:56:12.178Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17779400/"
+  },
+  "the-invincible": {
+    "title": "インヴィンシブル",
+    "isbn": "9784336071347",
+    "matchedTitle": "インヴィンシブル",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1347/9784336071347.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:56:06.242Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16876994/"
+  },
   "the-islanders": {
     "title": "夢幻諸島から",
     "isbn": "9784153350113",
@@ -4201,6 +4405,24 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T04:38:47.525Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6105147/"
+  },
+  "the-magellanic-cloud": {
+    "title": "マゼラン雲",
+    "isbn": "9784336071323",
+    "matchedTitle": "マゼラン雲",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1323/9784336071323_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:56:15.752Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17089785/"
+  },
+  "the-man-from-mars": {
+    "title": "火星からの来訪者",
+    "isbn": "9784336071316",
+    "matchedTitle": "火星からの来訪者",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1316/9784336071316.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:56:09.787Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17420121/"
   },
   "the-martian": {
     "title": "火星の人",
@@ -4242,6 +4464,15 @@
     "source": "rakuten-kobo",
     "note": "自動取得が下巻を拾ったため電子版上巻の書影に差し替え"
   },
+  "the-simulacra": {
+    "title": "シミュラクラ",
+    "isbn": "9784150121556",
+    "matchedTitle": "シミュラクラ〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1556/9784150121556.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:55:59.942Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15169849/"
+  },
   "the-telling": {
     "title": "言の葉の樹",
     "isbn": null,
@@ -4281,6 +4512,14 @@
     "resolvedAt": "2026-08-11T01:58:31.219Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17752281/"
   },
+  "three-stigmata": {
+    "title": "パーマー・エルドリッチの三つの聖痕",
+    "isbn": null,
+    "matchedTitle": "パーマー・エルドリッチの三つの聖痕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0992/2000000230992.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T01:55:45.701Z"
+  },
   "tigris-to-euphrates": {
     "title": "チグリスとユーフラテス",
     "isbn": null,
@@ -4292,6 +4531,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:38:07.805Z"
+  },
+  "time-out-of-joint": {
+    "title": "時は乱れて",
+    "isbn": null,
+    "matchedTitle": "時は乱れて",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5456/2000001915456.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T01:55:56.383Z"
   },
   "time-ships": {
     "title": "タイム・シップ",
@@ -4615,6 +4862,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:48:28.232Z"
   },
+  "valis": {
+    "title": "ヴァリス",
+    "isbn": "9784150119591",
+    "matchedTitle": "ヴァリス〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9591/9784150119591.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T01:55:52.825Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12753367/"
+  },
   "video-game-with-no-name": {
     "title": "ザ・ビデオ・ゲーム・ウィズ・ノーネーム",
     "isbn": "9784488630027",
@@ -4652,6 +4908,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:45:36.204Z"
+  },
+  "ware-katarite-sekai-ari": {
+    "title": "我語りて世界あり",
+    "isbn": null,
+    "matchedTitle": "我語りて世界あり",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1862/2000000131862.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T01:55:31.698Z"
   },
   "watashi-wa-kodoku-na-hoshi": {
     "title": "わたしは孤独な星のように",
