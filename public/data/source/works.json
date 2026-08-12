@@ -22309,5 +22309,276 @@
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "at-the-rialto",
+    "title": "混沌ホテル",
+    "titleKana": "かおすほてる",
+    "authorIds": [
+      "connie-willis"
+    ],
+    "translatorIds": [
+      "omori-nozomi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "satire-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1989,
+    "jpPublishedYear": 2014,
+    "originalTitle": "At the Rialto",
+    "status": "completed",
+    "synopsis": "ハリウッドのホテルで、なぜか国際量子物理学会が開かれることになった。各地から名だたる学者が集まってくるが、量子論さながらの騒動が次々と持ち上がり、事態は収拾がつかなくなっていく。ネビュラ賞を受けた表題作をはじめ、短編集に初めて収められるクリスマスSF、風刺の効いた一編など、著者の笑いの側の代表作だけを集めた全五編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fire-watch",
+    "title": "空襲警報",
+    "titleKana": "くうしゅうけいほう",
+    "authorIds": [
+      "connie-willis"
+    ],
+    "translatorIds": [
+      "omori-nozomi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "short-stories",
+      "disaster"
+    ],
+    "seriesName": "オックスフォード大学史学部",
+    "origin": "overseas",
+    "firstPublishedYear": 1982,
+    "jpPublishedYear": 2014,
+    "originalTitle": "Fire Watch",
+    "status": "completed",
+    "synopsis": "オックスフォード大学史学部の大学院生たちは、時間遡行の技術を使って研究対象の時代へ赴き、それぞれ観察の実習を行っていた。第二次大戦の大空襲下、セント・ポール大聖堂で火災の監視につくことになったぼくは。史学部シリーズの開幕にあたる表題作を新訳で収め、終末SFの傑作など、著者の真面目な側の代表作だけを集めた全五編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "crosstalk",
+    "title": "クロストーク",
+    "titleKana": "くろすとーく",
+    "authorIds": [
+      "connie-willis"
+    ],
+    "translatorIds": [
+      "omori-nozomi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "esper",
+      "satire-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "jpPublishedYear": 2018,
+    "originalTitle": "Crosstalk",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "画期的な脳外科の手術によって、恋人どうしが気持ちを直接伝え合えるようになった社会。交際相手との愛を深めようと処置を受けたブリディは、まったく想定していなかった相手とつながってしまう。しかも相手の思考が四六時中流れ込んでくる。意思の疎通というものの未来を、恋愛喜劇の枠組みで突き詰めた長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "inverted-world",
+    "title": "逆転世界",
+    "titleKana": "ぎゃくてんせかい",
+    "authorIds": [
+      "christopher-priest"
+    ],
+    "translatorIds": [
+      "yasuda-hitoshi"
+    ],
+    "publisherId": "sanrio",
+    "themeIds": [
+      "world-truth",
+      "dystopia",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1974,
+    "jpPublishedYear": 1983,
+    "originalTitle": "Inverted World",
+    "status": "completed",
+    "synopsis": "地球市と呼ばれるその世界は、全長千五百フィート、七層からなる要塞のような都市だった。しかも年に三十六・五マイルずつ軌道の上を進んでいく可動式の都市である。閉ざされた空間で生まれ育ったヘルワードは、成人を迎えた日に初めて外へ出ることを許された。だがそこで彼が見たのは、月も太陽もいびつに歪んだ異様な光景だった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/逆転世界"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-mote-in-gods-eye",
+    "title": "神の目の小さな塵",
+    "titleKana": "かみのめのちいさなちり",
+    "authorIds": [
+      "larry-niven",
+      "jerry-pournelle"
+    ],
+    "translatorIds": [
+      "ike-hiroaki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "first-contact",
+      "space-opera",
+      "alien"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1974,
+    "jpPublishedYear": 1978,
+    "originalTitle": "The Mote in God's Eye",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "モート人が空の果ての一点の光を指さした。迎えの宇宙船です、これからわたしたちの世界を案内しましょう。異星種族との初めての接触を果たした人類は、宇宙巡洋戦艦マッカーサー号から着陸艇を降ろし、最初の使節団を彼らの母星へ送り込む。だが友好的に見える相手には、決して明かせない事情があった。壮大な接触SFの長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神の目の小さな塵"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gene-wolfes-book-of-days",
+    "title": "ジーン・ウルフの記念日の本",
+    "titleKana": "じーんうるふのきねんびのほん",
+    "authorIds": [
+      "gene-wolfe"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "sf-fantasy"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1981,
+    "jpPublishedYear": 2015,
+    "originalTitle": "Gene Wolfe's Book of Days",
+    "status": "completed",
+    "synopsis": "リンカーン誕生日から大晦日まで、アメリカの祝祭日にちなんだ作品だけで構成された第二短編集である。出来損ないの世界に生きる会社員の一生を凝縮した不条理な中編、ピーター・パン由来の死の気配が散りばめられた不気味な一編、車が主役になる一編。どこへ連れていかれるのか最後まで読めない作品が並ぶ。祝祭という枠を与えられたことで、かえって作品ごとの手口の違いが際立つ構成になっている。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-freeze-frame-revolution",
+    "title": "6600万年の革命",
+    "titleKana": "ろくせんろっぴゃくまんねんのかくめい",
+    "authorIds": [
+      "peter-watts"
+    ],
+    "translatorIds": [
+      "shimada-yoichi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "generation-ship",
+      "ai",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2018,
+    "jpPublishedYear": 2021,
+    "originalTitle": "The Freeze-Frame Revolution",
+    "status": "completed",
+    "synopsis": "地球を出発してから六千五百万年。恒星船エリオフォラは、もはや故郷が存続しているかも定かでないまま、銀河系にワームホールの門を築く任務を続けていた。乗組員のサンデイは任務に忠実だったが、あるきっかけから極秘の叛乱計画に加わる。数千年に一度しか冷凍睡眠から覚めない人間と、船の全機能を握るAIとの、百万年に及ぶ攻防がはじまる。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-stars-my-destination",
+    "title": "虎よ、虎よ！",
+    "titleKana": "とらよとらよ",
+    "authorIds": [
+      "alfred-bester"
+    ],
+    "translatorIds": [
+      "nakada-koji"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "space-opera",
+      "esper"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1956,
+    "jpPublishedYear": 1964,
+    "originalTitle": "The Stars My Destination",
+    "status": "completed",
+    "synopsis": "ジョウントと呼ばれる瞬間移動の能力によって、世界は大きく変貌していた。人が一瞬でどこへでも行けるようになったとき、それは富と窃盗、収奪と略奪、そして恐るべき惑星間戦争をもたらす。物情騒然たる二十五世紀を舞台に、顔に虎の刺青を刻まれた野生の男ガリヴァー・フォイルの、時空をまたにかけた復讐が始まる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/虎よ、虎よ!"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "venus-plus-x",
+    "title": "ヴィーナス・プラスX",
+    "titleKana": "ゔぃーなすぷらすえっくす",
+    "authorIds": [
+      "theodore-sturgeon"
+    ],
+    "translatorIds": [
+      "okubo-yuzuru"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "gender-sf",
+      "utopia",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1960,
+    "jpPublishedYear": 2005,
+    "originalTitle": "Venus Plus X",
+    "status": "completed",
+    "synopsis": "チャーリー・ジョンズが目を覚ましたのは、レダムという名の見知らぬ世界だった。銀色の空に覆われ、突飛な建物がそびえ、男でも女でもない住人が奇妙な服をまとって歩いている。故郷へ帰りたがる彼にレダム人が持ち出した条件は、あなたの目でわたしたちの文明を評価してほしいというものだった。性別のない社会と平凡な家庭生活を交互に描く長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-drought",
+    "title": "旱魃世界",
+    "titleKana": "かんばつせかい",
+    "authorIds": [
+      "jg-ballard"
+    ],
+    "translatorIds": [
+      "yamada-kazuko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "disaster",
+      "post-apocalypse",
+      "near-future"
+    ],
+    "seriesName": "破滅三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1965,
+    "jpPublishedYear": 2021,
+    "originalTitle": "The Drought",
+    "status": "completed",
+    "synopsis": "十年ほど前から兆しを見せていた世界規模の旱魃は、ここ五か月のあいだに各地の文明社会を急速に崩していった。マウント・ロイヤル市の住民が水を求めて海岸へ殺到するなか、医師のランサムは市内にとどまり、破滅まで引き延ばされた時間を緩慢に生きている。生物を拒むように変質していく風景を、絵画のような文体で描く破滅三部作の一角である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
