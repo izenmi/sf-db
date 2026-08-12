@@ -148,7 +148,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/戦闘妖精・雪風"
     },
     "sourceNote": "日本語版Wikipediaの作品記事で『SFマガジン』1979〜83年掲載の連作を1984年に文庫としてまとめたこと・OVA化(2002)・漫画化を確認。星雲賞受賞はWikipedia「星雲賞」の一覧で確認(第16回・1985年)。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "戦闘妖精・雪風"
   },
   {
     "id": "gyakusatsu-kikan",
@@ -1104,7 +1105,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/敵は海賊"
     },
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、書誌(読み・初刊版元・初出年)は国立国会図書館サーチで確認した。刊行年はNDLの最古書誌に拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "敵は海賊"
   },
   {
     "id": "dirty-pair-no-daigyakuten",
@@ -1499,7 +1501,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/敵は海賊"
     },
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "敵は海賊"
   },
   {
     "id": "suisei-gari",
@@ -1567,7 +1570,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/戦闘妖精・雪風"
     },
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "戦闘妖精・雪風"
   },
   {
     "id": "eien-no-mori",
@@ -14630,7 +14634,8 @@
     ],
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "戦闘妖精・雪風"
   },
   {
     "id": "chikyu-ido-sakusen",
@@ -16955,7 +16960,8 @@
     ],
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "戦闘妖精・雪風"
   },
   {
     "id": "schrodinger-no-shojo",
@@ -23575,6 +23581,304 @@
     "synopsis": "女子高生の久遠空々梨は下校の途中、巨大な隕石の落下に遭遇し、全人類は一瞬で滅亡してしまう。ところが目を覚ますと、そこは衝突の三日前だった。混乱する彼女に、従姉妹の非数値ヌル香が衝撃の事実を突きつける。普通の女子高生だったはずの自分が、実は星間諜報組織の工作員だったというのだ。宇宙規模の大活劇がはじまる。",
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ginkakei-saigo-no-hiho",
+    "title": "銀河系最後の秘宝",
+    "titleKana": "ぎんがけいさいごのひほう",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-opera",
+      "space-development",
+      "military-sf"
+    ],
+    "seriesName": "クラッシャージョウ",
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "ジョウたちが見つけた難破船には瀕死の老人が乗っており、銀河系最後の秘宝という謎の言葉を遺して息絶えた。その直後、ミネルバ号が正体不明の円盤機群に襲われる。老人から託された暗号を解くと、それは銀河系最大の富豪からジョウへの依頼だった。巨万の富にまつわる秘密が明かされ、その行方をめぐる争奪戦がはじまる。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "utsukushiki-mao",
+    "title": "美しき魔王",
+    "titleKana": "うつくしきまおう",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-opera",
+      "esper",
+      "religion-sf"
+    ],
+    "seriesName": "クラッシャージョウ",
+    "origin": "jp",
+    "firstPublishedYear": 1983,
+    "status": "completed",
+    "synopsis": "人面魔獣の事件で重傷を負ったジョウには、長い治療が必要だった。その入院生活がようやく終わろうとした頃、病床の彼が不可解な襲撃を受ける。それは暗黒邪神教の事件以来、消息を絶っていたクリスからの挑戦状だった。超能力者の国を打ち立てた美しき魔王は、銀河系の新たな支配者になると宣言し、全人類の滅亡を予言してきたのである。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dolroy-no-arashi",
+    "title": "ドルロイの嵐",
+    "titleKana": "どるろいのあらし",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-opera",
+      "space-development",
+      "space-colony"
+    ],
+    "seriesName": "クラッシャージョウ",
+    "origin": "jp",
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "海洋惑星ドルロイの二代目総督カネークは、クラッシャーダンのチームに、海に大陸を造る惑星再改造を依頼した。主力製品の生産力を高めるためというのが表向きの理由だが、真の狙いは地道に海洋開発を進めるクラーケン一派の一掃にあった。意図を知って怒りを覚えながらも契約を破棄できずにいるダンの前に、現地調査の一行が現れる。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "wormwood-no-genju",
+    "title": "ワームウッドの幻獣",
+    "titleKana": "わーむうっどのげんじゅう",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-opera",
+      "alien",
+      "space-development"
+    ],
+    "seriesName": "クラッシャージョウ",
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "二人の実業家から、クラッシャーを二組雇いたいという依頼が入った。選ばれたのはジョウのチームと、彼に執拗な敵愾心を抱くダーナ三姉妹のチームである。催しの警護を終えた一行は、次に惑星ワームウッドに棲む未知の大型知的生命を狩りたいという二人の護衛につく。だがそこは、送り込まれた調査隊がすべて消息を絶った星だった。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dylon-no-seishojo",
+    "title": "ダイロンの聖少女",
+    "titleKana": "だいろんのせいしょうじょ",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-opera",
+      "esper",
+      "military-sf"
+    ],
+    "seriesName": "クラッシャージョウ",
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "太陽系国家ゴーフリーは、独裁者ルキアノスに対抗する反政府軍の動きに揺れていた。反乱軍の拠点は、聖少女ネネトの力で守られた城塞都市ダイロンである。だが皇帝派の執拗な攻撃でネネトは負傷し、治療のために都市を離れねばならなくなった。この機を逃さず彼女を捕らえにくる皇帝派から、ジョウたちが守り抜けるかどうかが問われる。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mizu-no-meikyu",
+    "title": "水の迷宮",
+    "titleKana": "みずのめいきゅう",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "space-colony",
+      "military-sf"
+    ],
+    "seriesName": "クラッシャージョウ",
+    "origin": "jp",
+    "firstPublishedYear": 2013,
+    "status": "completed",
+    "synopsis": "水中での行動に特化した傭兵アプサラは、二つの勢力が内戦を続ける水の惑星マルガラスで軍事活動に従事していた。その内戦のさなか、ジョウとアルフィンは先史文明の調査団の責任者を護衛するため、海底遺跡の調査船に乗り組む。戦闘に巻き込まれてアプサラと接触したことから、調査は両勢力の思惑をめぐる争いへ引きずり込まれていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dirty-pair-dokusaisha",
+    "title": "ダーティペア独裁者の遺産",
+    "titleKana": "だーてぃぺあどくさいしゃのいさん",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "satire-sf",
+      "military-sf"
+    ],
+    "seriesName": "ダーティペア",
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "ユリとケイが派遣されたのは惑星アムニールである。かつて独裁者による恐怖政治が敷かれていたが、革命によって体制は崩れ、非情皇帝と呼ばれた独裁者は処刑され、いまは新政府が立っている。二人の任務は、圧政の崩壊後もしつこく抵抗を続ける残党を排除することだった。相棒のムギの誕生にまつわる秘密にも触れる一作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dirty-pair-daifukkatsu",
+    "title": "ダーティペアの大復活",
+    "titleKana": "だーてぃぺあのだいふっかつ",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "satire-sf",
+      "robot"
+    ],
+    "seriesName": "ダーティペア",
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "冷凍睡眠に入っていたユリとケイを目覚めさせたのは、女性型の人造人間フローラだった。二人が眠っているあいだに、世界はずいぶん厄介なことになっているという。起きたばかりの二人は依頼を受け、危機に陥ったこの世界を救うために動きはじめるが、またしても信じがたい騒動へ巻き込まれていく。大宇宙を揺るがす一作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "teki-wa-kaizoku-futekina-kyuka",
+    "title": "敵は海賊・不敵な休暇",
+    "titleKana": "てきはかいぞくふてきなきゅうか",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "satire-sf",
+      "alien"
+    ],
+    "seriesName": "敵は海賊",
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "アプロとラテルにあとを任せ、海賊課チーフのバスターが長期休暇をとった。目的は自伝の執筆である。超高級の保養惑星で筆を進めるチーフをよそに、留守を預かった二人はいまさらながら彼の有能さを思い知らされる。いっぽう宇宙海賊王とその片腕は、火星の酒場で対海賊課の策を練っていた。息の長い人気シリーズの一冊である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "teki-wa-kaizoku-yuutsu",
+    "title": "敵は海賊・海賊たちの憂鬱",
+    "titleKana": "てきはかいぞくかいぞくたちのゆううつ",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "satire-sf",
+      "alien"
+    ],
+    "seriesName": "敵は海賊",
+    "origin": "jp",
+    "firstPublishedYear": 1991,
+    "status": "completed",
+    "synopsis": "宇宙海賊を一掃しようという太陽圏連合の次期首長候補が、火星の無法都市サベイジを訪れた。海賊王と直接対決するためである。その護衛と案内を任されたのが、宇宙海賊課の刑事アプロとラテルだった。ところが守るべき当人は偽者で、本物の行方がわからない。これは海賊の仕業なのか。黒猫型宇宙人と相棒が騒動に突っ込んでいく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "teki-wa-kaizoku-ichinichi",
+    "title": "敵は海賊・海賊課の一日",
+    "titleKana": "てきはかいぞくかいぞくかのいちにち",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "satire-sf",
+      "time-travel"
+    ],
+    "seriesName": "敵は海賊",
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "今日はアプロの六百六十六歳の誕生日である。いやな予感を覚えたラテルは、案の定チーフからアプロともども苦情処理係の勤務を命じられた。しっかり矢面に立って海賊課を守れというのだ。そんなことをすれば体じゅう穴だらけになる。ところが苦情の通信を受けはじめた画面の上に、時を越えたラテルの叔父が現れて助けを求めてくる。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "uchu-tansaki-meiwaku-ichiban",
+    "title": "宇宙探査機迷惑一番",
+    "titleKana": "うちゅうたんさきめいわくいちばん",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "parallel-world",
+      "satire-sf",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "地球連邦軍の月面基地に所属する迎撃小隊、通称脳天気小隊が遭遇したのは、疑問符や感嘆符や恥ずかしいものに見える不審な物体だった。調べてみるとそれは、敵対する水星軍の平行宇宙移動探索機と、その意識を言葉に変える思考装置だった。あまりにも都合のよすぎるその計画によって、隊員五名は平行宇宙へ飛ばされてしまう。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "insight-yukikaze",
+    "title": "インサイト 戦闘妖精・雪風",
+    "titleKana": "いんさいとせんとうようせいゆきかぜ",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "ai",
+      "alien"
+    ],
+    "seriesName": "戦闘妖精・雪風",
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "ジャムを演じるアグレッサー部隊に配属された深井零と雪風は、レイフとともに、日本空軍の田村伊歩大尉が駆る飛燕ほか地球連合軍との模擬戦に臨んだ。伊歩のジャム探知能力を高く評価するクーリィ准将は、彼女に雪風を操縦させようという思惑を秘めている。人と機械の関係を問い続けてきたシリーズの新たな一冊である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
 ]
