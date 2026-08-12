@@ -19226,5 +19226,276 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・初刊版元・邦訳初刊年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "i-robot",
+    "title": "われはロボット",
+    "titleKana": "われはろぼっと",
+    "authorIds": [
+      "isaac-asimov"
+    ],
+    "translatorIds": [
+      "obi-fusa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "robot",
+      "ai",
+      "short-stories"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1950,
+    "jpPublishedYear": 1963,
+    "originalTitle": "I, Robot",
+    "status": "completed",
+    "synopsis": "ロボットは人間に危害を加えてはならない。人間の命令に服従しなければならない。ロボット工学三原則には、すべてのロボットが必ず従うはずだった。三原則の第一条を改変した事件にロボット心理学者キャルヴィンが挑む「迷子のロボット」をはじめ、少女の友である子守り用ロボットのロビイ、人の心を読むハービイなど九編を収める連作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/われはロボット"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "naked-sun",
+    "title": "はだかの太陽",
+    "titleKana": "はだかのたいよう",
+    "authorIds": [
+      "isaac-asimov"
+    ],
+    "translatorIds": [
+      "obi-fusa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "robot",
+      "space-colony",
+      "ai"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1957,
+    "jpPublishedYear": 1984,
+    "originalTitle": "The Naked Sun",
+    "status": "completed",
+    "synopsis": "住民ひとりあたり一万台のロボットを従え、人が互いに顔を合わせることを忌避する惑星ソラリア。そこで起きた殺人事件の捜査に、地球の刑事ベイリとロボットのダニールが送り込まれる。全員が孤立して暮らす社会で、どうすれば殺人が可能だったのか。『鋼鉄都市』に続く長編で、ロボット工学三原則を推理の道具として使い切るシリーズ第二作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/はだかの太陽"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nine-billion-names",
+    "title": "90億の神の御名",
+    "titleKana": "きゅうじゅうおくのかみのみな",
+    "authorIds": [
+      "arthur-c-clarke"
+    ],
+    "translatorIds": [
+      "nakamura-toru",
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "religion-sf",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 2009,
+    "originalTitle": "The Nine Billion Names of God",
+    "status": "completed",
+    "synopsis": "高性能計算機を使って神の御名をすべて書き出そうとするラマ僧たちの計画を、軽妙な筆致で語る表題作。地球から三千光年離れた星雲を調査していた天体物理学者が突き当たる衝撃の発見を描き、ヒューゴー賞を受けた「星」。エッセイや年譜も収める。短い形式でこそ光る著者の切れ味を集めた、ザ・ベスト・オブ・アーサー・C・クラークの第二巻である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "espy",
+    "title": "エスパイ",
+    "titleKana": "えすぱい",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "esper",
+      "near-future",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "人の心を読み、遠くの出来事を察知し、意志の力で物を動かす。そんな超能力者たちの諜報集団〈エスパイ〉の一員タムラに、ソ連首相の暗殺計画を未然に防げという緊急指令が下る。だが任務はすでに嗅ぎつけられ、彼の乗ったジェット機には時限爆弾が仕掛けられていた。超能力を主題にしたスパイ・アクションの長編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エスパイ"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gordias-no-musubime",
+    "title": "ゴルディアスの結び目",
+    "titleKana": "ごるでぃあすのむすびめ",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "esper",
+      "short-stories",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "憑きものを宿すという少女が病室に収容されていた。精神分析医はその正体を突き止めようと試みるが、少女の内側にあるものは人間の理解の外にあった。表題作のほか「岬にて」「すぺるむ・さぴえんすの冒険」「あなろぐ・らう゛」を収める短編集である。人間の内面をそのまま宇宙的な規模へ接続してみせる、著者の到達点のひとつである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ゴルディアスの結び目 (小松左京の小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kazoku-hakkei",
+    "title": "家族八景",
+    "titleKana": "かぞくはっけい",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "esper",
+      "short-stories",
+      "satire-sf"
+    ],
+    "seriesName": "七瀬三部作",
+    "origin": "jp",
+    "firstPublishedYear": 1972,
+    "status": "completed",
+    "synopsis": "生まれながらのテレパシー能力を持ち、目の前の人の心をすべて読み取ってしまうお手伝いさんの火田七瀬。転々と移り住む八軒の住人の心にふと忍び寄り、マイホームの虚偽をあばいていく。平凡な日常を営む小市民の猥雑な内面に容赦なく光を当て、コミカルな筆致のまま哀感にまで昇華させていく。読心という一点だけで家庭の虚構を剥がしてみせる連作短編集である。",
+    "mediaMix": {
+      "drama": true,
+      "comic": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/家族八景"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "oedipus-no-koibito",
+    "title": "エディプスの恋人",
+    "titleKana": "えでぃぷすのこいびと",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "esper",
+      "world-truth",
+      "near-future"
+    ],
+    "seriesName": "七瀬三部作",
+    "origin": "jp",
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "ある日、少年の頭上でボールが音もなく粉々に割れた。それが異常の始まりだった。強い意志の力に守られた少年のまわりで、次々に不思議なことが起きる。謎を解明しようとしたテレパスの七瀬は、いつしか少年と愛し合っていた。初めての恋に我を忘れた彼女は、自分もまたその意志に導かれていることに気づく。七瀬三部作の完結編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エディプスの恋人"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nerawareta-gakuen",
+    "title": "ねらわれた学園",
+    "titleKana": "ねらわれたがくえん",
+    "authorIds": [
+      "mayumura-taku"
+    ],
+    "translatorIds": [],
+    "publisherId": "tsuru-shobo",
+    "themeIds": [
+      "esper",
+      "juvenile",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1973,
+    "status": "completed",
+    "synopsis": "突如として阿倍野第六中学の生徒会長に立候補し、鮮やかに当選してみせた高見沢みちる。それまで目立たなかった彼女は、魅力的な微笑と不思議な力で学園を支配していく。美しい顔の裏に隠された正体と真の狙いとは何なのか。超能力を持つ転校生と、管理を強めていく学園。子どもの世界に忍び込む全体主義を描いて、一九七〇年代から八〇年代にかけて大きな流行を生んだ。何度も映像化された日本ジュブナイルSFの金字塔である。",
+    "mediaMix": {
+      "movie": true,
+      "drama": true,
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ねらわれた学園"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nazo-no-tenkosei",
+    "title": "なぞの転校生",
+    "titleKana": "なぞのてんこうせい",
+    "authorIds": [
+      "mayumura-taku"
+    ],
+    "translatorIds": [],
+    "publisherId": "tsuru-shobo",
+    "themeIds": [
+      "parallel-world",
+      "juvenile",
+      "esper"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1967,
+    "status": "completed",
+    "synopsis": "岩田広一が通う中学に、山沢典夫という転校生がやってきた。ギリシャ彫刻を思わせる美男子で、成績優秀、スポーツも万能。だがどこか謎めいた雰囲気をまとっている。ある日、彼がとんでもない事件を起こしたことから、その秘密が少しずつ明らかになっていく。少年ドラマシリーズで人気を博したジュブナイルSFの傑作である。",
+    "mediaMix": {
+      "drama": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/なぞの転校生"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "green-requiem",
+    "title": "グリーン・レクイエム",
+    "titleKana": "ぐりーんれくいえむ",
+    "authorIds": [
+      "arai-motoko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kisotengaisha",
+    "themeIds": [
+      "alien",
+      "denki-sf",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1980,
+    "status": "completed",
+    "synopsis": "幼いころに迷い込んだ山奥の洋館で、信彦は吸い込まれるように深い緑の髪をした少女に出会い、心を奪われる。時を経てふたたび彼女と会ったとき、明日香に課せられた運命が二人を呑み込もうとしていた。髪に秘められた力、彼女の正体、そして帰るべき場所。表題作ほか二編を収める。少女の正体をめぐる切なさを、口語体の語りで綴った著者の代表作である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/グリーン・レクイエム"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

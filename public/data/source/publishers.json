@@ -489,5 +489,29 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tsuru-shobo",
+    "name": "鶴書房",
+    "nameKana": "つるしょぼう",
+    "description": "児童書とジュブナイルSFを刊行した出版社。1970年代の少年少女向けSFを多く手がけた。",
+    "foundedYear": 1946,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鶴書房"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kisotengaisha",
+    "name": "奇想天外社",
+    "nameKana": "きそうてんがいしゃ",
+    "description": "SF専門誌『奇想天外』を刊行した出版社。1970年代後半の日本SFを支えた。",
+    "foundedYear": 1974,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/奇想天外社"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
