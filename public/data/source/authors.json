@@ -3400,5 +3400,101 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "george-orwell",
+    "name": "ジョージ・オーウェル",
+    "nameKana": "おーうぇるじょーじ",
+    "description": "イギリスの作家・ジャーナリスト。全体主義への批判で二十世紀の思想に大きな影響を与えた。",
+    "birthYear": 1903,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョージ・オーウェル"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "aldous-huxley",
+    "name": "オルダス・ハクスリー",
+    "nameKana": "はくすりーおるだす",
+    "description": "イギリスの作家。文明批評を諧謔の効いた文体で書いた。",
+    "birthYear": 1894,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オルダス・ハクスリー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yevgeny-zamyatin",
+    "name": "エヴゲーニイ・ザミャーチン",
+    "nameKana": "ざみゃーちんえゔげーにい",
+    "description": "ロシアの作家・造船技師。ディストピア小説の先駆者とされる。",
+    "birthYear": 1884,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エヴゲーニイ・ザミャーチン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hg-wells",
+    "name": "H・G・ウェルズ",
+    "nameKana": "うぇるずえいちじー",
+    "description": "イギリスの作家。SFの父と呼ばれ、後続のほぼすべての主題を先取りした。",
+    "birthYear": 1866,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/H・G・ウェルズ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jules-verne",
+    "name": "ジュール・ヴェルヌ",
+    "nameKana": "ゔぇるぬじゅーる",
+    "description": "フランスの作家。科学冒険小説の礎を築き、SFの祖のひとりに数えられる。",
+    "birthYear": 1828,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジュール・ヴェルヌ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mary-shelley",
+    "name": "メアリー・シェリー",
+    "nameKana": "しぇりーめありー",
+    "description": "イギリスの作家。『フランケンシュタイン』で人造生命という主題を切り開いた。",
+    "birthYear": 1797,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/メアリー・シェリー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ray-bradbury",
+    "name": "レイ・ブラッドベリ",
+    "nameKana": "ぶらっどべりれい",
+    "description": "アメリカの作家。抒情的な文体でSFと幻想文学の境目を書き続けた。",
+    "birthYear": 1920,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/レイ・ブラッドベリ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "anthony-burgess",
+    "name": "アンソニー・バージェス",
+    "nameKana": "ばーじぇすあんそにー",
+    "description": "イギリスの作家・作曲家。言語遊戯を駆使した作風で知られる。",
+    "birthYear": 1917,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/アンソニー・バージェス"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

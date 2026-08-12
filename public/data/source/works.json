@@ -26976,5 +26976,361 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nineteen-eighty-four",
+    "title": "1984年",
+    "titleKana": "せんきゅうひゃくはちじゅうよねん",
+    "authorIds": [
+      "george-orwell"
+    ],
+    "translatorIds": [
+      "yoshida-kenichi",
+      "tatsunokuchi-naotaro"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "language-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1949,
+    "jpPublishedYear": 1950,
+    "originalTitle": "Nineteen Eighty-Four",
+    "status": "completed",
+    "synopsis": "一九八四年、世界は三つに分断され、オセアニア国ではビッグ・ブラザーによる強固な管理体制が敷かれていた。国民が二十四時間監視される欺瞞に満ちた体制に疑問を抱いた官僚ウィンストンは、抵抗の第一歩として日記をつけはじめる。人間と権力の危険な関係を暴き、全体主義への警鐘を鳴らした二十世紀ディストピア小説の代表作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/1984年 (小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "brave-new-world",
+    "title": "すばらしい新世界",
+    "titleKana": "すばらしいしんせかい",
+    "authorIds": [
+      "aldous-huxley"
+    ],
+    "translatorIds": [
+      "matsumura-tatsuo"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "dystopia",
+      "genetic-engineering",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1932,
+    "jpPublishedYear": 1968,
+    "originalTitle": "Brave New World",
+    "status": "completed",
+    "synopsis": "二十六世紀、遺伝子の選別と人間の工場生産、幼少期からの自由な性の奨励、そして快楽をもたらす薬の配給によって、人類は不満と無縁の安定した社会を築き上げた。だがそこでは、悩むことも老いることも許されていない。文明の行く末に警鐘を鳴らしつつ、その世界を闊歩する人々を鮮やかに描いた近未来小説の決定版である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/すばらしい新世界"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "we-zamyatin",
+    "title": "われら",
+    "titleKana": "われら",
+    "authorIds": [
+      "yevgeny-zamyatin"
+    ],
+    "translatorIds": [
+      "ogasawara-toyoki"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "dystopia",
+      "far-future",
+      "language-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1924,
+    "jpPublishedYear": 1970,
+    "originalTitle": "Мы",
+    "status": "completed",
+    "synopsis": "単一国に統治された世界では、人々は徹底した監視のもとに置かれながら、そのことに疑問を抱かずに暮らしていた。ガラスの家に住み、時間表に従って動く生活である。だが主人公はある女性と恋に落ち、世界のほころびに気づいてしまう。一九二〇年代のロシアで書かれ、後続のディストピア小説すべての源流となった先駆的な名作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/われら"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-time-machine",
+    "title": "タイム・マシン",
+    "titleKana": "たいむましん",
+    "authorIds": [
+      "hg-wells"
+    ],
+    "translatorIds": [
+      "uno-toshiyasu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "far-future",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1895,
+    "jpPublishedYear": 1963,
+    "originalTitle": "The Time Machine",
+    "status": "completed",
+    "synopsis": "時間を旅する機械を発明したヴィクトリア朝の科学者が、はるか未来の西暦八十万二千七百一年へ向かう。そこで彼が見たのは、地上で無邪気に遊び暮らすエロイと、地下に住む恐ろしいモーロックに分かれてしまった人類の姿だった。さらに未来へ進んだ先に待つものとは。時間旅行という概念そのものを広めた中編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/タイム・マシン (小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-war-of-the-worlds",
+    "title": "宇宙戦争",
+    "titleKana": "うちゅうせんそう",
+    "authorIds": [
+      "hg-wells"
+    ],
+    "translatorIds": [
+      "ono-kyoichi"
+    ],
+    "publisherId": "koyama-shoten",
+    "themeIds": [
+      "alien",
+      "disaster",
+      "first-contact"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1898,
+    "jpPublishedYear": 1951,
+    "originalTitle": "The War of the Worlds",
+    "status": "completed",
+    "synopsis": "謎を秘めて妖しく輝く火星に、ガス状の大爆発が観測された。これこそが六年後に地球を震撼させる大事件の前触れだった。ある晩、人々は夜空を切り裂く流星を目撃する。だがそれは単なる流星ではない。巨大な穴を穿って落下した物体から現れたのは、V字形にえぐれた口と二つの巨大な目、不気味な触手を持つ生物だった。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇宙戦争 (H・G・ウェルズ)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-island-of-doctor-moreau",
+    "title": "モロー博士の島",
+    "titleKana": "もろーはかせのしま",
+    "authorIds": [
+      "hg-wells"
+    ],
+    "translatorIds": [
+      "tsuchiya-koji"
+    ],
+    "publisherId": "sanpo-shuppansha",
+    "themeIds": [
+      "genetic-engineering",
+      "evolution",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1896,
+    "jpPublishedYear": 1941,
+    "originalTitle": "The Island of Doctor Moreau",
+    "status": "completed",
+    "synopsis": "船が難破して漂流していたプレンディックは、さまざまな動物を積んだ船に助けられる。この動物たちはいったい何なのか。そして自分を介抱してくれたモンゴメリーの不気味な連れは何者なのか。やがて彼は、絶海の孤島で行われているモロー博士の実験に巻き込まれていく。生き物を作り変えるという主題を最初期に扱った長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モロー博士の島"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "twenty-thousand-leagues",
+    "title": "海底二万里",
+    "titleKana": "かいていにまんり",
+    "authorIds": [
+      "jules-verne"
+    ],
+    "translatorIds": [
+      "murakami-hiroo"
+    ],
+    "publisherId": "futaba-shoin-seikokan",
+    "themeIds": [
+      "space-development",
+      "hard-sf",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1870,
+    "jpPublishedYear": 1943,
+    "originalTitle": "Vingt mille lieues sous les mers",
+    "status": "completed",
+    "synopsis": "世界中の海で、船底に巨大な穴が開く謎の海難事故が続いていた。パリ自然史博物館の教授アロナックスは、巨大な一角獣の仕業だと仮説を立て、助手とともにアメリカの軍艦へ乗り込む。荒れた夜の海でついに怪物と対決した一行を待っていたのは、ネモ船長の潜水艦ノーチラス号だった。海底を巡る世界一周の旅がはじまる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/海底二万里"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "journey-to-the-center-of-the-earth",
+    "title": "地底旅行",
+    "titleKana": "ちていりょこう",
+    "authorIds": [
+      "jules-verne"
+    ],
+    "translatorIds": [
+      "murakami-hiroo"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "hard-sf",
+      "evolution",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1864,
+    "jpPublishedYear": 1961,
+    "originalTitle": "Voyage au centre de la Terre",
+    "status": "completed",
+    "synopsis": "アクセルは叔父で鉱物学者のリーデンブロック教授とともに、地球の中心を目指す旅に出る。途中で無口で頼りになる案内人のハンスが加わり、一行はアイスランドの火山の噴火口から地の底へ向かった。そこには先史時代の生き物が生きる、驚くべき光景が広がっていた。前人未踏の地を科学の目で描いた冒険譚である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/地底旅行"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "frankenstein",
+    "title": "フランケンシュタイン",
+    "titleKana": "ふらんけんしゅたいん",
+    "authorIds": [
+      "mary-shelley"
+    ],
+    "translatorIds": [
+      "yamamoto-masaki"
+    ],
+    "publisherId": "shinjinsha",
+    "themeIds": [
+      "genetic-engineering",
+      "denki-sf",
+      "evolution"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1818,
+    "jpPublishedYear": 1948,
+    "originalTitle": "Frankenstein",
+    "status": "completed",
+    "synopsis": "若き科学者ヴィクター・フランケンシュタインは、生命の起源に迫る研究に打ち込んでいた。あるとき彼は、生命の創造という神をも恐れぬ行いに手を染める。だが創り上げた怪物は、あまりに恐ろしい容貌をしていた。故郷へ逃げ帰った彼は、醜さゆえの孤独にあえぐ怪物に憎まれ、追い詰められていくことになる。近代SFの出発点に置かれる古典である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フランケンシュタイン"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fahrenheit-451",
+    "title": "華氏451度",
+    "titleKana": "かしよんひゃくごじゅういちど",
+    "authorIds": [
+      "ray-bradbury"
+    ],
+    "translatorIds": [
+      "uno-toshiyasu",
+      "ito-norio"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "language-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 1964,
+    "originalTitle": "Fahrenheit 451",
+    "status": "completed",
+    "synopsis": "華氏四百五十一度。この温度で書物の紙は引火し、そして燃える。四五一と刻印された兜をかぶり、昇火器の炎で隠匿された書物を焼き尽くす男たち。モンターグも自らの仕事に誇りを持つ昇火士のひとりだった。だがある晩、風変わりな少女と出会ってから、彼の人生は劇的に変わっていく。本が禁制品となった未来を描く不朽の名作である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/華氏451度"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-martian-chronicles",
+    "title": "火星年代記",
+    "titleKana": "かせいねんだいき",
+    "authorIds": [
+      "ray-bradbury"
+    ],
+    "translatorIds": [
+      "ogasawara-toyoki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "alien",
+      "short-stories"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1950,
+    "jpPublishedYear": 1963,
+    "originalTitle": "The Martian Chronicles",
+    "status": "completed",
+    "synopsis": "火星への最初の探検隊は、ひとりも帰還しなかった。火星人が彼らなりのやり方で探検隊をもてなしたからである。続く二度の探検隊も同じ運命をたどった。それでも人類は怒涛のように火星へ押し寄せ、やがて地球人の町が次々と建設されていく。いっぽう火星人は。連作短編の形式で抒情豊かに謳い上げられた記念碑的作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/火星年代記"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "a-clockwork-orange",
+    "title": "時計じかけのオレンジ",
+    "titleKana": "とけいじかけのおれんじ",
+    "authorIds": [
+      "anthony-burgess"
+    ],
+    "translatorIds": [
+      "inui-shinichiro"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "language-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1962,
+    "jpPublishedYear": 1971,
+    "originalTitle": "A Clockwork Orange",
+    "status": "completed",
+    "synopsis": "近未来の高度に管理された社会。十五歳の少年アレックスは、平凡で機械的な毎日にうんざりしていた。そこで彼が見つけた唯一の気晴らしが超暴力である。仲間とともに夜の街をさまよい、盗み、破壊、暴行、殺人をけたたましく笑いながら繰り返す。だがやがて、更生を名目にした国家の手が少年に迫っていく。悪を選ぶ自由を奪われた人間は、まだ人間と呼べるのか。ロシア語混じりの独特な若者言葉で語られる長編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/時計じかけのオレンジ (小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認したが、古典では戦前戦後すぐの邦訳が同サーチに未登録のことがあり、確認できた最古の版に拠った。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

@@ -1252,5 +1252,107 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yoshida-kenichi",
+    "name": "吉田健一",
+    "nameKana": "よしだけんいち",
+    "description": "英文学者・批評家・翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉田健一"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tatsunokuchi-naotaro",
+    "name": "龍口直太郎",
+    "nameKana": "たつのおかなおたろう",
+    "description": "英米文学者・翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/龍口直太郎"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "matsumura-tatsuo",
+    "name": "松村達雄",
+    "nameKana": "まつむらたつお",
+    "description": "英文学者・翻訳家。東京大学名誉教授。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ogasawara-toyoki",
+    "name": "小笠原豊樹",
+    "nameKana": "おがさわらとよき",
+    "description": "翻訳家・詩人。詩人としては岩田宏の名で活動した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/小笠原豊樹"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "uno-toshiyasu",
+    "name": "宇野利泰",
+    "nameKana": "うのとしやす",
+    "description": "英米の小説を幅広く訳した翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇野利泰"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ono-kyoichi",
+    "name": "小野協一",
+    "nameKana": "おのきょういち",
+    "description": "英文学者・翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tsuchiya-koji",
+    "name": "土屋光司",
+    "nameKana": "つちやこうじ",
+    "description": "戦前から活動した英米文学の翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "murakami-hiroo",
+    "name": "村上啓夫",
+    "nameKana": "むらかみひろお",
+    "description": "英米・仏の小説を訳した翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/村上啓夫"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yamamoto-masaki",
+    "name": "山本政喜",
+    "nameKana": "やまもとまさき",
+    "description": "英文学の翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "inui-shinichiro",
+    "name": "乾信一郎",
+    "nameKana": "いぬいしんいちろう",
+    "description": "小説家・翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/乾信一郎"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
