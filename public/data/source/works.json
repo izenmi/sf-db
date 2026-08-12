@@ -20587,5 +20587,334 @@
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。二〇二五年に国書刊行会から『電脳の歌』として完訳が出ている。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "giants-star",
+    "title": "巨人たちの星",
+    "titleKana": "きょじんたちのほし",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "ike-hiroaki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "first-contact",
+      "hard-sf",
+      "alien"
+    ],
+    "seriesName": "巨人たちの星",
+    "origin": "overseas",
+    "firstPublishedYear": 1981,
+    "jpPublishedYear": 1983,
+    "originalTitle": "Giants' Star",
+    "status": "completed",
+    "synopsis": "冥王星の彼方から、巨人たちの星にいるガニメアンの通信がふたたび届きはじめた。地球を知るガニメアンとは接触していないはずなのに、相手は地球人の言語だけでなくデータ伝送の規格まで知り尽くしている。この惑星はどこかから長く監視されてきたのではないか。ハント博士とダンチェッカー教授は通信の主を突き止めようとする。『星を継ぐもの』から続く三部作の完結編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/巨人たちの星"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "code-of-the-lifemaker",
+    "title": "造物主の掟",
+    "titleKana": "ぞうぶつしゅのおきて",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "kosumi-rei"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "robot",
+      "evolution",
+      "first-contact"
+    ],
+    "seriesName": "造物主",
+    "origin": "overseas",
+    "firstPublishedYear": 1983,
+    "jpPublishedYear": 1985,
+    "originalTitle": "Code of the Lifemaker",
+    "status": "completed",
+    "synopsis": "百万年の昔、故障した異星の自動工場宇宙船が土星の衛星タイタンに不時着し、そこで工場を建てはじめた。だが資源から製品を作って母星へ送り出すはずのロボットたちは、故障のせいで独自の進化をたどっていく。中世さながらの社会を築いた機械生物たちの前に、いま地球人が現れた。インチキ心霊術師ザンベンドルフを狂言回しに据えた長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-immortality-option",
+    "title": "造物主の選択",
+    "titleKana": "ぞうぶつしゅのせんたく",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "kosumi-rei"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "robot",
+      "ai",
+      "first-contact"
+    ],
+    "seriesName": "造物主",
+    "origin": "overseas",
+    "firstPublishedYear": 1995,
+    "jpPublishedYear": 1999,
+    "originalTitle": "The Immortality Option",
+    "status": "completed",
+    "synopsis": "人類が土星の衛星タイタンで見つけた異種族は、意識を持ち自ら増殖する機械の人間だった。地球の中世そっくりの暮らしを営んでいた彼らは、人類との接触をきっかけに新しい道を歩みはじめる。だが大きな謎が残されていた。彼らを造った者はいったい何者なのか。接触の立役者となったインチキ心霊術師ザンベンドルフが、ふたたび立ち上がる続編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "out-of-time-hogan",
+    "title": "時間泥棒",
+    "titleKana": "じかんどろぼう",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "kosumi-rei"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "time-travel",
+      "near-future",
+      "satire-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1993,
+    "jpPublishedYear": 1995,
+    "originalTitle": "Out of Time",
+    "status": "completed",
+    "synopsis": "ある日、ニューヨークの時間がおかしくなりはじめた。世界中でこの街だけ時計が遅れていき、しかも場所ごとに遅れ方が違う。前代未聞の事態に、著名な物理学者は異次元の存在がわれわれの時間を少しずつ盗んでいるのだと主張した。議論が果てしなく続くあいだにも、時間は本当に失われていく。時間SFに新しい機軸を持ち込んだ中編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "voyage-from-yesteryear",
+    "title": "断絶への航海",
+    "titleKana": "だんぜつへのこうかい",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "kosumi-rei"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "utopia",
+      "first-contact"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1982,
+    "jpPublishedYear": 1984,
+    "originalTitle": "Voyage from Yesteryear",
+    "status": "completed",
+    "synopsis": "争いをやめられない人類は、破局に備えて遺伝情報を積んだ無人探査船をケンタウルス座アルファ星へ送り出した。ロボットに育てられた子どもたちは、貨幣も権力も持たない社会を築き上げる。半世紀後、第三次大戦を経た地球から旧来の秩序を積んだ有人船が到着し、この惑星を統治しようとするが、命令も刑罰もまるで通じない。異文化の接触として描かれた長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/断絶への航海"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "martian-knightlife",
+    "title": "火星の遺跡",
+    "titleKana": "かせいのいせき",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-colony",
+      "hard-sf",
+      "alien"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2001,
+    "jpPublishedYear": 2018,
+    "originalTitle": "Martian Knightlife",
+    "status": "completed",
+    "synopsis": "火星のドーム都市で研究されていた瞬間移動技術の、初めての人体実験がおこなわれた。それは成功したかに見えたが、被験者となった科学者の身辺で奇妙な事件が続発する。いっぽう火星の荒野で見つかった一万二千年前の巨石遺跡は、太陽系じゅうに足跡を残す古代文明の存在を示す証拠と思われた。だが考古学の遠征隊に危機が迫る。円熟期の長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "echoes-of-an-alien-sky",
+    "title": "未踏の蒼穹",
+    "titleKana": "みとうのそうきゅう",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "alien",
+      "post-apocalypse",
+      "world-truth"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2007,
+    "jpPublishedYear": 2022,
+    "originalTitle": "Echoes of an Alien Sky",
+    "status": "completed",
+    "synopsis": "金星に生まれた文明は、かつて栄華を誇りながら滅び去った惑星、地球の探査計画に取り組んでいた。宇宙へ進出するほど発展していたテラの文明は、なぜ滅んだのか。月の遺跡で見つかった、当時のテラ人が持っていたはずのない技術の痕跡は何を意味するのか。調査が進むにつれ、これまで信じられてきた歴史像が大きく揺らいでいく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mission-to-minerva",
+    "title": "ミネルヴァ計画",
+    "titleKana": "みねるゔぁけいかく",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "uchida-masayuki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "parallel-world",
+      "alien",
+      "hard-sf"
+    ],
+    "seriesName": "巨人たちの星",
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2024,
+    "originalTitle": "Mission to Minerva",
+    "status": "completed",
+    "synopsis": "ハント博士のもとへ、並行宇宙に存在する別の自分から通信が届いた。ハントたち地球人とテューリアンは協力し、多元宇宙を横切る時空間移動の可能性を探りはじめる。いっぽう五万年前の惑星ミネルヴァの近くで再び実体を得たジェヴレン人ブローヒリオらは、ひそかに反攻の機会をうかがっていた。『星を継ぐもの』から続くシリーズの最終巻である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-puppet-masters",
+    "title": "人形つかい",
+    "titleKana": "にんぎょうつかい",
+    "authorIds": [
+      "robert-a-heinlein"
+    ],
+    "translatorIds": [
+      "fukushima-masami"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "near-future",
+      "first-contact"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1951,
+    "jpPublishedYear": 1971,
+    "originalTitle": "The Puppet Masters",
+    "status": "completed",
+    "synopsis": "アイオワ州に未確認飛行物体が着陸し、調査に赴いた捜査官六名が行方を絶った。秘密捜査官のサムと上司、そして赤毛の女性捜査官メアリが真相を探りに現地へ向かう。やがて驚くべき事実が明らかになった。住民のほとんどが、宇宙から来たなめくじ状の寄生生物に取り憑かれていたのである。人間を意のままに操る侵略者との戦いを描く冒険SFである。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/人形つかい (小説)"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "all-you-zombies",
+    "title": "輪廻の蛇",
+    "titleKana": "りんねのへび",
+    "authorIds": [
+      "robert-a-heinlein"
+    ],
+    "translatorIds": [
+      "fukushima-masami",
+      "yano-tetsu",
+      "inoue-kazuo",
+      "yoshida-seiichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "short-stories",
+      "time-loop"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1959,
+    "jpPublishedYear": 1982,
+    "originalTitle": "'—All You Zombies—'",
+    "status": "completed",
+    "synopsis": "酒場を訪れた男が語りはじめた奇妙な身の上話と、その背後に隠された驚くべき真実。時間の因果が完全に閉じてしまう究極の逆説を扱った表題作をはじめ、六つの中短編を収める傑作集である。長編で知られる著者が、短い形式でこそ見せる仕掛けの切れ味を味わえる一冊である。宇宙船の乗員をすべて女性で構成した理由を語る一編や、遺伝子操作をめぐる一編など、初期から中期にかけての代表作が並ぶ。表題作は後年に映像化もされている。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tunnel-in-the-sky",
+    "title": "ルナ・ゲートの彼方",
+    "titleKana": "るなげーとのかなた",
+    "authorIds": [
+      "robert-a-heinlein"
+    ],
+    "translatorIds": [
+      "morishita-yumiko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "juvenile",
+      "space-colony",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1955,
+    "jpPublishedYear": 1989,
+    "originalTitle": "Tunnel in the Sky",
+    "status": "completed",
+    "synopsis": "恒星間ゲートを使って未知の惑星へ志願者を送り込み、回収のときまで生き延びていられたら合格。それが上級サバイバル・テストである。高校生のロッドは両親の猛反対を押し切り、十数名の級友とともにゲートをくぐった。だが予定の日が来ても回収は行われない。見知らぬ星に取り残された少年少女が、ゼロから社会を作り上げていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "have-space-suit-will-travel",
+    "title": "大宇宙の少年",
+    "titleKana": "だいうちゅうのしょうねん",
+    "authorIds": [
+      "robert-a-heinlein"
+    ],
+    "translatorIds": [
+      "yano-tetsu",
+      "yoshikawa-hidemi"
+    ],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "juvenile",
+      "alien",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1958,
+    "jpPublishedYear": 1968,
+    "originalTitle": "Have Space Suit—Will Travel",
+    "status": "completed",
+    "synopsis": "宇宙服は小さな宇宙ステーションである。高校生のキップは懸賞に応募して一等は逃したものの、本物の中古の宇宙服を手に入れた。自力で整備し、着て散歩していたある日、彼は宇宙から助けを求める声を受信する。少女ピーウィーと異星人に出会ったキップは、そのまま太陽系の外まで連れ去られていく。少年向けの傑作として長く読み継がれてきた一冊である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

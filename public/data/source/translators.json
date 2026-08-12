@@ -1125,5 +1125,23 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "morishita-yumiko",
+    "name": "森下弓子",
+    "nameKana": "もりしたゆみこ",
+    "description": "英米SFを訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yoshikawa-hidemi",
+    "name": "吉川秀実",
+    "nameKana": "よしかわひでみ",
+    "description": "英米SFを訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
