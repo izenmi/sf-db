@@ -27847,5 +27847,208 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "a-princess-of-mars",
+    "title": "火星のプリンセス",
+    "titleKana": "かせいのぷりんせす",
+    "authorIds": [
+      "edgar-rice-burroughs"
+    ],
+    "translatorIds": [
+      "ogasawara-toyoki"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "space-opera",
+      "alien",
+      "sf-fantasy"
+    ],
+    "seriesName": "火星シリーズ",
+    "origin": "overseas",
+    "firstPublishedYear": 1912,
+    "jpPublishedYear": 1967,
+    "originalTitle": "A Princess of Mars",
+    "status": "completed",
+    "synopsis": "南軍の騎兵大尉ジョン・カーターは、ある夜アリゾナの洞窟から忽然と火星へ転移した。時まさに火星は乱世戦国、地球とは桁外れに発達した科学力を背景に、四本腕の獰猛な緑色人や地球人そっくりの美しい赤色人が、それぞれ皇帝を戴いて戦争に明け暮れている。その渦中に飛び込んだ快男子が、絶世の美女デジャー・ソリスを救うべく剣を取る。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/火星のプリンセス"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-lights-in-the-sky-are-stars",
+    "title": "天の光はすべて星",
+    "titleKana": "てんのひかりはすべてほし",
+    "authorIds": [
+      "fredric-brown"
+    ],
+    "translatorIds": [
+      "tanaka-yuji"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-development",
+      "near-future",
+      "hard-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 1964,
+    "originalTitle": "The Lights in the Sky Are Stars",
+    "status": "completed",
+    "synopsis": "一九九七年、人類は星々に対する情熱を失い、宇宙開発の計画は長い中断の時期に入っていた。星に取り憑かれた五十七歳の元宇宙飛行士マックス・アンドルーズは、そんな世界で無為の日々を過ごしている。だが木星探査を公約に掲げた女性の上院議員候補を知ったとき、彼の人生の歯車が再び動きはじめる。もう一度、宇宙へ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/天の光はすべて星"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "martians-go-home",
+    "title": "火星人ゴーホーム",
+    "titleKana": "かせいじんごーほーむ",
+    "authorIds": [
+      "fredric-brown"
+    ],
+    "translatorIds": [
+      "mori-ikuo"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "satire-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1955,
+    "jpPublishedYear": 1958,
+    "originalTitle": "Martians, Go Home",
+    "status": "completed",
+    "synopsis": "いたずら好きで人を困らせることが大好きな火星人が、突然十億も現れて地球は大混乱に陥った。小さな緑色の小人の姿をした彼らは、見えるし声も聞こえるが触ることはできない。瞬間移動も透視もできるので、公私を問わず秘密というものがなくなってしまう。彼らの目的は侵略ではなく、ひたすら人間に嫌がらせをすることだった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/火星人ゴーホーム"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "who-goes-there",
+    "title": "影が行く",
+    "titleKana": "かげがゆく",
+    "authorIds": [
+      "john-w-campbell"
+    ],
+    "translatorIds": [
+      "kawamura-tetsuro"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "alien",
+      "first-contact"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1938,
+    "jpPublishedYear": 1967,
+    "originalTitle": "Who Goes There?",
+    "status": "completed",
+    "synopsis": "南極大陸の大氷原の下から、探検隊がおどろおどろしい物体を見つけ出す表題作。人類がその尊厳と価値を忘れ去ってしまった二万年後の未来を描く「薄暮」。原子力の発動機だけに頼ろうとする異星人と人類の闘いを描く「エイシアの物語」。現代SFの真の育ての親と呼ばれる編集者が、書き手として残した中短編を集めた作品集である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/影が行く"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "at-the-mountains-of-madness",
+    "title": "狂気の山脈にて",
+    "titleKana": "きょうきのさんみゃくにて",
+    "authorIds": [
+      "hp-lovecraft"
+    ],
+    "translatorIds": [
+      "nanjo-takenori"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "short-stories",
+      "alien",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1936,
+    "jpPublishedYear": 2020,
+    "originalTitle": "At the Mountains of Madness",
+    "status": "completed",
+    "synopsis": "ダイヤー率いるミスカトニック大学の探検隊は、南極大陸に足を踏み入れた。そこで彼らは、禁断の書『ネクロノミコン』の記述と重なる奇怪きわまる化石を発見する。表題作のほか、大いなる種族と精神を交換されてしまう教授を描く「時間からの影」など、闇の巨匠の神話群から傑作八編を精選して新たに訳出した一冊である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/狂気の山脈にて"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "replay",
+    "title": "リプレイ",
+    "titleKana": "りぷれい",
+    "authorIds": [
+      "ken-grimwood"
+    ],
+    "translatorIds": [
+      "sugiyama-takayuki"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "time-loop",
+      "time-travel",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1986,
+    "jpPublishedYear": 1990,
+    "originalTitle": "Replay",
+    "status": "completed",
+    "synopsis": "ニューヨークの小さなラジオ局でニュース担当をしているジェフは、四十三歳の秋に死亡した。気がつくと学生寮にいて、どうやら十八歳に逆戻りしたらしい。記憶と知識は元のまま、身体は二十五年前のものである。株も競馬も思いのままで大金持ちになるが、また同じ日の同じ時刻に死んでしまう。気がつくと、また。人生をやり直す夢を実現した男の物語である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/リプレイ (小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-time-travelers-wife",
+    "title": "きみがぼくを見つけた日",
+    "titleKana": "きみがぼくをみつけたひ",
+    "authorIds": [
+      "audrey-niffenegger"
+    ],
+    "translatorIds": [
+      "hada-shizuko"
+    ],
+    "publisherId": "random-house-kodansha",
+    "themeIds": [
+      "time-travel",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "jpPublishedYear": 2006,
+    "originalTitle": "The Time Traveler's Wife",
+    "status": "completed",
+    "synopsis": "自分の意思とはまったく関係なく、勝手に時間を跳んでしまう体質のヘンリー。彼を待ち続ける妻のクレア。二人の物語が、それぞれの視点から一人称で交互に語られていく。出会いの順番すら食い違う二人にとって、一緒にいるとはどういうことなのか。シカゴを舞台に、時間旅行を恋愛小説の枠組みで扱ったデビュー作である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/きみがぼくを見つけた日"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

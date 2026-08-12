@@ -1425,5 +1425,63 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mori-ikuo",
+    "name": "森郁夫",
+    "nameKana": "もりいくお",
+    "description": "英米SFの翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kawamura-tetsuro",
+    "name": "川村哲郎",
+    "nameKana": "かわむらてつろう",
+    "description": "英米SFの翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nanjo-takenori",
+    "name": "南條竹則",
+    "nameKana": "なんじょうたけのり",
+    "description": "作家・翻訳家。英国の幻想文学に詳しい。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/南條竹則"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sugiyama-takayuki",
+    "name": "杉山高之",
+    "nameKana": "すぎやまたかゆき",
+    "description": "英米の小説を訳す翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hada-shizuko",
+    "name": "羽田詩津子",
+    "nameKana": "はねだしずこ",
+    "description": "英米のミステリと一般小説を訳す翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/羽田詩津子"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tanaka-yuji",
+    "name": "田中融二",
+    "nameKana": "たなかゆうじ",
+    "description": "英米の小説を訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

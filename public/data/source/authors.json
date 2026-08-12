@@ -3673,5 +3673,65 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "edgar-rice-burroughs",
+    "name": "エドガー・ライス・バローズ",
+    "nameKana": "ばろーずえどがーらいす",
+    "description": "アメリカの作家。『ターザン』と火星シリーズで冒険小説の型を作った。",
+    "birthYear": 1875,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エドガー・ライス・バローズ"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "john-w-campbell",
+    "name": "ジョン・W・キャンベル",
+    "nameKana": "きゃんべるじょんだぶりゅー",
+    "description": "アメリカの作家・編集者。雑誌の編集長としてSF黄金期を育てた。",
+    "birthYear": 1910,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジョン・W・キャンベル"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hp-lovecraft",
+    "name": "H・P・ラヴクラフト",
+    "nameKana": "らゔくらふとえいちぴー",
+    "description": "アメリカの作家。宇宙的恐怖を核とするクトゥルフ神話の創始者。",
+    "birthYear": 1890,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/H・P・ラヴクラフト"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ken-grimwood",
+    "name": "ケン・グリムウッド",
+    "nameKana": "ぐりむうっどけん",
+    "description": "アメリカの作家。人生をやり直す物語『リプレイ』で世界幻想文学大賞を受けた。",
+    "birthYear": 1944,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ケン・グリムウッド"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "audrey-niffenegger",
+    "name": "オードリー・ニッフェネガー",
+    "nameKana": "にっふぇねがーおーどりー",
+    "description": "アメリカの作家・美術家。シカゴを舞台にした恋愛小説で知られる。",
+    "birthYear": 1963,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/オードリー・ニッフェネガー"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

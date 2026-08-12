@@ -729,5 +729,17 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "random-house-kodansha",
+    "name": "ランダムハウス講談社",
+    "nameKana": "らんだむはうすこうだんしゃ",
+    "description": "2003年から2010年まで存在した講談社とランダムハウスの合弁出版社。",
+    "foundedYear": 2003,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ランダムハウス講談社"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
