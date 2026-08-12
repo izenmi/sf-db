@@ -24121,5 +24121,200 @@
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shanyang-shangdi",
+    "title": "老神介護",
+    "titleKana": "ろうしんかいご",
+    "authorIds": [
+      "liu-cixin"
+    ],
+    "translatorIds": [
+      "omori-nozomi",
+      "furuichi-masako"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "short-stories",
+      "first-contact",
+      "satire-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2005,
+    "jpPublishedYear": 2022,
+    "originalTitle": "赡养上帝",
+    "status": "completed",
+    "synopsis": "突如現れた宇宙船から地球に降り立った神々は、みすぼらしい姿でこう言った。わしらは神じゃ、この世界を創造した労に報いると思って食べものを少し分けてくれんかの。神の文明は老年期に入り、船内の環境も悪化していた。国連事務総長は老神を扶養するのは人類の責任だと認め、二十億柱の神が十五億の家庭に受け入れられていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shaohuogong",
+    "title": "火守",
+    "titleKana": "ひもり",
+    "authorIds": [
+      "liu-cixin"
+    ],
+    "translatorIds": [
+      "ikezawa-haruna"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "sf-fantasy",
+      "denki-sf",
+      "juvenile"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2016,
+    "jpPublishedYear": 2021,
+    "originalTitle": "烧火工",
+    "status": "completed",
+    "synopsis": "人はそれぞれ自分の星を持っている。病気の少女のために、サシャは地の果てに棲む火守のもとを訪れ、老人とともに少女の星を探す過酷な旅に出る。東の孤島に立つ彼を運んできた帆船は、海と空の境目へ消えていった。最果ての島は、海に露出した錆びた鉄片のようだった。星と人の生を重ね合わせて語る、絵とともに読む中編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-wandering-earth",
+    "title": "流浪地球",
+    "titleKana": "るろうちきゅう",
+    "authorIds": [
+      "liu-cixin"
+    ],
+    "translatorIds": [
+      "omori-nozomi",
+      "furuichi-masako"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "short-stories",
+      "disaster",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2000,
+    "jpPublishedYear": 2022,
+    "originalTitle": "流浪地球",
+    "status": "completed",
+    "synopsis": "ぼくが生まれたとき、地球の自転は止まっていた。人類が太陽系で生き続けることはできないと分かり、唯一の道は別の星系へ移り住むことだった。連合政府は地球そのものを動かす巨大な機関を築き、太陽系脱出の計画を実行に移す。こうして悠久の旅がはじまった。表題作ほか、恒星探査に旅立った飛行士を描く一編などを収める。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sumeramising",
+    "title": "スメラミシング",
+    "titleKana": "すめらみしんぐ",
+    "authorIds": [
+      "ogawa-satoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "掬い上げられることなく無視され、排除されていく人々を、その内面から描き出していく。世界の隅から吹き寄せられた言葉の切れ端が列をなし、文になり、やがて拳になって隣に座る。陰謀論と信仰、そして情報の流れ方をめぐる作品を収める。多様性が声高に唱えられる時代に、そこからこぼれ落ちる者を正面から扱った短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "augmented-sky",
+    "title": "オーグメンテッド・スカイ",
+    "titleKana": "おーぐめんてっどすかい",
+    "authorIds": [
+      "fujii-taiyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "virtual-reality",
+      "juvenile",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "二〇二四年、鹿児島。県立南郷高校に通うマモルは、男子寮の次期寮長に指名される。下級生の指導や揉め事の解決に加え、学生の仮想現実全国大会に向けてチームをまとめることが最大の任務だった。昨年敗れた先輩たちの雪辱を晴らすため、少年たちは知恵と友情を武器に世界を相手のゲリラ戦を挑んでいく。青春ハック小説である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fukashi-toshi",
+    "title": "不可視都市",
+    "titleKana": "ふかしとし",
+    "authorIds": [
+      "takashima-yuya"
+    ],
+    "translatorIds": [],
+    "publisherId": "seikaisha",
+    "themeIds": [
+      "near-future",
+      "disaster",
+      "hard-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "西暦二一〇九年、正体不明の存在によってあらゆる交通網と通信網が遮断され、人々は少数の巨大都市圏に閉じ込められて暮らしていた。世界の不可視化と呼ばれるその災禍のなか、数学者の相原青夏は、離ればなれになった恋人の暗号研究者との再会を願って奔走する。青夏は中国に、彼は月面基地に。二人を三十八万キロが隔てている。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "aoi-sabaku-no-ethica",
+    "title": "青い砂漠のエチカ",
+    "titleKana": "あおいさばくのえちか",
+    "authorIds": [
+      "takashima-yuya"
+    ],
+    "translatorIds": [],
+    "publisherId": "seikaisha",
+    "themeIds": [
+      "virtual-reality",
+      "near-future",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "致死性の感染症の流行によって、拡張現実が現実へ深く浸透した二〇四五年。山口県宇部岬高校の入学式が、拡張テロと呼ばれる攻撃に襲われる。時田砂漠は天才認定を受けた同級生の鳴神叡智花と出会い、学園生活の陰で暗躍する犯人の正体を追いはじめる。人々が自分の死を確率として受け入れるようになった世界を描く長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shuri-no-uma",
+    "title": "首里の馬",
+    "titleKana": "しゅりのうま",
+    "authorIds": [
+      "takayama-haneko"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "near-future",
+      "denki-sf",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "問読者。それが未名子の仕事である。沖縄の古びた郷土資料館で資料整理を手伝うかたわら、世界の果てで孤独に働く人々に向けて、通信越しに問題を読み上げる。台風の夜に迷い込んできた宮古馬。ひとりきりの宇宙ステーション、極地の深海、紛争地の避難所。孤独な人々の記憶とこの島の記録が、問いを通じてつながっていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/首里の馬"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

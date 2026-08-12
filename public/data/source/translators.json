@@ -1192,5 +1192,16 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ikezawa-haruna",
+    "name": "池澤春菜",
+    "nameKana": "いけざわはるな",
+    "description": "声優・作家・書評家。日本SF作家クラブ会長を務めた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/池澤春菜"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
