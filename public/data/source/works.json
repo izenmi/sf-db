@@ -26772,5 +26772,209 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "space-cadet",
+    "title": "栄光のスペース・アカデミー",
+    "titleKana": "えいこうのすぺーすあかでみー",
+    "authorIds": [
+      "robert-a-heinlein"
+    ],
+    "translatorIds": [
+      "yano-tetsu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "juvenile",
+      "space-development",
+      "military-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1948,
+    "jpPublishedYear": 1987,
+    "originalTitle": "Space Cadet",
+    "status": "completed",
+    "synopsis": "二十一世紀後半、人類は太陽系全体に版図を広げ、宇宙の治安を守る軍隊として惑星間パトロール隊が活躍していた。憧れの士官を夢見て、マットは士官学校に入学する。厳粛な宣誓式のあと、候補生たちは厳しい訓練へ放り込まれた。二次試験を突破した彼は、地球軌道上の練習船へ向かう。脱落者が相次ぐなか、仲間との絆が試されていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/栄光のスペース・アカデミー"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "time-for-the-stars",
+    "title": "宇宙に旅立つ時",
+    "titleKana": "そらにたびだつとき",
+    "authorIds": [
+      "robert-a-heinlein"
+    ],
+    "translatorIds": [
+      "sako-mariko"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-development",
+      "esper",
+      "hard-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1956,
+    "jpPublishedYear": 1985,
+    "originalTitle": "Time for the Stars",
+    "status": "completed",
+    "synopsis": "一部の双子や三つ子が持つ念話の能力は、光の速さを超えて伝わることが分かった。地球との連絡員として亜光速の宇宙船に乗り組んだ青年トムと、地球に残った双子の兄パット。船が加速するにつれ、二人の時間の進み方はどんどんずれていく。相対性理論がもたらす時間の隔たりを、兄弟の関係を通して描き切った長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇宙に旅立つ時"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "aru-hi-bakudan-ga",
+    "title": "ある日、爆弾がおちてきて",
+    "titleKana": "あるひばくだんがおちてきて",
+    "authorIds": [
+      "furuhashi-hideyuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "media-works",
+    "themeIds": [
+      "short-stories",
+      "time-travel",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "ある日、空から爆弾のような姿をした少女が落ちてきた。時間を主題にした少年と少女の出会いの物語が、七つ並ぶ。動きの止まった世界、繰り返される一日、記憶を失っていく相手。どの編も設定は違うが、時間に引き裂かれる二人という一点で貫かれている。雑誌に連載された六編に、書き下ろしを加えて編まれた短編集である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ある日、爆弾がおちてきて"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "samurai-lensman",
+    "title": "サムライ・レンズマン",
+    "titleKana": "さむらいれんずまん",
+    "authorIds": [
+      "furuhashi-hideyuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "space-opera",
+      "military-sf",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2001,
+    "status": "completed",
+    "synopsis": "銀河パトロール隊にただひとり在籍する日本人レンズマンが、銀河を股にかける犯罪組織との新たな戦いに挑む。『第二段階レンズマン』と『レンズの子供たち』のあいだの時期を舞台に、本編の重要人物が勢揃いする娯楽作である。著作権者の遺族と正式に契約を交わして書かれた、二次創作ではない公認の外伝にあたる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/サムライ・レンズマン"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "bianca-overstudy",
+    "title": "ビアンカ・オーバースタディ",
+    "titleKana": "びあんかおーばーすたでぃ",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "seikaisha",
+    "themeIds": [
+      "time-travel",
+      "juvenile",
+      "genetic-engineering"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "ウニの生殖を研究する超絶美少女、ビアンカ北町。生物研究部員である彼女の放課後は、少し危険な生物学の実験に没頭する時間である。そんな彼女の前に、ある日突然「未来人」が現れた。人類の存続に関わる依頼を持ちかけられた彼女は、持ち前の探究心のままに引き受けてしまう。著者が初めてライトノベルの形式に挑んだ長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ビアンカ・オーバースタディ"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "more-than-human",
+    "title": "人間以上",
+    "titleKana": "にんげんいじょう",
+    "authorIds": [
+      "theodore-sturgeon"
+    ],
+    "translatorIds": [
+      "yano-tetsu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "esper",
+      "evolution",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 1965,
+    "originalTitle": "More Than Human",
+    "status": "completed",
+    "synopsis": "知恵遅れとされた少年、念動力を持つ双子の少女、物言わぬ赤ん坊。ひとりでは欠けた存在でしかない者たちが寄り集まったとき、人間を超えたひとつの新しい生き物が立ち上がる。それは進化なのか、それとも異形なのか。中編「赤ん坊は三つ」を核に据えて長編化され、国際幻想文学賞を受けた著者の代表作である。ばらばらの個体が寄り集まって一個の生命になるという着想を、社会からはじかれた者たちの側から書き切っている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/人間以上"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-last-defender-of-camelot",
+    "title": "キャメロット最後の守護者",
+    "titleKana": "きゃめろっとさいごのしゅごしゃ",
+    "authorIds": [
+      "roger-zelazny"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "sf-fantasy",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1980,
+    "jpPublishedYear": 1984,
+    "originalTitle": "The Last Defender of Camelot",
+    "status": "completed",
+    "synopsis": "アーサー王伝説の円卓の騎士ランスロットが、現代まで生き延びていた。かつての仲間を相手にした最後の戦いを描く表題作をはじめ、機知と抒情が同居する作品を集めた短編集である。日本語版では、のちに長編へ書き改められた二編が編集の都合で見送られている。バルログ賞を受けた表題作を中心に、短い形式での仕事が味わえる。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "vehicle-end",
+    "title": "ヴィークルエンド",
+    "titleKana": "ゔぃーくるえんど",
+    "authorIds": [
+      "ueo-hisamitsu"
+    ],
+    "translatorIds": [],
+    "publisherId": "ascii-media-works",
+    "themeIds": [
+      "near-future",
+      "juvenile",
+      "cyberpunk"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "すべての子どもが共感覚の障害を抱え、感情を制御できなくなった近未来。自分の身体を乗り物だと知覚させる薬を用いて行われる競技と、それに関わる人々が描かれていく。一人称で書かれた『紫色のクオリア』とは異なり、英米のサイバーパンクを意識した翻訳調の三人称で綴られる青春小説である。感情を扱いあぐねる世代が、自分の身体を機械として操ることでかろうじて他人とつながっていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
