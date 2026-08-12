@@ -24516,5 +24516,209 @@
     },
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hitome-anata-ni",
+    "title": "ひとめあなたに…",
+    "titleKana": "ひとめあなたに",
+    "authorIds": [
+      "arai-motoko"
+    ],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "disaster",
+      "post-apocalypse",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "女子大生の圭子は、最愛の恋人から突然の別れを告げられる。自分は癌で余命いくばくもないのだという。茫然とする彼女の耳に、さらに報道が飛び込んできた。地球に隕石が激突し、人類に逃げ延びる道はないというのだ。彼女はもう一度だけ彼に会いに行こうと決意する。練馬から鎌倉まで歩いて旅する道中で出会う、四つの物語である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ひとめあなたに…"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hoshi-e-iku-fune",
+    "title": "星へ行く船",
+    "titleKana": "ほしへいくふね",
+    "authorIds": [
+      "arai-motoko"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "space-development",
+      "juvenile",
+      "space-colony"
+    ],
+    "seriesName": "星へ行く船",
+    "origin": "jp",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "森村あゆみ、十九歳。ちょっとした事情で地球を捨て、火星へ家出することにした。無事に宇宙船が出航したかと思いきや、手違いで怪しげな男たちと同室になってしまう。やがて彼らが関わる厄介な事件へ巻き込まれていく。あゆみと太一郎の物語の出発点にあたる表題作のほか、短編と書き下ろしを収める一冊である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星へ行く船"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "zettai-neko-kara-ugokanai",
+    "title": "絶対猫から動かない",
+    "titleKana": "ぜったいねこからうごかない",
+    "authorIds": [
+      "arai-motoko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "denki-sf",
+      "near-future",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "五十歳を過ぎ、両親の介護のために大好きな仕事を辞めた大原夢路。親友と出かけた帰り、地震で電車が止まった日から、彼女は奇妙な夢を見るようになった。緊急停止した電車に閉じ込められ続ける夢である。あるとき、夢のなかで誰かの異様な悲鳴が上がった。車内を捜索した彼女が見つけたのは、人の生気を吸う謎の生物だった。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kasei-no-joou",
+    "title": "火星の女王",
+    "titleKana": "かせいのじょおう",
+    "authorIds": [
+      "ogawa-satoshi"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "first-contact",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "地球外の知的生命を探すために人生を賭けて火星へやってきた生物学者のリキ・カワナベは、あるとき重大な発見をする。いっぽう火星で生まれた少女リリーは、地球を観光することを夢見て、遠心力で重力を作り出す施設に通っていた。生まれた場所も目指すものも違う人々の思いが交錯していく、火星を舞台にした人間ドラマである。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "polyphonic-illusion",
+    "title": "ポリフォニック・イリュージョン",
+    "titleKana": "ぽりふぉにっくいりゅーじょん",
+    "authorIds": [
+      "tobi-hirotaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "virtual-reality"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "日本SF大賞を史上初めて二度受けた著者の、出発点にあたるデビュー作である表題作をはじめ、長らく封印されてきた初期の短編を六編収める。五感に直接響いてくるような夢幻の描写は、この時点ですでに完成している。廃園の天使や象られた力といった後年の代表作へつながる主題が、ここではまだ荒削りなまま剥き出しになっている。文庫版では、単行本に収められなかった超短編五編も併せて読める作品集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shiotsuki",
+    "title": "鹽津城",
+    "titleKana": "しおつき",
+    "authorIds": [
+      "tobi-hirotaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "結婚記念日に夫から贈られた植木は、贈り主にそっくりな花をつける不思議な木だった。言葉の力で世界を紡ぐことのできた少年。四十年前に大災害が起きたあの地へ、なぜか私は帰ってきた。山腹に生じた緋色の世界に迷い込んだ末に見たもの。塩に覆われていく風景と、うみの指に襲われる世界。連作の形をとる短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dai-kaijuki",
+    "title": "大怪獣記",
+    "titleKana": "だいかいじゅうき",
+    "authorIds": [
+      "kitano-yusaku"
+    ],
+    "translatorIds": [],
+    "publisherId": "sodosha",
+    "themeIds": [
+      "denki-sf",
+      "satire-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "作家である私は、ある日、見知らぬ映画監督から映画の小説化を依頼される。喫茶店で渡された企画書には、大怪獣記という題が大きく書かれていた。舞台はこの町と周辺で、撮影も実際にここで行うため、協力を仰ぐ商店街や町内会の名前まで記されている。亀の話ばかり書いてきた私が、なぜか怪獣を書くことになった。撮影が進むにつれて、町のほうが企画書に合わせて姿を変えていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ashita-no-omoide",
+    "title": "未来のおもいで",
+    "titleKana": "あしたのおもいで",
+    "authorIds": [
+      "kajio-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "time-travel",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2004,
+    "status": "completed",
+    "synopsis": "イラストレーターの滝水浩一は、熊本県の白鳥山を登っていた。立地の不便さから入山者が少なく、秘境の趣がある山である。目当ては湿地を抜けた先に咲く山芍薬の群生で、一年のうち数週間しか見ることができない。だがその年は登山中に雨に降られた。そのとき彼の前に美しい女性が現れる。置き忘れた手帳を頼りに、彼は彼女を訪ねていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fuzen-sekai-no-architect",
+    "title": "不全世界の創造手",
+    "titleKana": "ふぜんせかいのあーきてくと",
+    "authorIds": [
+      "ogawa-issui"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-shimbun-shuppan",
+    "themeIds": [
+      "robot",
+      "near-future",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2008,
+    "status": "completed",
+    "synopsis": "物作りを愛する少年の祐機の夢は、自分で自分を複製するフォン・ノイマン・マシンを実現することだった。地方都市で才能をもてあましていた彼の前に、天才投資家の娘ジスレーヌが現れる。自分を複製する機械を実現することは、経済の仕組みそのものを書き換えることでもある。理想を追い求める少年の挫折と戦い、そして成長を描いていく近未来の青春SFである。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
