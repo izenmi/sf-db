@@ -22580,5 +22580,234 @@
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "banana-muki",
+    "title": "バナナ剥きには最適の日々",
+    "titleKana": "ばななむきにはさいてきのひび",
+    "authorIds": [
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "space-development",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "どこまで行っても宇宙にはなにもなかった。空っぽの宇宙空間を漂い続け、いまだ出会えないバナナ型の宇宙人を夢想する無人探査機を描く表題作。淡々と受け継がれる記憶のなかで生まれ、そして滅びていく時計の街を描く一編。全十編を収める。この著者の作品がなぜわからないのに面白いのか、その理由が少しだけ見えてくる作品集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tsuchiningyo-to-doshitai",
+    "title": "土人形と動死体",
+    "titleKana": "つちにんぎょうとどうしたい",
+    "authorIds": [
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "sf-fantasy",
+      "short-stories",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "魔術都市ミスルカラを支配する大魔術師のノーシュ・アレグラは、魔法が使えない弟子エスノダのために、世界中の魔術を消し去ると宣言した。自由都市連合軍との熾烈な戦いの果てに、彼は地下迷宮の奥へ閉じこもる。魂はどこにあり、世界はどこにあるのか。魔術という語彙を使いながら情報の在りかを問い続ける、十五編の連作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "face-zero",
+    "title": "フェイス・ゼロ",
+    "titleKana": "ふぇいすぜろ",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "takeshobo",
+    "themeIds": [
+      "short-stories",
+      "robot",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2021,
+    "status": "completed",
+    "synopsis": "ロボット学の表情工学を専攻する教授に、文楽の人形遣いである人間国宝が依頼したのは、無表情の表情をたたえた首の制作だった。だがそれは、人が目にしてはならない顔だった。文楽を題材にした表題作のほか、すべてが手順書どおりに動く巨大なハンバーガー店の歯車が静かに狂いだす一編など、編者が選び出した短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "musica-machina",
+    "title": "ムジカ・マキーナ",
+    "titleKana": "むじかまきーな",
+    "authorIds": [
+      "takano-fumio"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "alternate-history",
+      "denki-sf",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "一八七〇年、理想の音楽を求めるベルンシュタイン公爵は、訪れたウィーンで、音楽を絶対的な快楽へ変えてしまう麻薬が流行していることを知る。その背後には、画期的な技術を売りにする舞踏場の存在があった。調査を始めた公爵は、新進の音楽家フランツらとともに、音楽機械をめぐる謀略の渦へ落ちていく。虚実を混ぜた西欧史を舞台にしたデビュー長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "unspiritual",
+    "title": "アンスピリチュアル",
+    "titleKana": "あんすぴりちゅある",
+    "authorIds": [
+      "takano-fumio"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "esper",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "平凡なパート勤めの主婦である祝子は、人のオーラが視えるからこそ、いわゆる霊性の類を信じない。いんちきは見ればわかってしまうからである。ところが繁華街で彼女の力を見抜いた占い師と、職場で唯一オーラの視えない理学療法士に出会ったことで、足もとから日常が崩れていく。視えることの意味を問い直す長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hyakumoji-sf",
+    "title": "100文字SF",
+    "titleKana": "ひゃくもじえすえふ",
+    "authorIds": [
+      "kitano-yusaku"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "交流サイトで発表されてきた約二千編のほぼ百字小説から、二百編を選び出した一冊である。たった百文字のなかに、無限に近い時間と空間、そして取り返しのつかない喪失が畳み込まれている。亀や怪獣や工場といったおなじみの道具立てを使いながら、日常のすぐ隣にある不気味さを掬い上げていく、まったく新しい形のSFである。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "agari",
+    "title": "あがり",
+    "titleKana": "あがり",
+    "authorIds": [
+      "matsuzaki-yuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "short-stories",
+      "hard-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "北の街にある古い総合大学では、今日も小さな不思議があふれている。生物学の実験室では遺伝子の実験が思わぬ終末を招き、数学科ではリーマン予想に挑む研究員が悲しい恋を迎え、文学部の一角では別の騒動が起きている。研究という営みそのものを題材にした連作で、創元SF短編賞の第一回受賞作を含むデビュー作品集である。",
+    "awardResults": [
+      {
+        "awardId": "sogen-sf-tanpen",
+        "year": 2010,
+        "result": "第1回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "eve-no-matsuei-tachi",
+    "title": "イヴの末裔たちの明日",
+    "titleKana": "いゔのまつえいたちのあす",
+    "authorIds": [
+      "matsuzaki-yuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "short-stories",
+      "time-travel",
+      "ai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "数学の予想を証明することに取り憑かれた青年と、暗号の解読に人生を捧げた冒険者の最期の選択。自分は未来から来たと主張して刑務所のなかでタイムマシンを作ろうとする男。人工知能には決してできない仕事とは何か。宇宙ステーションからの逃走劇や、未来世界での妖怪退治まで、題材の幅は大きい。運命の分かれ道に立たされた人々が、どちらの道を選ぶのかをそれぞれの語り口で描いていく短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "daishinka-dobutsu-deathgame",
+    "title": "大進化どうぶつデスゲーム",
+    "titleKana": "だいしんかどうぶつですげーむ",
+    "authorIds": [
+      "kusano-gengen"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "evolution",
+      "juvenile"
+    ],
+    "seriesName": "大進化どうぶつデスゲーム",
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "十八人の少女たちが、八百万年前の北アメリカへ突然投げ出された。生命の進化史そのものを賭けた大冒険がはじまる。哺乳類として生き延びられるのか、それとも別の系統に道を譲るのか。生物学の知識を武器に、少女たちが極限の状況を切り抜けていく。青春とハードSFと百合を同時に成立させようとする群像劇である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "daizetsumetsu-kyoryu-timewars",
+    "title": "大絶滅恐竜タイムウォーズ",
+    "titleKana": "だいぜつめつきょうりゅうたいむうぉーず",
+    "authorIds": [
+      "kusano-gengen"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "evolution",
+      "juvenile"
+    ],
+    "seriesName": "大進化どうぶつデスゲーム",
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "地球の生命史を賭けた少女たちの死闘は、時空を越えて第二回戦へ突入する。今度の相手は鳥類である。恐竜が絶滅した理由をめぐって、進化の分岐そのものが争点になっていく。前作からさらに規模を広げ、物語は誰も予想しない方向へと転がっていく。少女たちの関係が変質していく過程と、生物の系統樹が書き換わっていく過程とが重ねられている。青春ハード百合SF群像劇の続編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
