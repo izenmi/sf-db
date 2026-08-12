@@ -5,6 +5,7 @@ import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { useWorkFilter } from "../common/useWorkFilter";
 import { BASE_PATH, SITE_NAME, breadcrumbJsonLd, useSeo } from "../common/useSeo";
 import { WorkGrid } from "../common/WorkGrid";
+import { colorForYear } from "../common/yearColor";
 
 /** シリーズ詳細。並び順の既定だけ他の一覧と変えて**刊行年の古い順**にしている。
  *  シリーズは第1作から読むものなので、新しい順に並べると使い物にならない。 */
@@ -37,7 +38,22 @@ export function SeriesDetailPage() {
       {state.status === "ready" && series && (
         <>
           <h1>{series.name}</h1>
-          <p className="page-subtitle">{series.workCount}作品（刊行順）</p>
+          <p className="page-subtitle">
+            {(() => {
+              const years = series.works.map((w) => w.firstPublishedYear);
+              const from = Math.min(...years);
+              const to = Math.max(...years);
+              const authors = [...new Set(series.works.flatMap((w) => w.authorNames))];
+              return (
+                <>
+                  <span className={`winner-year winner-year--${colorForYear(from)}`}>
+                    {from === to ? `${from}` : `${from}–${to}`}
+                  </span>
+                  {series.workCount}作品（刊行順） / {authors.join("・")}
+                </>
+              );
+            })()}
+          </p>
           {controls}
           {sorted.length === 0 && <EmptyState />}
           <WorkGrid works={sorted} coverView={coverView} />

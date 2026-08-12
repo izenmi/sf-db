@@ -1,9 +1,9 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
 import { getSeriesList } from "../../data/manifest";
 import { useAsyncData } from "../common/useAsyncData";
 import { Loading, ErrorState, EmptyState } from "../common/Status";
 import { useSeo } from "../common/useSeo";
+import { SeriesCard } from "./SeriesCard";
 
 /** シリーズは works.json の seriesName から build 時に組み立てている(SeriesGenerated 参照)。
  *  1作しかないシリーズもページ自体は存在するが、一覧の既定表示からは畳んでおく。
@@ -48,16 +48,11 @@ export function SeriesListPage() {
             />
           </div>
           {multi.length === 0 && singles.length === 0 && <EmptyState />}
-          <ul className="entity-list">
+          <div className="series-grid">
             {multi.map((s) => (
-              <li className="entity-list__item" key={s.id}>
-                <Link to={`/series/${encodeURIComponent(s.id)}`}>
-                  <span>{s.name}</span>
-                  <span className="entity-list__count">{s.workCount}</span>
-                </Link>
-              </li>
+              <SeriesCard series={s} key={s.id} />
             ))}
-          </ul>
+          </div>
           {singles.length > 0 && (
             <>
               <button
@@ -69,16 +64,11 @@ export function SeriesListPage() {
                 {showSingles ? "1作のみのシリーズを隠す" : `1作のみのシリーズも表示（${singles.length}件）`}
               </button>
               {showSingles && (
-                <ul className="entity-list">
+                <div className="series-grid">
                   {singles.map((s) => (
-                    <li className="entity-list__item" key={s.id}>
-                      <Link to={`/series/${encodeURIComponent(s.id)}`}>
-                        <span>{s.name}</span>
-                        <span className="entity-list__count">{s.workCount}</span>
-                      </Link>
-                    </li>
+                    <SeriesCard series={s} key={s.id} />
                   ))}
-                </ul>
+                </div>
               )}
             </>
           )}
