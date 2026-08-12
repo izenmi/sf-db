@@ -311,6 +311,14 @@
     "resolvedAt": "2026-08-12T02:31:48.770Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11112049/"
   },
+  "aoi-sabaku-no-ethica": {
+    "title": "青い砂漠のエチカ",
+    "isbn": null,
+    "matchedTitle": "青い砂漠のエチカ",
+    "coverUrl": "https://c.bookwalker.jp/9791854/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-12T04:28:58.073Z"
+  },
   "arabia-no-yoru-no-shuzoku": {
     "title": "アラビアの夜の種族",
     "isbn": "9784043636037",
@@ -378,6 +386,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T03:44:03.043Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16485228/"
+  },
+  "augmented-sky": {
+    "title": "オーグメンテッド・スカイ",
+    "isbn": "9784163917108",
+    "matchedTitle": "オーグメンテッド・スカイ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7108/9784163917108_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:35.990Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17508972/"
   },
   "axis-wilson": {
     "title": "連環宇宙",
@@ -696,6 +713,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T02:32:07.666Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/73348/"
+  },
+  "chi-niwa-heiwa-o": {
+    "title": "地には平和を",
+    "isbn": "9784041086087",
+    "matchedTitle": "地には平和を",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6087/9784041086087_1_10.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:21.937Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15926784/"
   },
   "chikyu-ido-sakusen": {
     "title": "地球移動作戦",
@@ -1678,6 +1704,14 @@
     "resolvedAt": "2026-08-11T22:36:20.739Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5805743/"
   },
+  "fukashi-toshi": {
+    "title": "不可視都市",
+    "isbn": null,
+    "matchedTitle": "不可視都市",
+    "coverUrl": "https://c.bookwalker.jp/1212854/t_700x780.jpg",
+    "source": "bookwalker",
+    "resolvedAt": "2026-08-12T04:28:49.393Z"
+  },
   "fukkatsu-no-chi": {
     "title": "復活の地",
     "isbn": "9784150307615",
@@ -1686,6 +1720,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T12:22:42.279Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1680074/"
+  },
+  "fukkatsu-no-hi": {
+    "title": "復活の日",
+    "isbn": "9784758441643",
+    "matchedTitle": "復活の日新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1643/9784758441643.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:19.595Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15416550/"
   },
   "fuwafuwa-no-izumi": {
     "title": "ふわふわの泉",
@@ -1722,6 +1765,15 @@
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15138584/",
     "source": "rakuten-books",
     "note": "上下巻のため上巻の書影を採用"
+  },
+  "gangu-shuriisha": {
+    "title": "玩具修理者",
+    "isbn": "9784043470013",
+    "matchedTitle": "玩具修理者",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0013/9784043470013_1_25.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:28.991Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1052778/"
   },
   "garments-of-caean": {
     "title": "カエアンの聖衣",
@@ -3159,6 +3211,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T10:46:47.123Z"
   },
+  "kyoko-sendan": {
+    "title": "虚航船団",
+    "isbn": "9784101171272",
+    "matchedTitle": "虚航船団",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1272/9784101171272.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:23.106Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/549138/"
+  },
   "kyonen-wa-ii-toshi": {
     "title": "去年はいい年になるだろう",
     "isbn": "9784569678870",
@@ -3789,6 +3850,15 @@
     "resolvedAt": "2026-08-11T04:34:14.692Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18265413/"
   },
+  "nihon-apache-zoku": {
+    "title": "日本アパッチ族",
+    "isbn": "9784041119433",
+    "matchedTitle": "日本アパッチ族",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9433/9784041119433_1_9.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:20.759Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16840419/"
+  },
   "nine-billion-names": {
     "title": "90億の神の御名",
     "isbn": null,
@@ -3814,6 +3884,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T22:37:32.403Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16197398/"
+  },
+  "ninju-zaiku": {
+    "title": "人獣細工",
+    "isbn": "9784041132159",
+    "matchedTitle": "人獣細工",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2159/9784041132159_1_16.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:30.155Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17435681/"
   },
   "nippon-chinbotsu": {
     "title": "日本沈没",
@@ -4394,6 +4473,15 @@
     "resolvedAt": "2026-08-11T10:45:44.827Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15240345/"
   },
+  "saigo-no-kitsuensha": {
+    "title": "最後の喫煙者",
+    "isbn": "9784101171432",
+    "matchedTitle": "最後の喫煙者",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1011/10117143.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:25.452Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1497143/"
+  },
   "saigo-no-teki": {
     "title": "最後の敵",
     "isbn": null,
@@ -4617,6 +4705,24 @@
     "resolvedAt": "2026-08-11T12:22:46.894Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5885777/"
   },
+  "shanyang-shangdi": {
+    "title": "老神介護",
+    "isbn": "9784041125786",
+    "matchedTitle": "老神介護",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5786/9784041125786_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:31.315Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17197934/"
+  },
+  "shaohuogong": {
+    "title": "火守",
+    "isbn": "9784041114889",
+    "matchedTitle": "火守",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4889/9784041114889_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:32.484Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16915059/"
+  },
   "shi-no-tori": {
     "title": "死の鳥",
     "isbn": "9784150120856",
@@ -4729,6 +4835,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7574/2000008857574.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T10:46:30.978Z"
+  },
+  "shuri-no-uma": {
+    "title": "首里の馬",
+    "isbn": "9784103533818",
+    "matchedTitle": "首里の馬",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3818/9784103533818.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:59.227Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16367474/"
   },
   "shuto-shoshitsu": {
     "title": "首都消失",
@@ -4992,6 +5107,15 @@
     "source": "rakuten-books",
     "note": "上下巻のため上巻の書影を採用(書影は東京創元社の新版、初刊は朝日ソノラマ)"
   },
+  "sumeramising": {
+    "title": "スメラミシング",
+    "isbn": "9784309032184",
+    "matchedTitle": "スメラミシング",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2184/9784309032184_1_14.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:34.811Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17955361/"
+  },
   "summer-time-traveller": {
     "title": "サマー/タイム/トラベラー",
     "isbn": null,
@@ -5017,6 +5141,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T09:35:52.500Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17984194/"
+  },
+  "tabi-no-lagos": {
+    "title": "旅のラゴス",
+    "isbn": "9784101171319",
+    "matchedTitle": "旅のラゴス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1319/9784101171319.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:24.263Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/648335/"
   },
   "taiyo-no-sandatsusha": {
     "title": "太陽の簒奪者",
@@ -5069,6 +5202,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T04:35:09.662Z"
+  },
+  "tayutai-emanon": {
+    "title": "たゆたいエマノン",
+    "isbn": "9784198945497",
+    "matchedTitle": "たゆたいエマノン",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5497/9784198945497.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:27.767Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16232750/"
   },
   "teio-no-kara": {
     "title": "帝王の殻",
@@ -5485,6 +5627,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:37:04.511Z"
+  },
+  "the-wandering-earth": {
+    "title": "流浪地球",
+    "isbn": "9784040659930",
+    "matchedTitle": "流浪地球",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9930/9784040659930_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:33.656Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17197994/"
   },
   "the-word-doll": {
     "title": "言葉人形",
@@ -6177,6 +6328,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T01:58:15.276Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14539606/"
+  },
+  "yomigaeri": {
+    "title": "黄泉がえり",
+    "isbn": "9784101490045",
+    "matchedTitle": "黄泉がえり",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1014/10149004.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T04:28:26.618Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1506984/"
   },
   "yosei-sakusen": {
     "title": "妖精作戦",
