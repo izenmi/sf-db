@@ -29283,5 +29283,30 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "f-course",
+    "title": "Fコース",
+    "titleKana": "えふこーす",
+    "authorIds": [
+      "yamada-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "gentosha",
+    "themeIds": [
+      "virtual-reality",
+      "juvenile",
+      "near-future"
+    ],
+    "seriesName": "コース",
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "仮想現実の世界を楽しむ遊戯バーチャワールド。高校生の智里は、幼馴染の瑠華たちと新作のFコースに挑戦する。深夜の美術館へ侵入し、絵画を盗み出すという課題に挑む一行だったが、そこにはある秘密が隠されていた。前作『Aコース』と対をなす続編であり、二作を通してひとつの企みが明かされていく。遊戯の運営側が何を狙っていたのかが、ここでようやく形をとる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/Fコース"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
