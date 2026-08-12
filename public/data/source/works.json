@@ -19497,5 +19497,305 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gentle-giants-of-ganymede",
+    "title": "ガニメデの優しい巨人",
+    "titleKana": "がにめでのやさしいきょじん",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "ike-hiroaki"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "alien",
+      "first-contact",
+      "hard-sf"
+    ],
+    "seriesName": "巨人たちの星",
+    "origin": "overseas",
+    "firstPublishedYear": 1978,
+    "jpPublishedYear": 1981,
+    "originalTitle": "The Gentle Giants of Ganymede",
+    "status": "completed",
+    "synopsis": "木星の衛星ガニメデで、二千五百万年前の異星の宇宙船が発見された。その正体を突き止めようと総力を挙げるハント博士とダンチェッカー教授たち木星探査隊のもとへ、宇宙の一角から未確認物体が急速に接近してくる。はるか昔に姿を消したはずのガニメアンが帰還したのである。『星を継ぐもの』に続く第二部である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ガニメデの優しい巨人"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jurassic-park",
+    "title": "ジュラシック・パーク",
+    "titleKana": "じゅらしっくぱーく",
+    "authorIds": [
+      "michael-crichton"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "genetic-engineering",
+      "near-future",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1990,
+    "jpPublishedYear": 1991,
+    "originalTitle": "Jurassic Park",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "琥珀に閉じ込められた蚊の血液から恐竜のDNAを復元し、島に恐竜のテーマパークが作られた。見学ツアーに出た顧問団と創設者の孫たちを、すさまじい混乱が見舞う。計算機で完全に制御されているはずの仕組みに次々と破綻が生じ、停電した園内でティラノサウルスとヴェロキラプトルの群れが人間に襲いかかる。科学知識を駆使した新しい恐竜像で世界的な恐竜ブームを起こした長編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ジュラシック・パーク (小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "under-the-dome",
+    "title": "アンダー・ザ・ドーム",
+    "titleKana": "あんだーざどーむ",
+    "authorIds": [
+      "stephen-king"
+    ],
+    "translatorIds": [
+      "shiraishi-akira"
+    ],
+    "publisherId": "bungeishunju",
+    "themeIds": [
+      "disaster",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2009,
+    "jpPublishedYear": 2011,
+    "originalTitle": "Under the Dome",
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "メイン州の小さな町を、ある日突然、巨大で透明なドームが覆った。破壊も通過もできないその壁のせいで外界から切り離された空間に、恐怖と狂乱が充満していく。物資は尽き、町の実力者が私兵を組織し、住民は互いを疑いはじめる。閉じ込められた共同体がどう壊れていくかを、キングが群像劇として描き切った大作である。",
+    "mediaMix": {
+      "drama": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "crossfire",
+    "title": "クロスファイア",
+    "titleKana": "くろすふぁいあ",
+    "authorIds": [
+      "miyabe-miyuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "esper",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "青木淳子は、念じるだけですべてを燃やす念力放火能力を持って生まれた。ある夜、瀕死の男性を始末しようとする若者四人を目撃した彼女は、瞬時に三人を焼き殺す。だが一人は逃走した。息絶えた男性に、必ず仇はとってあげると誓う淳子。正義とは何か、裁きとは何か。裁かれない悪を自らの手で焼く力を持ってしまった女性の孤独を、圧倒的な筆致で描いた長編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クロスファイア (小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shadow-of-the-hegemon",
+    "title": "シャドウ・オブ・ヘゲモン",
+    "titleKana": "しゃどうおぶへげもん",
+    "authorIds": [
+      "orson-scott-card"
+    ],
+    "translatorIds": [
+      "tanaka-kazue"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "near-future",
+      "juvenile"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2001,
+    "jpPublishedYear": 2003,
+    "originalTitle": "Shadow of the Hegemon",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "エンダーを陰から助けたビーンにも、敵の手が迫っていた。しかも敵は彼を家族ごと殺そうと企んでいる。ビーンを抹殺したいと考える人物はただひとり、かつて危険人物としてバトル・スクールから追われたアシルだった。地球へ戻った子どもたちが各国の思惑に巻き込まれていく、〈シャドウ〉シリーズの第二作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "starman-jones",
+    "title": "スターマン・ジョーンズ",
+    "titleKana": "すたーまんじょーんず",
+    "authorIds": [
+      "robert-a-heinlein"
+    ],
+    "translatorIds": [
+      "yano-tetsu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "juvenile",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 1979,
+    "originalTitle": "Starman Jones",
+    "status": "completed",
+    "synopsis": "宇宙船乗りは田舎育ちのジョーンズの夢だったが、その道は世襲制であり万人に開かれてはいなかった。航宙士になる夢を捨てきれない彼は、身分と経歴をいつわり、船底甲板の給仕として浮浪者サムとともに恒星間貨物客船アスガルドへ乗り込む。与えられた運命に流されず、自らの道を切り開いていく青年の成長物語である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "arrows-of-time",
+    "title": "アロウズ・オブ・タイム",
+    "titleKana": "あろうずおぶたいむ",
+    "authorIds": [
+      "greg-egan"
+    ],
+    "translatorIds": [
+      "yamagishi-makoto",
+      "nakamura-toru"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "far-future",
+      "space-colony"
+    ],
+    "seriesName": "直交三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 2013,
+    "jpPublishedYear": 2017,
+    "originalTitle": "The Arrows of Time",
+    "status": "completed",
+    "synopsis": "発進から六世代、直交星群の反物質を扱う技術まで発展させた〈孤絶〉の科学者たち。ようやく故郷の惑星を救う目処が立ち、帰還の途につくことになった。だが時の矢の反転で航宙の危険が増すくらいなら母星が滅んでもかまわないと主張する反対派も現れる。対立が激化するなか、未来からの通信を受け取る装置の建設計画が発表される。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tasogare-ni-kaeru",
+    "title": "たそがれに還る",
+    "titleKana": "たそがれにかえる",
+    "authorIds": [
+      "mitsuse-ryu"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "alien",
+      "space-development"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "惑星経営機構の調査局員シロウズは辺境星区の航路を目指していたが、急遽、異変のあった金星へ向かう。局員たちは荒廃した巨大建造物の幻覚を体験し、遥かな時空を越えた滅びの声を聞いた。一方、冥王星の地震を調べていた局員たちは、自らを宇宙船へサイボーグ化した異星生命体を発掘する。膨大な時の流れを描く長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/たそがれに還る"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chronos-jaunter",
+    "title": "クロノス・ジョウンターの伝説",
+    "titleKana": "くろのすじょうんたーのでんせつ",
+    "authorIds": [
+      "kajio-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "time-travel",
+      "short-stories",
+      "near-future"
+    ],
+    "seriesName": "クロノス・ジョウンター",
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "開発途中の物質過去射出機クロノス・ジョウンターには重大な欠陥があった。出発した日時には戻れず、未来へ弾き飛ばされてしまうのだ。それを知りながら、人々はさまざまな想いを抱えて乗り込んでいく。事故で死んだ女性を救いたい、憎んでいた母の真実を知りたい、難病で亡くなった初恋の人を助けたい。時の神は無慈悲な試練を課す。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クロノス・ジョウンターの伝説"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tsubaki-tokitobi",
+    "title": "つばき、時跳び",
+    "titleKana": "つばきときとび",
+    "authorIds": [
+      "kajio-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "heibonsha",
+    "themeIds": [
+      "time-travel",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "椿が咲き乱れる百椿庵と呼ばれる古屋敷には、若い女性の幽霊が出るという噂があった。その家でひとり暮らすことになった青年は、ある日突然現れた着物姿の美少女に心を奪われる。つばきと名のる娘は、どうやら江戸時代から来たらしい。百五十年の時を超えて惹かれあう二人を、熊本を舞台に描くタイムトラベル・ロマンスである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/つばき、時跳び"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kono-mune-ippai",
+    "title": "この胸いっぱいの愛を",
+    "titleKana": "このむねいっぱいのあいを",
+    "authorIds": [
+      "kajio-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "shogakukan",
+    "themeIds": [
+      "time-travel",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "もしもう一度あの時間に戻れるとしたら。そしてやり直すことができるとしたら。大好きだった年上の女性、産んだ直後に死んでしまった母、交通事故で亡くなった息子。一九八六年の門司を舞台に、あることをきっかけとして過去へ戻ってしまった人々の群像劇である。映画『黄泉がえり』の著者が、映画との同時進行という新たな試みとして取り組んだ作品でもある。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/この胸いっぱいの愛を"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
