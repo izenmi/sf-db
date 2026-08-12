@@ -12029,7 +12029,8 @@
     ],
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "火星三部作"
   },
   {
     "id": "fukkatsu-no-chi",
@@ -19796,6 +19797,244 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/この胸いっぱいの愛を"
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "anata-no-tamashii-ni-yasuragi-are",
+    "title": "あなたの魂に安らぎあれ",
+    "titleKana": "あなたのたましいにやすらぎあれ",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "ai",
+      "robot",
+      "post-apocalypse"
+    ],
+    "seriesName": "火星三部作",
+    "origin": "jp",
+    "firstPublishedYear": 1983,
+    "status": "completed",
+    "synopsis": "核戦争の放射能に追われ、火星の人間は地下の空洞都市に閉じこもった。地上を受け継いだのは、人間に奉仕するために造られた有機アンドロイドである。彼らは主人の技術を引き継ぎ、はるかに優れた都市を築き上げていた。だが繁栄の裏で、天から降りたエンズビルがすべてを破壊しすべてを生むという神話が、ひそかに語り継がれている。人間と機械知性の関係を問う火星三部作の第一作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/あなたの魂に安らぎあれ"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "teio-no-kara",
+    "title": "帝王の殻",
+    "titleKana": "ていおうのから",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "chuokoron-sha",
+    "themeIds": [
+      "ai",
+      "cyberpunk",
+      "near-future"
+    ],
+    "seriesName": "火星三部作",
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "火星では誰もが銀色の球状をした人工の副脳を持ち、生まれた日からの経験を蓄えていく。それは都市を覆う情報網を通じて巨大企業の秋沙能研に制御されており、事実上この惑星を支配する当主の秋沙享臣は帝王と呼ばれていた。人工の脳に支えられた人格は、どこまで本人のものと言えるのか。人間を凌ぐ機械知性の存在を問う火星三部作の第二作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kanpekina-namida",
+    "title": "完璧な涙",
+    "titleKana": "かんぺきななみだ",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "post-apocalypse",
+      "esper",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "生まれてから一度も怒りも喜びも悲しみも覚えたことのない少年、本海宥現。家族と感情の絆を持たない彼は、ある発砲事件をきっかけに砂漠へ旅立つ。そこには街に住むことを拒んだ旅賊が暮らし、火を囲んで踊る群れのなかに運命の女がいた。だが砂の底から現れた巨大な機械が、二人を無情に引き裂く。過去から来た殺戮者との争いに、感情なき少年が巻き込まれていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tamashii-no-kudotai",
+    "title": "魂の駆動体",
+    "titleKana": "たましいのくどうたい",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "nami-shobo",
+    "themeIds": [
+      "virtual-reality",
+      "far-future",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "人が意識だけの存在となって仮想空間へ移り住みはじめた近未来。養老院で暮らす私は、確かな生の手ごたえを取り戻そうとして、友人の子安とともに理想の自動車を設計しはじめる。はるかな遠未来では、太古の人類の文化を研究する翼人キリアが、遺跡から出た設計図をもとに一台の車を組み上げようとしていた。機械と人間の関係を問い続けてきた著者が、自由な精神の乗り物として車を描いた寓話である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/魂の駆動体"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kototsubo",
+    "title": "言壺",
+    "titleKana": "ことつぼ",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "chuokoron-sha",
+    "themeIds": [
+      "language-sf",
+      "short-stories",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1994,
+    "status": "completed",
+    "synopsis": "わたしが生んだのは姉だった。小説家の解良は、万能著述支援機械ワーカムから、その一文を含む文章の支援を拒まれる。友人の古屋は、解良の書くものが言語空間そのものを崩壊させかねないと指摘する。地上八百階の階層社会で太古の小説を夢見る家族、個人が壺で言葉を育てる世界。言葉が世界を作るのか、世界が言葉を作るのか。日本SF大賞を受けた連作集である。",
+    "awardResults": [
+      {
+        "awardId": "nihon-sf-taisho",
+        "year": 1995,
+        "result": "第16回受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/言壺"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ware-katarite-sekai-ari",
+    "title": "我語りて世界あり",
+    "titleKana": "われかたりてせかいあり",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "military-sf",
+      "virtual-reality",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "発掘された武器塚のなかで、二人の少年と一人の少女は、本物の戦闘を記録し学習した戦闘知性体に接続した。月の上空で敵と戦う操縦士、市街地で強襲を受ける歩兵。時空を越えて甦る記録のなかへ、少年たちは過去の人間に情報として擬態して入り込み、禁じられた遊びに没頭していく。やがて軍の特殊プログラムが語りはじめたとき、世界がはじまる。連作短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kafuka-toshi",
+    "title": "過負荷都市",
+    "titleKana": "かふかとし",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "cyberpunk",
+      "near-future",
+      "ai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "登校を拒み続けている高校生の陽奥峯士は、ある日突然、殺人鬼になりたいと思った。だが動機がない。誰を殺したいのかもはっきりしないし、どうやりたいのかもわからない。自分の破壊衝動を持て余す彼は、都市制御体から脳へ直接送られてくる呼びかけに導かれ、外骨格をまとって創壊士へと変身する。負荷に喘ぐ電脳都市が選んだ驚くべき打開策を描く長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "izayoi-no-tsuki",
+    "title": "猶予の月",
+    "titleKana": "いざよいのつき",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "world-truth",
+      "sf-fantasy",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "第三眼を持つカミス人は、人工衛星カミスに据えた事象制御装置アスタートによって惑星リンボスを統べていた。その操作にたずさわる理論士イシスは、弟のアシリスとの許されない恋を遂げるため、世界そのものの改変を試みる。神の位置に立った者が自分の願いのために現実を書き換えたとき、何が起きるのか。日本SFの俊英が満を持して放った本格SFの長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "koyubi-no-saki-no-tenshi",
+    "title": "小指の先の天使",
+    "titleKana": "こゆびのさきのてんし",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "virtual-reality",
+      "short-stories",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2003,
+    "status": "completed",
+    "synopsis": "恋人どうしが互いに触れられないとしたら、二人はその世界をあきらめるだろうか。仮想の動物園で麒麟が鳩を食べたなら、それはそこに住まう神の御業なのだろうか。仮想世界で生涯を終えた者の魂は、どこへ向かうのだろうか。人間の意識と神をめぐる思索が、現実と仮想のあいだを行き来する。二十年の歳月をかけて書き継がれた連作集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kitsune-to-odore",
+    "title": "狐と踊れ",
+    "titleKana": "きつねとおどれ",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "五Uという薬を飲み続けなければ、体内から胃が逃げ出してしまう未来社会。配給によって厳しく管理される日常に倦んだ男は、人間と胃が共生するという理想郷の存在を知る。ハヤカワ・SFコンテスト佳作に入選した表題作のほか、熱力学の理論を援用した異色の時間SFなど、著者のデビュー作品集を単行本未収録の連作四編を加えて再編集した一冊である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/狐と踊れ"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
 ]
