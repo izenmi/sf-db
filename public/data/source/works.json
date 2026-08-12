@@ -21256,5 +21256,309 @@
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ball-lightning",
+    "title": "球状閃電",
+    "titleKana": "きゅうじょうせんでん",
+    "authorIds": [
+      "liu-cixin"
+    ],
+    "translatorIds": [
+      "omori-nozomi",
+      "mitsuyoshi-sakura",
+      "wan-zai"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "hard-sf",
+      "military-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2004,
+    "jpPublishedYear": 2022,
+    "originalTitle": "球状闪电",
+    "status": "completed",
+    "synopsis": "十四歳の誕生日の夜、目の前で両親を球電に焼かれた陳は、その正体を突き止めることに人生を捧げる決意をする。大学で研究を進めるうち、彼は軍の兵器開発に関わる思いも寄らぬ計画に巻き込まれていった。雷が球の形をとって漂うという現象の背後に、物理学の常識を根本から覆す仕組みが隠されている。『三体』へと続く前日譚にあたる長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "supernova-era",
+    "title": "超新星紀元",
+    "titleKana": "ちょうしんせいきげん",
+    "authorIds": [
+      "liu-cixin"
+    ],
+    "translatorIds": [
+      "omori-nozomi",
+      "mitsuyoshi-sakura",
+      "wan-zai"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "juvenile",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2003,
+    "jpPublishedYear": 2023,
+    "originalTitle": "超新星纪元",
+    "status": "completed",
+    "synopsis": "一九九九年の暮れ、超新星爆発によって生じた放射線の奔流が地球に降り注ぎ、人類に壊滅的な被害をもたらした。一年後には十三歳以上の大人がすべて死に至ることが判明する。残された時間で子どもたちに社会の運営を引き継がせようと、世界中で必死の教育がはじまった。大人が消えた地球で、子どもだけの世界が動きだす。著者の長編第一作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "of-ants-and-dinosaurs",
+    "title": "白亜紀往事",
+    "titleKana": "はくあきおうじ",
+    "authorIds": [
+      "liu-cixin"
+    ],
+    "translatorIds": [
+      "omori-nozomi",
+      "furuichi-masako"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alternate-history",
+      "evolution",
+      "satire-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2010,
+    "jpPublishedYear": 2023,
+    "originalTitle": "白垩纪往事",
+    "status": "completed",
+    "synopsis": "恐竜と蟻が、現代の人類社会に劣らない高度な文明を築き、地球を支配していたもうひとつの白亜紀。柔軟な思考力を持つ恐竜と、精密な技術を担う蟻は、互いを補い合って共存していた。だが二つの文明はやがて深刻な対立に陥っていく。巨体を頼む恐竜と、細部を握る蟻。どちらも相手なしでは立ちゆかないと知りながら、力の均衡が崩れた瞬間に破局へ滑り落ちていく。種の存亡を懸けた争いを寓話の形で描く、著者の入門にも向いた中編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "time-migration",
+    "title": "時間移民",
+    "titleKana": "じかんいみん",
+    "authorIds": [
+      "liu-cixin"
+    ],
+    "translatorIds": [
+      "omori-nozomi",
+      "mitsuyoshi-sakura",
+      "wan-zai"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "far-future",
+      "time-travel"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "jpPublishedYear": 2024,
+    "originalTitle": "时间移民",
+    "status": "completed",
+    "synopsis": "巨大な冷蔵庫で八千万人を未来へ送り出す計画を描いた表題作、『三体』でも活躍する理論物理学者の丁儀を襲う衝撃を描いた一編など、全十三編を収める。宇宙の規模と人の一生を平然と同じ物差しで測ってしまう発想の大きさが、短い形式でこそ際立っている。『円』に続く日本オリジナル編集の短編集第二弾である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "count-zero",
+    "title": "カウント・ゼロ",
+    "titleKana": "かうんとぜろ",
+    "authorIds": [
+      "william-gibson"
+    ],
+    "translatorIds": [
+      "kuromaru-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "cyberpunk",
+      "ai",
+      "near-future"
+    ],
+    "seriesName": "スプロール三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1986,
+    "jpPublishedYear": 1987,
+    "originalTitle": "Count Zero",
+    "status": "completed",
+    "synopsis": "新米ハッカーのボビイは、電脳空間へ没入したさなかに死にかけ、謎の少女に助けられる。企業間の技術者引き抜きに雇われた傭兵ターナー、画廊の女主人マーリィ。三つの筋が別々に進みながら、電脳空間に現れはじめた人格めいた存在へと収束していく。『ニューロマンサー』に続く、規模を大きく広げた三部作の第二作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/カウント・ゼロ"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mona-lisa-overdrive",
+    "title": "モナリザ・オーヴァドライヴ",
+    "titleKana": "もなりざおーゔぁどらいゔ",
+    "authorIds": [
+      "william-gibson"
+    ],
+    "translatorIds": [
+      "kuromaru-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "cyberpunk",
+      "ai",
+      "virtual-reality"
+    ],
+    "seriesName": "スプロール三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1988,
+    "jpPublishedYear": 1989,
+    "originalTitle": "Mona Lisa Overdrive",
+    "status": "completed",
+    "synopsis": "電脳空間に散らばった人格の断片は、いまや神々のようにふるまいはじめていた。ヤクザの首領の娘、薬物に沈む女優、電脳空間から離れられない少年、そして前二作の人物たち。四つの物語が絡み合いながら、電脳空間そのものが何になろうとしているのかへ向かっていく。人格を模した情報の集まりに人間が振り回される構図は、後年の技術が追いついてはじめて実感されるようになった。三部作の完結編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/モナリザ・オーヴァドライヴ"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "virtual-light",
+    "title": "ヴァーチャル・ライト",
+    "titleKana": "ゔぁーちゃるらいと",
+    "authorIds": [
+      "william-gibson"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "cyberpunk",
+      "near-future",
+      "dystopia"
+    ],
+    "seriesName": "ブリッジ三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1993,
+    "jpPublishedYear": 1994,
+    "originalTitle": "Virtual Light",
+    "status": "completed",
+    "synopsis": "大地震で崩壊したサンフランシスコでは、通行止めになった橋の上に人々が住みついて街を作っていた。自転車便の女性メッセンジャー、シェヴェットが出来心で盗んだのは、視神経に直接作用して映像を見せる眼鏡型の装置だった。その中身をめぐって企業と警備会社が動きだす。近未来の都市を足元から描き直した三部作の第一作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "idoru",
+    "title": "あいどる",
+    "titleKana": "あいどる",
+    "authorIds": [
+      "william-gibson"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "cyberpunk",
+      "virtual-reality",
+      "near-future"
+    ],
+    "seriesName": "ブリッジ三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1996,
+    "jpPublishedYear": 1997,
+    "originalTitle": "Idoru",
+    "status": "completed",
+    "synopsis": "世界的な人気を誇るロックスターが、実体を持たない仮想の歌手との結婚を宣言した。真意を探るために日本へ渡った調査員と、ファンの少女。二人の視点が交差する先で、東京と仮想の城砦都市にまたがる巨大な企みが動きだす。実在しない人物にどれだけ本気になれるのかという問いを、二十世紀のうちに書きつけた長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "all-tomorrows-parties",
+    "title": "フューチャーマチック",
+    "titleKana": "ふゅーちゃーまちっく",
+    "authorIds": [
+      "william-gibson"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "cyberpunk",
+      "near-future",
+      "virtual-reality"
+    ],
+    "seriesName": "ブリッジ三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1999,
+    "jpPublishedYear": 2000,
+    "originalTitle": "All Tomorrow's Parties",
+    "status": "completed",
+    "synopsis": "歴史が大きく折れ曲がる結節点の到来が迫るなか、その謎を解く鍵となる腕時計をめぐって人々がふたたび橋へ集まってくる。シェヴェット、ライデル、そして仮想の歌手。前二作の人物たちが一点に呼び寄せられ、世界の作り替えに立ち会うことになる。歴史はごく小さな出来事から不可逆に折れ曲がるという見立てを、橋の上の雑多な暮らしを通して描いていく。ブリッジ三部作の完結編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cats-cradle",
+    "title": "猫のゆりかご",
+    "titleKana": "ねこのゆりかご",
+    "authorIds": [
+      "kurt-vonnegut"
+    ],
+    "translatorIds": [
+      "ito-norio"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "satire-sf",
+      "religion-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1963,
+    "jpPublishedYear": 1968,
+    "originalTitle": "Cat's Cradle",
+    "status": "completed",
+    "synopsis": "原子爆弾の父と呼ばれた科学者について調べていたわたしは、その足跡をたどってカリブ海のサン・ロレンゾ島にたどりつく。専制君主が支配し、禁じられたボコノン教が住民の心を捉えているこの島に、あらゆる水を一瞬で凍らせてしまう物質アイス・ナインが持ち込まれていた。世界の終わりを、笑いを絶やさぬまま描き切った長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/猫のゆりかご"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "god-bless-you-mr-rosewater",
+    "title": "ローズウォーターさん、あなたに神のお恵みを",
+    "titleKana": "ろーずうぉーたーさんあなたにかみのおめぐみを",
+    "authorIds": [
+      "kurt-vonnegut"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "satire-sf",
+      "near-future",
+      "utopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1965,
+    "jpPublishedYear": 1977,
+    "originalTitle": "God Bless You, Mr. Rosewater",
+    "status": "completed",
+    "synopsis": "億万長者でありながら浮浪者のようにふるまい、財団の総裁でありながら理想を夢想し、慈善家でありながら酒に溺れる。エリオット・ローズウォーターは、インディアナの寂れた町で誰彼かまわず愛を配り歩いていた。その振る舞いを正気ではないと見た親族が、財産を奪おうと動きだす。隣人愛にとりつかれた男を描く、黒い笑いに満ちた長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
