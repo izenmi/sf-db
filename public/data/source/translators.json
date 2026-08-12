@@ -989,5 +989,54 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yamagata-hiroo",
+    "name": "山形浩生",
+    "nameKana": "やまがたひろお",
+    "description": "評論家・翻訳家。経済書からSFまで幅広く訳す。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/山形浩生"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "otaki-keisuke",
+    "name": "大瀧啓裕",
+    "nameKana": "おおたきけいすけ",
+    "description": "翻訳家。ラヴクラフトやディックの紹介で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大瀧啓裕"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "terachi-goichi",
+    "name": "寺地五一",
+    "nameKana": "てらちごいち",
+    "description": "英米SFを訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "migiwa-ikko",
+    "name": "汀一弘",
+    "nameKana": "みぎわいっこう",
+    "description": "サンリオSF文庫などで英米SFを訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "iida-takaaki",
+    "name": "飯田隆昭",
+    "nameKana": "いいだたかあき",
+    "description": "英米の幻想小説とSFを訳した翻訳家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

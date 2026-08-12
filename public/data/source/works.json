@@ -20036,5 +20036,319 @@
     },
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "martian-time-slip",
+    "title": "火星のタイム・スリップ",
+    "titleKana": "かせいのたいむすりっぷ",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "obi-fusa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "esper",
+      "time-travel"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1964,
+    "jpPublishedYear": 1966,
+    "originalTitle": "Martian Time-Slip",
+    "status": "completed",
+    "synopsis": "火星植民地に君臨する水道労働組合の大立者アーニイ・コットは、宇宙飛行の影響で心を病んだ少年に目をつけた。少年が持つ時間についての特異な力を使えば、過去に手を入れて自分の野心を叶えられるはずだ。だがコットの試みた時間旅行には、恐るべき落とし穴が隠されていた。植民地の閉塞と心の病を重ね合わせ、悪夢と混沌の世界を描いた長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/火星のタイム・スリップ"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "three-stigmata",
+    "title": "パーマー・エルドリッチの三つの聖痕",
+    "titleKana": "ぱーまーえるどりっちのみっつのせいこん",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "virtual-reality",
+      "world-truth",
+      "space-colony"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1965,
+    "jpPublishedYear": 1978,
+    "originalTitle": "The Three Stigmata of Palmer Eldritch",
+    "status": "completed",
+    "synopsis": "謎に包まれた人物パーマー・エルドリッチが宇宙の彼方から持ち帰った薬物は、苦しみに喘ぐ人々に不死と安らぎをもたらすはずだった。だが幻に溺れ、酔い痴れる者たちを待っていたのは、死よりも恐ろしい落とし穴だった。現実と白昼夢が入り混じり、どちらが本物なのか誰にも決められなくなっていく。着想と手法の両面で鬼才の名を決定づけた長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パーマー・エルドリッチの三つの聖痕"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "flow-my-tears",
+    "title": "流れよわが涙、と警官は言った",
+    "titleKana": "ながれよわがなみだとけいかんはいった",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "tomoeda-yasuko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "dystopia",
+      "near-future",
+      "parallel-world"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1974,
+    "jpPublishedYear": 1989,
+    "originalTitle": "Flow My Tears, the Policeman Said",
+    "status": "completed",
+    "synopsis": "三千万人の視聴者に愛される人気タレントのジェイスン・タヴァナーは、安宿の汚れた寝台で目を覚ました。体は回復していたが、身分証明書が消え、国家の巨大な情報庫から彼に関する記録が跡形もなく失われていた。友人も恋人も彼を覚えていない。存在しない男となった彼は、警察に追われながら悪夢の出口を探しはじめる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/流れよわが涙、と警官は言った"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "a-scanner-darkly",
+    "title": "スキャナー・ダークリー",
+    "titleKana": "すきゃなーだーくりー",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "iida-takaaki",
+      "asakura-hisashi"
+    ],
+    "publisherId": "sanrio",
+    "themeIds": [
+      "near-future",
+      "dystopia",
+      "world-truth"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1977,
+    "jpPublishedYear": 1980,
+    "originalTitle": "A Scanner Darkly",
+    "status": "completed",
+    "synopsis": "カリフォルニア州の麻薬課で働くおとり捜査官フレッドは、上司にも素顔を明かさないまま潜入を続けている。中毒者ボブ・アークターとして、出回りはじめた物質Dに手を出し、仲間ふたりと共同生活を送る日々。ところがある日、密売人アークターを監視せよという命令が下る。自分で自分を見張るうちに、二つの人格が引き裂かれていく。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/暗闇のスキャナー"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。初訳は一九八〇年サンリオSF文庫の『暗闇のスキャナー』(飯田隆昭訳)で、現行のハヤカワ文庫SF版は浅倉久志訳による改題新訳である。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "valis",
+    "title": "ヴァリス",
+    "titleKana": "ゔぁりす",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "otaki-keisuke",
+      "yamagata-hiroo"
+    ],
+    "publisherId": "sanrio",
+    "themeIds": [
+      "religion-sf",
+      "world-truth",
+      "near-future"
+    ],
+    "seriesName": "ヴァリス三部作",
+    "origin": "overseas",
+    "firstPublishedYear": 1981,
+    "jpPublishedYear": 1982,
+    "originalTitle": "VALIS",
+    "status": "completed",
+    "synopsis": "友人グロリアの自殺をきっかけに、作家ホースラヴァー・ファットの日常が狂いはじめる。薬物に溺れ孤独に沈む彼は、桃色の光を脳に照射され、ある重大な情報を受け取った。それを神の啓示と受け止めた彼は日誌に書きつけ、友人たちと神学談義に耽るようになる。やがて自分の妄想と符合する謎めいた映画に出会う。著者自身の神秘体験をもとにした問題作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヴァリス"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。現行のハヤカワ文庫SF版は山形浩生による新訳である。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "time-out-of-joint",
+    "title": "時は乱れて",
+    "titleKana": "ときはみだれて",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "yamada-kazuko"
+    ],
+    "publisherId": "sanrio",
+    "themeIds": [
+      "world-truth",
+      "parallel-world",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1959,
+    "jpPublishedYear": 1978,
+    "originalTitle": "Time Out of Joint",
+    "status": "completed",
+    "synopsis": "この町でレイグル・ガムの名を知らない者はいない。新聞の懸賞クイズ「火星人はどこへ」に二年間勝ち続けてきた全国王者だからだ。だが彼はときおり、自分が自分でないように感じることがあった。同居する弟夫婦の子どもが廃墟から拾ってきた一冊の古雑誌が、彼を驚くべき真実へと導いていく。日常が作り物ではないかと疑いはじめる初期の名作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/時は乱れて"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "now-wait-for-last-year",
+    "title": "去年を待ちながら",
+    "titleKana": "きょねんをまちながら",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "terachi-goichi",
+      "yamagata-hiroo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "time-travel",
+      "military-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1966,
+    "jpPublishedYear": 1989,
+    "originalTitle": "Now Wait for Last Year",
+    "status": "completed",
+    "synopsis": "地球が二つの異星勢力の狭間で星間戦争に巻き込まれるなか、人工臓器の移植医エリックは国連事務総長モリナーリの主治医に任命される。妻は時間を移動する作用を持つ薬物に溺れ、彼自身も別の時間へ投げ出されていく。戦争と結婚生活という二つの泥沼を重ね合わせながら、薬物と時間の主題を突き詰めた中期の長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/去年を待ちながら"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。現行のハヤカワ文庫SF版は山形浩生による新訳である。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "galactic-pot-healer",
+    "title": "銀河の壺なおし",
+    "titleKana": "ぎんがのつぼなおし",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "omori-nozomi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alien",
+      "sf-fantasy",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1969,
+    "jpPublishedYear": 2017,
+    "originalTitle": "Galactic Pot-Healer",
+    "status": "completed",
+    "synopsis": "壺を修復する職人のジョー・ファーンライトは、誰も壺を直さなくなった世界で仕事もなく暮らしていた。そこへシリウス星系から奇妙な依頼が届く。海に沈んだ大聖堂を引き上げるため、あらゆる星の職人を集めているという。神とも呼ばれる存在に招かれた彼は、寄せ集めの一団に加わって作業に取りかかる。滑稽さと宗教的な問いが同居する長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/銀河の壺なおし"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-simulacra",
+    "title": "シミュラクラ",
+    "titleKana": "しみゅらくら",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "migiwa-ikko",
+      "yamada-kazuko"
+    ],
+    "publisherId": "sanrio",
+    "themeIds": [
+      "dystopia",
+      "ai",
+      "alternate-history"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1964,
+    "jpPublishedYear": 1986,
+    "originalTitle": "The Simulacra",
+    "status": "completed",
+    "synopsis": "二十一世紀なかば、欧州とアメリカが統合された国家では、大統領は代替わりする役者であり、実権は終身の大統領夫人ニコラが握っていた。国家の最高機密は、その仕組みそのものにある。夫人は時間移送機を使ってゲーリング元帥を呼び寄せ、歴史に手を入れようと試みる。権力が張りぼてであることを暴きながら進む長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/シミュラクラ"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。現行のハヤカワ文庫SF版は山田和子による新訳である。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "our-friends-from-frolix-8",
+    "title": "フロリクス8から来た友人",
+    "titleKana": "ふろりくすえいとからきたゆうじん",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "omori-nozomi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "dystopia",
+      "alien",
+      "evolution"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1970,
+    "jpPublishedYear": 1992,
+    "originalTitle": "Our Friends from Frolix 8",
+    "status": "completed",
+    "synopsis": "二十二世紀の地球では、突出した知能を持つ新人と超能力を備えた異人が、六十億の旧人を支配していた。旧人の解放を訴える指導者は宇宙の彼方へ姿を消して久しい。冴えない小役人ニックは、成り行きから反体制運動に巻き込まれていく。そこへフロリクス星系から巨大な来訪者が飛来する。抑圧された多数派の側から支配を描いた長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "counter-clock-world",
+    "title": "逆まわりの世界",
+    "titleKana": "ぎゃくまわりのせかい",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "obi-fusa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "world-truth",
+      "satire-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1967,
+    "jpPublishedYear": 1971,
+    "originalTitle": "Counter-Clock World",
+    "status": "completed",
+    "synopsis": "生者は日ごとに若返り、死者は墓のなかで目を覚ます。ホバート位相と呼ばれる時間の逆流が起きた世界では、蘇った人間を掘り出して社会へ戻す事業が成り立っていた。そこへ影響力の大きな宗教指導者が生き返るという情報が流れ、各勢力がその身柄を奪い合う。因果が裏返った日常を淡々と積み上げていく長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/逆まわりの世界"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
