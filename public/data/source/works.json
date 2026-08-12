@@ -1466,7 +1466,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/星界の紋章"
     },
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」日本長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(全57回とも年=1969+回)で確認した。書誌(読み・初刊版元・初出年)は国立国会図書館サーチに拠る。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "星界"
   },
   {
     "id": "teki-wa-kaizoku-a-kyu-no-teki",
@@ -20915,6 +20916,345 @@
     "synopsis": "宇宙服は小さな宇宙ステーションである。高校生のキップは懸賞に応募して一等は逃したものの、本物の中古の宇宙服を手に入れた。自力で整備し、着て散歩していたある日、彼は宇宙から助けを求める声を受信する。少女ピーウィーと異星人に出会ったキップは、そのまま太陽系の外まで連れ去られていく。少年向けの傑作として長く読み継がれてきた一冊である。",
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rentai-wakusei-pizan",
+    "title": "連帯惑星ピザンの危機",
+    "titleKana": "れんたいわくせいぴざんのきき",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-opera",
+      "space-development",
+      "military-sf"
+    ],
+    "seriesName": "クラッシャージョウ",
+    "origin": "jp",
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "二一六一年、恒星間航行を手にした人類は銀河系じゅうに進出し、八千の独立国家からなる銀河連合を築いていた。その開発の尖兵となったのが、航路の整備から惑星改造まで危険な仕事を請け負うクラッシャーと呼ばれる集団である。腕利きのジョウは、反乱の起きた連帯惑星ピザンへ、王女の依頼を受けて自分のチームを率いて向かう。日本のスペースオペラを切り開いた第一作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クラッシャージョウ"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gekimetsu-uchu-kaizoku",
+    "title": "撃滅！宇宙海賊の罠",
+    "titleKana": "げきめつうちゅうかいぞくのわな",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-opera",
+      "space-development",
+      "military-sf"
+    ],
+    "seriesName": "クラッシャージョウ",
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "惑星改造の技術が進み、人の住めなかった星にも植民ができるようになると、惑星ごとの国家は太陽系全体をひとつの政府が治める形へと生まれ変わっていた。そのひとつタラオの大統領から、銀河系の至宝と呼ばれる稀少動物の護送がジョウのチームに直接持ちかけられる。宇宙海賊の襲撃は避けられない。ジョウは仲間のアルフィンに陽動を命じた。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ankoku-jashinkyo-no-dokutsu",
+    "title": "暗黒邪神教の洞窟",
+    "titleKana": "あんこくじゃしんきょうのどうくつ",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-opera",
+      "military-sf",
+      "denki-sf"
+    ],
+    "seriesName": "クラッシャージョウ",
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "休暇中のジョウたちに緊急の依頼が舞い込んだ。誘拐されたとおぼしき少年の捜索である。その子が乗った客船は航路を外れて行方をくらまし、発見されたときには乗客も乗員も全員が惨殺されていた。だが少年だけは見つからない。ジョウは、少年がノートに残した悪魔の紋章を手がかりに、暗黒邪神教と呼ばれる謎の組織にたどりついていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ginga-teikoku-eno-yabo",
+    "title": "銀河帝国への野望",
+    "titleKana": "ぎんがていこくへのやぼう",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-opera",
+      "military-sf",
+      "space-development"
+    ],
+    "seriesName": "クラッシャージョウ",
+    "origin": "jp",
+    "firstPublishedYear": 1978,
+    "status": "completed",
+    "synopsis": "銀河系じゅうに広がる独立国家の連合体である銀河連合は、四年に一度、首脳会議を開くことになっている。そこへ出席する連合主席の護衛が、連合宇宙軍を差し置いてジョウに依頼された。だが入念に経路を下見し終えた彼を待っていたのは、まったく身に覚えのない犯罪の嫌疑だった。執拗な追手をかわしながら、ジョウの反撃がはじまる。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jinmen-maju-no-chosen",
+    "title": "人面魔獣の挑戦",
+    "titleKana": "じんめんまじゅうのちょうせん",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-opera",
+      "military-sf",
+      "genetic-engineering"
+    ],
+    "seriesName": "クラッシャージョウ",
+    "origin": "jp",
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "標的にされて生き延びた者はいないという暗殺結社クリムゾン・ナイツ。彼らに命を狙われているという連邦首相から護衛を頼まれたジョウだったが、契約を終えた直後に首相は殺されてしまう。任務に失敗した彼に与えられた挽回の猶予は二百四十時間。残された凶器を手がかりに結社の本部を突き止めた一行を、究極の殺人兵器が待ち受けていた。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "akuryo-toshi-kukuru",
+    "title": "悪霊都市ククル",
+    "titleKana": "あくりょうとしくくる",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "space-opera",
+      "dystopia",
+      "religion-sf"
+    ],
+    "seriesName": "クラッシャージョウ",
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "太陽系国家ガンガーで、国民のほとんどが信徒だという教団の本尊が盗まれた。捜索を頼まれたジョウのチームが行方を追って降り立ったのは、仲間のリッキーが生まれ育った惑星ローデスだった。彼が育った地下都市ククルは、地上に新しい街ができてからスラムと化し、犯罪の温床になっている。到着した一行は、さっそく不気味な連中の襲撃を受けた。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dirty-pair-daidasso",
+    "title": "ダーティペアの大脱走",
+    "titleKana": "だーてぃぺあのだいだっそう",
+    "authorIds": [
+      "takachiho-haruka"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "satire-sf",
+      "juvenile"
+    ],
+    "seriesName": "ダーティペア",
+    "origin": "jp",
+    "firstPublishedYear": 1993,
+    "status": "completed",
+    "synopsis": "財団が経営する銀河系随一のお嬢様学校、聖エルモ学園に奇病が発生した。なす術もなく美少女たちが次々と倒れていく。財団の救援要請を受けて派遣されたのは、疫病とはおよそ縁のない犯罪トラブル処理係、ユリとケイのダーティペアだった。教師と生徒に扮して学園へ乗り込んだ二人を待ち受けるものとは。人気のスペースオペラ第四弾である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "seikai-no-senki",
+    "title": "星界の戦旗",
+    "titleKana": "せいかいのせんき",
+    "authorIds": [
+      "morioka-hiroyuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "military-sf",
+      "language-sf"
+    ],
+    "seriesName": "星界",
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "アーヴによる人類帝国と人類統合体との全面戦争がはじまった。伯爵領を継いだジントは兵站の部署に配属され、ラフィールは突撃艦の艦長として前線に立つ。ふたりは離ればなれのまま、それぞれの戦場で自分の務めを果たしていく。独自の言語と宮廷文化を持つ星界の民の側から戦争を描く、『星界の紋章』に続くシリーズの第一作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星界の戦旗"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "seikai-no-dansho",
+    "title": "星界の断章",
+    "titleKana": "せいかいのだんしょう",
+    "authorIds": [
+      "morioka-hiroyuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "short-stories",
+      "military-sf"
+    ],
+    "seriesName": "星界",
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "アーヴの初等学校にあたる修技館では、訓練生に対してある行事が伝統的に行われていた。出自による緊急時の対応の違いを描く一編をはじめ、本編では語られなかった人物たちの過去や日常を切り取った掌編を集めている。書き下ろしを含む全七編を収める、星界シリーズの外伝にあたる短編集である。長い戦役の合間に置かれた小さな挿話を通じて、アーヴという種族の来歴と気質が少しずつ形をとっていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "aoi-hoshi-made-tondeike",
+    "title": "青い星まで飛んでいけ",
+    "titleKana": "あおいほしまでとんでいけ",
+    "authorIds": [
+      "ogawa-issui"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "first-contact",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2011,
+    "status": "completed",
+    "synopsis": "太古の人類の性向を受け継いだ探査群エクスは、青い星を目指してはるかな旅路を進んでいく。表題作をはじめ、未知との出会いを求める姿をさまざまな形で描いた六編を収める。宇宙の広さと時間の長さを前にしても、それでも手を伸ばそうとする者たちを書き続けてきた著者の、短編での仕事をまとめた一冊である。人類が絶えたあとに残された機械の視点から語られる一編など、規模も語り口もさまざまな作品が並ぶ。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "twinstar-cyclone-runaway",
+    "title": "ツインスター・サイクロン・ランナウェイ",
+    "titleKana": "ついんすたーさいくろんらんなうぇい",
+    "authorIds": [
+      "ogawa-issui"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "gender-sf",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "ガス惑星FBBでは、大気の海に船を浮かべて漁をする宇宙船漁業が営まれている。操舵と航法をふたりひと組で担うこの漁で、女性同士という異例の組み合わせでありながら破格の漁獲をあげるテラとダイ。相棒に恵まれずにいた二人は出会い、やがて惑星そのものの秘密に触れていく。ままならない社会の枠組みを軽やかに越えていく長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mono-no-aware",
+    "title": "もののあはれ",
+    "titleKana": "もののあはれ",
+    "authorIds": [
+      "ken-liu"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "disaster",
+      "generation-ship"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2012,
+    "jpPublishedYear": 2017,
+    "originalTitle": "Mono no Aware",
+    "status": "completed",
+    "synopsis": "小惑星の衝突で地球が失われ、生き残った人々を乗せた宇宙船が旅を続けている。ただひとりの日本人として乗り合わせた青年は、船に致命的な損傷が生じたとき、ある決断を下す。表題作をはじめ、心を揺さぶる八編を収める。囲碁を通じて人と機械の距離を測る一編や、歴史の記録をめぐる一編など、東洋と西洋のあいだに立つ著者ならではの視点が並ぶ。第一短編集『紙の動物園』を日本で二分冊にした、その二冊目にあたる短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-gods-will-not-be-chained",
+    "title": "神々は繋がれてはいない",
+    "titleKana": "かみがみはつながれてはいない",
+    "authorIds": [
+      "ken-liu"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi",
+      "miki-yoko",
+      "otani-mayumi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "ai",
+      "virtual-reality"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2014,
+    "jpPublishedYear": 2021,
+    "originalTitle": "The Gods Will Not Be Chained",
+    "status": "completed",
+    "synopsis": "いじめられている少女のもとに、ある日突然、絵文字だけでできた謎の便りが届く。送り主はいったい誰なのか。人の意識を電子の海へ移すという主題を扱った表題作をはじめ、八編を収める。父の人格を引き継いだ存在との対話、企業に管理される記憶、そして情報そのものが武器になる社会。技術が家族の形を変えていく瞬間を繰り返し捉えている。単行本『生まれ変わり』を日本で二分冊にした、その第二巻にあたる短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "arc-ken-liu",
+    "title": "Arc アーク",
+    "titleKana": "あーく",
+    "authorIds": [
+      "ken-liu"
+    ],
+    "translatorIds": [
+      "furusawa-yoshimichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "genetic-engineering"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2012,
+    "jpPublishedYear": 2021,
+    "originalTitle": "Arc",
+    "status": "completed",
+    "synopsis": "リーナは遺体に姿勢を取らせ、肉体に永続性を与える技術で頭角をあらわしていく。伴侶であり経営者でもあるジョンは、死そのものを克服したいと考えていた。映画化された表題作のほか、「紙の動物園」「母の記憶に」など代表作を集めた九編を収める。老いない身体を手に入れた人間がどう生きるのかという問いを軸に、著者の短編の幅をひととおり見渡せるようになっている。日本で編まれたベスト・オブ・ベストにあたる一冊である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
 ]
