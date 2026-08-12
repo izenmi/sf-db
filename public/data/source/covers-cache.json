@@ -32,6 +32,14 @@
     "resolvedAt": "2026-08-11T21:31:43.211Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17686359/"
   },
+  "a-darkling-plain": {
+    "title": "廃墟都市の復活",
+    "isbn": null,
+    "matchedTitle": "廃墟都市の復活　下",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2186/2000006822186.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:55:55.946Z"
+  },
   "a-scanner-darkly": {
     "title": "スキャナー・ダークリー",
     "isbn": "9784150115388",
@@ -1575,6 +1583,12 @@
     "resolvedAt": "2026-08-12T05:21:34.638Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6066548/"
   },
+  "end-of-an-era": {
+    "title": "さよならダイノサウルス",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:56:14.998Z"
+  },
   "enders-game": {
     "title": "エンダーのゲーム",
     "isbn": "9784150119270",
@@ -2723,6 +2737,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T13:06:17.103Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14994102/"
+  },
+  "infernal-devices-reeve": {
+    "title": "氷上都市の秘宝",
+    "isbn": null,
+    "matchedTitle": "氷上都市の秘宝",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1385/2000006871385.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:55:52.393Z"
   },
   "inherit-the-stars": {
     "title": "星を継ぐもの",
@@ -4706,6 +4728,14 @@
     "resolvedAt": "2026-08-12T05:06:46.471Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15441172/"
   },
+  "predators-gold": {
+    "title": "掠奪都市の黄金",
+    "isbn": null,
+    "matchedTitle": "掠奪都市の黄金",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1388/2000006871388.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:55:48.821Z"
+  },
   "prelude-to-space": {
     "title": "宇宙への序曲",
     "isbn": "9784150120290",
@@ -4762,6 +4792,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T03:44:13.629Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17255793/"
+  },
+  "provenance": {
+    "title": "動乱星系",
+    "isbn": null,
+    "matchedTitle": "動乱星系",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2568/2000006682568.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:56:03.120Z"
   },
   "pump-six": {
     "title": "第六ポンプ",
@@ -6247,6 +6285,14 @@
     "resolvedAt": "2026-08-12T04:08:44.662Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16421271/"
   },
+  "the-two-faces-of-tomorrow": {
+    "title": "未来の二つの顔",
+    "isbn": null,
+    "matchedTitle": "未来の二つの顔",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8868/2000002978868.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:55:59.552Z"
+  },
   "the-variable-man": {
     "title": "変数人間",
     "isbn": null,
@@ -6671,6 +6717,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T13:04:47.167Z"
+  },
+  "unaccompanied-sonata": {
+    "title": "無伴奏ソナタ",
+    "isbn": null,
+    "matchedTitle": "無伴奏ソナタ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5434/2000001915434.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:56:18.690Z"
   },
   "unbroken-arrow": {
     "title": "アンブロークン アロー 戦闘妖精・雪風",
