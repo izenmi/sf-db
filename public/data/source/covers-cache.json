@@ -49,6 +49,14 @@
     "source": "kobo",
     "resolvedAt": "2026-08-12T06:55:55.946Z"
   },
+  "a-princess-of-mars": {
+    "title": "火星のプリンセス",
+    "isbn": null,
+    "matchedTitle": "火星のプリンセス",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8905/2000000118905.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T09:03:31.874Z"
+  },
   "a-scanner-darkly": {
     "title": "スキャナー・ダークリー",
     "isbn": "9784150115388",
@@ -426,6 +434,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T05:06:50.042Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17345885/"
+  },
+  "at-the-mountains-of-madness": {
+    "title": "狂気の山脈にて",
+    "isbn": "9784102401422",
+    "matchedTitle": "狂気の山脈にて",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1422/9784102401422_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T09:03:41.275Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16511829/"
   },
   "at-the-rialto": {
     "title": "混沌ホテル",
@@ -909,6 +926,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T21:31:44.363Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17157311/"
+  },
+  "cho-kakumeiteki-chugakusei-shudan": {
+    "title": "超革命的中学生集団",
+    "isbn": null,
+    "matchedTitle": "超革命的中学生集団",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5600/2000000125600.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T09:03:21.259Z"
   },
   "cho-ugoku-ie-nite": {
     "title": "超動く家にて 宮内悠介短編集",
@@ -2619,6 +2644,15 @@
     "source": "rakuten-books",
     "note": "読点入りの題で自動取得が外れたため手当て"
   },
+  "hoshimushi": {
+    "title": "星虫",
+    "isbn": null,
+    "matchedTitle": "星虫年代記1　星虫/イーシャの舟/バレンタイン・デイツ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7129/2000004067129.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rk/19a7e66b9afd3525ad26f7d601985a87/",
+    "source": "rakuten-kobo",
+    "note": "表題作を収める合本第1巻の書影を採用"
+  },
   "hotel-arcadia": {
     "title": "ホテル・アルカディア",
     "isbn": "9784087717020",
@@ -3024,6 +3058,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T05:07:16.182Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18545676/"
+  },
+  "kachikujin-yapoo": {
+    "title": "家畜人ヤプー",
+    "isbn": "9784877287818",
+    "matchedTitle": "家畜人ヤプー（第1巻）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7818/9784877287818.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1082492/",
+    "source": "rakuten-books",
+    "note": "第1巻の書影を採用"
   },
   "kafuka-toshi": {
     "title": "過負荷都市",
@@ -3431,6 +3474,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T01:55:41.003Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6421584/"
+  },
+  "klein-no-tsubo": {
+    "title": "クラインの壺",
+    "isbn": "9784101080123",
+    "matchedTitle": "クラインの壺",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0123/9784101080123.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T09:03:17.730Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/575235/"
   },
   "know": {
     "title": "know",
@@ -3906,6 +3958,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T01:55:42.164Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15239/"
+  },
+  "martians-go-home": {
+    "title": "火星人ゴーホーム",
+    "isbn": null,
+    "matchedTitle": "火星人ゴーホーム",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2387/2000009512387.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T09:03:36.558Z"
   },
   "marude-wataridori-no-yoni": {
     "title": "まるで渡り鳥のように",
@@ -4406,6 +4466,15 @@
     "source": "rakuten-kobo",
     "note": "ハヤカワepi文庫〔新訳版〕の電子版書影を採用(自動取得が解説書を拾ったため)"
   },
+  "ningen-sokkuri": {
+    "title": "人間そっくり",
+    "isbn": "9784101121123",
+    "matchedTitle": "人間そっくり",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1123/9784101121123_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T09:03:10.651Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/907221/"
+  },
   "ningentachi-no-hanashi": {
     "title": "人間たちの話",
     "isbn": "9784150314200",
@@ -4529,6 +4598,14 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T00:29:24.790Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1532847/"
+  },
+  "oedo-shinsenden": {
+    "title": "大江戸神仙伝",
+    "isbn": null,
+    "matchedTitle": "大江戸神仙伝",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/6953/2000000216953.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T09:03:28.365Z"
   },
   "of-ants-and-dinosaurs": {
     "title": "白亜紀往事",
@@ -4700,6 +4777,15 @@
     "resolvedAt": "2026-08-11T04:56:11.478Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1497140/"
   },
+  "paradox-13": {
+    "title": "パラドックス13",
+    "isbn": "9784062778275",
+    "matchedTitle": "パラドックス13",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8275/9784062778275_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T09:03:14.222Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12730422/"
+  },
   "paradox-men": {
     "title": "パラドックス・メン",
     "isbn": "9784801920040",
@@ -4717,6 +4803,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T05:06:57.176Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15510548/"
+  },
+  "parallel-world-love-story": {
+    "title": "パラレルワールド・ラブストーリー",
+    "isbn": "9784062637251",
+    "matchedTitle": "パラレルワールド・ラブストーリー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7251/9784062637251_1_37.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T09:03:15.403Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/956496/"
   },
   "parasite-eve": {
     "title": "パラサイト・イヴ",
@@ -5054,6 +5149,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T02:31:36.041Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5858839/"
+  },
+  "replay": {
+    "title": "リプレイ",
+    "isbn": "9784102325018",
+    "matchedTitle": "リプレイ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5018/9784102325018.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T09:03:42.457Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/423911/"
   },
   "revelation-space": {
     "title": "啓示空間",
@@ -6270,6 +6374,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-12T07:58:17.372Z"
   },
+  "the-lights-in-the-sky-are-stars": {
+    "title": "天の光はすべて星",
+    "isbn": "9784150116798",
+    "matchedTitle": "天の光はすべて星",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6798/9784150116798.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T09:03:33.049Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5841219/"
+  },
   "the-little-black-box": {
     "title": "小さな黒い箱",
     "isbn": null,
@@ -6464,6 +6577,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T07:58:27.892Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1206199/"
+  },
+  "the-time-travelers-wife": {
+    "title": "きみがぼくを見つけた日",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T09:04:05.085Z"
   },
   "the-two-faces-of-tomorrow": {
     "title": "未来の二つの顔",
@@ -6707,6 +6826,15 @@
     "resolvedAt": "2026-08-11T01:58:05.836Z",
     "note": "書影は角川文庫の新装版。初刊(盛光社1967)と同一作品なので採用。",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4045918/"
+  },
+  "tokio-higashino": {
+    "title": "時生",
+    "isbn": "9784065263136",
+    "matchedTitle": "時生　新装版",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3136/9784065263136_1_4.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T09:03:13.014Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16907587/"
   },
   "tokisuna-no-o": {
     "title": "時砂の王",
@@ -7245,6 +7373,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/2484/2000008292484.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T09:32:11.276Z"
+  },
+  "who-goes-there": {
+    "title": "影が行く",
+    "isbn": null,
+    "matchedTitle": "影が行く",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4874/2000002164874.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T09:03:40.103Z"
   },
   "wild-shore": {
     "title": "荒れた岸辺",
