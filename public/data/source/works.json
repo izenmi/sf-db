@@ -21560,5 +21560,248 @@
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mizu-no-tsuki",
+    "title": "不見の月 博物館惑星2",
+    "titleKana": "みずのつきはくぶつかんわくせいつー",
+    "authorIds": [
+      "suga-hiroe"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-colony",
+      "ai",
+      "short-stories"
+    ],
+    "seriesName": "博物館惑星",
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "地球の衛星軌道に浮かぶ巨大博物館苑アフロディーテでは、学芸員たちがデータベースへ直接つながりながら美の追究に励んでいる。赴任したばかりの新人警備員、兵藤健は、いわくつきの芸術品や問題を抱えた作家をめぐる事件に次々と向き合っていく。人が美をどう扱うのかを問い続ける連作の第二集で、全六編を収める。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "soine-dreamer",
+    "title": "そいねドリーマー",
+    "titleKana": "そいねどりーまー",
+    "authorIds": [
+      "miyazawa-iori"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "denki-sf",
+      "gender-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "不眠に苦しむ女子高生の帆影沙耶は、金春ひつじという少女と夢のなかで恋人として出会う。眠りのなかでだけ結ばれる二人の前に、人の夢を食い荒らす睡獣が現れた。眠ることそのものが戦いになる世界で、彼女たちは互いの手を離さずにいられるのか。添い寝という設定を軸に据えた、著者らしい百合SFの長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kamigami-no-hoho",
+    "title": "神々の歩法",
+    "titleKana": "かみがみのほほう",
+    "authorIds": [
+      "miyazawa-iori"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "military-sf",
+      "cyborg",
+      "alien"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "一面の砂漠と化した北京に、アメリカ軍の最新鋭の戦争サイボーグ部隊が降り立った。標的は、高次元の知性体が人間と融合した憑依体である。その暴走の前になす術もなく倒れていく隊員たちの目の前に、ひとりの少女が現れた。創元SF短編賞を受けた表題作を含む作品集である。人智を超えた相手に、装備と訓練だけを頼りに立ち向かう人間の側を丹念に描くことで、超常の力を持つ存在との落差そのものを見せていく。",
+    "awardResults": [
+      {
+        "awardId": "sogen-sf-tanpen",
+        "year": 2015,
+        "result": "第6回受賞"
+      }
+    ],
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "marude-wataridori-no-yoni",
+    "title": "まるで渡り鳥のように",
+    "titleKana": "まるでわたりどりのように",
+    "authorIds": [
+      "fujii-taiyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "space-development"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "宇宙で生物の渡りを研究する日本人と、春節に地球へ帰省する習慣を持つ華人の伴侶。それぞれの選択を描いた表題作をはじめ、薩摩藩に雇われて江戸総攻撃に臨む屍兵遣いを描く一編など、全十一編を収める。研究者、技術者、軌道ステーションの職員。専門を持つ人々の手つきから未来の形を立ち上げていく短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chronista",
+    "title": "クロニスタ",
+    "titleKana": "くろにすた",
+    "authorIds": [
+      "shibata-katsuie"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "ai",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "自己相と呼ばれる認知を共有する技術が広まり、人の心が少しずつ平均化されていく近未来。軍に属する人類学者のシズマは、その仕組みからこぼれ落ちた異彩の少女と出会う。共有されない記憶を持つとはどういうことなのか。人類学者としての観察と、当事者としての関わりのあいだで揺れながら、彼は少女とともに旅を続ける。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "greenhouse-at-the-end-of-the-earth",
+    "title": "地球の果ての温室で",
+    "titleKana": "ちきゅうのはてのおんしつで",
+    "authorIds": [
+      "kim-choyeop"
+    ],
+    "translatorIds": [
+      "kang-banghwa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "post-apocalypse",
+      "disaster",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2021,
+    "jpPublishedYear": 2023,
+    "originalTitle": "지구 끝의 온실",
+    "status": "completed",
+    "synopsis": "謎の蔓草モスバナが異常繁殖する土地を調査していた植物学者のアヨンは、そこで青い光が見えたという噂に心を惹かれる。幼い日に不思議な老婆の温室で見たものと重なったからだ。モスバナの正体を追ううち、彼女は世界を覆った大厄災の時代を生き延びた女性たちの存在にたどりつく。植物と記憶をたどりながら破局のあとを描く長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kono-sekai-kara-wa",
+    "title": "この世界からは出ていくけれど",
+    "titleKana": "このせかいからはでていくけれど",
+    "authorIds": [
+      "kim-choyeop"
+    ],
+    "translatorIds": [
+      "kang-banghwa",
+      "yun-jiyoung"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "gender-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2021,
+    "jpPublishedYear": 2023,
+    "originalTitle": "방금 떠나온 세계",
+    "status": "completed",
+    "synopsis": "人より何十倍も遅い時間のなかで生きる姉との葛藤を描く一編をはじめ、社会の多数派と少数派が共存を試みる七つの物語を収める。見えかたも速さも違う相手と、それでも同じ場所にいようとするとき何が起こるのか。技術が生み出す差異を切り捨てずに引き受けようとする姿勢が、どの編にも一貫して流れている短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "holonic-girl",
+    "title": "ホロニック：ガール",
+    "titleKana": "ほろにっくがーる",
+    "authorIds": [
+      "takashima-yuya"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "virtual-reality",
+      "juvenile",
+      "hard-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "九月一日、新学期を迎えた舞浜南高校で、一年生の守凪了子は謎めいた転校生とともに演劇の稽古をはじめる。深まる秋の空気のなか、いつも通りの学園生活を演じる彼女たち。だが宇宙の規模で進む破滅の危機は、すぐそこまで迫っていた。アニメ『ゼーガペイン』のその後を書き下ろした公式のスピンオフ長編である。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hajimari-no-ao",
+    "title": "はじまりの青",
+    "titleKana": "はじまりのあお",
+    "authorIds": [
+      "takashima-yuya"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "post-apocalypse",
+      "disaster",
+      "ai"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "西暦二〇九九年、九歳のエリロスとアイが暮らす超高層都市を、人体を蝕む青い雨が襲った。生き延びた彼女たちとその子孫は、変わり果てた地上を捨てて地下に生存の場を求め、新しい形の文明を築こうと試みる。映像作品と遊戯で展開される大型企画の、その始まりにあたる時代を描いた公式の長編である。地上を追われた人類が機械の相棒とともに暮らすまでの、失われた百年が語られていく。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jiku-sodatsu",
+    "title": "時空争奪",
+    "titleKana": "じくうそうだつ",
+    "authorIds": [
+      "kobayashi-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "short-stories",
+      "virtual-reality",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "川はどこから始まるのか。その問答を起点にして、宇宙の恐るべき成り立ちを暴き出していく表題作。算盤とメモ用紙だけでできた仮想世界に生きる者たちの悲劇を描く一編。あなたがいるのは仮想世界のなかだが、それは計算機のなかではない。奇想を論理でどこまでも押し切る著者ならではの六編を収める短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
