@@ -28883,5 +28883,176 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "thrice-upon-a-time",
+    "title": "未来からのホットライン",
+    "titleKana": "みらいからのほっとらいん",
+    "authorIds": [
+      "james-p-hogan"
+    ],
+    "translatorIds": [
+      "kosumi-rei"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "time-travel",
+      "hard-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1980,
+    "jpPublishedYear": 1983,
+    "originalTitle": "Thrice Upon a Time",
+    "status": "completed",
+    "synopsis": "スコットランドの寒村の古城で暮らすノーベル賞物理学者が、地下の実験室である装置を完成させた。六十秒前の自分へ、六文字までの言葉を送れる仕組みである。孫たちとともに実験を重ねるうち、彼らは届いた言葉をあえて送り返さないという選択をしてみた。何も起きないのか、それとも。時間通信を緻密に描いた大胆な長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "leve-future",
+    "title": "未来のイヴ",
+    "titleKana": "みらいのいゔ",
+    "authorIds": [
+      "villiers-de-lisle-adam"
+    ],
+    "translatorIds": [
+      "watanabe-kazuo"
+    ],
+    "publisherId": "iwanami-shoten",
+    "themeIds": [
+      "robot",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1886,
+    "jpPublishedYear": 1939,
+    "originalTitle": "L'Ève future",
+    "status": "completed",
+    "synopsis": "魅惑的な美貌と肉体を持つアリシアを恋人としたエウォルド卿は、やがて彼女のあまりの軽薄さに幻滅してしまう。絶望の淵にあった彼に手を差しのべたのは、発明家のエジソンだった。エジソンはついに、アリシアを完璧に模した肉体に高貴な魂をそなえた機械人間を生み出す。アンドロイドという語を広めた、人造人間ものの源流である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/未来のイヴ"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "les-particules-elementaires",
+    "title": "素粒子",
+    "titleKana": "そりゅうし",
+    "authorIds": [
+      "michel-houellebecq"
+    ],
+    "translatorIds": [
+      "nozaki-kan"
+    ],
+    "publisherId": "chikumashobo",
+    "themeIds": [
+      "genetic-engineering",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1998,
+    "jpPublishedYear": 2001,
+    "originalTitle": "Les Particules élémentaires",
+    "status": "completed",
+    "synopsis": "文学青年くずれの国語教師ブリュノと、ノーベル賞級の分子生物学者ミシェル。母に捨てられた異父兄弟の二つの人生をたどりながら、希薄で怠惰な現代世界の一面を透明な筆致で描き上げる。孤独の極北に揺曳する絶望的な愛と、遺伝子操作によって人類そのものを作り替えるという結末。充溢する官能と悲哀が胸を刺す長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/素粒子 (小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dreamcatcher",
+    "title": "ドリームキャッチャー",
+    "titleKana": "どりーむきゃっちゃー",
+    "authorIds": [
+      "stephen-king"
+    ],
+    "translatorIds": [
+      "shiraishi-akira"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "alien",
+      "disaster",
+      "esper"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2001,
+    "jpPublishedYear": 2003,
+    "originalTitle": "Dreamcatcher",
+    "status": "completed",
+    "volumeCount": 4,
+    "synopsis": "少年の頃に不思議な力を持つ友人と出会い、そのおかげで特別な能力を得た四人の男たち。大人になった彼らが毎年の恒例として集まった雪深い狩猟小屋に、道に迷った男が転がり込んでくる。男の体には、地球の生物ではない何かが宿っていた。身体の乗っ取りと異星からの侵略を、著者が交通事故からの療養中に手書きで綴った長編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ドリームキャッチャー (小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "berserker",
+    "title": "バーサーカー",
+    "titleKana": "ばーさーかー",
+    "authorIds": [
+      "fred-saberhagen"
+    ],
+    "translatorIds": [
+      "okabe-hiroyuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "robot",
+      "military-sf"
+    ],
+    "seriesName": "バーサーカー",
+    "origin": "overseas",
+    "firstPublishedYear": 1967,
+    "jpPublishedYear": 1973,
+    "originalTitle": "Berserker",
+    "status": "completed",
+    "synopsis": "はるか昔に滅びた文明が残した、あらゆる生命を滅ぼすためだけに造られた自律の殺戮機械。人類はそれを北欧神話の狂戦士にちなんでバーサーカーと呼んだ。相手には憎しみも慈悲もなく、ただ生命を消すという命令だけがある。知性を持たない敵とどう戦うのかを、宇宙船の一室から惑星の地表まで、さまざまな状況を通して描き出していく連作である。人間の側の弱さや迷いこそが勝ち筋になる、という逆説が全編を貫いている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/バーサーカー (セイバーヘーゲン)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-iron-dream",
+    "title": "鉄の夢",
+    "titleKana": "てつのゆめ",
+    "authorIds": [
+      "norman-spinrad"
+    ],
+    "translatorIds": [
+      "aramata-hiroshi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alternate-history",
+      "satire-sf",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1972,
+    "jpPublishedYear": 1980,
+    "originalTitle": "The Iron Dream",
+    "status": "completed",
+    "synopsis": "作品全体が、SF作家アドルフ・ヒトラーの遺作『鉤十字の帝王』第二版という体裁をとっている。画家になりそこねてアメリカへ渡り、パルプ雑誌の書き手になったヒトラーが書いたであろう英雄譚。その荒唐無稽な筋書きが、そのまま現実の歴史を裏返して見せる。ネビュラ賞候補となり、フランスのアポロ賞を受けたメタフィクションである。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鉄の夢"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]

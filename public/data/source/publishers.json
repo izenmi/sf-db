@@ -789,5 +789,29 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chikumashobo",
+    "name": "筑摩書房",
+    "nameKana": "ちくましょぼう",
+    "description": "1940年創業の出版社。",
+    "foundedYear": 1940,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/筑摩書房"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "iwanami-shoten",
+    "name": "岩波書店",
+    "nameKana": "いわなみしょてん",
+    "description": "1913年創業の出版社。",
+    "foundedYear": 1913,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岩波書店"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で社史を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

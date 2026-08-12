@@ -3994,5 +3994,53 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "villiers-de-lisle-adam",
+    "name": "ヴィリエ・ド・リラダン",
+    "nameKana": "りらだんゔぃりえど",
+    "description": "フランスの作家。象徴主義の先駆とされ、人造人間という主題を先取りした。",
+    "birthYear": 1838,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ヴィリエ・ド・リラダン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "michel-houellebecq",
+    "name": "ミシェル・ウエルベック",
+    "nameKana": "うえるべっくみしぇる",
+    "description": "フランスの作家・詩人。現代社会の孤独を冷徹な筆致で描く。",
+    "birthYear": 1956,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ミシェル・ウエルベック"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "norman-spinrad",
+    "name": "ノーマン・スピンラッド",
+    "nameKana": "すぴんらっどのーまん",
+    "description": "アメリカの作家。ニューウェーブSFの旗手のひとりで、political SFの書き手。",
+    "birthYear": 1940,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ノーマン・スピンラッド"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fred-saberhagen",
+    "name": "フレッド・セイバーヘーゲン",
+    "nameKana": "せいばーへーげんふれっど",
+    "description": "アメリカの作家。殺戮機械〈バーサーカー〉の連作で知られる。",
+    "birthYear": 1930,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/フレッド・セイバーヘーゲン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

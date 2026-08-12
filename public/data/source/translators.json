@@ -1557,5 +1557,38 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "watanabe-kazuo",
+    "name": "渡辺一夫",
+    "nameKana": "わたなべかずお",
+    "description": "フランス文学者。東京大学教授としてラブレー研究で知られた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/渡辺一夫"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nozaki-kan",
+    "name": "野崎歓",
+    "nameKana": "のざきかん",
+    "description": "フランス文学者・翻訳家。東京大学名誉教授。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/野崎歓"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "aramata-hiroshi",
+    "name": "荒俣宏",
+    "nameKana": "あらまたひろし",
+    "description": "作家・博物学者・翻訳家。幻想文学と博物学の紹介者として知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/荒俣宏"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
