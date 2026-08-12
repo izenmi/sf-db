@@ -24316,5 +24316,205 @@
     },
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "seisoken-no-bohyo",
+    "title": "成層圏の墓標",
+    "titleKana": "せいそうけんのぼひょう",
+    "authorIds": [
+      "ueda-sayuri"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "short-stories",
+      "disaster",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2025,
+    "status": "completed",
+    "synopsis": "雨が夜にしか降らなくなった都市を描く表題作をはじめ、化石を商う店の少女と夜の影、封じられた明日、龍たちの裔が星を呑む話、そして書き下ろしの二編まで、全十編を収める。海洋SFから伝奇まで幅広く書いてきた著者の持ち味が、短い形式のなかにいっそう濃く凝縮されている。生き物の造形と、都市の変質と、人の記憶。三つの関心がどの編にも顔を出す一冊である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "genei-no-kosei",
+    "title": "幻影の構成",
+    "titleKana": "げんえいのこうせい",
+    "authorIds": [
+      "mayumura-taku"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "dystopia",
+      "ai",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1966,
+    "status": "completed",
+    "synopsis": "娯楽も報道も労働も、そして食事までもが計算機の体系イミジェックスによって提供される第八都市。そこから絶えず届く情報に身を任せていれば幸せに生きられる、と人々は思わされていた。洗脳はきわめて効果的で、そこにないものをあると思わせ、都合の悪い存在を見えなくすることさえできる。管理社会を早くから描いた長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jun-b-kyu-shimin",
+    "title": "準B級市民",
+    "titleKana": "じゅんびーきゅうしみん",
+    "authorIds": [
+      "mayumura-taku"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "space-development",
+      "robot"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1965,
+    "status": "completed",
+    "synopsis": "自分の着想を提供するだけで、立派な地位と高い報酬を得られる職業、アイデアマン。だが〈ぼく〉は評価が芳しくなく、失業すれすれのところにいた。最後になるかもしれない仕事、水星での駐在をうまくこなさねばならない。そこへ作業ロボットの失踪事件が起きる。原因を探りに現地へ向かった彼が見つけたものとは。初期の短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "waga-sexoid",
+    "title": "わがセクソイド",
+    "titleKana": "わがせくそいど",
+    "authorIds": [
+      "mayumura-taku"
+    ],
+    "translatorIds": [],
+    "publisherId": "rippu-shobo",
+    "themeIds": [
+      "satire-sf",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1969,
+    "status": "completed",
+    "synopsis": "未来という言葉に、彼はほとんどアレルギーに近い不信感を抱いていた。子どもの頃から叫ばれ続けた未来。その結果が今の世の中であり、自分のこんな暮らしなのではないか。それはいったい誰のための未来なのか。時代に即して器用に立ち回ることのできない男を通して、合理化を推し進める社会への疑問を描き出した長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "katamuita-chiheisen",
+    "title": "傾いた地平線",
+    "titleKana": "かたむいたちへいせん",
+    "authorIds": [
+      "mayumura-taku"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "parallel-world",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1981,
+    "status": "completed",
+    "synopsis": "SF作家の〈ぼく〉が収録のため放送局の昇降機に乗り込むと、降りた先にあったのはスタジオではなく、かつて一般社員として勤めていた会社だった。しかもいつの間にか資材部次長になっており、亡くなったはずの同級生が生きている。その後も二か月ごとに別の人生へ移っていく。自身の体験も織り交ぜて並行世界を描く長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ikyo-henge",
+    "title": "異郷変化",
+    "titleKana": "いきょうへんげ",
+    "authorIds": [
+      "mayumura-taku"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "sf-fantasy"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1976,
+    "status": "completed",
+    "synopsis": "須磨のあちこちには、まだ木の精や草の精がいっぱい生きている。そんな精がときどき悪戯をして、人間を引っ張り込むのだ。観光案内を買って出たフリーのアナウンサーが実は木の精だった一編、着想に詰まった作家をかつての思い人が救う一編。自分の可能性を信じていたはずなのに、いつのまにか冒険心を手放してしまった大人たちに向けて、忘れかけていた情熱を呼び起こす短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "private-seikan-senso",
+    "title": "プライベートな星間戦争",
+    "titleKana": "ぷらいべーとなせいかんせんそう",
+    "authorIds": [
+      "morioka-hiroyuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "seikaisha",
+    "themeIds": [
+      "space-opera",
+      "military-sf",
+      "far-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2023,
+    "status": "completed",
+    "synopsis": "人類が技術の力によって半神へと進化した近未来、天使たちは神を狙う悪魔との決戦に備えていた。新人天使のエスクは天使城の指令に従い、宇宙空間に襲来する悪魔と戦う。だが神の命令に、言い知れない違和感を覚えはじめる。星雲賞と日本SF大賞を受けてきた著者が、久しぶりに放つスペースオペラの長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yasashii-rengoku",
+    "title": "優しい煉獄",
+    "titleKana": "やさしいれんごく",
+    "authorIds": [
+      "morioka-hiroyuki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "virtual-reality",
+      "ai",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2005,
+    "status": "completed",
+    "synopsis": "おれの名は朽網康雄、この街でただひとりの探偵だ。喫茶店でハードボイルドを読みながら飲むコーヒーは最高である。この世界は、生前の記憶と人格を保ったままの連中が住む電脳空間、いわゆる死後の世界だ。昭和の末期を再構築した町なので通信網も携帯電話もない。だが日々現実らしくなるにつれ、ついに犯罪までが可能になっていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dokeshi-no-cho",
+    "title": "道化師の蝶",
+    "titleKana": "どうけしのちょう",
+    "authorIds": [
+      "enjoe-toh"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "language-sf",
+      "denki-sf",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "無活用ラテン語で書かれた小説のなかで道化師と名指された実業家のエイブラムス氏。その作者である友幸友幸は、潤沢な資金と人員を投じた追跡をよそに転居を繰り返し、行く先々の言葉で書かれた原稿を残していく。言語をめぐる物語が幾重にも織り上げられていく、芥川賞を受けた中編である。「松ノ枝の記」を併録する。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/道化師の蝶"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
