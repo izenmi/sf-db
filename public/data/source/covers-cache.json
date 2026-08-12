@@ -302,6 +302,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T04:56:44.765Z"
   },
+  "anvil-of-stars": {
+    "title": "天界の殺戮",
+    "isbn": null,
+    "matchedTitle": "天界の殺戮　上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5267/2000012905267.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rk/0b3fed38528a313ebd3c4285bcf16af5/",
+    "source": "rakuten-kobo",
+    "note": "電子版上巻の書影を採用"
+  },
   "anzen-no-card": {
     "title": "安全のカード",
     "isbn": "9784101098395",
@@ -597,6 +606,14 @@
     "resolvedAt": "2026-08-11T04:39:15.825Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12475183/"
   },
+  "blood-music": {
+    "title": "ブラッド・ミュージック",
+    "isbn": null,
+    "matchedTitle": "ブラッド・ミュージック",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4706/2000003664706.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:23:47.692Z"
+  },
   "bloodchild": {
     "title": "血を分けた子ども",
     "isbn": "9784309208558",
@@ -750,6 +767,12 @@
     "resolvedAt": "2026-08-12T02:32:07.666Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/73348/"
   },
+  "cell-king": {
+    "title": "セル",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:26:48.273Z"
+  },
   "chi-niwa-heiwa-o": {
     "title": "地には平和を",
     "isbn": "9784041086087",
@@ -876,6 +899,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T10:45:55.211Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17785928/"
+  },
+  "citizen-of-the-galaxy": {
+    "title": "銀河市民",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:23:19.783Z"
   },
   "city-and-the-city": {
     "title": "都市と都市",
@@ -2247,6 +2276,12 @@
     "resolvedAt": "2026-08-12T02:31:34.889Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5862617/"
   },
+  "heads-bear": {
+    "title": "凍月",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:24:08.217Z"
+  },
   "healers-war": {
     "title": "治療者の戦争",
     "isbn": null,
@@ -2705,6 +2740,14 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8733/2000000218733.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T03:41:25.969Z"
+  },
+  "islands-in-the-sky": {
+    "title": "宇宙島へ行く少年",
+    "isbn": null,
+    "matchedTitle": "宇宙島へ行く少年",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7234/2000000117234.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:22:18.197Z"
   },
   "itezaza-no-kaoru-natsu": {
     "title": "射手座の香る夏",
@@ -4507,6 +4550,20 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T23:10:28.641Z"
   },
+  "player-piano": {
+    "title": "プレイヤー・ピアノ",
+    "isbn": null,
+    "matchedTitle": "プレイヤー・ピアノ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/4869/2000000214869.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:23:41.714Z"
+  },
+  "podkayne-of-mars": {
+    "title": "天翔る少女",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:23:33.285Z"
+  },
   "polyphonic-illusion": {
     "title": "ポリフォニック・イリュージョン",
     "isbn": "9784309026695",
@@ -4515,6 +4572,21 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T05:06:46.471Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15441172/"
+  },
+  "prelude-to-space": {
+    "title": "宇宙への序曲",
+    "isbn": "9784150120290",
+    "matchedTitle": "宇宙への序曲〔新訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0290/9784150120290.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T06:22:14.660Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13363969/"
+  },
+  "prey-crichton": {
+    "title": "プレイ 獲物",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:25:44.373Z"
   },
   "prism-kambayashi": {
     "title": "プリズム",
@@ -4711,6 +4783,12 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T04:33:43.033Z"
   },
+  "ringworlds-children": {
+    "title": "リングワールドの子供たち",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:25:01.923Z"
+  },
   "rise-of-endymion": {
     "title": "エンディミオンの覚醒",
     "isbn": null,
@@ -4724,6 +4802,12 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:37:53.168Z"
+  },
+  "robots-and-empire": {
+    "title": "ロボットと帝国",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:22:56.739Z"
   },
   "rokujikan-go-ni": {
     "title": "6時間後に君は死ぬ",
@@ -5196,6 +5280,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T04:32:31.054Z"
   },
+  "slaughterhouse-five": {
+    "title": "スローターハウス5",
+    "isbn": "9784150103026",
+    "matchedTitle": "スローターハウス5",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3026/9784150103026.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T06:23:38.092Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/49021/"
+  },
   "sleeping-giants": {
     "title": "巨神計画",
     "isbn": null,
@@ -5209,6 +5302,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:42:46.150Z"
+  },
+  "snow-crash": {
+    "title": "スノウ・クラッシュ",
+    "isbn": "9784150123543",
+    "matchedTitle": "スノウ・クラッシュ〔新版〕 上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3543/9784150123543_1_18.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T06:26:07.705Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16957124/"
   },
   "snow-queen-vinge": {
     "title": "雪の女王",
@@ -5319,6 +5421,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T09:43:58.522Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5928935/"
+  },
+  "sphere-crichton": {
+    "title": "スフィア 球体",
+    "isbn": null,
+    "matchedTitle": "スフィアー球体ー（上）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8224/2000002418224.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rk/b50cb2e8d8dd343f94edd7abe7a1c7cf/",
+    "source": "rakuten-kobo",
+    "note": "電子版上巻の書影を採用"
   },
   "spin": {
     "title": "時間封鎖",
@@ -5667,6 +5778,22 @@
     "resolvedAt": "2026-08-12T03:08:47.139Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5774724/"
   },
+  "the-caves-of-steel": {
+    "title": "鋼鉄都市",
+    "isbn": null,
+    "matchedTitle": "鋼鉄都市",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5869/2000002415869.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:22:22.091Z"
+  },
+  "the-city-and-the-stars": {
+    "title": "都市と星",
+    "isbn": null,
+    "matchedTitle": "都市と星（新訳版）",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/8063/2000000218063.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:22:13.476Z"
+  },
   "the-cyberiad": {
     "title": "宇宙創世記ロボットの旅",
     "isbn": "9784336071354",
@@ -5703,6 +5830,15 @@
     "resolvedAt": "2026-08-12T03:37:09.947Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14537241/"
   },
+  "the-forge-of-god": {
+    "title": "天空の劫火",
+    "isbn": null,
+    "matchedTitle": "天空の劫火　上",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/5273/2000012905273.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rk/c256f3a28e013bdb93210335675a4258/",
+    "source": "rakuten-kobo",
+    "note": "電子版上巻の書影を採用"
+  },
   "the-freeze-frame-revolution": {
     "title": "6600万年の革命",
     "isbn": "9784488746063",
@@ -5711,6 +5847,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T03:36:49.988Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16543807/"
+  },
+  "the-futurological-congress": {
+    "title": "泰平ヨンの未来学会議",
+    "isbn": "9784150120092",
+    "matchedTitle": "泰平ヨンの未来学会議〔改訳版〕",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0092/9784150120092.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T06:23:44.084Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13251759/"
   },
   "the-ghost-brigades": {
     "title": "遠すぎた星",
@@ -5801,6 +5946,12 @@
     "source": "bookwalker",
     "resolvedAt": "2026-08-12T04:09:08.603Z"
   },
+  "the-lost-world-crichton": {
+    "title": "ロスト・ワールド",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:26:06.502Z"
+  },
   "the-magellanic-cloud": {
     "title": "マゼラン雲",
     "isbn": "9784336071323",
@@ -5877,6 +6028,18 @@
     "resolvedAt": "2026-08-12T04:09:10.015Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1698771/"
   },
+  "the-ringworld-engineers": {
+    "title": "リングワールドふたたび",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:24:30.494Z"
+  },
+  "the-ringworld-throne": {
+    "title": "リングワールドの玉座",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:24:40.653Z"
+  },
   "the-road": {
     "title": "ザ・ロード",
     "isbn": "9784151200601",
@@ -5885,6 +6048,12 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T23:51:06.105Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/6489573/"
+  },
+  "the-robots-of-dawn": {
+    "title": "夜明けのロボット",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:22:37.590Z"
   },
   "the-separation": {
     "title": "双生児",
@@ -6009,6 +6178,14 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T04:40:17.184Z"
+  },
+  "time-enough-for-love": {
+    "title": "愛に時間を",
+    "isbn": null,
+    "matchedTitle": "愛に時間を　１",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/1123/2000000101123.jpg?_ex=200x200",
+    "source": "kobo",
+    "resolvedAt": "2026-08-12T06:23:36.915Z"
   },
   "time-migration": {
     "title": "時間移民",
@@ -6194,6 +6371,12 @@
     "resolvedAt": "2026-08-11T10:45:49.412Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16457464/"
   },
+  "true-names": {
+    "title": "マイクロチップの魔術師",
+    "isbn": null,
+    "coverUrl": null,
+    "resolvedAt": "2026-08-12T06:26:26.704Z"
+  },
   "tsubaki-tokitobi": {
     "title": "つばき、時跳び",
     "isbn": "9784582767032",
@@ -6270,6 +6453,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T04:09:17.241Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17569069/"
+  },
+  "ubik": {
+    "title": "ユービック",
+    "isbn": "9784150103149",
+    "matchedTitle": "ユービック",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3149/9784150103149.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T06:23:42.916Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/92621/"
   },
   "uchu-no-haru": {
     "title": "宇宙の春",
