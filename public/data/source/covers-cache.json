@@ -532,6 +532,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:34:48.466Z"
   },
+  "blue-planet-sasamoto": {
+    "title": "ブルー・プラネット",
+    "isbn": "9784488741136",
+    "matchedTitle": "ブルー・プラネット",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1136/9784488741136.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:37.957Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17106181/"
+  },
   "bokko-chan": {
     "title": "ボッコちゃん",
     "isbn": "9784101098012",
@@ -710,6 +719,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/7227/2000002507227.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T12:22:36.477Z"
+  },
+  "chronista": {
+    "title": "クロニスタ",
+    "isbn": "9784150312220",
+    "matchedTitle": "クロニスタ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2220/9784150312220.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:27.616Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13834244/"
   },
   "chronoliths": {
     "title": "クロノリス 時の碑",
@@ -1766,6 +1784,15 @@
     "resolvedAt": "2026-08-12T00:29:28.819Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16665727/"
   },
+  "greenhouse-at-the-end-of-the-earth": {
+    "title": "地球の果ての温室で",
+    "isbn": "9784152102010",
+    "matchedTitle": "地球の果ての温室で",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2010/9784152102010_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:28.776Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17353122/"
+  },
   "guin-saga": {
     "title": "グイン・サーガ",
     "isbn": null,
@@ -1825,6 +1852,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T21:31:30.482Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13154444/"
+  },
+  "hajimari-no-ao": {
+    "title": "はじまりの青",
+    "isbn": "9784488785031",
+    "matchedTitle": "はじまりの青",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5031/9784488785031_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:32.184Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17771952/"
   },
   "hametsu-no-o": {
     "title": "破滅の王",
@@ -1916,6 +1952,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T13:32:06.974Z"
   },
+  "high-frontier": {
+    "title": "ハイ・フロンティア",
+    "isbn": "9784488741129",
+    "matchedTitle": "ハイ・フロンティア",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1129/9784488741129_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:36.793Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17003590/"
+  },
   "hikari-no-hayasa": {
     "title": "わたしたちが光の速さで進めないなら",
     "isbn": "9784150415334",
@@ -1966,6 +2011,15 @@
     "resolvedAt": "2026-08-11T12:24:02.968Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17064161/"
   },
+  "holonic-girl": {
+    "title": "ホロニック：ガール",
+    "isbn": "9784488785048",
+    "matchedTitle": "ホロニック：ガール",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5048/9784488785048_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:31.073Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17890224/"
+  },
   "hominids": {
     "title": "ホミニッド―原人―",
     "isbn": null,
@@ -2014,6 +2068,24 @@
     "resolvedAt": "2026-08-11T03:42:02.595Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13134638/"
   },
+  "hoshi-no-kokaisha": {
+    "title": "星の航海者",
+    "isbn": "9784488741143",
+    "matchedTitle": "星の航海者1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1143/9784488741143_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:39.108Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17412045/"
+  },
+  "hoshi-no-pilot": {
+    "title": "星のパイロット",
+    "isbn": "9784488741099",
+    "matchedTitle": "星のパイロット",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1099/9784488741099_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:35.638Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16865274/"
+  },
   "hoshi-o-tsukuru-monotachi": {
     "title": "星を創る者たち",
     "isbn": null,
@@ -2021,6 +2093,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/9167/2000006079167.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T12:23:33.874Z"
+  },
+  "hoshi-wa-subaru": {
+    "title": "星は、昴",
+    "isbn": "9784150305864",
+    "matchedTitle": "星は、昴",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/914446/",
+    "source": "rakuten-books",
+    "note": "読点入りの題で自動取得が外れたため手当て"
   },
   "hotel-arcadia": {
     "title": "ホテル・アルカディア",
@@ -2248,6 +2329,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T10:46:43.669Z"
   },
+  "jiku-sodatsu": {
+    "title": "時空争奪",
+    "isbn": "9784488775018",
+    "matchedTitle": "時空争奪",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5018/9784488775018_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:33.329Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17801938/"
+  },
   "jinko-chino-de-10-oku": {
     "title": "人工知能で10億ゲットする完全犯罪マニュアル",
     "isbn": "9784150314576",
@@ -2292,6 +2382,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T04:40:33.944Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12283469/"
+  },
+  "joshikosei-liftoff": {
+    "title": "女子高生、リフトオフ！",
+    "isbn": "9784150311360",
+    "matchedTitle": "女子高生、リフトオフ！",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1360/9784150311360.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:44.833Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12522770/"
   },
   "jukan-wakusei": {
     "title": "樹環惑星 ダイビング・オパリア",
@@ -2382,6 +2481,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T12:22:39.962Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4229896/"
+  },
+  "kamigami-no-hoho": {
+    "title": "神々の歩法",
+    "isbn": "9784488018467",
+    "matchedTitle": "神々の歩法",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8467/9784488018467_1_3.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:25.310Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/17137659/"
   },
   "kamigari-2": {
     "title": "神狩り2 リッパー",
@@ -2585,6 +2693,24 @@
     "resolvedAt": "2026-08-11T22:37:52.406Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16776144/"
   },
+  "kiryu-keisatsu-jibaku-jokou": {
+    "title": "機龍警察 自爆条項",
+    "isbn": "9784152092410",
+    "matchedTitle": "機龍警察　自爆条項",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2410/9784152092410.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:41.403Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11340339/"
+  },
+  "kiryu-keisatsu-kataku": {
+    "title": "機龍警察 火宅",
+    "isbn": "9784152095091",
+    "matchedTitle": "機龍警察　火宅",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5091/9784152095091.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:43.693Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13049044/"
+  },
   "kiryu-keisatsu-mibo-ryodan": {
     "title": "機龍警察 未亡旅団",
     "isbn": "9784152094315",
@@ -2593,6 +2719,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T21:31:29.322Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12610968/"
+  },
+  "kiryu-keisatsu-rogan-sasshu": {
+    "title": "機龍警察 狼眼殺手",
+    "isbn": "9784152097095",
+    "matchedTitle": "機龍警察　狼眼殺手",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7095/9784152097095.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:42.547Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15096613/"
   },
   "kiseki-nasu-monotachi": {
     "title": "奇跡なす者たち",
@@ -2669,6 +2804,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-12T00:30:19.232Z"
   },
+  "kono-sekai-kara-wa": {
+    "title": "この世界からは出ていくけれど",
+    "isbn": "9784150415426",
+    "matchedTitle": "この世界からは出ていくけれど",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/5426/9784150415426_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:29.920Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18299187/"
+  },
   "kore-wa-pen-desu": {
     "title": "これはペンです",
     "isbn": "9784101257716",
@@ -2686,6 +2830,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T03:43:59.187Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/12212028/"
+  },
+  "kosakukan-mamiya": {
+    "title": "工作艦間宮の戦争",
+    "isbn": "9784152097705",
+    "matchedTitle": "工作艦間宮の戦争",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7705/9784152097705.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:55.217Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15414054/"
   },
   "kosei-teki-sento-kihan": {
     "title": "公正的戦闘規範",
@@ -2936,6 +3089,15 @@
     "source": "kobo",
     "resolvedAt": "2026-08-11T10:46:20.587Z"
   },
+  "mardock-anonymous": {
+    "title": "マルドゥック・アノニマス",
+    "isbn": "9784150312237",
+    "matchedTitle": "マルドゥック・アノニマス 1",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/2237/9784150312237.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:40.256Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13834243/"
+  },
   "mardock-scramble": {
     "title": "マルドゥック・スクランブル",
     "isbn": "9784152091536",
@@ -2978,6 +3140,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T01:55:42.164Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15239/"
+  },
+  "marude-wataridori-no-yoni": {
+    "title": "まるで渡り鳥のように",
+    "isbn": "9784488018474",
+    "matchedTitle": "まるで渡り鳥のように",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/8474/9784488018474_1_6.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:26.448Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18018768/"
   },
   "mazeruna-kiken": {
     "title": "まぜるな危険",
@@ -3071,6 +3242,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-12T02:31:30.238Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18035363/"
+  },
+  "mizu-no-tsuki": {
+    "title": "不見の月 博物館惑星2",
+    "isbn": "9784150314828",
+    "matchedTitle": "不見【みず】の月　博物館惑星2",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4828/9784150314828.jpg?_ex=400x400",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16660845/",
+    "source": "rakuten-books",
+    "note": "ハヤカワ文庫JA版の書影を採用(題の外字で自動取得が外れたため)"
   },
   "mizuchi": {
     "title": "水霊 ミヅチ",
@@ -3693,6 +3873,15 @@
     "resolvedAt": "2026-08-11T23:50:36.165Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/1703174/"
   },
+  "plastic-no-koibito": {
+    "title": "プラスチックの恋人",
+    "isbn": "9784152097361",
+    "matchedTitle": "プラスチックの恋人",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7361/9784152097361.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:49.473Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15238946/"
+  },
   "player-of-games": {
     "title": "ゲーム・プレイヤー",
     "isbn": null,
@@ -3992,6 +4181,15 @@
     "resolvedAt": "2026-08-11T23:12:16.210Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15204173/"
   },
+  "schrodinger-no-chocolate-parfait": {
+    "title": "シュレディンガーのチョコパフェ",
+    "isbn": "9784150309145",
+    "matchedTitle": "シュレディンガーのチョコパフェ",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1503/15030914.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:50.625Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5332976/"
+  },
   "schrodinger-no-shojo": {
     "title": "シュレーディンガーの少女",
     "isbn": "9784488745028",
@@ -4165,6 +4363,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T23:12:53.847Z"
   },
+  "shiseikan": {
+    "title": "司政官",
+    "isbn": "9784150300661",
+    "matchedTitle": "司政官",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0661/9784150300661_1_2.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:52.919Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/37778/"
+  },
   "shisha-no-teikoku": {
     "title": "屍者の帝国",
     "isbn": "9784309021263",
@@ -4173,6 +4380,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T03:43:58.038Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11787231/"
+  },
+  "shizukana-shumatsu": {
+    "title": "静かな終末",
+    "isbn": "9784801924253",
+    "matchedTitle": "静かな終末",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4253/9784801924253.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:54.074Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16510480/"
   },
   "shometsu-no-korin": {
     "title": "消滅の光輪",
@@ -4262,6 +4478,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:47:19.267Z"
+  },
+  "soine-dreamer": {
+    "title": "そいねドリーマー",
+    "isbn": "9784150314651",
+    "matchedTitle": "そいねドリーマー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4651/9784150314651.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:24.163Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/16520385/"
   },
   "solaris": {
     "title": "ソラリス",
@@ -4621,6 +4846,15 @@
     "resolvedAt": "2026-08-11T13:06:22.914Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15140735/"
   },
+  "the-beyond-ford": {
+    "title": "緑のヴェール",
+    "isbn": "9784336050281",
+    "matchedTitle": "緑のヴェール",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/0281/9784336050281.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:47.139Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/5774724/"
+  },
   "the-cyberiad": {
     "title": "宇宙創世記ロボットの旅",
     "isbn": "9784336071354",
@@ -4712,6 +4946,15 @@
     "note": "新版の上下巻のため上巻の書影を採用。",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/13514839/"
   },
+  "the-memoranda": {
+    "title": "記憶の書",
+    "isbn": "9784336048127",
+    "matchedTitle": "記憶の書",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3360/33604812.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:45.996Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/4277537/"
+  },
   "the-postman": {
     "title": "ポストマン",
     "isbn": null,
@@ -4771,6 +5014,15 @@
     "isbn": null,
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:37:04.511Z"
+  },
+  "the-word-doll": {
+    "title": "言葉人形",
+    "isbn": "9784488016678",
+    "matchedTitle": "言葉人形",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6678/9784488016678.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:48.316Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/15689529/"
   },
   "there-and-back-again": {
     "title": "ノービットの冒険",
@@ -4915,6 +5167,15 @@
     "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/rakutenkobo-ebooks/cabinet/0279/2000006920279.jpg?_ex=200x200",
     "source": "kobo",
     "resolvedAt": "2026-08-11T21:30:37.039Z"
+  },
+  "toki-no-hate-no-february": {
+    "title": "時の果てのフェブラリー",
+    "isbn": "9784488737085",
+    "matchedTitle": "時の果てのフェブラリー",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7085/9784488737085_1_5.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:51.763Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18077667/"
   },
   "toki-wo-kakeru-shojo": {
     "title": "時をかける少女",
@@ -5241,6 +5502,15 @@
     "coverUrl": null,
     "resolvedAt": "2026-08-11T09:45:36.204Z"
   },
+  "wakusei-kazan-no-sakura": {
+    "title": "惑星カザンの桜",
+    "isbn": "9784488617110",
+    "matchedTitle": "惑星カザンの桜",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7110/9784488617110_1_7.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:09:14.598Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/18111628/"
+  },
   "ware-katarite-sekai-ari": {
     "title": "我語りて世界あり",
     "isbn": null,
@@ -5364,6 +5634,15 @@
     "source": "rakuten-books",
     "resolvedAt": "2026-08-11T01:58:15.276Z",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/14539606/"
+  },
+  "yosei-sakusen": {
+    "title": "妖精作戦",
+    "isbn": "9784488741013",
+    "matchedTitle": "妖精作戦",
+    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1013/9784488741013.jpg?_ex=400x400",
+    "source": "rakuten-books",
+    "resolvedAt": "2026-08-12T03:08:34.485Z",
+    "rakutenItemUrl": "https://books.rakuten.co.jp/rb/11282401/"
   },
   "yugami-shinju": {
     "title": "歪み真珠",
