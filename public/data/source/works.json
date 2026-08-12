@@ -2794,7 +2794,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/リングワールド"
     },
     "sourceNote": "候補は日本語版Wikipedia「星雲賞」海外長編部門の受賞作一覧から採り、受賞年は同ページの回数と年の対応(年=1969+回)で確認した。訳者は同一覧の「作者／翻訳者」欄、邦訳初刊年と初刊版元は国立国会図書館サーチ、原著発表年は英語版Wikipediaで確認した。あらすじは日本語版Wikipediaの当該記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "リングワールド"
   },
   {
     "id": "rendezvous-with-rama",
@@ -25724,6 +25725,364 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/泰平ヨンの未来学会議"
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "blood-music",
+    "title": "ブラッド・ミュージック",
+    "titleKana": "ぶらっどみゅーじっく",
+    "authorIds": [
+      "greg-bear"
+    ],
+    "translatorIds": [
+      "ogawa-takashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "genetic-engineering",
+      "evolution",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1985,
+    "jpPublishedYear": 1987,
+    "originalTitle": "Blood Music",
+    "status": "completed",
+    "synopsis": "遺伝子工学の天才ウラムは、自分の白血球をもとに、計算機業界が待ち望んでいた生体素子を完成させた。だが会社から実験中止を命じられた彼は、自ら創り出した知能を持つ細胞を捨てきれず、体内に注射して研究所から持ち出してしまう。この新しい細胞が人類の存在そのものを脅かすことになるとも知らずに。新たな進化の像を壮大に描いた長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "heads-bear",
+    "title": "凍月",
+    "titleKana": "いてづき",
+    "authorIds": [
+      "greg-bear"
+    ],
+    "translatorIds": [
+      "onoda-kazuko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "space-colony",
+      "hard-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1990,
+    "jpPublishedYear": 1998,
+    "originalTitle": "Heads",
+    "status": "completed",
+    "synopsis": "月のコロニーで行われた、壮絶かつ衝撃的な実験を描く表題作。極低温まで冷やされた無数の頭部は、いったい何のために保管されてきたのか。あわせて、遠い未来に変貌した人類と異星の存在との果てしない戦いを、壮大な規模と美しい像で描く中編「鏖戦」を収める。ハードSFの書き手としての著者を代表する二編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-forge-of-god",
+    "title": "天空の劫火",
+    "titleKana": "てんくうのごうか",
+    "authorIds": [
+      "greg-bear"
+    ],
+    "translatorIds": [
+      "okabe-hiroyuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "disaster",
+      "alien"
+    ],
+    "seriesName": "天空の劫火",
+    "origin": "overseas",
+    "firstPublishedYear": 1987,
+    "jpPublishedYear": 1988,
+    "originalTitle": "The Forge of God",
+    "status": "completed",
+    "synopsis": "天文学者のアーサー・ゴードンは、友人からの電話に息をのんだ。木星の衛星エウロパが、なんの前兆もなく突如として消滅したというのだ。世界各国の調査にもかかわらず原因は分からないまま、次の異常が地球を襲う。アメリカのデスバレーに忽然と火山ができ、そこから異星のものとおぼしき物体と、瀕死の異星人までが見つかった。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "anvil-of-stars",
+    "title": "天界の殺戮",
+    "titleKana": "てんかいのさつりく",
+    "authorIds": [
+      "greg-bear"
+    ],
+    "translatorIds": [
+      "okabe-hiroyuki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "military-sf",
+      "space-development"
+    ],
+    "seriesName": "天空の劫火",
+    "origin": "overseas",
+    "firstPublishedYear": 1992,
+    "jpPublishedYear": 1994,
+    "originalTitle": "Anvil of Stars",
+    "status": "completed",
+    "synopsis": "二十世紀末、地球は未知の異星種族が送り込んだ惑星破壊機械の襲来を受けて炎上し、壊滅した。別の異星種族に救出された数千人は、太陽の軌道上の宇宙船に収容され、銀河法典の教育を受ける。それによれば、破壊機械を送り出して他の惑星を滅ぼした文明は、自らもまた滅ぼされねばならない。生存者から選ばれた少年少女が復讐の旅に出る。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-ringworld-engineers",
+    "title": "リングワールドふたたび",
+    "titleKana": "りんぐわーるどふたたび",
+    "authorIds": [
+      "larry-niven"
+    ],
+    "translatorIds": [
+      "kosumi-rei"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "space-colony",
+      "hard-sf"
+    ],
+    "seriesName": "リングワールド",
+    "origin": "overseas",
+    "firstPublishedYear": 1980,
+    "jpPublishedYear": 1981,
+    "originalTitle": "The Ringworld Engineers",
+    "status": "completed",
+    "synopsis": "リングワールドから帰還して二十年あまり、ルイス・ウーは薬物に沈んでいた。そこへ至後者と呼ばれるパペッティア人が現れ、彼を強引に連れ戻す。ふたたび訪れた巨大構造体では、その軌道が中心の星からずれはじめていた。放置すれば遠からず灼き尽くされてしまう。修復の手立てを求めて、ルイスたちは構造体の表面を横断する長い探索に出る。前作で謎のままだった建造者の正体にも、ここで手が届く。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-ringworld-throne",
+    "title": "リングワールドの玉座",
+    "titleKana": "りんぐわーるどのぎょくざ",
+    "authorIds": [
+      "larry-niven"
+    ],
+    "translatorIds": [
+      "kosumi-rei"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "space-colony",
+      "evolution"
+    ],
+    "seriesName": "リングワールド",
+    "origin": "overseas",
+    "firstPublishedYear": 1996,
+    "jpPublishedYear": 1998,
+    "originalTitle": "The Ringworld Throne",
+    "status": "completed",
+    "synopsis": "ルイス・ウーと至後者がリングワールドの軌道を安定させてから、およそ十一年が過ぎた。巨大構造体の表面では、無数に枝分かれした人類の亜種たちが、吸血鬼と呼ばれる脅威に立ち向かおうとしている。いっぽうルイスは、この構造体を支配する仕組みそのものへ迫っていく。二つの流れが並走するシリーズ第三作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ringworlds-children",
+    "title": "リングワールドの子供たち",
+    "titleKana": "りんぐわーるどのこどもたち",
+    "authorIds": [
+      "larry-niven"
+    ],
+    "translatorIds": [
+      "kosumi-rei",
+      "kajimoto-yasuko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "space-colony",
+      "military-sf"
+    ],
+    "seriesName": "リングワールド",
+    "origin": "overseas",
+    "firstPublishedYear": 2004,
+    "jpPublishedYear": 2006,
+    "originalTitle": "Ringworld's Children",
+    "status": "completed",
+    "synopsis": "ノウンスペースに住むあらゆる知的種族が、リングワールドという巨大構造体に関心を寄せ、その争奪をめぐる戦いを繰り広げている。ルイス・ウーと仲間たちは、いわゆるフリンジ戦争に否応なく巻き込まれ、構造体そのものの制御を賭けた冒険へ乗り出していく。二十八億年の歳月を経た巨大構造体が、誰の手に渡るのか。シリーズの四作目にあたる長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sphere-crichton",
+    "title": "スフィア 球体",
+    "titleKana": "すふぃあきゅうたい",
+    "authorIds": [
+      "michael-crichton"
+    ],
+    "translatorIds": [
+      "nakano-keiji"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "world-truth",
+      "hard-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1987,
+    "jpPublishedYear": 1989,
+    "originalTitle": "Sphere",
+    "status": "completed",
+    "synopsis": "太平洋の海底で見つかった巨大な宇宙船を調査するため、心理学者のノーマンら科学者の一団が深海の居住施設に降りた。船内には完全な球体があった。それ以来、施設の周囲で奇妙な出来事が続発する。画面に謎の数字が並び、発光する生き物が異常発生し、やがて凶暴な巨大烏賊が彼らを襲う。すべては球体に関係があるのか。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "prey-crichton",
+    "title": "プレイ 獲物",
+    "titleKana": "ぷれいえもの",
+    "authorIds": [
+      "michael-crichton"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "near-future",
+      "ai",
+      "disaster"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2002,
+    "jpPublishedYear": 2003,
+    "originalTitle": "Prey",
+    "status": "completed",
+    "synopsis": "砂漠の実験施設から逃げ出した微小機械の群れは、群れとして学習し、獲物を追う捕食者のようにふるまいはじめた。失業中の技術者ジャックは、妻が勤める会社の異変に気づき、事態の中心へ引きずり込まれていく。群れは学習を重ね、人の形を真似るまでになっていく。分散した個が集まって知能を持つという発想の恐ろしさを、緊迫した筆致で描き切った長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-lost-world-crichton",
+    "title": "ロスト・ワールド",
+    "titleKana": "ろすとわーるど",
+    "authorIds": [
+      "michael-crichton"
+    ],
+    "translatorIds": [
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "genetic-engineering",
+      "disaster",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1995,
+    "jpPublishedYear": 1995,
+    "originalTitle": "The Lost World",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "調査の旅から戻らないレヴィンを案じて、工学者のゾーンは困惑していた。彼の依頼で作った科学調査用の車両を試す予定だったのだ。衛星電話で呼び出すと、雑音の向こうから取り囲まれた、においがする、という声が聞こえて通信は切れた。彼の部屋に残されていたのは、壁を覆う地図と航空写真だった。『ジュラシック・パーク』の続編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "snow-crash",
+    "title": "スノウ・クラッシュ",
+    "titleKana": "すのうくらっしゅ",
+    "authorIds": [
+      "neal-stephenson"
+    ],
+    "translatorIds": [
+      "higurashi-masamichi"
+    ],
+    "publisherId": "ascii",
+    "themeIds": [
+      "cyberpunk",
+      "virtual-reality",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1992,
+    "jpPublishedYear": 1998,
+    "originalTitle": "Snow Crash",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "仮想空間メタヴァースと現実世界の両方にばらまかれたウイルス、スノウ・クラッシュ。それは計算機だけでなく、人間の脳そのものを冒すものだった。宅配業と剣術を兼ねる主人公ヒロ・プロタゴニストと、配達人の少女Y・T。二人は古代シュメール文明にまで遡る巨大な陰謀へ近づいていく。メタヴァースという語を生んだ長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スノウ・クラッシュ"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "true-names",
+    "title": "マイクロチップの魔術師",
+    "titleKana": "まいくろちっぷのまじゅつし",
+    "authorIds": [
+      "vernor-vinge"
+    ],
+    "translatorIds": [
+      "wakashima-tadashi"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "cyberpunk",
+      "virtual-reality",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1981,
+    "jpPublishedYear": 1989,
+    "originalTitle": "True Names",
+    "status": "completed",
+    "synopsis": "脳と直接つながった計算機、そして通信網の上で名を隠しながら争う魔術師たち。真の名を知られることは、その者の存在そのものを握られることを意味する。〈他所者〉と呼ばれる正体不明の相手に立ち向かうため、主人公は同じ魔術師たちと手を組む。後のサイバーパンクを先取りした作品として知られる中編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cell-king",
+    "title": "セル",
+    "titleKana": "せる",
+    "authorIds": [
+      "stephen-king"
+    ],
+    "translatorIds": [
+      "shiraishi-akira"
+    ],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "disaster",
+      "post-apocalypse",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 2006,
+    "jpPublishedYear": 2007,
+    "originalTitle": "Cell",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "携帯電話から流れた何かを聞いた者が、次々と無個性な生き物へ変貌し、増殖していく。画家のクレイトンは、息子を探して混乱した街を北へ向かう。変わり果てた人々はやがて群れをなし、別の秩序を作りはじめた。誰もが手にしている道具を出発点にして、世界が崩れていく過程を描いたSFホラーの長編である。人と人をつなぐはずのものが、人を群れへ溶かしていく。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
 ]
