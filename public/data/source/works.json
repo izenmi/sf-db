@@ -26084,5 +26084,237 @@
     "externalLinks": {},
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kochira-nippon",
+    "title": "こちらニッポン…",
+    "titleKana": "こちらにっぽん",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-shimbunsha",
+    "themeIds": [
+      "post-apocalypse",
+      "disaster",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1977,
+    "status": "completed",
+    "synopsis": "突然四十億もの人間が消え失せるという驚異の現象が起きた。日本でも一億を超える人口のうち、残ったのはわずか二十五人である。消え残った人々のあいだには、泥酔して転倒したすえに失神していたという共通の型がおぼろげに見えてきた。異常が起きて十日目、彼らは東京に集まり協力し合うことになるが、そこにも軋轢は生まれる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/こちらニッポン…"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gosenzo-sama-banzai",
+    "title": "御先祖様万歳",
+    "titleKana": "ごせんぞさまばんざい",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "satire-sf",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1973,
+    "status": "completed",
+    "synopsis": "たった一枚の古ぼけた写真が、この大騒動の発端だった。失業して故郷へ帰っていた僕は、納戸で見つけた百年前の曾祖父の写真に驚いた。こともあろうに新幹線が写っているのである。これに刺激されて、僕は持ち山の神隠しの山の麓にある洞窟へ入ってみた。洞窟の向こう側では、百年前に我が家で謀議がこらされていた。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ashita-dorobo",
+    "title": "明日泥棒",
+    "titleKana": "あしたどろぼう",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "alien",
+      "satire-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1965,
+    "status": "completed",
+    "synopsis": "コンツワ、とそいつはいきなり背後から声をかけてきた。横浜の港が見える丘の上にひょっこり現れた、奇妙な日本語を喋る男である。古風な山高帽にモーニングの上着、小倉の袴といういでたちで、名をゴエモンと名乗った。その直後、日本全土からあらゆる音が消えてしまう。ゴエモンとは何者なのか、そして彼を利用しようとする者たちの思惑は。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kuchu-toshi-008",
+    "title": "空中都市008",
+    "titleKana": "くうちゅうとしぜろぜろえいと",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "juvenile",
+      "near-future",
+      "utopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1969,
+    "status": "completed",
+    "synopsis": "副題を「アオゾラ市のものがたり」という、未来都市を舞台にした児童向けの物語である。自動で動く乗り物、家事をこなす機械、天気を変える技術。当たり前になった未来の技術のなかで、子どもたちは何に驚き、何に困るのか。ノーベル化学賞を受けた田中耕一が、子どもの頃に愛読して科学者を志すきっかけになったと語る一冊である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/空中都市008"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kyomu-kairo",
+    "title": "虚無回廊",
+    "titleKana": "きょむかいろう",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "far-future",
+      "ai",
+      "first-contact"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1987,
+    "status": "completed",
+    "synopsis": "人工実存と呼ばれる存在HE2が地球との交信を絶ち、SSと名づけられた謎の超巨大人工天体と人類との接触は断絶した。だがHE2は自らの意志で、六つの仮想人格を駆使した探査を続けていた。彼らはSSが太陽系誕生のはるか以前から存在していたこと、そして複数の地球外生命が接触を試みていることを知る。未完のまま残された晩年の大作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/虚無回廊"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "zanzo-ni-kuchibeni-o",
+    "title": "残像に口紅を",
+    "titleKana": "ざんぞうにくちべにを",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "chuokoron-sha",
+    "themeIds": [
+      "language-sf",
+      "world-truth",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "「あ」が消えると、「愛」も「あなた」もこの世界から消えた。ひとつ、またひとつと使える音が失われていくなかで、小説家の佐治勝夫は執筆し、飲食し、人と交わり続ける。失われた音を含む言葉は、書くことも語ることもできない。制約を自らに課しながらそれでも書き進めていく、究極の実験的長編である。音がひとつ減るたびに世界からも物や人が消えていき、残された語彙だけで何が語れるのかが試されていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/残像に口紅を"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "zokubutsu-zukan",
+    "title": "俗物図鑑",
+    "titleKana": "ぞくぶつずかん",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "satire-sf",
+      "near-future",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1972,
+    "status": "completed",
+    "synopsis": "評論家だけを集めた風変わりな梁山泊が出現した。盗聴、横領、出歯亀、放火。世間でタブーとされる芸ばかりに秀でた俗物先生たちは、一躍マスコミの寵児にのし上がる。だが奔放な活躍ぶりは、やがて世間の良識という怪物の反撃に遭い、両者の壮烈な戦いがはじまった。人間に隠された悪への欲望と破壊衝動を描く長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "bigeiko",
+    "title": "美藝公",
+    "titleKana": "びげいこう",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "alternate-history",
+      "satire-sf",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "synopsis": "日本最大の産業が映画である、もうひとつの世界を描く表題作。北海道にソ連軍が攻めてきたという「歌と饒舌の戦記」。頁の上下左右で別々の話が同時に進む実験作や、意味を失った言語をめぐる一編など、貴重な短編と随筆を併せて収める。仮に日本が別の道を歩んでいたらどうなったかを、絢爛たる筆致で描いてみせた一冊である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dasso-to-tsuiseki-no-samba",
+    "title": "脱走と追跡のサンバ",
+    "titleKana": "だっそうとついせきのさんば",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "world-truth",
+      "satire-sf",
+      "parallel-world"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1971,
+    "status": "completed",
+    "synopsis": "どんなことがあっても脱走してやる。このいやらしい世界から逃げ出してやる。こんなところに閉じ込められてたまるものか。汚物の墓場の下水管を通り抜け、もとの世界からこちら側の世界へ入り込んでしまったおれは。情報による呪縛、時間による束縛、空間による圧迫にあえぐ現代をパロディにして、境界の揺らぎはじめた現実と虚構を疾走する長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/脱走と追跡のサンバ"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "minus-zero",
+    "title": "マイナス・ゼロ",
+    "titleKana": "まいなすぜろ",
+    "authorIds": [
+      "hirose-tadashi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kawade-shobo-shinsha",
+    "themeIds": [
+      "time-travel",
+      "alternate-history",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1970,
+    "status": "completed",
+    "synopsis": "東京大空襲の夜、少年の浜田俊夫は瀕死の隣人から、十八年後の今日この場所へ来てほしいと頼まれる。約束どおり訪ねていった彼を待っていたのは、時間を旅する装置だった。俊夫は戦前の東京へと送り出される。失われた時代の風景と人々を丹念に描き、日本語で書かれた時間旅行小説の最高峰と称される名作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/マイナス・ゼロ"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
