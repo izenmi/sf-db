@@ -3733,5 +3733,17 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "edmond-hamilton",
+    "name": "エドモンド・ハミルトン",
+    "nameKana": "はみるとんえどもんど",
+    "description": "アメリカの作家。〈キャプテン・フューチャー〉などスペースオペラの代表的な書き手。",
+    "birthYear": 1904,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/エドモンド・ハミルトン"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

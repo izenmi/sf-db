@@ -28050,5 +28050,115 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-illustrated-man",
+    "title": "刺青の男",
+    "titleKana": "いれずみのおとこ",
+    "authorIds": [
+      "ray-bradbury"
+    ],
+    "translatorIds": [
+      "ogasawara-toyoki"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "space-colony"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1951,
+    "jpPublishedYear": 1960,
+    "originalTitle": "The Illustrated Man",
+    "status": "completed",
+    "synopsis": "暑い日にもかかわらず、ウールのシャツのボタンを胸元から手首まできっちり留めた大男がいた。彼は全身に彫った十八の刺青に、十八の秘密の物語を隠している。夜、月あかりを浴びると絵は動きはじめ、物語を演じはじめた。宇宙旅行、原水爆、宗教、人種問題。幻想と現実のあいだで人類の姿を映し出す連作短編集である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/刺青の男 (小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "r-is-for-rocket",
+    "title": "ウは宇宙船のウ",
+    "titleKana": "うはうちゅうせんのう",
+    "authorIds": [
+      "ray-bradbury"
+    ],
+    "translatorIds": [
+      "nakamura-toru"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "short-stories",
+      "juvenile",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1962,
+    "jpPublishedYear": 1968,
+    "originalTitle": "R Is for Rocket",
+    "status": "completed",
+    "synopsis": "SFの抒情詩人が、若い読者に向けて自ら選んだ傑作集である。イリノイ州の小さな町で育ち、宇宙時代の到来を、そうなってほしいと願ったとおりに生きて目にした男の子の手になるものだと、著者ははしがきで書いている。宇宙船に憧れる少年たち、霧笛に応えて深海から浮かび上がる恐竜、過ぎ去っていく夏。子どもの目線と宇宙の広さを地続きにしてしまう筆致で、十七編を新訳で収める。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ウは宇宙船のウ"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "a-medicine-for-melancholy",
+    "title": "メランコリイの妙薬",
+    "titleKana": "めらんこりいのみょうやく",
+    "authorIds": [
+      "ray-bradbury"
+    ],
+    "translatorIds": [
+      "yoshida-seiichi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "sf-fantasy"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1959,
+    "jpPublishedYear": 1961,
+    "originalTitle": "A Medicine for Melancholy",
+    "status": "completed",
+    "synopsis": "生まれながらの夢想家にして、怪異の耽美家。抒情あふれる感傷家にして、詩人。根強く圧倒的な人気を誇る著者の魅力を、余すところなく紹介する傑作集である。奇想と郷愁が同じ場所に同居する語り口で、日常のすぐ隣にある不思議を掬い上げていく。宇宙や未来を扱った編もあれば、南米の村や中世の街を舞台にした編もあり、幅の広さがそのまま魅力になっている。珠玉の二十二編を収める。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-star-kings",
+    "title": "スターキング",
+    "titleKana": "すたーきんぐ",
+    "authorIds": [
+      "edmond-hamilton"
+    ],
+    "translatorIds": [
+      "inoue-kazuo"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "military-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1949,
+    "jpPublishedYear": 1969,
+    "originalTitle": "The Star Kings",
+    "status": "completed",
+    "synopsis": "二十世紀の保険会社員ゴードンは、心のなかで囁く声に疑いを持った。心と心を交換しようというのだ。声の主は、二十万年を隔てた中央銀河帝国の王子ザース・アーンだった。帝国の王子として活躍することになったゴードンだが、恐るべき暗黒星雲の魔手が忍び寄る。最強を誇る帝国の存亡が、いまや彼の双肩にかかっていた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スターキング"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
