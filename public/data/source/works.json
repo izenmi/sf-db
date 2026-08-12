@@ -19275,7 +19275,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/われはロボット"
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "ロボット"
   },
   {
     "id": "naked-sun",
@@ -19303,7 +19304,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/はだかの太陽"
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年・訳者)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "ロボット"
   },
   {
     "id": "nine-billion-names",
@@ -20449,7 +20451,8 @@
     "synopsis": "兵器の自律化が進んだ近未来、人類は軍備をそっくり月へ移し、地球を非武装化する計画を承認した。軍拡競争を機械に任せた結果、立入禁止となった月面で兵器がどこまで進化したのか誰にもわからなくなる。月の無人軍が地球を攻撃するのではないか。恐怖に駆られた人類は調査員を送り込む。分離脳となって帰還した泰平ヨンが語る、諷刺に満ちた長編である。",
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "泰平ヨン"
   },
   {
     "id": "the-man-from-mars",
@@ -25353,6 +25356,374 @@
     "synopsis": "他人の気持ちが分からないことに悩む十八歳の谷原豊は、百歳で亡くなった曾祖母の死をきっかけに、謎の霊媒師である鵜沼ハルと出会う。自称大正生まれのハルは、幽霊が見えず存在も信じていない理屈っぽい理系大学生の豊に、奇妙な慰霊のアルバイトを持ちかけた。彼女の正体と、この街に隠された秘密とは何なのか。",
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-city-and-the-stars",
+    "title": "都市と星",
+    "titleKana": "としとほし",
+    "authorIds": [
+      "arthur-c-clarke"
+    ],
+    "translatorIds": [
+      "yamataka-akira"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "utopia",
+      "world-truth"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1956,
+    "jpPublishedYear": 1966,
+    "originalTitle": "The City and the Stars",
+    "status": "completed",
+    "synopsis": "遥かな未来、銀河帝国の崩壊によって地球へ帰還せざるを得なくなった人類は、誕生も死も完全に管理する驚異の都市ダイアスパーを建造し、そこを安住の地と定めた。住民は都市の外へ出ることを極度に恐れていたが、ただひとりアルヴィンだけは未知の世界への憧れを抱き続けている。やがて彼が外への扉を開いたとき、世界は動きはじめる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/都市と星"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "prelude-to-space",
+    "title": "宇宙への序曲",
+    "titleKana": "うちゅうへのじょきょく",
+    "authorIds": [
+      "arthur-c-clarke"
+    ],
+    "translatorIds": [
+      "yamataka-akira",
+      "nakamura-toru"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-development",
+      "hard-sf",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1951,
+    "jpPublishedYear": 1972,
+    "originalTitle": "Prelude to Space",
+    "status": "completed",
+    "synopsis": "人類が初めて月へ人を送り出そうとしている時代。プロメテウス計画と名づけられたその事業を記録するため、歴史学者のダーク・アレクスンがロンドンの本部へ派遣される。技術者や科学者たちの日常、計画に反対する人々の声、そして打ち上げまでの張りつめた時間。実際のアポロ計画に二十年近く先立って書かれた、著者の第一長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇宙への序曲"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "islands-in-the-sky",
+    "title": "宇宙島へ行く少年",
+    "titleKana": "うちゅうとうへゆくしょうねん",
+    "authorIds": [
+      "arthur-c-clarke"
+    ],
+    "translatorIds": [
+      "yamataka-akira"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "juvenile",
+      "space-development",
+      "space-colony"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1952,
+    "jpPublishedYear": 1986,
+    "originalTitle": "Islands in the Sky",
+    "status": "completed",
+    "synopsis": "ついにやったぞ。ロイはいままさに天にも昇る気持ちだった。航空会社が主催するクイズ番組で優勝し、その賞品がなんと、夢にまで見た宇宙ステーション行きの往復切符だったのである。だが実際に上がってみると、そこは観光地ではなく人が働く現場だった。大宇宙に憧れる少年の夢と冒険を生き生きと描いた一冊である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/宇宙島へ行く少年"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-caves-of-steel",
+    "title": "鋼鉄都市",
+    "titleKana": "こうてつとし",
+    "authorIds": [
+      "isaac-asimov"
+    ],
+    "translatorIds": [
+      "fukushima-masami"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "robot",
+      "dystopia",
+      "ai"
+    ],
+    "seriesName": "ロボット",
+    "origin": "overseas",
+    "firstPublishedYear": 1954,
+    "jpPublishedYear": 1959,
+    "originalTitle": "The Caves of Steel",
+    "status": "completed",
+    "synopsis": "警視総監に呼び出された刑事イライジャ・ベイリが知らされたのは、宇宙人惨殺という前代未聞の事件だった。地球人の子孫でありながら今や支配者となった宇宙人への反感と、人間から職を奪ったロボットへの憎悪が渦巻く鋼鉄都市。ベイリはロボットのダニールと組んで捜査に乗り出す。三原則の盲点に挑んだSFミステリの金字塔である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/鋼鉄都市"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-robots-of-dawn",
+    "title": "夜明けのロボット",
+    "titleKana": "よあけのろぼっと",
+    "authorIds": [
+      "isaac-asimov"
+    ],
+    "translatorIds": [
+      "obi-fusa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "robot",
+      "ai",
+      "space-colony"
+    ],
+    "seriesName": "ロボット",
+    "origin": "overseas",
+    "firstPublishedYear": 1983,
+    "jpPublishedYear": 1985,
+    "originalTitle": "The Robots of Dawn",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "地球の刑事イライジャ・ベイリは、宇宙国家のひとつオーロラへ派遣される。そこで起きたのは人間ではなくロボットの殺害、いわゆる精神凍結だった。容疑者はロボット工学の第一人者ただひとりであり、彼が犯人でないと証明できなければ地球に未来はない。相棒のダニールらとともに、ベイリは前例のない事件に挑んでいく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夜明けのロボット"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "robots-and-empire",
+    "title": "ロボットと帝国",
+    "titleKana": "ろぼっととていこく",
+    "authorIds": [
+      "isaac-asimov"
+    ],
+    "translatorIds": [
+      "obi-fusa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "robot",
+      "ai",
+      "space-development"
+    ],
+    "seriesName": "ロボット",
+    "origin": "overseas",
+    "firstPublishedYear": 1985,
+    "jpPublishedYear": 1988,
+    "originalTitle": "Robots and Empire",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "『夜明けのロボット』から二世紀近くが過ぎ、イライジャ・ベイリはすでに世を去っていた。地球人はふたたび宇宙へ進出しはじめ、長い寿命とロボットを擁するスペーサーに代わって銀河帝国の礎を築こうとしている。ロボットのダニールとジスカルドは、地球を狙う陰謀に立ち向かうなかで、三原則の上に立つ第零法則へたどりつく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ロボットと帝国"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "citizen-of-the-galaxy",
+    "title": "銀河市民",
+    "titleKana": "ぎんがしみん",
+    "authorIds": [
+      "robert-a-heinlein"
+    ],
+    "translatorIds": [
+      "noda-masahiro"
+    ],
+    "publisherId": "rippu-shobo",
+    "themeIds": [
+      "space-opera",
+      "juvenile",
+      "dystopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1957,
+    "jpPublishedYear": 1969,
+    "originalTitle": "Citizen of the Galaxy",
+    "status": "completed",
+    "synopsis": "奴隷市場で売りに出された少年ソービーを買い取ったのは、片脚の乞食バスリムだった。だがその物乞いの正体は、銀河をまたにかける組織の一員である。バスリムの死後、ソービーは交易商人の船に拾われ、やがて自分の出自をめぐる大きな謎へ近づいていく。奴隷制度と自由をめぐる問いを、少年の成長物語として描いた一作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "podkayne-of-mars",
+    "title": "天翔る少女",
+    "titleKana": "あまかけるしょうじょ",
+    "authorIds": [
+      "robert-a-heinlein"
+    ],
+    "translatorIds": [
+      "nakamura-yoshimi"
+    ],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "juvenile",
+      "space-colony",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1963,
+    "jpPublishedYear": 1971,
+    "originalTitle": "Podkayne of Mars",
+    "status": "completed",
+    "synopsis": "火星生まれの少女ポドケインは、いつか宇宙船の船長になることを夢見ている。大叔父に連れられ、弟のクラークとともに地球へ向かう旅に出た彼女は、途中で立ち寄った金星で思わぬ陰謀に巻き込まれていく。日記の形式で綴られる少女の目を通して、太陽系の人間模様と政治の駆け引きが浮かび上がってくる。船長になりたいという願いと、少女に向けられる周囲の眼差しとの落差も、あわせて描かれていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "time-enough-for-love",
+    "title": "愛に時間を",
+    "titleKana": "あいにじかんを",
+    "authorIds": [
+      "robert-a-heinlein"
+    ],
+    "translatorIds": [
+      "yano-tetsu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "far-future",
+      "time-travel",
+      "space-colony"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1973,
+    "jpPublishedYear": 1978,
+    "originalTitle": "Time Enough for Love",
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "ハワード・ファミリーの最長老ラザルス・ロングが突きつけた法外な要求は、四千年以上を生きた自分がまだ体験していないことを探せというものだった。この難題に応えるため、惑星セカンダスでは懸命の努力が続けられる。その結果を待つあいだ、最長老の相手を務めるのは女性の人格を持つ惑星管理計算機ミネルヴァだった。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "slaughterhouse-five",
+    "title": "スローターハウス5",
+    "titleKana": "すろーたーはうすふぁいぶ",
+    "authorIds": [
+      "kurt-vonnegut"
+    ],
+    "translatorIds": [
+      "ito-norio"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "time-travel",
+      "disaster",
+      "satire-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1969,
+    "jpPublishedYear": 1978,
+    "originalTitle": "Slaughterhouse-Five",
+    "status": "completed",
+    "synopsis": "主人公ビリー・ピルグリムが経験するのは、痙攣のような時間旅行である。一九四五年のドレスデン、トラルファマドール星の動物園、一九五五年のニューヨーク、一九七六年のシカゴ。断片的な人生を発作のように繰り返しながら、歴史の皮肉が少しずつ明らかになっていく。SFの手法を使い切って不条理な世界を俯瞰した長編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/スローターハウス5"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "player-piano",
+    "title": "プレイヤー・ピアノ",
+    "titleKana": "ぷれいやーぴあの",
+    "authorIds": [
+      "kurt-vonnegut"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "dystopia",
+      "robot",
+      "satire-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1952,
+    "jpPublishedYear": 1975,
+    "originalTitle": "Player Piano",
+    "status": "completed",
+    "synopsis": "あらかじめ書き込まれた音を繰り返し送り出す自動演奏の楽器さながらに、すべての生産手段が自動化され、すべての人間の運命が穿孔カードによって決められる世界。技術者だけが意味のある仕事を持ち、それ以外の人々は用済みとして扱われる。優しさと醒めた視線をあわせ持つ黒い笑いで現代文明の行方を綴った、著者の処女長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ubik",
+    "title": "ユービック",
+    "titleKana": "ゆーびっく",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "world-truth",
+      "near-future",
+      "esper"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1969,
+    "jpPublishedYear": 1978,
+    "originalTitle": "Ubik",
+    "status": "completed",
+    "synopsis": "一九九二年、予知能力者狩りを行うべく月へ結集したジョー・チップら反予知能力者たちが、敵側のテロに遭った。その瞬間から時間の退行がはじまる。あらゆるものが一九四〇年代へと逆戻りしていくなか、その奇妙な現象を矯正するものがただひとつだけあった。それがユービックである。白昼夢のような世界を描く代表作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/ユービック"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-futurological-congress",
+    "title": "泰平ヨンの未来学会議",
+    "titleKana": "たいへいよんのみらいがくかいぎ",
+    "authorIds": [
+      "stanislaw-lem"
+    ],
+    "translatorIds": [
+      "fukami-dan",
+      "ono-norihiro"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "satire-sf",
+      "dystopia",
+      "near-future"
+    ],
+    "seriesName": "泰平ヨン",
+    "origin": "overseas",
+    "firstPublishedYear": 1971,
+    "jpPublishedYear": 1984,
+    "originalTitle": "Kongres futurologiczny",
+    "status": "completed",
+    "synopsis": "世界未来学会議に出席するため中米の都市を訪れた泰平ヨンは、暴動とテロに巻き込まれ、化学物質を大量に浴びたまま下水道へ逃げ込む。冷凍睡眠を経て目覚めた彼が見たのは、あらゆる感情と知覚が薬物で操作される二〇三九年の世界だった。幸福も愛も錠剤で配られる社会の底に、いったい何があるのか。諷刺の効いた中編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/泰平ヨンの未来学会議"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
 ]

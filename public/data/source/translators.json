@@ -1203,5 +1203,36 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "noda-masahiro",
+    "name": "野田昌宏",
+    "nameKana": "のだまさひろ",
+    "description": "SF評論家・翻訳家。スペースオペラの紹介者として知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/野田昌宏"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nakamura-yoshimi",
+    "name": "中村能三",
+    "nameKana": "なかむらよしみ",
+    "description": "英米文学の翻訳家。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/中村能三"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ono-norihiro",
+    "name": "大野典宏",
+    "nameKana": "おおののりひろ",
+    "description": "ロシア・東欧SFの翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]
