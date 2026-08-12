@@ -23880,5 +23880,246 @@
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fukkatsu-no-hi",
+    "title": "復活の日",
+    "titleKana": "ふっかつのひ",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "disaster",
+      "post-apocalypse",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "吹雪のアルプスで遭難機が見つかった。傍らには引き裂かれたジェラルミン製のトランクの破片があり、中には感染から七十時間以内に生体の七割へ急性の心筋梗塞を起こし、残りも全身麻痺で死に至らせる細菌が入っていた。春に雪が解けはじめると、各地で奇妙な突然死が報告されはじめる。人類滅亡を目前にして、残された人間が選ぶ道とは。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/復活の日"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。初刊(一九六四年、早川書房)は国立国会図書館サーチでは確認できず、角川書店版(一九七五年)以降のみ登録がある。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nihon-apache-zoku",
+    "title": "日本アパッチ族",
+    "titleKana": "にほんあぱっちぞく",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kobunsha",
+    "themeIds": [
+      "satire-sf",
+      "near-future",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1964,
+    "status": "completed",
+    "synopsis": "会社の上司の鼻を引っぱったために懲戒免職となり、さらに三か月以内に就職しなかったとして失業罪で逮捕、追放の判決を受けた木田福一。砲兵工廠の跡地へ放り出された彼は、餓死寸前で野犬に食われかけていたところをアパッチ族に助けられる。赤銅色の肌をして鉄を主食とする彼らの一員となった木田が、その生態と生き様を記録していく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/日本アパッチ族"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chi-niwa-heiwa-o",
+    "title": "地には平和を",
+    "titleKana": "ちにはへいわを",
+    "authorIds": [
+      "komatsu-sakyo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "alternate-history",
+      "time-travel",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1963,
+    "status": "completed",
+    "synopsis": "あの戦争で無条件降伏したはずの日本が、本土決戦を続けている。その年の十月にはソ連軍が敦賀に、アメリカ軍が四日市に上陸し、十八歳までの男子で本土防衛特別隊が組織されたが、そのほとんどが全滅した。あと五時間でこの世界は消滅する、歴史を正しい方向へ戻さなければならないと告げる者が現れる。直木賞候補となった記念碑的作品である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/地には平和を"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kyoko-sendan",
+    "title": "虚航船団",
+    "titleKana": "きょこうせんだん",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "satire-sf",
+      "space-opera",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "鼬族の惑星クォールの刑紀九九九年六月三日、国籍不明の二基の核弾頭ミサイルによって国際都市ククモが攻撃された。翌日には、無数の小型戦闘艇に乗ったオオカマキリを従え、文房具の殺戮部隊が天空から飛来する。それはジャコウネコの姉妹による大予言のとおりの出来事だった。宇宙と歴史のすべてを呑み込んだ、超虚構の黙示録である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/虚航船団"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tabi-no-lagos",
+    "title": "旅のラゴス",
+    "titleKana": "たびのらごす",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "esper",
+      "far-future",
+      "post-apocalypse"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1986,
+    "status": "completed",
+    "synopsis": "北から南へ、そして南から北へ。高度な文明を突然失った代償として人々が超能力を得た世界で、ラゴスという男がひたすら旅を続けている。集団転移や壁抜けを繰り返し、二度も奴隷の身に落とされながら、生涯をかけて旅する彼の目的は何なのか。異なる空間と時間が交差する世界に、人の一生と文明の消長をかっちりと構築した連作長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/旅のラゴス"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "saigo-no-kitsuensha",
+    "title": "最後の喫煙者",
+    "titleKana": "さいごのきつえんしゃ",
+    "authorIds": [
+      "tsutsui-yasutaka"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "satire-sf",
+      "short-stories",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "健康を絶対の善とする風潮が暴走し、喫煙者が国家的な弾圧を受けるようになっても、おれは吸い続ける。地上で最後の喫煙者となった小説家の闘いを描く表題作。究極の悪趣味が炸裂する喜劇「問題外科」。手足が痙攣し脳が耳からこぼれるほど笑ってしまう芸術表現としてのドタバタを集めた、著者自選の傑作集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yomigaeri",
+    "title": "黄泉がえり",
+    "titleKana": "よみがえり",
+    "authorIds": [
+      "kajio-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "denki-sf",
+      "near-future",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2000,
+    "status": "completed",
+    "synopsis": "熊本で不思議な現象が起きた。老いも若きも、子どもも大人も、死んだ当時そのままの姿で生き返るのである。間違いなく本人なのだが、どこか微妙に違和感がある。喜びながらも戸惑う家族と友人、混乱する行政、そして黄泉がえった当人もまた新たな悩みを抱えていく。彼らに安息の地はあるのか。締め切りの時が迫る長編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/黄泉がえり"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tayutai-emanon",
+    "title": "たゆたいエマノン",
+    "titleKana": "たゆたいえまのん",
+    "authorIds": [
+      "kajio-shinji"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "evolution",
+      "time-travel",
+      "denki-sf"
+    ],
+    "seriesName": "エマノン",
+    "origin": "jp",
+    "firstPublishedYear": 2017,
+    "status": "completed",
+    "synopsis": "地球に生命が生まれてから三十億年あまり。その原初からの記憶をすべて持つ美少女エマノンは、内戦で混乱するアフリカや厳冬の北海道など、さまざまな土地を旅していく。それは地上の生命の進化を見守る役目を負わされたからなのか。違う役目を背負い、時代を跳びながら彼女と出会う少女ヒカリ。二人の邂逅がもたらす未来を描く連作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "gangu-shuriisha",
+    "title": "玩具修理者",
+    "titleKana": "がんぐしゅうりしゃ",
+    "authorIds": [
+      "kobayashi-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "denki-sf",
+      "short-stories",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1996,
+    "status": "completed",
+    "synopsis": "玩具修理者はなんでも直してくれる。どんなに複雑なものでも、たとえ死んだ猫でも。壊れたものを全部ばらばらにして、奇妙な叫び声とともにあっという間に組み立ててしまう。ある暑すぎる日、子どものわたしは過って弟を死なせてしまった。親に知られる前にどうにかしなくてはならない。わたしは弟を玩具修理者のところへ持っていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/玩具修理者"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ninju-zaiku",
+    "title": "人獣細工",
+    "titleKana": "にんじゅうざいく",
+    "authorIds": [
+      "kobayashi-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "genetic-engineering",
+      "denki-sf",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1997,
+    "status": "completed",
+    "synopsis": "先天性の病気のため、生後まもなくから豚の臓器を全身に移植され続けてきた少女の夕霞。専門医だった父の死をきっかけに、彼女は父との触れ合いを求めて自分が受けた手術の記録を調べはじめる。だが父の部屋に残されていたのは、豚と人間の生命を弄ぶ非道な実験の記録の数々だった。絶望のなかで彼女がたどりついた真実とは何か。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
