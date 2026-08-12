@@ -24720,5 +24720,211 @@
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "jinzo-kyuseishu",
+    "title": "人造救世主",
+    "titleKana": "じんぞうきゅうせいしゅ",
+    "authorIds": [
+      "kobayashi-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "genetic-engineering",
+      "denki-sf",
+      "near-future"
+    ],
+    "seriesName": "人造救世主",
+    "origin": "jp",
+    "firstPublishedYear": 2010,
+    "status": "completed",
+    "synopsis": "古寺を巡っていた女子大生のひとみと留学生のジーンは、西洋風の同じ顔をした謎の集団に襲われる。危ういところを救ったのは、ヴォルフと名乗る男だった。集団の目的は何なのか、そしてヴォルフの正体とは。人の複製をめぐる着想を、暗く派手な活劇として押し切っていく。追う側と追われる側のどちらにも肩入れさせない語り口が、話が進むほど効いてくる。奇才の手による連作の第一作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ushinawareta-kako-to-mirai",
+    "title": "失われた過去と未来の犯罪",
+    "titleKana": "うしなわれたかことみらいのはんざい",
+    "authorIds": [
+      "kobayashi-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "near-future",
+      "ai",
+      "dystopia"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2016,
+    "status": "completed",
+    "synopsis": "ある日を境に、人類は記憶障害に陥り、外部の装置なしには記憶を保てなくなった。ばらばらにされた心と身体が、悲劇と喜劇を次々に引き起こしていく。さまざまな生の記憶を宿す〈わたし〉とは、いったい何者なのか。記憶を体の外へ付け替えた社会が、どこまで人間の輪郭を保てるのかを突き詰めていく連作長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "mirai-kara-no-dasshutsu",
+    "title": "未来からの脱出",
+    "titleKana": "みらいからのだっしゅつ",
+    "authorIds": [
+      "kobayashi-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "dystopia",
+      "world-truth",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "鬱蒼とした森に覆われた謎の施設で、何不自由ない生活を送っていたサブロウは、ある日、自分が何者であるかの記憶すら失っていることに気づく。監獄のようなその施設から逃げ出すのは事実上不可能で、職員は対話も通じず、どこか不気味な機械のようだ。彼は仲間と協力して脱出計画を立てるが、その先に驚くべき真実が待っていた。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "parallel-world-kobayashi",
+    "title": "パラレルワールド",
+    "titleKana": "ぱられるわーるど",
+    "authorIds": [
+      "kobayashi-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki-jimusho",
+    "themeIds": [
+      "parallel-world",
+      "disaster",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2018,
+    "status": "completed",
+    "synopsis": "若い夫婦と五歳の一人息子が、地震と洪水が重なった大災害に襲われた。そのとき、一方の世界では父が亡くなって母が生き残り、もう一方の世界では母が亡くなって父が生き残る。息子のヒロ君は、その二つの世界を同時に生きていた。大災害で壊れてしまった家族を蘇らせるために、彼は何をするのか。並行世界を扱った長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nozui-kojo",
+    "title": "脳髄工場",
+    "titleKana": "のうずいこうじょう",
+    "authorIds": [
+      "kobayashi-yasumi"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "short-stories",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "近未来、犯罪を抑えるために人工の脳髄が開発された。天然の脳を持ったまま育った少年を待ち受ける運命とは何か。人間に潜むものを鋭くえぐる表題作をはじめ、過去から未来、そして宇宙までを舞台にした作品を収める。怪異と論理が同じ場所で競い合う、この著者ならではの短編集である。理不尽な設定をいったん受け入れさせたうえで、その内側の筋道だけは徹底して通してみせる手つきが一貫している。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "miroku-senso",
+    "title": "弥勒戦争",
+    "titleKana": "みろくせんそう",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "esper",
+      "religion-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "超常の能力を持つがゆえに、自らに滅びの運命を課してきた独覚の一族。その一人である結城弦は、長老から、人類を第三次世界大戦の危機に陥れようとする正体不明の独覚がいると知らされる。掟に従って悪しき独覚を除こうとする結城たちの前に姿を現したのは、入滅から五十六億七千万年を経て衆生を救うという弥勒だった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/弥勒戦争"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "parasite-eve",
+    "title": "パラサイト・イヴ",
+    "titleKana": "ぱらさいといゔ",
+    "authorIds": [
+      "sena-hideaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "genetic-engineering",
+      "near-future",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "事故で亡くなった妻の肝細胞を、生化学者の利明はひそかに培養し続けていた。イヴ1と名づけられたその細胞は、やがて恐るべき未知の生命へと変貌し、利明を求めて暴走をはじめる。細胞内小器官の側から人間を眺め直すという着想と、圧倒的な迫力の描写で読書界を席巻した。日本ホラー小説大賞を受け、映画や遊戯にも展開されたバイオホラーの傑作である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パラサイト・イヴ"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yoru-no-kosai",
+    "title": "夜の虹彩",
+    "titleKana": "よるのこうさい",
+    "authorIds": [
+      "sena-hideaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "shuppan-geijutsusha",
+    "themeIds": [
+      "short-stories",
+      "genetic-engineering",
+      "robot"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "大学院生の野本映子は、研究室や恋人との関係に違和感を覚えていた。そんなとき友人から一枚の光ディスクを渡される。そこに入っていた遺伝子解析の遊戯に、彼女は次第にのめり込んでいく。遺伝子の配列を組み替えて生き物を設計するその遊戯は、いつしか彼女自身の輪郭を溶かしはじめる。その一編のほか、鉄人二十八号を下敷きにした作品など、全十編を収める作品集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "maho-o-meshiagare",
+    "title": "魔法を召し上がれ",
+    "titleKana": "まほうをめしあがれ",
+    "authorIds": [
+      "sena-hideaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "robot",
+      "ai",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2019,
+    "status": "completed",
+    "synopsis": "人工知能もロボットも当たり前になった世界で、それでも人間にしかできない魔法がある。孤独な青年ヒカルは、レストランの卓をひとつずつ巡り、見知らぬ客に手品を贈り続けていた。傍らにいるのは、何も知らない少年型のロボット、ミチルである。機械があふれる少し不思議な近未来で、心と再生を問い直していく長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
