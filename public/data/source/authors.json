@@ -3604,5 +3604,74 @@
     },
     "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "higashino-keigo",
+    "name": "東野圭吾",
+    "nameKana": "ひがしのけいご",
+    "description": "日本の小説家。ミステリを中心に、SF的な設定を用いた作品も多く書いている。",
+    "birthYear": 1958,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/東野圭吾"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "numa-shozo",
+    "name": "沼正三",
+    "nameKana": "ぬましょうぞう",
+    "description": "『家畜人ヤプー』の著者名。正体をめぐって長く論争が続いた覆面作家である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/沼正三"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "okajima-futari",
+    "name": "岡嶋二人",
+    "nameKana": "おかじまふたり",
+    "description": "井上泉と徳山諄一による合作のペンネーム。1989年に解消した。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岡嶋二人"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hirai-kazumasa",
+    "name": "平井和正",
+    "nameKana": "ひらいかずまさ",
+    "description": "日本のSF作家。『幻魔大戦』『ウルフガイ』などで知られる。",
+    "birthYear": 1938,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/平井和正"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "iwamoto-takao",
+    "name": "岩本隆雄",
+    "nameKana": "いわもとたかお",
+    "description": "日本のSF作家。青春ジュブナイルSFを書き続けた。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/岩本隆雄"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ishikawa-eisuke",
+    "name": "石川英輔",
+    "nameKana": "いしかわえいすけ",
+    "description": "日本の作家。江戸時代の生活文化に通じ、時代小説と考証書を書いた。",
+    "birthYear": 1933,
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/石川英輔"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・代表作を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

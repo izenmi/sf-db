@@ -27627,5 +27627,225 @@
     },
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "ningen-sokkuri",
+    "title": "人間そっくり",
+    "titleKana": "にんげんそっくり",
+    "authorIds": [
+      "abe-kobo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "satire-sf",
+      "world-truth",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1967,
+    "status": "completed",
+    "synopsis": "こんにちは火星人というラジオ番組の脚本家のところへ、自分は火星人だと名乗る男がやってきた。ただの狂人なのか、火星人そっくりの人間なのか、それとも人間そっくりの火星人なのか。火星の土地を斡旋したり、自分をモデルに小説を書けと勧めたり、変転する男の弁舌に振り回されるうち、脚本家は自分が何者かも分からなくなっていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/人間そっくり"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tokio-higashino",
+    "title": "時生",
+    "titleKana": "ときお",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "time-travel",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2002,
+    "status": "completed",
+    "synopsis": "難病の息子を看取る直前、宮本拓実はふいに思い出した。自分は昔こいつに出会っている、と。どうしようもない若者だった拓実の前に、かつて現れた謎の青年トキオ。突然失踪した恋人を彼とともに追ううち、彼女が巻き込まれた陰謀が見えてくる。あの日ともに旅した青年は、未来の息子だった。切なさをたたえた奇跡の物語である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/時生"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "paradox-13",
+    "title": "パラドックス13",
+    "titleKana": "ぱらどっくすさーてぃーん",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "translatorIds": [],
+    "publisherId": "mainichi-shimbunsha",
+    "themeIds": [
+      "parallel-world",
+      "disaster",
+      "post-apocalypse"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2009,
+    "status": "completed",
+    "synopsis": "十三時十三分十三秒、街から人が消えた。無人の東京に残されたのは、境遇も年齢も異なる十三人の男女である。なぜ彼らが選ばれたのか。大雨と地震に襲われ瓦礫の山と化した街で、生き抜こうとする人々の共通点が少しずつ見えてくる。世界が変われば善悪も変わり、殺人すらも善となる。極限の状況を描いた長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パラドックス13"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "parallel-world-love-story",
+    "title": "パラレルワールド・ラブストーリー",
+    "titleKana": "ぱられるわーるどらぶすとーりー",
+    "authorIds": [
+      "higashino-keigo"
+    ],
+    "translatorIds": [],
+    "publisherId": "chuokoron-sha",
+    "themeIds": [
+      "parallel-world",
+      "near-future",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1995,
+    "status": "completed",
+    "synopsis": "親友の恋人は、かつて自分が一目惚れした女性だった。嫉妬に苦しむ敦賀崇史。ところがある日の朝に目を覚ますと、彼女は自分の恋人として隣にいた。混乱する崇史。いったいどちらが現実なのか。存在する二つの世界と、消えない二つの記憶。交わることのない世界のなかで、恋と友情が翻弄されていく。記憶を書き換える技術が主題として据えられた長編である。",
+    "mediaMix": {
+      "movie": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/パラレルワールド・ラブストーリー"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kachikujin-yapoo",
+    "title": "家畜人ヤプー",
+    "titleKana": "かちくじんやぷー",
+    "authorIds": [
+      "numa-shozo"
+    ],
+    "translatorIds": [],
+    "publisherId": "toshi-shuppansha",
+    "themeIds": [
+      "dystopia",
+      "far-future",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1970,
+    "status": "completed",
+    "synopsis": "二千年後の世界を支配する宇宙帝国イースで、日本人の子孫であるヤプーは家畜であり道具として扱われていた。人間椅子、肉便器、舌人形。人体を加工して器物に仕立てるという想像を絶する世界が、緻密な設定とともに積み上げられていく。差別と支配の構造を極限まで押し進めた、反ユートピア小説の金字塔である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/家畜人ヤプー"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "klein-no-tsubo",
+    "title": "クラインの壺",
+    "titleKana": "くらいんのつぼ",
+    "authorIds": [
+      "okajima-futari"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "virtual-reality",
+      "world-truth",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1989,
+    "status": "completed",
+    "synopsis": "二百万円でゲームブックの原作を、謎の企業イプシロン・プロジェクトに売却した上杉彰彦。彼はその原作をもとにした仮想現実の仕組み、クライン2の制作に関わることになる。美少女の梨紗とともに、遊戯者として仮想の世界へ入り込む彼。だがどこまでが現実なのかが次第に分からなくなっていく。合作の最終作にあたる長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/クラインの壺 (小説)"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "cho-kakumeiteki-chugakusei-shudan",
+    "title": "超革命的中学生集団",
+    "titleKana": "ちょうかくめいてきちゅうがくせいしゅうだん",
+    "authorIds": [
+      "hirai-kazumasa"
+    ],
+    "translatorIds": [],
+    "publisherId": "asahi-sonorama",
+    "themeIds": [
+      "esper",
+      "juvenile",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1971,
+    "status": "completed",
+    "synopsis": "闇夜の神社の境内で決闘していた六人の中学生の頭上に、謎の円盤が現れた。緑色の怪光線を浴びた彼らは、宇宙人から超人的な能力を与えられてしまう。人類の存亡は、この超革中の面々に委ねられることになった。実在するSF関係者が実名で登場することでも話題を呼んだ、抱腹絶倒のハチャハチャSFである。後年のライトノベルの原型に数えられることもある一冊だ。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/超革命的中学生集団"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hoshimushi",
+    "title": "星虫",
+    "titleKana": "ほしむし",
+    "authorIds": [
+      "iwamoto-takao"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "alien",
+      "juvenile",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "人類の九割に寄生した宇宙生物、星虫。人々の身体能力を高めることから最初は歓迎されたが、その姿がしだいにグロテスクに成長していくにつれ、人類を乗っ取るために来た侵略者ではないかという疑いを持たれはじめる。それでも星虫を最後まで信じ続ける女子高生を主人公に据えた青春SFである。寄生という現象を敵意ではなく共生の側から捉え直そうとする視線が、最後まで貫かれている。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/星虫"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "oedo-shinsenden",
+    "title": "大江戸神仙伝",
+    "titleKana": "おおえどしんせんでん",
+    "authorIds": [
+      "ishikawa-eisuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "time-travel",
+      "denki-sf",
+      "alternate-history"
+    ],
+    "seriesName": "大江戸神仙伝",
+    "origin": "jp",
+    "firstPublishedYear": 1979,
+    "status": "completed",
+    "synopsis": "現代の東京から花のお江戸へ転時してしまった男が見た、百五十年前の姿とは。そこには見るもの聞くものすべて、現代人の常識を覆す魅力的な暮らしがあった。持参した文明の利器と医学の知識で大活躍した彼は、不思議な能力を持つ神仙として女たちにももてはやされ、大尽暮らしとあいなったが。江戸の生活文化を丹念に描く連作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/大江戸神仙伝"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
