@@ -23299,5 +23299,282 @@
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "total-recall",
+    "title": "トータル・リコール",
+    "titleKana": "とーたるりこーる",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "omori-nozomi",
+      "asakura-hisashi",
+      "fukamachi-mariko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "virtual-reality",
+      "near-future"
+    ],
+    "seriesName": "ディック短篇傑作選",
+    "origin": "overseas",
+    "firstPublishedYear": 1966,
+    "jpPublishedYear": 2012,
+    "originalTitle": "We Can Remember It for You Wholesale",
+    "status": "completed",
+    "synopsis": "夜ごと火星に行く夢を見ていたクウェールは、念願の火星旅行を実現しようとリコール社を訪れる。だが埋め込まれた記憶の下から、思いがけないものが顔を出す。映画化された表題作、犯罪の予知が可能になった未来を描く「マイノリティ・リポート」をはじめ、本邦初訳作や短編集初収録作を含む全十三編を収める。日本で編まれた傑作選の一巻である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "adjustment-team",
+    "title": "アジャストメント",
+    "titleKana": "あじゃすとめんと",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "omori-nozomi",
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "world-truth",
+      "parallel-world"
+    ],
+    "seriesName": "ディック短篇傑作選",
+    "origin": "overseas",
+    "firstPublishedYear": 1954,
+    "jpPublishedYear": 2011,
+    "originalTitle": "Adjustment Team",
+    "status": "completed",
+    "synopsis": "世界のすべてを陰から調整している組織の存在を、ある男が知ってしまう。映画化された表題作をはじめ、デビュー作「ウーブ身重く横たわる」、初期の代表作「にせもの」から中期と後期の傑作まで、幻の短編「さよなら、ヴィンセント」も初収録した全十三編を収める。エッセイ「人間とアンドロイドと機械」も併せて読める傑作選である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-variable-man",
+    "title": "変数人間",
+    "titleKana": "へんすうにんげん",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "asakura-hisashi",
+      "omori-nozomi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "time-travel",
+      "esper"
+    ],
+    "seriesName": "ディック短篇傑作選",
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 1993,
+    "originalTitle": "The Variable Man",
+    "status": "completed",
+    "synopsis": "すべてが予測可能になった未来社会で、時の流れを越えてやって来た謎の男コールだけが唯一の不確定要素だった。波瀾万丈の中編である表題作。地下の避難所で奇妙な遊戯に明け暮れる人々を描く中期の傑作「パーキー・パットの日々」。映画化された「ペイチェック」。超能力と追跡劇を得意とする著者の全十編を収める。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "second-variety",
+    "title": "変種第二号",
+    "titleKana": "へんしゅだいにごう",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "asakura-hisashi",
+      "omori-nozomi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "robot",
+      "post-apocalypse"
+    ],
+    "seriesName": "ディック短篇傑作選",
+    "origin": "overseas",
+    "firstPublishedYear": 1953,
+    "jpPublishedYear": 1991,
+    "originalTitle": "Second Variety",
+    "status": "completed",
+    "synopsis": "米ソの全面戦争によって地球全土が荒廃し、わずかに残るのは戦い続ける両軍の兵士だけとなった世界。米軍が投入した新兵器によって、戦局は大きな転換点を迎えていた。映画化もされた表題作をはじめ、特殊な能力を持つ黄金の青年を描く「ゴールデン・マン」、本邦初訳の一編など、戦争を主題にした全九編を収める。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-little-black-box",
+    "title": "小さな黒い箱",
+    "titleKana": "ちいさなくろいはこ",
+    "authorIds": [
+      "philip-k-dick"
+    ],
+    "translatorIds": [
+      "asakura-hisashi",
+      "omori-nozomi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "religion-sf",
+      "near-future"
+    ],
+    "seriesName": "ディック短篇傑作選",
+    "origin": "overseas",
+    "firstPublishedYear": 1964,
+    "jpPublishedYear": 1992,
+    "originalTitle": "The Little Black Box",
+    "status": "completed",
+    "synopsis": "謎の組織が供給するその金属の黒い箱は、遠く離れた別人の思考へとつながっていた。『アンドロイドは電気羊の夢を見るか?』の原型にあたる表題作。時間旅行を扱った後期の傑作「時間飛行士へのささやかな贈物」。近未来のアメリカを描く政治風刺の連作。政治と未来社会と宗教を主題にした作品を集めた一冊である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-rest-of-the-robots",
+    "title": "ロボットの時代",
+    "titleKana": "ろぼっとのじだい",
+    "authorIds": [
+      "isaac-asimov"
+    ],
+    "translatorIds": [
+      "obi-fusa"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "robot",
+      "ai",
+      "short-stories"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1964,
+    "jpPublishedYear": 1969,
+    "originalTitle": "The Rest of the Robots",
+    "status": "completed",
+    "synopsis": "月面開発用に調整されたロボットが地球上で行方不明になり、とんでもない騒ぎが持ち上がる「AL76号失踪す」。美男子の召使いロボットと女主人クレアのただならぬ関係を描く「お気に召すことうけあい」。ロボット心理学者キャルヴィンが活躍する「校正」。三原則をめぐる思考実験を重ねた、『われはロボット』の姉妹編にあたる短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-indifference-engine",
+    "title": "The Indifference Engine",
+    "titleKana": "じいんでぃふぁれんすえんじん",
+    "authorIds": [
+      "itoh-keikaku"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "military-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2012,
+    "status": "completed",
+    "synopsis": "戦争が残した傷から回復できないアフリカの少年兵の姿を生々しく描き出した表題作をはじめ、盟友の円城塔が書き継ぐことになった『屍者の帝国』の冒頭部分、影響を受けた作り手へ捧げた二編、漫画の原作や合作までを収める。夭折した著者の仕事を精選した作品集であり、フィクションの枠組みそのものを動かした書き手の全体像が見えてくる。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shigoto-kudasai",
+    "title": "仕事ください",
+    "titleKana": "しごとください",
+    "authorIds": [
+      "mayumura-taku"
+    ],
+    "translatorIds": [],
+    "publisherId": "takeshobo",
+    "themeIds": [
+      "short-stories",
+      "denki-sf",
+      "satire-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2022,
+    "status": "completed",
+    "synopsis": "意のままになる奴隷を求めた男の前に現れたやつは、ひたすら仕事を求め続ける。気づいたとき、あなたはすでに別の世界にいる。表題作のほか、不思議で哀切な猫の話「ピーや」、恋人との会話がどんどん食い違っていく「信じていたい」、戦争の傷跡を異様な迫力で描く一編など、現実と幻想の狭間に迷い込む短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "chikyu-sonenki-no-owari",
+    "title": "地球壮年期の終わり",
+    "titleKana": "ちきゅうそうねんきのおわり",
+    "authorIds": [
+      "hayashi-joji"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "first-contact",
+      "near-future",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "二〇三四年、激化する水利権紛争に対処するためエジプトへ駐留する自衛隊に物資を運んでいた紅谷は、自爆型の無人機に襲われる。彼を助けたのは、全身を防護服で覆った身長三メートルのカスケリスと名乗る存在だった。相手は地球を侵略するための調査に従事しているという。接触の手続きを丹念に積み上げていく長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "genome-talker",
+    "title": "ゲノム・トーカー",
+    "titleKana": "げのむとーかー",
+    "authorIds": [
+      "hayashi-joji"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokyo-sogensha",
+    "themeIds": [
+      "first-contact",
+      "hard-sf",
+      "space-development"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2026,
+    "status": "completed",
+    "synopsis": "二〇三四年、探査機さいせいは木星圏で奇妙な電波源を発見する。カメラに映り込んだ巨大な黒い影は、人類が初めて遭遇する異星種族の宇宙船だった。彼らは一万六千年前に放たれた人類の全遺伝情報を受信し、その発信源をたどって太陽系を訪れたのだという。ではいったい誰がそれを送ったのか。人類史と宇宙SFを接続する長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "u-wa-uchu-yabai-no-u",
+    "title": "ウは宇宙ヤバイのウ！",
+    "titleKana": "うはうちゅうやばいのう",
+    "authorIds": [
+      "miyazawa-iori"
+    ],
+    "translatorIds": [],
+    "publisherId": "ichijinsha",
+    "themeIds": [
+      "space-opera",
+      "juvenile",
+      "time-loop"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2014,
+    "status": "completed",
+    "synopsis": "女子高生の久遠空々梨は下校の途中、巨大な隕石の落下に遭遇し、全人類は一瞬で滅亡してしまう。ところが目を覚ますと、そこは衝突の三日前だった。混乱する彼女に、従姉妹の非数値ヌル香が衝撃の事実を突きつける。普通の女子高生だったはずの自分が、実は星間諜報組織の工作員だったというのだ。宇宙規模の大活劇がはじまる。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
