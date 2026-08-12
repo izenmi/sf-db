@@ -1038,5 +1038,92 @@
     "externalLinks": {},
     "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kuyama-koichi",
+    "name": "久山宏一",
+    "nameKana": "くやまこういち",
+    "description": "ポーランド文学の翻訳家・研究者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "sekiguchi-tokimasa",
+    "name": "関口時正",
+    "nameKana": "せきぐちときまさ",
+    "description": "ポーランド文学者。東京外国語大学名誉教授。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/関口時正"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shibata-fumino",
+    "name": "芝田文乃",
+    "nameKana": "しばたふみの",
+    "description": "ポーランド語の小説を訳す翻訳家・写真家。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kihara-makiko",
+    "name": "木原槙子",
+    "nameKana": "きはらまきこ",
+    "description": "ポーランド文学の翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "goto-masako",
+    "name": "後藤正子",
+    "nameKana": "ごとうまさこ",
+    "description": "ポーランド文学の翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hasemi-kazuo",
+    "name": "長谷見一雄",
+    "nameKana": "はせみかずお",
+    "description": "ロシア・ポーランド文学者。東京大学名誉教授。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fukami-dan",
+    "name": "深見弾",
+    "nameKana": "ふかみだん",
+    "description": "ロシア・東欧SFの紹介者。ソ連SFの翻訳とアンソロジー編纂で知られる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/深見弾"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "murate-yoshiharu",
+    "name": "村手義治",
+    "nameKana": "むらてよしはる",
+    "description": "ポーランド文学の翻訳者。",
+    "externalLinks": {},
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yoshigami-shozo",
+    "name": "吉上昭三",
+    "nameKana": "よしがみしょうぞう",
+    "description": "ポーランド文学者。東京大学教授を務め、レムの紹介にあたった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/吉上昭三"
+    },
+    "sourceNote": "日本語版Wikipediaの記事で経歴・訳書を確認した。",
+    "updatedAt": "2026-08-11"
   }
 ]

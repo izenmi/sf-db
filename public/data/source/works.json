@@ -20350,5 +20350,242 @@
     },
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "fiasco",
+    "title": "大失敗",
+    "titleKana": "だいしっぱい",
+    "authorIds": [
+      "stanislaw-lem"
+    ],
+    "translatorIds": [
+      "kuyama-koichi"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "first-contact",
+      "hard-sf",
+      "space-development"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1986,
+    "jpPublishedYear": 2007,
+    "originalTitle": "Fiasko",
+    "status": "completed",
+    "synopsis": "土星の衛星タイタンでの救出任務中に遭難した宇宙飛行士パルヴィスは、自らを硝子の内に封じて凍結し、二十二世紀に蘇生する。地球外の知性を探しに旅立つ宇宙船エウリディケ号に乗り込んだ彼は、自然科学者やカトリックの神父らとともに惑星クウィンタを目指した。光を超える旅の果てに一行が見たのは、地球とはまったく別の道を歩んだ文明だった。接触の不可能性を突き詰めた晩年の長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-invincible",
+    "title": "インヴィンシブル",
+    "titleKana": "いんゔぃんしぶる",
+    "authorIds": [
+      "stanislaw-lem"
+    ],
+    "translatorIds": [
+      "sekiguchi-tokimasa"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "first-contact",
+      "robot",
+      "evolution"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1964,
+    "jpPublishedYear": 2021,
+    "originalTitle": "Niezwyciężony",
+    "status": "completed",
+    "synopsis": "消息を絶った宇宙船コンドル号を捜すため、二等巡洋艦インヴィンシブル号が琴座の砂漠惑星レギス3に降り立った。見わたすかぎり赤茶けた大地が広がり、生命の気配はどこにもない。だが偵察に出した機械が次々と沈黙し、隊員の記憶が奪われていく。この星を支配しているのは、生物でも知性でもない何かだった。人間の物差しが通じない相手を描いた長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "peace-on-earth",
+    "title": "地球の平和",
+    "titleKana": "ちきゅうのへいわ",
+    "authorIds": [
+      "stanislaw-lem"
+    ],
+    "translatorIds": [
+      "shibata-fumino"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "satire-sf",
+      "ai",
+      "near-future"
+    ],
+    "seriesName": "泰平ヨン",
+    "origin": "overseas",
+    "firstPublishedYear": 1987,
+    "jpPublishedYear": 2021,
+    "originalTitle": "Pokój na Ziemi",
+    "status": "completed",
+    "synopsis": "兵器の自律化が進んだ近未来、人類は軍備をそっくり月へ移し、地球を非武装化する計画を承認した。軍拡競争を機械に任せた結果、立入禁止となった月面で兵器がどこまで進化したのか誰にもわからなくなる。月の無人軍が地球を攻撃するのではないか。恐怖に駆られた人類は調査員を送り込む。分離脳となって帰還した泰平ヨンが語る、諷刺に満ちた長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-man-from-mars",
+    "title": "火星からの来訪者",
+    "titleKana": "かせいからのらいほうしゃ",
+    "authorIds": [
+      "stanislaw-lem"
+    ],
+    "translatorIds": [
+      "shibata-fumino",
+      "kihara-makiko"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "first-contact",
+      "alien",
+      "near-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1946,
+    "jpPublishedYear": 2023,
+    "originalTitle": "Człowiek z Marsa",
+    "status": "completed",
+    "synopsis": "第二次世界大戦でドイツが降伏した頃、アメリカの中西部に隕石らしきものが落下する。だがそれはただの隕石ではなく、火星から飛来したロケットだった。中にいた奇妙な火星からの人はニューヨーク郊外の研究所へ運び込まれ、科学者と技師の一団が極秘のうちに意思疎通を試みる。『金星応答なし』に五年先立って雑誌に連載された、著者の実質的なデビュー作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-investigation-lem",
+    "title": "捜査",
+    "titleKana": "そうさ",
+    "authorIds": [
+      "stanislaw-lem"
+    ],
+    "translatorIds": [
+      "fukami-dan"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "world-truth",
+      "near-future",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1959,
+    "jpPublishedYear": 1978,
+    "originalTitle": "Śledztwo",
+    "status": "completed",
+    "synopsis": "イギリス各地の死体安置所で奇妙な出来事が続いていた。はじめは遺体がわずかに姿勢を変える程度だったが、やがて遺体そのものが消え失せるようになる。いずれも霧の深い深夜から早朝にかけてで、犯人も動機もつかめない。捜査を任されたスコットランド・ヤードのグレゴリー警部補は真相に迫ろうとするが、手がかりは統計の彼方へ遠ざかっていく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。二〇二四年に国書刊行会から『捜査・浴槽で発見された手記』として新訳が出ている。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "memoirs-found-in-a-bathtub",
+    "title": "浴槽で発見された手記",
+    "titleKana": "よくそうではっけんされたしゅき",
+    "authorIds": [
+      "stanislaw-lem"
+    ],
+    "translatorIds": [
+      "murate-yoshiharu"
+    ],
+    "publisherId": "sanrio",
+    "themeIds": [
+      "dystopia",
+      "satire-sf",
+      "far-future"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1961,
+    "jpPublishedYear": 1983,
+    "originalTitle": "Pamiętnik znaleziony w wannie",
+    "status": "completed",
+    "synopsis": "紙という紙が失われた大破局のあとの遠い未来に、一冊の手記が発見された。それは第三国防省の巨大な地下庁舎に配属された男の記録である。任務を告げられないまま迷宮のような建物をさまよう彼は、行き交う人々の誰が味方で誰が敵かを判別できない。あらゆる文書が暗号であり、あらゆる偶然が指令かもしれない。官僚機構そのものを悪夢として描いた長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "imaginary-magnitude",
+    "title": "虚数",
+    "titleKana": "きょすう",
+    "authorIds": [
+      "stanislaw-lem"
+    ],
+    "translatorIds": [
+      "hasemi-kazuo"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "satire-sf",
+      "ai",
+      "short-stories"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1973,
+    "jpPublishedYear": 1998,
+    "originalTitle": "Wielkość urojona",
+    "status": "completed",
+    "synopsis": "実在しない書物の序文だけを集めた一冊である。人体を透視して人類を考察する研究書、細菌に英語を教えようとして予知能力を発見した学者の報告、人の手によらない文学の歴史、未来を予測する計算機が書き継ぐ百科事典の販売用小冊子。中身のない本の入口だけを精密に作り上げることで、知そのものの限界を笑ってみせる連作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-magellanic-cloud",
+    "title": "マゼラン雲",
+    "titleKana": "まぜらんうん",
+    "authorIds": [
+      "stanislaw-lem"
+    ],
+    "translatorIds": [
+      "goto-masako"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "generation-ship",
+      "space-development",
+      "utopia"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1955,
+    "jpPublishedYear": 2022,
+    "originalTitle": "Obłok Magellana",
+    "status": "completed",
+    "synopsis": "三十二世紀、太陽系を生活圏とするまでに発展した人類は、史上初の恒星間有人探査に着手し、ケンタウルス座アルファ星を目指す決定を下した。二百二十七名を乗せた宇宙船ゲア号は、十年の旅を経てようやく帰路につこうとしている。グリーンランドの小都市で育った医師が、選抜から出発、そして長い航海の日々までを回想していく初期の長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-cyberiad",
+    "title": "宇宙創世記ロボットの旅",
+    "titleKana": "うちゅうそうせいきろぼっとのたび",
+    "authorIds": [
+      "stanislaw-lem"
+    ],
+    "translatorIds": [
+      "yoshigami-shozo",
+      "murate-yoshiharu"
+    ],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "robot",
+      "satire-sf",
+      "short-stories"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1965,
+    "jpPublishedYear": 1973,
+    "originalTitle": "Cyberiada",
+    "status": "completed",
+    "synopsis": "宇宙がまだ今ほど乱れていなかった古き良き時代、永久全能免許状を持つ建造師たちは、しばしば旅に出ては遠くの人々に助けや忠告をもたらしていた。トゥルルとクラパウチウスの二人は、詩を作る機械や確率をねじ曲げる竜を相手に、たがいの腕を競い合う。おとぎ話の口調で語られる機械たちの冒険譚であり、著者のユーモアが最もよく出た一冊である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。二〇二五年に国書刊行会から『電脳の歌』として完訳が出ている。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
