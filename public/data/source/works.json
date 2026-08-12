@@ -15769,7 +15769,8 @@
     ],
     "externalLinks": {},
     "sourceNote": "候補は日本語版Wikipedia「SFが読みたい!」の各年ベスト10から機械抽出した。同誌の◯年版は前年刊行分のランキングのため、受賞歴は対象年で「ベストSF◯◯◯◯」と表記した。書誌(読み・版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックス/楽天Koboの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "神シリーズ"
   },
   {
     "id": "sora-no-naka",
@@ -24859,7 +24860,8 @@
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/弥勒戦争"
     },
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
-    "updatedAt": "2026-08-11"
+    "updatedAt": "2026-08-11",
+    "series": "神シリーズ"
   },
   {
     "id": "parasite-eve",
@@ -26314,6 +26316,272 @@
     "externalLinks": {
       "wikipediaUrl": "https://ja.wikipedia.org/wiki/マイナス・ゼロ"
     },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kamigari",
+    "title": "神狩り",
+    "titleKana": "かみがり",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "language-sf",
+      "religion-sf",
+      "world-truth"
+    ],
+    "seriesName": "神シリーズ",
+    "origin": "jp",
+    "firstPublishedYear": 1975,
+    "status": "completed",
+    "synopsis": "古代遺跡から、関係代名詞が二種類しかなく、接続助詞が無限にあるという奇怪な文字が発見された。人間の脳では処理しきれないその言語を解読しようとした情報工学者の島津圭助は、これを記した存在が人類をはるかに超えていることを悟る。全能の神の正体を追い続けた男が、その戦いの果てに見たものとは何か。星雲賞を受けたデビュー作である。",
+    "awardResults": [
+      {
+        "awardId": "seiun",
+        "year": 1975,
+        "result": "日本短編部門受賞"
+      }
+    ],
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/神狩り"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "konron-yugekitai",
+    "title": "崑崙遊撃隊",
+    "titleKana": "こんろんゆうげきたい",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "futami-shobo",
+    "themeIds": [
+      "denki-sf",
+      "alternate-history",
+      "military-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1976,
+    "status": "completed",
+    "synopsis": "中国大陸の奥深くにあるという伝説の地、崑崙。そこは花々が咲き乱れ、竜や不死の一族が住み、太古の剣歯虎が守護しているという。この地に行き着いた者は中国を治めることができると信じられていた。大陸浪人の藤村脇は、ゴビ砂漠で剣歯虎に遭遇したことから崑崙を目指すことになる。戦雲吹きすさぶ大陸を舞台にした伝奇活劇である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kao-no-nai-kamigami",
+    "title": "顔のない神々",
+    "titleKana": "かおのないかみがみ",
+    "authorIds": [
+      "yamada-masaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "alternate-history",
+      "dystopia",
+      "disaster"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1985,
+    "status": "completed",
+    "volumeCount": 2,
+    "synopsis": "石油の供給が絶たれて経済が破綻し、厳しい統制のもとで国民の生活が圧迫され、全体主義が進んでいく。国土は公害に覆い尽くされ、人々は息をひそめて暮らしている。そんな並行世界の日本を舞台に、歴史の裏で動く力の正体を追っていく。SF幻代史と銘打たれた、著者の中期を代表する長編である。もうひとつの戦後を丹念に組み立てることで、現実の日本がたまたま選ばなかった道筋を照らし出していく。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yubae-sakusen",
+    "title": "夕ばえ作戦",
+    "titleKana": "ゆうばえさくせん",
+    "authorIds": [
+      "mitsuse-ryu"
+    ],
+    "translatorIds": [],
+    "publisherId": "tsuru-shobo",
+    "themeIds": [
+      "time-travel",
+      "juvenile",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1972,
+    "status": "completed",
+    "synopsis": "木かげから飛び出した茂は、声のしたほうへ懐中電灯をすばやく点滅させる。その瞬間、闇にひそんでいた風魔忍者は目がくらみ、屋根から転がり落ちた。茂は古道具屋で買った奇妙な機械をいじっているうちに、突然、江戸時代の寒村へ来ていたのである。人々を苦しめる忍者団を目撃した彼は、正義感に燃えて立ち向かっていく。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/夕ばえ作戦"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "musubi-no-yama-hiroku",
+    "title": "産霊山秘録",
+    "titleKana": "むすびのやまひろく",
+    "authorIds": [
+      "hanmura-ryo"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "denki-sf",
+      "alternate-history",
+      "esper"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1973,
+    "status": "completed",
+    "synopsis": "本能寺、関ヶ原、幕末、そして戦後。日本の歴史に記録されたいくつもの動乱期には、必ず謎の〈ヒ〉一族が暗躍したと伝えられる。三種の神器を用い、人智を超えた力を駆使して動き回る彼ら。いま時は戦国、一族の長である随風は、信長に天下を取らせるべく全国の忍びのもとへ飛ぶ。数百年にわたる一族の運命を描く伝奇である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/産霊山秘録"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "koyoi-ginga-o-sakazuki-ni",
+    "title": "今宵、銀河を杯にして",
+    "titleKana": "こよいぎんがをさかずきにして",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "military-sf",
+      "ai",
+      "space-opera"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1987,
+    "status": "completed",
+    "synopsis": "惑星ドーピアの戦闘車輛のなかで、もっとも長い個体名を持つ戦車マヘルーシャラルーハシーバズ。その名づけ親である操縦士アイラと僚友ミンゴは、自らの新しい戦術論を立証しようと意気込む新しい車長を迎えることになった。不条理な戦いのただなかで、不死身の宇宙戦車と兵士たちが結ぶ奇妙な友情と連帯を描く戦争SFである。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "shishite-saku-hana",
+    "title": "死して咲く花、実のある夢",
+    "titleKana": "ししてさくはなみのあるゆめ",
+    "authorIds": [
+      "kambayashi-chohei"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "military-sf",
+      "world-truth",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1992,
+    "status": "completed",
+    "synopsis": "三名の首都圏情報防衛軍団の兵士が帯びた特別任務は、首相の行方不明になった愛猫を捜し出せというものだった。ただしその猫は、脳に貴重な情報を入力された、人類の存亡を決する猫である。だが接触は失敗し、しかも現在地が分からない。ここはすでに死後の世界なのか。生と死の境目を軍事行動の形式で描く長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "buso-shimada-soko",
+    "title": "武装島田倉庫",
+    "titleKana": "ぶそうしまだそうこ",
+    "authorIds": [
+      "shiina-makoto"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "post-apocalypse",
+      "disaster",
+      "denki-sf"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "壮絶な戦争が終わりを告げてから二十年近くが過ぎた地球。都市も道路も破壊され、化学兵器や放射能に汚染された海や森では、異様に進化した危険な生き物が蠢いている。文明も国家も崩壊した終末の世界で、物資と食料を狙う略奪団が跳梁するなか、島田倉庫の男たちは武装して日々を生き抜いていく。連作の形をとる長編である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/武装島田倉庫"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yojohan-time-machine-blues",
+    "title": "四畳半タイムマシンブルース",
+    "titleKana": "よじょうはんたいむましんぶるーす",
+    "authorIds": [
+      "morimi-tomihiko"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "time-travel",
+      "time-loop",
+      "juvenile"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "八月十二日、冷房のリモコンが壊れて絶望していた私の目の前に、タイムマシンが現れた。後輩の明石さんたちと涼しさを取り戻す計画を立て、悪友どもを昨日へ送り出したところでふと気づく。過去を改変したら、この世界は消滅してしまうのではないか。辻褄合わせに奔走する彼らは宇宙を救えるのか。『四畳半神話大系』と舞台作品を掛け合わせた長編である。",
+    "mediaMix": {
+      "anime": true
+    },
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/四畳半タイムマシンブルース"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "nana-toshi-monogatari",
+    "title": "七都市物語",
+    "titleKana": "ななとしものがたり",
+    "authorIds": [
+      "tanaka-yoshiki"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "military-sf",
+      "post-apocalypse",
+      "space-colony"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1990,
+    "status": "completed",
+    "synopsis": "破滅的な災害によって国家の体制が大きく再編され、航空技術が厳しく制限された未来。人類滅亡ののち、月面の生存者たちは地球に七つの都市と、飛行を抑え込む撃墜の仕組みを築いた。空を使えない世界で、都市国家どうしの熾烈な興亡が幕を開ける。航空戦力を封じられた軍隊がどう戦うのかという制約から、戦術を組み立てていく面白さに徹した連作である。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/七都市物語"
+    },
+    "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "kasei-no-daitoryo-carter",
+    "title": "火星の大統領カーター",
+    "titleKana": "かせいのだいとうりょうかーたー",
+    "authorIds": [
+      "kurimoto-kaoru"
+    ],
+    "translatorIds": [],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "satire-sf",
+      "short-stories"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1984,
+    "status": "completed",
+    "synopsis": "大統領選挙に敗れ、失意の日々を送る元大統領ジミー・カーター。だが気がかりな夢からさめてみると、なんとそこは火星だった。赤色人や緑色人がうろつく宮殿のなかで、彼は火星の大元帥カーターと対面することになる。抱腹絶倒の表題作のほか、老いた宇宙飛行士と若い密航者の心理の襞を描く一編などを収める作品集である。",
+    "externalLinks": {},
     "sourceNote": "候補は日本語版WikipediaのSF小説カテゴリ(scripts/wikicat.py)から機械抽出し、既に著者を登録済みの作品に絞った。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
   }
