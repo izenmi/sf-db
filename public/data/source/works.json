@@ -22809,5 +22809,280 @@
     "externalLinks": {},
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "magnus-ridolph",
+    "title": "宇宙探偵マグナス・リドルフ",
+    "titleKana": "うちゅうたんていまぐなすりどるふ",
+    "authorIds": [
+      "jack-vance"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "space-opera",
+      "short-stories",
+      "alien"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1952,
+    "jpPublishedYear": 2016,
+    "originalTitle": "The Kokod Warriors",
+    "status": "completed",
+    "synopsis": "あるときは沈着な老哲学者、あるときは知謀に長けた数学者、その実体は宇宙を駆けるトラブル処理人。その名もマグナス・リドルフ。得体の知れない異星人たちを相手に、白髪白鬚の老紳士の超思考が炸裂する。奇習に彩られた惑星ココドでの合戦賭博を止めよという依頼に、彼が講じた曲芸のような手段とは。宇宙ミステリの連作を集めた一冊である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-eyes-of-the-overworld",
+    "title": "天界の眼",
+    "titleKana": "てんかいのめ",
+    "authorIds": [
+      "jack-vance"
+    ],
+    "translatorIds": [
+      "nakamura-toru"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "sf-fantasy",
+      "far-future",
+      "denki-sf"
+    ],
+    "seriesName": "滅びゆく地球",
+    "origin": "overseas",
+    "firstPublishedYear": 1966,
+    "jpPublishedYear": 2016,
+    "originalTitle": "The Eyes of the Overworld",
+    "status": "completed",
+    "synopsis": "数十億年先の暮れゆく地球。科学が衰え、魔法がふたたび力を持つようになった世界で、自称切れ者のキューゲルは笑う魔術師から命じられ、天界を映し出す魔法の尖頭を探して北の地へ飛ばされる。行く先々で騒動を巻き起こしながら進む、悪漢小説と喜劇を兼ねた冒険譚である。〈滅びゆく地球〉を舞台にした連作の一冊にあたる。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "space-opera-vance",
+    "title": "スペース・オペラ",
+    "titleKana": "すぺーすおぺら",
+    "authorIds": [
+      "jack-vance"
+    ],
+    "translatorIds": [
+      "asakura-hisashi",
+      "shiraishi-akira"
+    ],
+    "publisherId": "kokushokankokai",
+    "themeIds": [
+      "space-opera",
+      "satire-sf",
+      "alien"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1965,
+    "jpPublishedYear": 2017,
+    "originalTitle": "Space Opera",
+    "status": "completed",
+    "synopsis": "未知の惑星ルラールから来た第九歌劇団は、素晴らしい演目を披露したあと、忽然と姿を消した。宇宙を渡り歩く歌劇団の珍道中を描く、題名どおりでいて題名とはまるで違う長編である。あわせて訳者が選んだ中短編四編を収める。宇宙叙事詩ではなく本当に歌劇団を宇宙へ連れ出してしまう、著者らしい一冊である。芸術は異なる文化に通じるのかという問いを、大真面目な喜劇として押し通していく。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "love-is-the-plan",
+    "title": "愛はさだめ、さだめは死",
+    "titleKana": "あいはさだめさだめはし",
+    "authorIds": [
+      "james-tiptree-jr"
+    ],
+    "translatorIds": [
+      "ito-norio",
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "alien",
+      "gender-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1973,
+    "jpPublishedYear": 1987,
+    "originalTitle": "Love Is the Plan the Plan Is Death",
+    "status": "completed",
+    "synopsis": "冬の到来におびえる異星の種族が繰り広げる壮絶な愛の儀式を描いた表題作。計算機に接続された女の悲劇。ユカタン半島に不時着した男女を襲う意外な運命。華麗な技巧と斬新な文体で一九七〇年代のSFを席巻した著者が、万華鏡のような像を通して読者に未来を垣間見せる。生殖と死、そして性差をめぐる主題が、どの編でも容赦のない形で立ち上がってくる。日本で編まれた傑作短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "the-starry-rift",
+    "title": "たったひとつの冴えたやりかた",
+    "titleKana": "たったひとつのさえたやりかた",
+    "authorIds": [
+      "james-tiptree-jr"
+    ],
+    "translatorIds": [
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-development",
+      "juvenile",
+      "alien"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1986,
+    "jpPublishedYear": 1987,
+    "originalTitle": "The Starry Rift",
+    "status": "completed",
+    "synopsis": "十六歳の誕生日に贈られた小型宇宙艇を改造し、連邦基地の検査もすり抜けて、そばかす娘のコーティーは憧れの星空へ飛び立った。だが冷凍睡眠から覚めた彼女を意外な事態が待っている。頭のなかにイーアという異星の存在が住み着いてしまったのだ。意気投合した二人は失われた植民地の探検に乗り出すが、この寄生体には恐ろしい秘密があった。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/たったひとつの冴えたやりかた"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "dune-messiah",
+    "title": "デューン 砂漠の救世主",
+    "titleKana": "でゅーんさばくのきゅうせいしゅ",
+    "authorIds": [
+      "frank-herbert"
+    ],
+    "translatorIds": [
+      "yano-tetsu",
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "religion-sf",
+      "esper"
+    ],
+    "seriesName": "デューン",
+    "origin": "overseas",
+    "firstPublishedYear": 1969,
+    "jpPublishedYear": 1973,
+    "originalTitle": "Dune Messiah",
+    "status": "completed",
+    "synopsis": "ポールが星間帝国の玉座についてから十二年。予知の力で未来を見通す皇帝の統治は、聖戦によって数百億の犠牲を積み上げていた。ベネ・ゲセリットや航宙ギルドは彼を排除する陰謀を巡らせ、身内にも亀裂が走りはじめる。見えてしまう未来を前に、人はどこまで自分で選ぶことができるのか。壮大な未来叙事詩の第二部である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。現行のハヤカワ文庫SF版は酒井昭伸による新訳である。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "children-of-dune",
+    "title": "デューン 砂丘の子供たち",
+    "titleKana": "でゅーんさきゅうのこどもたち",
+    "authorIds": [
+      "frank-herbert"
+    ],
+    "translatorIds": [
+      "yano-tetsu",
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "evolution",
+      "far-future"
+    ],
+    "seriesName": "デューン",
+    "origin": "overseas",
+    "firstPublishedYear": 1976,
+    "jpPublishedYear": 1978,
+    "originalTitle": "Children of Dune",
+    "status": "completed",
+    "synopsis": "緑化の進むアラキスで、アトレイデス家の双子レトとガニーマは、黄金の道と呼ばれる未来を幻視する。母の代から続く陰謀と、砂鱒と砂虫をめぐる生態の変化が、惑星そのものの運命を左右していく。人類が生き延びるために誰かが払わねばならない代償とは何なのか。予知に縛られた一族が、その縛りごと未来を作り替えようとする。伝説的な連作の第三部にあたる長編である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。現行のハヤカワ文庫SF版は酒井昭伸による新訳である。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "scanners-live-in-vain",
+    "title": "スキャナーに生きがいはない",
+    "titleKana": "すきゃなーにいきがいはない",
+    "authorIds": [
+      "cordwainer-smith"
+    ],
+    "translatorIds": [
+      "ito-norio",
+      "asakura-hisashi"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "far-future",
+      "cyborg"
+    ],
+    "seriesName": "人類補完機構全短篇",
+    "origin": "overseas",
+    "firstPublishedYear": 1950,
+    "jpPublishedYear": 2016,
+    "originalTitle": "Scanners Live in Vain",
+    "status": "completed",
+    "synopsis": "宇宙を渡るために痛覚を切り離し、自分の体の状態を計器を通してしか知ることができなくなった男たちがいる。彼らスキャナーの存在意義を根底から揺るがす発明が現れたとき、何が起きるのか。人類補完機構と呼ばれる未来史に属する作品を、発表年代順に収める短篇全集の第一巻である。猫を素材とした人間や、遠い未来の階層社会が、独特の語り口で立ち上がってくる。本邦初訳の二編を含む全十五編を収める。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "quest-of-the-three-worlds",
+    "title": "三惑星の探求",
+    "titleKana": "さんわくせいのたんきゅう",
+    "authorIds": [
+      "cordwainer-smith"
+    ],
+    "translatorIds": [
+      "ito-norio",
+      "sakai-akinobu"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "space-opera",
+      "far-future",
+      "short-stories"
+    ],
+    "seriesName": "人類補完機構全短篇",
+    "origin": "overseas",
+    "firstPublishedYear": 1966,
+    "jpPublishedYear": 2017,
+    "originalTitle": "Quest of the Three Worlds",
+    "status": "completed",
+    "synopsis": "水の惑星ミズーリで政変に敗れ、故郷を追われたキャッシャー・オニールは、復讐のための力を求めて三つの惑星を渡り歩く。宝石でできた惑星、機械が人を養う星、そして砂の惑星。人類補完機構の未来史に属する連作四編をはじめ、雑誌初出の形での作品も併せて全十一編を収める。神話めいた語りと、突き放した残酷さが同居する作風の到達点にあたる、短篇全集の完結巻である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "hitler-painted-roses",
+    "title": "ヒトラーの描いた薔薇",
+    "titleKana": "ひとらーのえがいたばら",
+    "authorIds": [
+      "harlan-ellison"
+    ],
+    "translatorIds": [
+      "ito-norio",
+      "obi-fusa",
+      "fukamachi-mariko"
+    ],
+    "publisherId": "hayakawa-shobo",
+    "themeIds": [
+      "short-stories",
+      "religion-sf",
+      "denki-sf"
+    ],
+    "origin": "overseas",
+    "firstPublishedYear": 1977,
+    "jpPublishedYear": 2017,
+    "originalTitle": "Hitler Painted Roses",
+    "status": "completed",
+    "synopsis": "地獄の扉が開き、希代の犯罪者たちが逃げ出したとき、ヒトラーはただ薔薇を描き続けていた。地獄へ落ちる者とそうでない者を分けているのは、いったい何なのか。表題作をはじめ、本邦初訳を含む全十三編を収める。怒りと語りの熱量でSFの枠を押し広げてきた著者の、日本で編まれた短編集である。神話や地獄といった古い道具立てを、現代の暴力と結びつけ直す手つきが一貫している。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。邦訳初刊年・初刊版元・訳者は国立国会図書館サーチで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。日本オリジナル編集の短編集のため、原題と発表年は表題作のものを採った。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
