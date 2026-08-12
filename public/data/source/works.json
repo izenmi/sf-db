@@ -25196,5 +25196,163 @@
     },
     "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
     "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "titania",
+    "title": "タイタニア",
+    "titleKana": "たいたにあ",
+    "authorIds": [
+      "tanaka-yoshiki"
+    ],
+    "translatorIds": [],
+    "publisherId": "tokuma-shoten",
+    "themeIds": [
+      "space-opera",
+      "military-sf",
+      "far-future"
+    ],
+    "seriesName": "タイタニア",
+    "origin": "jp",
+    "firstPublishedYear": 1988,
+    "status": "completed",
+    "synopsis": "広大な宇宙へ進出した人類は多数の星間国家を築いたが、その大半は実質的にタイタニア一族の支配下にあった。星暦四四六年、宇宙都市国家エウリヤは権益をめぐる揉め事からタイタニアの攻撃を受けるが、五家族当主のひとりが率いる強大な艦隊を意外にも撃退してしまう。だが勝利した司令官ファン・ヒューリックは、裏交渉を進めていた市長に疎まれ、故郷を追われる。",
+    "externalLinks": {
+      "wikipediaUrl": "https://ja.wikipedia.org/wiki/タイタニア"
+    },
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは日本語版Wikipediaの記事を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "wareware-wa-mina-kodoku",
+    "title": "我々は、みな孤独である",
+    "titleKana": "われわれはみなこどくである",
+    "authorIds": [
+      "kishi-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa-haruki-jimusho",
+    "themeIds": [
+      "world-truth",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2020,
+    "status": "completed",
+    "synopsis": "探偵の茶畑徹朗のもとに、奇妙な依頼が舞い込んだ。前世で自分を殺した犯人を捜してほしいというのである。依頼人の正木栄之介は八十歳近い高齢だが、一代で企業を築き上げた傑物らしく矍鑠としていた。前世など存在しないと考える茶畑と助手の毬子は、適当に話を合わせて報酬を得ようとするが、調査を進めるうち自分たちも前世の記憶としか思えない鮮明な夢を見るようになる。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "tenshi-no-saezuri",
+    "title": "天使の囀り",
+    "titleKana": "てんしのさえずり",
+    "authorIds": [
+      "kishi-yusuke"
+    ],
+    "translatorIds": [],
+    "publisherId": "kadokawa",
+    "themeIds": [
+      "evolution",
+      "denki-sf",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 1998,
+    "status": "completed",
+    "synopsis": "アマゾンの調査隊に加わった人々が、帰国後に次々と謎の死を遂げていく。恋人の死の原因を探っていた精神科医の北島早苗は、彼らが口にしていた天使の囀りという言葉に行き着いた。死を恐れなくなり、むしろ死を求めるようになる。その変化をもたらしたものの正体を突き止めたとき、早苗は自分自身にも同じ影が忍び寄っていることを知る。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "rokujikan-go-ni",
+    "title": "6時間後に君は死ぬ",
+    "titleKana": "ろくじかんごにきみはしぬ",
+    "authorIds": [
+      "takano-kazuaki"
+    ],
+    "translatorIds": [],
+    "publisherId": "kodansha",
+    "themeIds": [
+      "esper",
+      "short-stories",
+      "near-future"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2007,
+    "status": "completed",
+    "synopsis": "六時間後に死ぬと突然告げられた美緒。他人の未来が見えるという青年、圭史の言葉は本当なのか。半信半疑のまま、彼女は自分を殺す者を探しはじめる。刻一刻と迫る運命の瞬間までを追う表題作をはじめ、血も凍るような緊迫した話から心温まる話まで、未来が見えてしまうという一点だけを共有しながら、まるで手触りの違う物語が並ぶ。書き手の引き出しの多さがそのまま形になった連作短編集である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "end-game-tokono",
+    "title": "エンド・ゲーム 常野物語",
+    "titleKana": "えんどげーむとこののものがたり",
+    "authorIds": [
+      "onda-riku"
+    ],
+    "translatorIds": [],
+    "publisherId": "shueisha",
+    "themeIds": [
+      "esper",
+      "denki-sf",
+      "near-future"
+    ],
+    "seriesName": "常野物語",
+    "origin": "jp",
+    "firstPublishedYear": 2006,
+    "status": "completed",
+    "synopsis": "裏返す、さもなくば裏返される。特殊な力を持つ常野一族の一人として、拝島時子は〈あれ〉と呼ばれる存在と戦ってきた。母が倒れ、初めて一族に連絡を取った時子は、そこで驚くべき事実を知る。誰が敵で誰が味方なのかも判然としないまま、見えない攻防が続いていく。不思議な力を持つ一族を描く連作の第三作である。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "black-velvet",
+    "title": "ブラック・ベルベット",
+    "titleKana": "ぶらっくべるべっと",
+    "authorIds": [
+      "onda-riku"
+    ],
+    "translatorIds": [],
+    "publisherId": "futabasha",
+    "themeIds": [
+      "disaster",
+      "near-future",
+      "evolution"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2015,
+    "status": "completed",
+    "synopsis": "魅惑のウイルスを求めて世界中を飛び回る凄腕のウイルス狩人、神原恵弥。このたび彼が訪れたのは、東西の文化が交わるT共和国だった。この国では、全身に黒い苔の生えた死体が見つかっている。さらに気鋭の女性科学者が入国後に突然消息を絶った。二つの出来事を結びつけるのは、想像をはるかに超えたある事実だった。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
+  },
+  {
+    "id": "yurei-o-shinjinai",
+    "title": "幽霊を信じない理系大学生、霊媒師のバイトをする",
+    "titleKana": "ゆうれいをしんじないりけいだいがくせいれいばいしのばいとをする",
+    "authorIds": [
+      "isukari-yuba"
+    ],
+    "translatorIds": [],
+    "publisherId": "shinchosha",
+    "themeIds": [
+      "denki-sf",
+      "near-future",
+      "world-truth"
+    ],
+    "origin": "jp",
+    "firstPublishedYear": 2024,
+    "status": "completed",
+    "synopsis": "他人の気持ちが分からないことに悩む十八歳の谷原豊は、百歳で亡くなった曾祖母の死をきっかけに、謎の霊媒師である鵜沼ハルと出会う。自称大正生まれのハルは、幽霊が見えず存在も信じていない理屈っぽい理系大学生の豊に、奇妙な慰霊のアルバイトを持ちかけた。彼女の正体と、この街に隠された秘密とは何なのか。",
+    "externalLinks": {},
+    "sourceNote": "候補は楽天ブックスの著者検索(scripts/byauthor.py)で登録済み著者の未登録作を機械抽出した。書誌(読み・初刊版元・刊行年)は国立国会図書館サーチと楽天ブックスで確認した。あらすじは楽天ブックスの紹介文を下敷きに独自要約した。 あらすじは独自要約(コピペなし、結末の仕掛けには触れていない)。",
+    "updatedAt": "2026-08-11"
   }
 ]
