@@ -230,6 +230,9 @@ export function WorkDetailPage() {
                   <WorkCard key={related.id} work={related} />
                 ))}
               </div>
+              <Link className="home-section__more" to={`/recommend?works=${state.data.id}`}>
+                この作品からもっと探す →
+              </Link>
             </div>
           )}
 

@@ -492,6 +492,17 @@ h1 {
   overflow: hidden;
 }
 
+/* /recommend のモード切替タブ。.filter-row の外に単独で置くので、全幅に伸びないようにする。 */
+.view-toggle--standalone {
+  display: inline-flex;
+  margin-bottom: 12px;
+}
+
+.view-toggle--standalone .view-toggle__btn {
+  padding: 5px 16px;
+  font-size: 0.85rem;
+}
+
 .view-toggle__btn {
   padding: 3px 12px;
   border: none;
@@ -1024,6 +1035,44 @@ h1 {
 button.chip {
   font-family: inherit;
   cursor: pointer;
+}
+
+/* 作品起点おすすめの検索候補リスト。カードと同じ面の作りで、装飾は足さない。 */
+.work-picker {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 12px;
+}
+
+.work-picker__item {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  text-align: left;
+  padding: 6px 10px;
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  border: 1px solid var(--color-outline);
+  color: var(--color-text);
+  font-family: inherit;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.work-picker__item:hover:not(:disabled) {
+  border-color: var(--color-primary-strong);
+}
+
+.work-picker__item:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.work-picker__meta {
+  color: var(--color-text-muted);
+  font-size: 0.82rem;
 }
 
 /* 選択中は .chip:hover と同じ配色を固定化する。 */
