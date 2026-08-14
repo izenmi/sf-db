@@ -2806,10 +2806,11 @@
     "title": "星は、昴",
     "isbn": "9784150305864",
     "matchedTitle": "星は、昴",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=400x400",
+    "coverUrl": null,
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/914446/",
     "source": "rakuten-books",
-    "note": "読点入りの題で自動取得が外れたため手当て"
+    "note": "読点入りの題で自動取得が外れたため手当て。楽天ブックスは書影を持たず(noimage_01.gif)、BOOK☆WALKER・openBD・Google Books にも該当なし(電子版が存在しない)。偽の「画像なし」画像を出すより表紙なしとして扱う。購入リンクは有効。",
+    "resolvedAt": "2026-08-14T22:37:51.220Z"
   },
   "hoshimushi": {
     "title": "星虫",
@@ -3109,10 +3110,11 @@
     "title": "猶予の月",
     "isbn": "9784150305536",
     "matchedTitle": "猶予（いざよい）の月（上）",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=400x400",
+    "coverUrl": "https://c.bookwalker.jp/635224/t_700x780.jpg",
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/809292/",
-    "source": "rakuten-books",
-    "note": "上巻の書影を採用(自動取得が下巻を拾ったため)"
+    "source": "bookwalker",
+    "note": "上巻の書影を採用(自動取得が下巻を拾ったため)。楽天ブックスは上巻の書影を持たない(noimage_01.gif)ので、BOOK☆WALKER の『猶予の月（上）』を採用し実画像を確認済み。isbn と rakutenItemUrl は楽天ブックスの書誌のまま。",
+    "resolvedAt": "2026-08-14T22:37:51.220Z"
   },
   "jean-jacques": {
     "title": "ジャン=ジャックの自意識の場合",
@@ -4057,10 +4059,11 @@
     "title": "愛はさだめ、さだめは死",
     "isbn": "9784150107307",
     "matchedTitle": "愛はさだめ、さだめは死",
-    "coverUrl": "https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/noimage_01.gif?_ex=400x400",
+    "coverUrl": null,
     "rakutenItemUrl": "https://books.rakuten.co.jp/rb/275351/",
     "source": "rakuten-books",
-    "note": "読点入りの題で自動取得が外れたため手当て"
+    "note": "読点入りの題で自動取得が外れたため手当て。楽天ブックスは書影を持たず(noimage_01.gif)、BOOK☆WALKER・openBD・Google Books にも該当なし(電子版が存在しない)。偽の「画像なし」画像を出すより表紙なしとして扱う。購入リンクは有効。",
+    "resolvedAt": "2026-08-14T22:37:51.220Z"
   },
   "magic-for-beginners": {
     "title": "マジック・フォー・ビギナーズ",
